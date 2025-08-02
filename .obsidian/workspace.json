@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Muse's Mask.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Muse's Mask"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -368,7 +368,7 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "39e4fed5b16f61b8",
+  "active": "4af2af5bbe751db7",
   "lastOpenFiles": [
     "2-Main/Muse's Mask.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
