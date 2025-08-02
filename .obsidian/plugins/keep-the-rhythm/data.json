@@ -7695,8 +7695,13 @@
           },
           {
             "timeKey": "18:00",
-            "w": 12,
-            "c": 72
+            "w": 32,
+            "c": 169
+          },
+          {
+            "timeKey": "18:05",
+            "w": 11,
+            "c": 57
           }
         ],
         "id": 623
@@ -7883,6 +7888,20 @@
         "charCountStart": 6961,
         "changes": [],
         "id": 634
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Dream Veil.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 635
       }
     ]
   }
