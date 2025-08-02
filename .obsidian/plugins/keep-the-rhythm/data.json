@@ -7760,8 +7760,13 @@
           },
           {
             "timeKey": "17:25",
-            "w": 18,
-            "c": 92
+            "w": 31,
+            "c": 164
+          },
+          {
+            "timeKey": "17:30",
+            "w": 2,
+            "c": 13
           }
         ],
         "id": 627
@@ -7779,6 +7784,20 @@
           }
         ],
         "id": 628
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6536,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": -34
+          }
+        ],
+        "id": 629
       }
     ]
   }
