@@ -7103,7 +7103,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "4-DND/Ors/2-Main/Blinding Hunger.md",
+        "filePath": "4-DND/Ors/2-Main/Blinding Gluttony.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7422,8 +7422,8 @@
           },
           {
             "timeKey": "20:35",
-            "w": 0,
-            "c": 0
+            "w": -2,
+            "c": -8
           }
         ],
         "id": 601
@@ -7523,6 +7523,30 @@
         "charCountStart": 12996,
         "changes": [],
         "id": 613
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 454,
+        "charCountStart": 3067,
+        "changes": [],
+        "id": 614
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "wordCountStart": 28,
+        "charCountStart": 180,
+        "changes": [],
+        "id": 615
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/Ors/2-Main/Blinding Gluttony.md",
+        "wordCountStart": 26,
+        "charCountStart": 165,
+        "changes": [],
+        "id": 616
       }
     ]
   }

@@ -55,12 +55,12 @@ cellStyleRules: []
 > [!todo]  Today
 > - [ ] The story of the Owl and the Crow
 > - [ ] Make a Audio player for DND 
-> - [ ] Finish Session planning 
 > - [ ] Create the Cognitovirus Theme Again.
 > - [ ] Clean my desk
  
 > [!warning]  Run On
- >  - [ ] 
+ >  - [ ] Finish Session planning 
+
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
