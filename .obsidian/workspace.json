@@ -35,7 +35,8 @@
               "title": "A 8.3.25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -296,11 +297,11 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "87e7f82dc4e2e897",
+  "active": "4af2af5bbe751db7",
   "lastOpenFiles": [
+    "Home.md",
     "1-Rough/Gyles.md",
     "2-Main/Misc/What I Use My Phone For.md",
-    "Home.md",
     "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/DM Screen.canvas",
