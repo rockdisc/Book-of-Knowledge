@@ -67,7 +67,7 @@ cellStyleRules: []
 > [!summary] What I want to do
 > - Figure out how everything will work when I am in school
 > - Read The Inner Game of Tennis and The Art of Thinking
-> - Read Nie
+> - Read Natchez 
 
 ## Work In Progress 
 
