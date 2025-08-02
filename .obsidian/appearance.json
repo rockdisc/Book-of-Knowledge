@@ -3,7 +3,9 @@
   "showRibbon": true,
   "baseFontSizeAction": true,
   "baseFontSize": 21,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
   "textFontFamily": "American Typewriter",
   "showViewHeader": true,
   "interfaceFontFamily": "American Typewriter"

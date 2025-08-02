@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DND/DND Loot Table.md",
+                "file": "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Loot Table"
+              "title": "There are No Tombs in the Desert"
             }
           },
           {
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-01.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-01"
+              "title": "Graph of Home"
             }
           },
           {
@@ -342,19 +342,19 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "591261c12a101907",
+  "active": "87e7f82dc4e2e897",
   "lastOpenFiles": [
-    "4-DND/DM Screen.canvas",
-    "Home.md",
+    "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
     "4-DND/DND Loot Table.md",
-    "4-DND/DND Common Rules.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "3-Journal/2025-08-01.md",
+    "4-DND/DM Screen.canvas",
+    "Home.md",
+    "4-DND/DND Common Rules.md",
     "4-DND/Ors/2-Main/Blinding Gluttony.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
     "4-DND/Ors/2-Main/Syncing Tablet.md",
     "2-Main/Misc/Linux X Windows.md",
-    "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
     "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "2-Main/1-Ramblings/On Worldbuilding.md",

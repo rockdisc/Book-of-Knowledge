@@ -7429,6 +7429,11 @@
             "timeKey": "21:50",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "22:30",
+            "w": -7,
+            "c": -45
           }
         ],
         "id": 601
@@ -7590,6 +7595,22 @@
           }
         ],
         "id": 618
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/DND Common Rules.md",
+        "wordCountStart": 553,
+        "charCountStart": 3807,
+        "changes": [],
+        "id": 619
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/DND Loot Table.md",
+        "wordCountStart": 892,
+        "charCountStart": 21932,
+        "changes": [],
+        "id": 620
       }
     ]
   }

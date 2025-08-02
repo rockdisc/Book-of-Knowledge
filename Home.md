@@ -55,7 +55,6 @@ cellStyleRules: []
 > [!todo]  Today
 > - [ ] The story of the Owl and the Crow
 > - [ ] Make a Audio player for DND 
-> - [ ] Create the Cognitovirus Theme Again.
 > - [ ] Clean my desk
  
 > [!warning]  Run On
