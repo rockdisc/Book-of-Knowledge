@@ -59,7 +59,6 @@ cellStyleRules: []
 > - [ ] Make an audio player for myself
  
 > [!warning]  Run On
- >  - [ ] Finish Session planning 
 
 
 > [!hint]  Long Term  
