@@ -8,6 +8,7 @@ body {
 	--toggle-radius: 0px;
 	--toggle-thumb-radius: 0px;
 	--slider-thumb-radius: 0px;
+    
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
@@ -38,9 +39,9 @@ svg * {
     
 
     --background-primary: #1a1a1a;
-  --background-modifier-border: #47186d;
-  --background-primary-alt: #222222;
-  --background-secondary: #0f0f0f;
+  --background-modifier-border: #341349;
+  --background-primary-alt: #474747;
+  --background-secondary: #0e0e0e;
   --background-secondary-alt: #0b000e;
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.85);
   --background-nav-alt: rgb(58, 62, 63);
@@ -58,5 +59,7 @@ svg * {
   --text-matched: #0cf32b;
   --text-on-accent: #dcddde;
   --text-selection: rgba(93, 6, 113, 0.99);
+  
+    
   
 }
