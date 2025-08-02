@@ -36,17 +36,20 @@
             }
           },
           {
-            "id": "7750c78c03d935cb",
+            "id": "f9a0046142170834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2-Main/Dream Veil.md",
-                "mode": "source",
-                "source": false
+                "file": "4-DND/DM Screen.canvas",
+                "viewState": {
+                  "x": 1075.851780708318,
+                  "y": 238.4517247275603,
+                  "zoom": -0.5770259913184322
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dream Veil"
+              "icon": "lucide-layout-dashboard",
+              "title": "DM Screen"
             }
           },
           {
@@ -90,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +155,7 @@
               "type": "com.maxymillion.zen",
               "state": {},
               "pinned": true,
-              "icon": "eye",
+              "icon": "eye-off",
               "title": "Zen"
             }
           }
@@ -212,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Dream Veil.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dream Veil"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -351,11 +354,12 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "7750c78c03d935cb",
+  "active": "4af2af5bbe751db7",
   "lastOpenFiles": [
     "2-Main/Dream Veil.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+    "4-DND/DM Screen.canvas",
     "2-Main/Augurs.md",
     "Home.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
@@ -369,7 +373,6 @@
     "1-Rough/Gyles.md",
     "2-Main/Misc/What I Use My Phone For.md",
     "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
-    "4-DND/DM Screen.canvas",
     "3-Journal/2025-08-01.md",
     "4-DND/DND Loot Table.md",
     "4-DND/DND Common Rules.md",
@@ -379,7 +382,6 @@
     "2-Main/Misc/Linux X Windows.md",
     "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
-    "2-Main/1-Ramblings/On Worldbuilding.md",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",

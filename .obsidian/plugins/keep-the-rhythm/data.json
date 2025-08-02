@@ -7897,11 +7897,32 @@
         "changes": [
           {
             "timeKey": "18:05",
-            "w": 2,
-            "c": 13
+            "w": 16,
+            "c": 93
+          },
+          {
+            "timeKey": "18:10",
+            "w": 20,
+            "c": 97
           }
         ],
         "id": 635
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 454,
+        "charCountStart": 3054,
+        "changes": [],
+        "id": 636
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/DND Loot Table.md",
+        "wordCountStart": 892,
+        "charCountStart": 21829,
+        "changes": [],
+        "id": 637
       }
     ]
   }
