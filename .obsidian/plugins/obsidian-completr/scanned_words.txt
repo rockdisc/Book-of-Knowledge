@@ -1332,6 +1332,8 @@ Boat
 Believe
 Beware
 Boar
+Birds
+Bull
 Ela
 Essay
 East
@@ -2577,6 +2579,7 @@ Electronic
 Except
 Ertmant
 Erymantian
+Exchange
 Classic
 Consept
 Character
@@ -3878,6 +3881,8 @@ Cognitovirus
 Clean
 Configure
 Ceryn
+Crete
+Cretean
 Modern
 Mini
 My
@@ -6649,6 +6654,9 @@ Slots
 Sparks
 Smaller
 Stores
+Stables
+Stymphal
+Stymphalian
 Interesting
 In
 If
@@ -42629,6 +42637,7 @@ Nearly
 Narf
 Natchez
 Nemean
+Necromancy
 According
 Albert
 Avert
@@ -48793,6 +48802,8 @@ Dave
 Depending
 Download
 Deer
+Direction
+Diomede
 Keter
 Knowing
 Kyling
