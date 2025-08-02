@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "A 8.3.25"
             }
+          },
+          {
+            "id": "3519a87b6765b77f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Act 1 Map and Breakdown"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +198,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.3.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -297,10 +309,12 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "4af2af5bbe751db7",
+  "active": "2f39f4bc17a5c3e5",
   "lastOpenFiles": [
-    "3-Journal/2025-08-02.md",
+    "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "3-Journal/2025-08-02.md",
     "4-DND/Ors/2-Main/Sterkgalinn.md",
     "4-DND/Ors/2-Main/Elvagars.md",
     "4-DND/Ors/Variables.md",
@@ -308,7 +322,6 @@
     "4-DND/Ors/Powers.md",
     "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
     "2-Main/Verifying Trig Identities.md",
-    "Home.md",
     "1-Rough/Gyles.md",
     "2-Main/Misc/What I Use My Phone For.md",
     "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
@@ -325,7 +338,6 @@
     "2-Main/1-Ramblings/On Worldbuilding.md",
     "2-Main/1-Ramblings/Nothing.md",
     "1-Rough/Protagonist.md",
-    "1-Rough/The Crow and the Owl.md",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",
