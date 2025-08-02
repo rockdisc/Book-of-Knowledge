@@ -43,12 +43,14 @@ svg * {
   --background-primary-alt: #474747;
   --background-secondary: #0e0e0e;
   --background-secondary-alt: #0b000e;
-  --background-modifier-box-shadow: rgba(0, 0, 0, 0.85);
-  --background-nav-alt: rgb(58, 62, 63);
-  --background-nav-file-tag: rgb(158, 116, 247);
+  --background-modifier-box-shadow: rgba(161, 40, 40, 0.85);
+  --background-nav-alt: rgb(75, 154, 173);
+  --background-nav-file-tag: rgb(104, 7, 160);
   --background-nav-selected:  #833ed8;
-  --background-nav: rgb(0, 0, 0);
-  --text-accent: #793ed8;
+  --background-nav: rgba(10, 10, 10, 0);
+
+
+  --text-accent: #ff9640ba;
   --text-accent-hover: #452baf;
   --text-normal: #dcddde;
   --text-normal-original: #dcddde;
