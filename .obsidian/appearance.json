@@ -4,7 +4,8 @@
   "baseFontSizeAction": true,
   "baseFontSize": 21,
   "enabledCssSnippets": [
-    "dashboard"
+    "dashboard",
+    "timesNewRoman"
   ],
   "textFontFamily": "American Typewriter",
   "showViewHeader": true,
