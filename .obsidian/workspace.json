@@ -48,6 +48,23 @@
               "icon": "lucide-file",
               "title": "2025-08-01"
             }
+          },
+          {
+            "id": "7c786676652ae8d6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4-DND/DM Screen.canvas",
+                "viewState": {
+                  "x": 890,
+                  "y": 170,
+                  "zoom": -0.7040254412782766
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DM Screen"
+            }
           }
         ],
         "currentTab": 1
@@ -313,10 +330,10 @@
   },
   "active": "4af2af5bbe751db7",
   "lastOpenFiles": [
-    "Home.md",
-    "3-Journal/2025-08-01.md",
-    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/DM Screen.canvas",
+    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "3-Journal/2025-08-01.md",
+    "Home.md",
     "4-DND/Ors/2-Main/Blinding Gluttony.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
     "4-DND/Ors/2-Main/Syncing Tablet.md",
@@ -339,7 +356,6 @@
     "3-Journal/2025-07/2025-07-26.md",
     "3-Journal/2025-07/2025-07-25.md",
     "3-Journal/2025-07/2025-07-24.md",
-    "3-Journal/2025-07/2025-07-23.md",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",
