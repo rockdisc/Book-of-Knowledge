@@ -7382,7 +7382,7 @@
       },
       {
         "date": "2025-07-31",
-        "filePath": "1-Rough/What I Use My Phone For.md",
+        "filePath": "2-Main/Misc/What I Use My Phone For.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7424,16 +7424,47 @@
             "timeKey": "20:35",
             "w": -2,
             "c": -8
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:30",
+            "w": -7,
+            "c": -45
+          },
+          {
+            "timeKey": "23:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:05",
+            "w": 2,
+            "c": 18
           }
         ],
         "id": 601
       },
       {
         "date": "2025-08-01",
-        "filePath": "1-Rough/What I Use My Phone For.md",
+        "filePath": "2-Main/Misc/What I Use My Phone For.md",
         "wordCountStart": 2,
         "charCountStart": 24,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:55",
+            "w": 30,
+            "c": 800
+          },
+          {
+            "timeKey": "23:00",
+            "w": 14,
+            "c": 314
+          }
+        ],
         "id": 602
       },
       {
@@ -7553,7 +7584,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": -93
+          }
+        ],
         "id": 617
       },
       {
@@ -7576,9 +7613,35 @@
             "timeKey": "20:45",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "22:50",
+            "w": 186,
+            "c": 857
+          },
+          {
+            "timeKey": "22:55",
+            "w": 31,
+            "c": 142
           }
         ],
         "id": 618
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/DND Common Rules.md",
+        "wordCountStart": 553,
+        "charCountStart": 3807,
+        "changes": [],
+        "id": 619
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "4-DND/DND Loot Table.md",
+        "wordCountStart": 892,
+        "charCountStart": 21932,
+        "changes": [],
+        "id": 620
       }
     ]
   }
