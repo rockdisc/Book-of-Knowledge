@@ -7702,6 +7702,11 @@
             "timeKey": "18:05",
             "w": 11,
             "c": 57
+          },
+          {
+            "timeKey": "18:10",
+            "w": 5,
+            "c": 27
           }
         ],
         "id": 623
@@ -7903,7 +7908,7 @@
           {
             "timeKey": "18:10",
             "w": 20,
-            "c": 97
+            "c": 99
           }
         ],
         "id": 635
@@ -7923,6 +7928,39 @@
         "charCountStart": 21829,
         "changes": [],
         "id": 637
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Puppet's String.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 13,
+            "c": 84
+          },
+          {
+            "timeKey": "18:15",
+            "w": 49,
+            "c": 480
+          }
+        ],
+        "id": 638
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Blinding Gluttony.md",
+        "wordCountStart": 26,
+        "charCountStart": 160,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 639
       }
     ]
   }
