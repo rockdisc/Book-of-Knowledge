@@ -38,14 +38,14 @@ svg * {
 
     --background-primary: #1a1a1a;
   --background-modifier-border: #3d3d3d;
-  --background-primary-alt: #911c1c;
+  --background-primary-alt: #000000;
   --background-secondary: #0e0e0e;
-  --background-secondary-alt: #160c0c;
+  --background-secondary-alt: #000000;
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.85);
   --background-nav-alt: rgb(75, 154, 173);
   --background-nav-file-tag: rgb(104, 7, 160);
   --background-nav-selected:  #833ed8;
-  --background-nav: rgb(218, 20, 20);
+  --background-nav: rgba(12, 12, 12, 0);
 
 
   --text-accent: #ff9640ba;
