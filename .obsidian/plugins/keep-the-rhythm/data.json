@@ -7443,7 +7443,13 @@
         "filePath": "1-Rough/What I Use My Phone For.md",
         "wordCountStart": 2,
         "charCountStart": 24,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:55",
+            "w": 29,
+            "c": 800
+          }
+        ],
         "id": 602
       },
       {
