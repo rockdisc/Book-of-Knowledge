@@ -7687,6 +7687,16 @@
             "timeKey": "17:50",
             "w": 2,
             "c": 12
+          },
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "18:00",
+            "w": 12,
+            "c": 72
           }
         ],
         "id": 623
@@ -7849,6 +7859,30 @@
         "charCountStart": 6034,
         "changes": [],
         "id": 631
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18513,
+        "charCountStart": 594182,
+        "changes": [],
+        "id": 632
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18513,
+        "charCountStart": 594182,
+        "changes": [],
+        "id": 633
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+        "wordCountStart": 1325,
+        "charCountStart": 6961,
+        "changes": [],
+        "id": 634
       }
     ]
   }
