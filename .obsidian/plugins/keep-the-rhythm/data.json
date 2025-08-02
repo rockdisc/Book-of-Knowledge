@@ -7712,11 +7712,24 @@
           },
           {
             "timeKey": "17:05",
-            "w": 10,
-            "c": 65
+            "w": 56,
+            "c": 313
+          },
+          {
+            "timeKey": "17:10",
+            "w": 6,
+            "c": 22
           }
         ],
         "id": 625
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "wordCountStart": 126,
+        "charCountStart": 971,
+        "changes": [],
+        "id": 626
       }
     ]
   }
