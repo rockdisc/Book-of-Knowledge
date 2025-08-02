@@ -7424,6 +7424,11 @@
             "timeKey": "20:35",
             "w": -2,
             "c": -8
+          },
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 601
@@ -7553,7 +7558,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": -93
+          }
+        ],
         "id": 617
       },
       {

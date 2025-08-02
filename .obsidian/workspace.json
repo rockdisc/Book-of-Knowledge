@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-01.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,12 +195,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 0.8670084373281556,
+                  "scale": 0.5513001169045404,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-01"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -311,7 +311,7 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "591261c12a101907",
+  "active": "4af2af5bbe751db7",
   "lastOpenFiles": [
     "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",

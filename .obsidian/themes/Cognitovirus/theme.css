@@ -34,6 +34,29 @@ svg * {
 }
 
 .theme-dark {
-    --bachground-primary: rgb(139, 139, 139);
+    --h1-color: white;
     
+
+    --background-primary: #1a1a1a;
+  --background-modifier-border: #47186d;
+  --background-primary-alt: #222222;
+  --background-secondary: #0f0f0f;
+  --background-secondary-alt: #0b000e;
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.85);
+  --background-nav-alt: rgb(58, 62, 63);
+  --background-nav-file-tag: rgb(158, 116, 247);
+  --background-nav-selected:  #833ed8;
+  --background-nav: rgb(0, 0, 0);
+  --text-accent: #793ed8;
+  --text-accent-hover: #452baf;
+  --text-normal: #dcddde;
+  --text-normal-original: #dcddde;
+  --text-muted: #999;
+  --text-faint: #666;
+  --text-error: #ff3333;
+  --text-error-hover: #990000;
+  --text-matched: #0cf32b;
+  --text-on-accent: #dcddde;
+  --text-selection: rgba(93, 6, 113, 0.99);
+  
 }
