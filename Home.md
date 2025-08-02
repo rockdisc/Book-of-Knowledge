@@ -56,7 +56,8 @@ cellStyleRules: []
 > - [ ] The story of the Owl and the Crow
 > - [ ] Make a Audio player for DND 
 > - [ ] Clean my desk
-> - [ ] Download a WM
+> - [ ] Configure the WM
+> - [ ] Make an audio player for myself
  
 > [!warning]  Run On
  >  - [ ] Finish Session planning 
