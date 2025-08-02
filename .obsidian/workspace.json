@@ -229,7 +229,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.3.25"
+              "title": "Graph view"
             }
           },
           {
@@ -368,10 +367,10 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "4af2af5bbe751db7",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
-    "2-Main/Muse's Mask.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "2-Main/Muse's Mask.md",
     "4-DND/Ors/2-Main/Syncing Tablet.md",
     "2-Main/Puppet's String.md",
     "4-DND/Ors/2-Main/Blinding Gluttony.md",
