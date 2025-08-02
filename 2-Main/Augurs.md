@@ -14,4 +14,16 @@ They are the strongest of the [[Elvagars]] and live in [[Elvaghiem]]. They are t
 | Diomede     | [[Mare]]   | Vampire             | Man-eating Mares of Diomedes |
 | Hippolyte   | [[Girr]]   | Demoness            | Belt of Hippolyte            |
 | Geryon      | [[Centle]] | Sun Armor           | Cattle of Geryon             |
-| Hesperides  | [[Altan]]  | Sky Con             |                              |
+| Hesperides  | [[Altan]]  | Sky Control         | Apples of Hesperides         |
+| Cereborus   | [[Hudes]]  | Fire                | Cereborus                    |
+
+## 7 Virtues 
+| Virtue     | Augur Name | Family Name | Power |
+| ---------- | ---------- | ----------- | ----- |
+| Chastity   |            |             |       |
+| Charity    |            |             |       |
+| Diligence  |            |             |       |
+| Temperance | [[Narra]]  |             |       |
+| Kindness   |            |             |       |
+| Patience   |            |             |       |
+| Humility   |            |             |       |

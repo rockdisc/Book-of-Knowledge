@@ -7706,6 +7706,11 @@
             "timeKey": "17:40",
             "w": 5,
             "c": 27
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": 11
           }
         ],
         "id": 624
@@ -7785,8 +7790,13 @@
           },
           {
             "timeKey": "17:45",
-            "w": 12,
-            "c": 164
+            "w": 28,
+            "c": 293
+          },
+          {
+            "timeKey": "17:50",
+            "w": 9,
+            "c": 419
           }
         ],
         "id": 627
@@ -7826,6 +7836,14 @@
         "charCountStart": 395,
         "changes": [],
         "id": 630
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Sterkgalinn.md",
+        "wordCountStart": 200,
+        "charCountStart": 6034,
+        "changes": [],
+        "id": 631
       }
     ]
   }
