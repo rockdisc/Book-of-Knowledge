@@ -7677,7 +7677,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 16,
+            "c": 4
+          }
+        ],
         "id": 623
       },
       {
@@ -7735,6 +7741,39 @@
         "charCountStart": 971,
         "changes": [],
         "id": 626
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Augurs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 32,
+            "c": 197
+          },
+          {
+            "timeKey": "17:20",
+            "w": 9,
+            "c": 53
+          }
+        ],
+        "id": 627
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Elvagars.md",
+        "wordCountStart": 168,
+        "charCountStart": 981,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": -24,
+            "c": -144
+          }
+        ],
+        "id": 628
       }
     ]
   }
