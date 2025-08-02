@@ -1,0 +1,9 @@
+### Tags:
+#Worldbuilding/Magic/PoetsLand/Spirit, #Worldbuilding/Location 
+# Spirit World
+One of the three worlds, relates to the [[Green Moon]]. It is where the [[Numen|elves]] live. It crosses the [[Material World]] on the [[Ley Line|declination line]]. For every living thing thing in the material world, they have their spirit in the spirit world. Normally they are separated and only being connected by the deepest part of ones desires. 
+This world is created by the spirits of the dead beings. Once any living being dies its body goes into the ecosystem of the material world while their spirit feeds the the ecosystem of the spiritual world. The difference is that in the spirit world they live forever, as spirit is the essence of life. This means all of the world is created by interweaving branches of all types of different plants.
+
+This is the same with the animals, except for the fact that they can get hurt, it does not heal but acts as it would in the material world. To combat a second death with eternal movement as a slug, they make their kin eat them, resulting in their spirit fusing with the other's soul in accordance with [[Epitome#Epitome Fusion|the law of epitome fusion]]. The soul and mind are part of one's epitome even if they have none. Nothing can be born in this world, but as no one has a mind, everyone is animalistic in ways of doing whatever they want including reproduction. The only things that can reproduce are elves, which results in crossbreeds of their plants in the material world. 
+
+The [[Tree of Life]] is located at the center of the world having pods that hold everyone's spirits until they die, when it then pops like the matrix but wood. in it there is the [[Numen Canopy]] where the numen lie. 

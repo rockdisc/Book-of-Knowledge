@@ -1,0 +1,2 @@
+#Worldbuilding/Location #Worldbuilding/Creature 
+From Cavum Nubes came fog and bells, these bells were giant and looked man made. The fog and clouds were harsh and broke many things. When the bells rang, this is [[Canus]], anyone who heard them were turned to stone, only to be blown to bits by the clouds and fog, this killed many titans and giants, but it did the most damage to their buildings, created what is now called the land of broken stones [[Lapis]].

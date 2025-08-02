@@ -1,0 +1,142 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Ela  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#BookReport  ",
+      "color": {
+        "a": 1,
+        "rgb": 16089636
+      }
+    },
+    {
+      "query": "tag:#College  ",
+      "color": {
+        "a": 1,
+        "rgb": 10724259
+      }
+    },
+    {
+      "query": "tag:#Daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 9589472
+      }
+    },
+    {
+      "query": "tag:#Figure  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Meta  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Mini-Essay  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701261
+      }
+    },
+    {
+      "query": "tag:#Misadventurers  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    },
+    {
+      "query": "tag:#Mythology  ",
+      "color": {
+        "a": 1,
+        "rgb": 10495864
+      }
+    },
+    {
+      "query": "tag:#Ors  ",
+      "color": {
+        "a": 1,
+        "rgb": 5413856
+      }
+    },
+    {
+      "query": "tag:#Personization  ",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    },
+    {
+      "query": "tag:#Philosophy  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "tag:#Session  ",
+      "color": {
+        "a": 1,
+        "rgb": 1846432
+      }
+    },
+    {
+      "query": "tag:#Worldbuilding  ",
+      "color": {
+        "a": 1,
+        "rgb": 1973980
+      }
+    },
+    {
+      "query": "tag:#Science  ",
+      "color": {
+        "a": 1,
+        "rgb": 3552954
+      }
+    },
+    {
+      "query": "tag:#Tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
+      "query": "tag:#Rough  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.508316008316008,
+  "repelStrength": 8.66943866943867,
+  "linkStrength": 1,
+  "linkDistance": 204,
+  "scale": 0.061171926976620015,
+  "close": true
+}

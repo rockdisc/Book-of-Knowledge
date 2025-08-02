@@ -1,0 +1,30 @@
+{
+  "callouts": {
+    "custom": [
+      "habits",
+      "daily"
+    ],
+    "settings": {
+      "habits": [
+        {
+          "changes": {
+            "color": "255, 162, 0"
+          }
+        }
+      ],
+      "daily": [
+        {
+          "changes": {
+            "icon": "lucide-list",
+            "color": "140, 54, 226"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -1,0 +1,7 @@
+### Tags:
+#Worldbuilding/Magic/PoetsLand/Gods, #Worldbuilding/Location 
+# Celestial World
+
+One of the three worlds, relates to the [[Blue Moon]]. It is where the [[Ikon]] live. It crosses the [[Material World|Material world]] on the [[Ley Line|ecliptic line]]. This is also called the Noosphere. Gods are being of thoughts, think of pattern screamers. They feed of the thoughts of living things. But they also feed on each other. The world is made of the thoughts of all beings. 
+As humans have the most thought, it takes the image of a conglomeration of all human cities, but as animals out number humans it goes out in directions creating a kaleidoscopic effect with paths going every which way. Though all of this is surrounded in a dark gray mist which is made of the minds of the dead. Only people's minds are normally connected to this place, but people born on the line can take the power of their mind in this place and use that power on the outside.
+Though there are no directions in this place, gods can move where ever they want unless that place does not want to receive then, near the bottom, closest to the material world, there are plains of people all stranding still equally spaced out. This is called the [[Plain of Consciousness]]. People that die fade into the fog. In the figurative middle, there is a mountain filled with people piling up to the top, this is the [[Mountain of Ikons]]. Both of these include animals.

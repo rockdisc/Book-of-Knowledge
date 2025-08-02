@@ -1,0 +1,2 @@
+#Worldbuilding/Location 
+The bones are from big guys fighting, really cool battle that shaped the landscape, their remains made this place have a lot of fertile land, for a while it used to rain blood. Above it, there is the Mounts of Burning Frost, [[Pruina]].

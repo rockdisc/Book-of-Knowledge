@@ -1,0 +1,19 @@
+.dashboard-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.dashboard-box {
+  flex: 1;
+  min-width: 300px;
+  border: 1px solid var(--divider-color);
+  padding: 1em;
+  border-radius: 8px;
+}
+
+.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-section,
+.dashboard.markdown-preview-view.is-readable-line-width .markdown-preview-section>div {
+  width: 100% !important;
+  max-width: 100% !important;
+}

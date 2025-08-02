@@ -1,0 +1,7524 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": "1500",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": false,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 2000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-07-20",
+      "2025-07-21",
+      "2025-07-24",
+      "2025-07-25",
+      "2025-07-27",
+      "2025-07-30"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Blood Meridian.md",
+        "wordCountStart": 172,
+        "charCountStart": 981,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "5-Images/MissingTown.png",
+        "wordCountStart": 1852721,
+        "charCountStart": 9084918,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Terna.md",
+        "wordCountStart": 146,
+        "charCountStart": 882,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": -18
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "5-Images/TernaMap.jpg",
+        "wordCountStart": 649803,
+        "charCountStart": 3018528,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/BR.md",
+        "wordCountStart": 7,
+        "charCountStart": 70,
+        "changes": [],
+        "id": 155
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Home.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:30",
+            "w": 2,
+            "c": 29
+          },
+          {
+            "timeKey": "17:35",
+            "w": 24,
+            "c": 237
+          },
+          {
+            "timeKey": "17:40",
+            "w": -26,
+            "c": -266
+          },
+          {
+            "timeKey": "17:45",
+            "w": 25,
+            "c": 209
+          },
+          {
+            "timeKey": "17:50",
+            "w": 81,
+            "c": 640
+          },
+          {
+            "timeKey": "17:55",
+            "w": -106,
+            "c": -849
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Home.canvas",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 444,
+        "charCountStart": 2297,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "12:40",
+            "w": 15,
+            "c": 76
+          }
+        ],
+        "id": 158
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "wordCountStart": 51,
+        "charCountStart": 283,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 420,
+        "charCountStart": 2273,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "1-Rough/Protagonist.md",
+        "wordCountStart": 4,
+        "charCountStart": 42,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 3
+          }
+        ],
+        "id": 161
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "1-Rough/Story Outline.canvas",
+        "wordCountStart": 180,
+        "charCountStart": 1294,
+        "changes": [],
+        "id": 162
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+        "wordCountStart": 1212,
+        "charCountStart": 6253,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/System(Physics).md",
+        "wordCountStart": 34,
+        "charCountStart": 227,
+        "changes": [],
+        "id": 164
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Displacement.md",
+        "wordCountStart": 19,
+        "charCountStart": 133,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
+        "wordCountStart": 202,
+        "charCountStart": 1196,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-18.md",
+        "wordCountStart": 232,
+        "charCountStart": 1160,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-19.md",
+        "wordCountStart": 468,
+        "charCountStart": 2376,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-20.md",
+        "wordCountStart": 41,
+        "charCountStart": 249,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": -41,
+            "c": -249
+          },
+          {
+            "timeKey": "20:55",
+            "w": 130,
+            "c": 733
+          },
+          {
+            "timeKey": "21:00",
+            "w": 100,
+            "c": 507
+          },
+          {
+            "timeKey": "21:05",
+            "w": 96,
+            "c": 467
+          },
+          {
+            "timeKey": "21:45",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 39,
+        "charCountStart": 248,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 3,
+            "c": 16
+          }
+        ],
+        "id": 170
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Esotericism/Alchemy.md",
+        "wordCountStart": 294,
+        "charCountStart": 3304,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": -1,
+            "c": -13
+          }
+        ],
+        "id": 171
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Esotericism/Hermeticism.md",
+        "wordCountStart": 31,
+        "charCountStart": 250,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": -1,
+            "c": -19
+          }
+        ],
+        "id": 172
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Esotericism/Hermes Trismegistus.md",
+        "wordCountStart": 33,
+        "charCountStart": 273,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": -1,
+            "c": -21
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Conservation of Momentum.md",
+        "wordCountStart": 79,
+        "charCountStart": 554,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Buoyancy.md",
+        "wordCountStart": 39,
+        "charCountStart": 277,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Average(Physics).md",
+        "wordCountStart": 26,
+        "charCountStart": 146,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Average Angular Velocity.md",
+        "wordCountStart": 10,
+        "charCountStart": 91,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/Powers.md",
+        "wordCountStart": 48,
+        "charCountStart": 383,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 1,
+            "c": -25
+          }
+        ],
+        "id": 178
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+        "wordCountStart": 887,
+        "charCountStart": 5006,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 1,
+            "c": -95
+          }
+        ],
+        "id": 179
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 6.9.25.md",
+        "wordCountStart": 960,
+        "charCountStart": 5326,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 1,
+            "c": -120
+          }
+        ],
+        "id": 180
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 6.23.25.md",
+        "wordCountStart": 959,
+        "charCountStart": 5348,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 1,
+            "c": -114
+          }
+        ],
+        "id": 181
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+        "wordCountStart": 1324,
+        "charCountStart": 6961,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 1,
+            "c": -93
+          }
+        ],
+        "id": 182
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 17968,
+        "charCountStart": 588910,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 17968,
+        "charCountStart": 588910,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Icons.md",
+        "wordCountStart": 2214,
+        "charCountStart": 76318,
+        "changes": [],
+        "id": 185
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "5-Images/Aivon.png",
+        "wordCountStart": 2731329,
+        "charCountStart": 12557682,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/2-Maps&Drawings/Mana Explained.md",
+        "wordCountStart": 1628,
+        "charCountStart": 50122,
+        "changes": [],
+        "id": 187
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/2-Maps&Drawings/Vibra Explained.md",
+        "wordCountStart": 1578,
+        "charCountStart": 57374,
+        "changes": [],
+        "id": 188
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "5-Images/fig2_1.gif",
+        "wordCountStart": 1128,
+        "charCountStart": 5440,
+        "changes": [],
+        "id": 189
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 330,
+            "c": 6502
+          }
+        ],
+        "id": 190
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Abaddon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 77,
+            "c": 481
+          }
+        ],
+        "id": 191
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Adamzka.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 465,
+            "c": 2414
+          },
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 192
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Alzec.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 83,
+            "c": 487
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/3-Sessions/Orsian/Tech.md",
+        "wordCountStart": 4,
+        "charCountStart": 29,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": -4,
+            "c": -29
+          }
+        ],
+        "id": 194
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Archspirits.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 17,
+            "c": 111
+          }
+        ],
+        "id": 195
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Arouran Military Structure.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 85,
+            "c": 510
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "README.md",
+        "wordCountStart": 178,
+        "charCountStart": 1057,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/Misc/Tits.md",
+        "wordCountStart": 2,
+        "charCountStart": 9,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/Misc/Book of Knowledge.md",
+        "wordCountStart": 9,
+        "charCountStart": 61,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+        "wordCountStart": 607,
+        "charCountStart": 3416,
+        "changes": [],
+        "id": 200
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Blanc.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 18,
+            "c": 129
+          }
+        ],
+        "id": 201
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Bobby.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 53,
+            "c": 298
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Bonded Object.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 16,
+            "c": 125
+          }
+        ],
+        "id": 203
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Boreal.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 75,
+            "c": 493
+          }
+        ],
+        "id": 204
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Cans.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 73,
+            "c": 482
+          }
+        ],
+        "id": 205
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Celestial Realm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 6,
+            "c": 47
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Cor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 62,
+            "c": 406
+          }
+        ],
+        "id": 207
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Curze.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 54,
+            "c": 320
+          }
+        ],
+        "id": 208
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Death Coven.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 26,
+            "c": 187
+          }
+        ],
+        "id": 209
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Devourment.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 116,
+            "c": 716
+          }
+        ],
+        "id": 210
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Disaster.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 43,
+            "c": 312
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Edward Avario.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 1,
+            "c": 16
+          },
+          {
+            "timeKey": "15:10",
+            "w": 16,
+            "c": 92
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Egdir.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 29,
+            "c": 177
+          }
+        ],
+        "id": 213
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Elman.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 24,
+            "c": 224
+          }
+        ],
+        "id": 214
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Elvaghiem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 25,
+            "c": 171
+          }
+        ],
+        "id": 215
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Embroidment.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 20,
+            "c": 126
+          }
+        ],
+        "id": 216
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Feywild.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 31,
+            "c": 202
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Forgotten war.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 24,
+            "c": 161
+          }
+        ],
+        "id": 218
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Garry Narras.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 21,
+            "c": 139
+          }
+        ],
+        "id": 219
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Giant King.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 14,
+            "c": 94
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Ginnungagap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 30,
+            "c": 177
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Gobo.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 11,
+            "c": 94
+          }
+        ],
+        "id": 222
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Gods.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 23,
+            "c": 171
+          }
+        ],
+        "id": 223
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Guild.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 173,
+            "c": 1566
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "5-Images/AlchemyTrueImage.png",
+        "wordCountStart": 7240,
+        "charCountStart": 35778,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Heim.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 7,
+            "c": 70
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Hurlen.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 14,
+            "c": 109
+          }
+        ],
+        "id": 227
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Iblis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 228
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Isaeni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 13,
+            "c": 100
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Jotuns.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 185,
+            "c": 1117
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Lord of 5 Faces.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 8,
+            "c": 63
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Material World.md",
+        "wordCountStart": 151,
+        "charCountStart": 927,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Material realm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 22,
+            "c": 156
+          },
+          {
+            "timeKey": "21:05",
+            "w": -3,
+            "c": -22
+          }
+        ],
+        "id": 233
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Melpomene.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 4,
+            "c": 35
+          },
+          {
+            "timeKey": "15:25",
+            "w": 29,
+            "c": 180
+          }
+        ],
+        "id": 234
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Mermaid Subjugation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 374,
+            "c": 1943
+          }
+        ],
+        "id": 235
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Michael Leech.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 37,
+            "c": 251
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Missing Town.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:25",
+            "w": 344,
+            "c": 1780
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 256,
+            "c": 1416
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 238
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Morali.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 52,
+            "c": 347
+          }
+        ],
+        "id": 239
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Murder at the Mansion.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 22,
+            "c": 148
+          }
+        ],
+        "id": 240
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Myths of Ors.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 317,
+            "c": 1734
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Narras Kingdom.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 13,
+            "c": 102
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Nixie.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": 18,
+            "c": 100
+          }
+        ],
+        "id": 243
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
+        "wordCountStart": 81,
+        "charCountStart": 1868,
+        "changes": [],
+        "id": 244
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Oberon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 6,
+            "c": 45
+          }
+        ],
+        "id": 245
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Original War.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 21,
+            "c": 152
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Ors Creation Myth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 1946,
+            "c": 11006
+          }
+        ],
+        "id": 247
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Orsian Military Structure.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 374,
+            "c": 2500
+          }
+        ],
+        "id": 248
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Orsian Users.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 294,
+            "c": 6453
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/right arm of Ginnungagap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 24,
+            "c": 190
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Sandstorm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 92,
+            "c": 553
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Scarred King.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 19,
+            "c": 128
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Seglis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 9,
+            "c": 81
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Shade.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 31,
+            "c": 174
+          }
+        ],
+        "id": 254
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Shrouding Ring.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 31,
+            "c": 167
+          }
+        ],
+        "id": 255
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Spirit Sigil.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 19,
+            "c": 117
+          }
+        ],
+        "id": 256
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Spirits.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 684,
+            "c": 3771
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Sterkgalinn.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 200,
+            "c": 6002
+          }
+        ],
+        "id": 258
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Sylph.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 16,
+            "c": 101
+          }
+        ],
+        "id": 259
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Thalia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 58,
+            "c": 351
+          }
+        ],
+        "id": 260
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Titania.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 58,
+            "c": 347
+          }
+        ],
+        "id": 261
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Toadbog.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:40",
+            "w": 27,
+            "c": 185
+          }
+        ],
+        "id": 262
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Torg.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 147,
+            "c": 854
+          }
+        ],
+        "id": 263
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Tornado.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 25,
+            "c": 145
+          }
+        ],
+        "id": 264
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Townwalker.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 9,
+            "c": 99
+          }
+        ],
+        "id": 265
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Trow.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 17,
+            "c": 105
+          }
+        ],
+        "id": 266
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/True Archfey.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 12,
+            "c": 90
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Unforgiving Death.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 39,
+            "c": 247
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Urania.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 13,
+            "c": 94
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Ors/2-Main/Users.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 3,
+            "c": 31
+          },
+          {
+            "timeKey": "15:50",
+            "w": 48,
+            "c": 279
+          }
+        ],
+        "id": 270
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/Visage King.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 200,
+            "c": 1165
+          }
+        ],
+        "id": 271
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Vladmir.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 13,
+            "c": 100
+          }
+        ],
+        "id": 272
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Witnor.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 12,
+            "c": 99
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Session.md",
+        "wordCountStart": 16,
+        "charCountStart": 156,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": -1,
+            "c": -6
+          }
+        ],
+        "id": 274
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Session Arouran.md",
+        "wordCountStart": 22,
+        "charCountStart": 230,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 1,
+            "c": -20
+          }
+        ],
+        "id": 275
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Session Orsian.md",
+        "wordCountStart": 24,
+        "charCountStart": 267,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 1,
+            "c": -21
+          }
+        ],
+        "id": 276
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Character.md",
+        "wordCountStart": 8,
+        "charCountStart": 83,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": -1,
+            "c": -7
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Church.md",
+        "wordCountStart": 11,
+        "charCountStart": 104,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": -1,
+            "c": -8
+          }
+        ],
+        "id": 278
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/CN.md",
+        "wordCountStart": 4,
+        "charCountStart": 47,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/College.md",
+        "wordCountStart": 5,
+        "charCountStart": 59,
+        "changes": [],
+        "id": 280
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Map.md",
+        "wordCountStart": 146,
+        "charCountStart": 859,
+        "changes": [],
+        "id": 281
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest Part 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 65,
+            "c": 348
+          },
+          {
+            "timeKey": "00:05",
+            "w": 6,
+            "c": 34
+          },
+          {
+            "timeKey": "16:25",
+            "w": 22,
+            "c": 224
+          },
+          {
+            "timeKey": "23:05",
+            "w": 1,
+            "c": 2
+          },
+          {
+            "timeKey": "23:10",
+            "w": 39,
+            "c": 204
+          },
+          {
+            "timeKey": "23:15",
+            "w": 46,
+            "c": 280
+          },
+          {
+            "timeKey": "23:20",
+            "w": 85,
+            "c": 471
+          },
+          {
+            "timeKey": "23:25",
+            "w": 28,
+            "c": 160
+          },
+          {
+            "timeKey": "23:35",
+            "w": 22,
+            "c": 177
+          },
+          {
+            "timeKey": "23:40",
+            "w": 20,
+            "c": 119
+          },
+          {
+            "timeKey": "23:45",
+            "w": 69,
+            "c": 354
+          },
+          {
+            "timeKey": "23:50",
+            "w": 31,
+            "c": 164
+          },
+          {
+            "timeKey": "23:55",
+            "w": 79,
+            "c": 386
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 96,
+            "c": 620
+          },
+          {
+            "timeKey": "16:45",
+            "w": -72,
+            "c": -486
+          },
+          {
+            "timeKey": "16:50",
+            "w": 182,
+            "c": 1145
+          },
+          {
+            "timeKey": "16:55",
+            "w": -16,
+            "c": 61
+          },
+          {
+            "timeKey": "17:00",
+            "w": -165,
+            "c": -1202
+          },
+          {
+            "timeKey": "17:05",
+            "w": -25,
+            "c": -138
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-13.md",
+        "wordCountStart": 227,
+        "charCountStart": 1110,
+        "changes": [],
+        "id": 285
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-03.md",
+        "wordCountStart": 254,
+        "charCountStart": 1249,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 3,
+            "c": 29
+          },
+          {
+            "timeKey": "19:40",
+            "w": 19,
+            "c": 100
+          },
+          {
+            "timeKey": "19:45",
+            "w": 69,
+            "c": 482
+          },
+          {
+            "timeKey": "20:10",
+            "w": 18,
+            "c": 92
+          },
+          {
+            "timeKey": "20:15",
+            "w": 61,
+            "c": 369
+          },
+          {
+            "timeKey": "20:20",
+            "w": 72,
+            "c": 434
+          },
+          {
+            "timeKey": "20:25",
+            "w": 22,
+            "c": 137
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Julius Caesar (Play).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 7,
+            "c": 67
+          },
+          {
+            "timeKey": "20:25",
+            "w": 5,
+            "c": 37
+          },
+          {
+            "timeKey": "20:30",
+            "w": 48,
+            "c": 285
+          },
+          {
+            "timeKey": "20:40",
+            "w": 81,
+            "c": 454
+          },
+          {
+            "timeKey": "20:45",
+            "w": 68,
+            "c": 390
+          },
+          {
+            "timeKey": "20:50",
+            "w": 293,
+            "c": 1617
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Home.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:30",
+            "w": 2,
+            "c": 29
+          },
+          {
+            "timeKey": "17:35",
+            "w": 24,
+            "c": 237
+          },
+          {
+            "timeKey": "17:40",
+            "w": -26,
+            "c": -266
+          },
+          {
+            "timeKey": "17:45",
+            "w": 25,
+            "c": 209
+          },
+          {
+            "timeKey": "17:50",
+            "w": 81,
+            "c": 640
+          },
+          {
+            "timeKey": "17:55",
+            "w": -106,
+            "c": -849
+          }
+        ],
+        "id": 289
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "1-Rough/Escape the Tavern.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 6,
+            "c": 27
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:50",
+            "w": 167,
+            "c": 891
+          },
+          {
+            "timeKey": "18:55",
+            "w": 20,
+            "c": 107
+          },
+          {
+            "timeKey": "19:05",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 290
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Oneshots/Missing Town.md",
+        "wordCountStart": 1776,
+        "charCountStart": 9484,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 2,
+            "c": -88
+          }
+        ],
+        "id": 291
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Land of Weather.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 404,
+            "c": 2186
+          },
+          {
+            "timeKey": "19:10",
+            "w": 2,
+            "c": 25
+          }
+        ],
+        "id": 292
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Labyrinth.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 318,
+            "c": 1673
+          },
+          {
+            "timeKey": "19:10",
+            "w": 2,
+            "c": 24
+          }
+        ],
+        "id": 293
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Magic/Magic Circles.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": 84,
+            "c": 495
+          },
+          {
+            "timeKey": "19:15",
+            "w": 177,
+            "c": 1104
+          },
+          {
+            "timeKey": "19:20",
+            "w": 6,
+            "c": 38
+          }
+        ],
+        "id": 294
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 549,
+            "c": 2956
+          },
+          {
+            "timeKey": "19:40",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 295
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "Templates/Q.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 4,
+            "c": 26
+          }
+        ],
+        "id": 296
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Esotericism/Thoth.md",
+        "wordCountStart": 13,
+        "charCountStart": 98,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Giant King.md",
+        "wordCountStart": 14,
+        "charCountStart": 94,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Fluids.md",
+        "wordCountStart": 37,
+        "charCountStart": 232,
+        "changes": [],
+        "id": 299
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
+        "wordCountStart": 673,
+        "charCountStart": 3796,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/3-Resources/Colleges/Michigan State.md",
+        "wordCountStart": 32,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-02.md",
+        "wordCountStart": 231,
+        "charCountStart": 1081,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
+        "wordCountStart": 573,
+        "charCountStart": 3183,
+        "changes": [],
+        "id": 303
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07-20.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-14.md",
+        "wordCountStart": 220,
+        "charCountStart": 1103,
+        "changes": [],
+        "id": 305
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-15.md",
+        "wordCountStart": 240,
+        "charCountStart": 1182,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "3-Journal/2025-07/2025-07-17.md",
+        "wordCountStart": 216,
+        "charCountStart": 1090,
+        "changes": [],
+        "id": 307
+      },
+      {
+        "date": "2025-07-20",
+        "filePath": "4-DND/Misadventurers/2-Main/Visage King.md",
+        "wordCountStart": 200,
+        "charCountStart": 1165,
+        "changes": [
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": -4
+          },
+          {
+            "timeKey": "23:15",
+            "w": 28,
+            "c": 148
+          },
+          {
+            "timeKey": "23:20",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 308
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Misadventurers/2-Main/Visage King.md",
+        "wordCountStart": 228,
+        "charCountStart": 1317,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 13,
+            "c": 90
+          },
+          {
+            "timeKey": "00:15",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "00:30",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "00:35",
+            "w": -30,
+            "c": -160
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest Part 2.md",
+        "wordCountStart": 513,
+        "charCountStart": 2923,
+        "changes": [
+          {
+            "timeKey": "00:10",
+            "w": 42,
+            "c": 210
+          },
+          {
+            "timeKey": "00:15",
+            "w": 52,
+            "c": 286
+          },
+          {
+            "timeKey": "00:20",
+            "w": 29,
+            "c": 143
+          },
+          {
+            "timeKey": "00:25",
+            "w": 29,
+            "c": 163
+          },
+          {
+            "timeKey": "00:30",
+            "w": 83,
+            "c": 401
+          },
+          {
+            "timeKey": "00:35",
+            "w": 41,
+            "c": 241
+          },
+          {
+            "timeKey": "00:40",
+            "w": 31,
+            "c": 159
+          },
+          {
+            "timeKey": "00:45",
+            "w": 45,
+            "c": 215
+          },
+          {
+            "timeKey": "00:50",
+            "w": 56,
+            "c": 280
+          },
+          {
+            "timeKey": "00:55",
+            "w": 81,
+            "c": 440
+          },
+          {
+            "timeKey": "01:00",
+            "w": 99,
+            "c": 509
+          },
+          {
+            "timeKey": "01:05",
+            "w": 82,
+            "c": 470
+          },
+          {
+            "timeKey": "01:10",
+            "w": 39,
+            "c": 226
+          },
+          {
+            "timeKey": "13:15",
+            "w": 25,
+            "c": 129
+          },
+          {
+            "timeKey": "13:20",
+            "w": 33,
+            "c": 167
+          },
+          {
+            "timeKey": "13:25",
+            "w": 7,
+            "c": 44
+          },
+          {
+            "timeKey": "13:35",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "21:45",
+            "w": 6,
+            "c": 36
+          }
+        ],
+        "id": 310
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest.md",
+        "wordCountStart": 256,
+        "charCountStart": 1416,
+        "changes": [],
+        "id": 311
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Home.canvas",
+        "wordCountStart": 490,
+        "charCountStart": 3768,
+        "changes": [
+          {
+            "timeKey": "02:00",
+            "w": -490,
+            "c": -3768
+          }
+        ],
+        "id": 312
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "wordCountStart": 550,
+        "charCountStart": 2964,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:25",
+            "w": -233,
+            "c": -1215
+          },
+          {
+            "timeKey": "10:30",
+            "w": 3,
+            "c": 20
+          },
+          {
+            "timeKey": "10:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:50",
+            "w": 3,
+            "c": 36
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Home.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "02:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "02:10",
+            "w": 25,
+            "c": 172
+          },
+          {
+            "timeKey": "02:15",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "02:20",
+            "w": 28,
+            "c": 255
+          },
+          {
+            "timeKey": "02:25",
+            "w": 25,
+            "c": 145
+          },
+          {
+            "timeKey": "02:30",
+            "w": 29,
+            "c": 172
+          },
+          {
+            "timeKey": "02:35",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "09:50",
+            "w": -5,
+            "c": -33
+          },
+          {
+            "timeKey": "10:50",
+            "w": -7,
+            "c": -38
+          },
+          {
+            "timeKey": "10:55",
+            "w": 32,
+            "c": 338
+          },
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:00",
+            "w": -5,
+            "c": -29
+          },
+          {
+            "timeKey": "21:45",
+            "w": 15,
+            "c": 70
+          }
+        ],
+        "id": 314
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "1-Rough/JesterDropOff/Test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "02:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 315
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/All Quiet on the Western Front.md",
+        "wordCountStart": 338,
+        "charCountStart": 1837,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 34,
+            "c": 322
+          },
+          {
+            "timeKey": "09:55",
+            "w": -14,
+            "c": -129
+          }
+        ],
+        "id": 316
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Blood Meridian.md",
+        "wordCountStart": 172,
+        "charCountStart": 981,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 14,
+            "c": 126
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Don Quixote.md",
+        "wordCountStart": 66,
+        "charCountStart": 360,
+        "changes": [
+          {
+            "timeKey": "09:55",
+            "w": 2,
+            "c": 26
+          },
+          {
+            "timeKey": "10:00",
+            "w": 67,
+            "c": 433
+          }
+        ],
+        "id": 318
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Hamlet.md",
+        "wordCountStart": 197,
+        "charCountStart": 1112,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 15,
+            "c": 141
+          }
+        ],
+        "id": 319
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Julius Caesar (Play).md",
+        "wordCountStart": 502,
+        "charCountStart": 2850,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 15,
+            "c": 144
+          }
+        ],
+        "id": 320
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/King Lear.md",
+        "wordCountStart": 429,
+        "charCountStart": 2296,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 19,
+            "c": 232
+          }
+        ],
+        "id": 321
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Macbeth.md",
+        "wordCountStart": 338,
+        "charCountStart": 1792,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 13,
+            "c": 142
+          }
+        ],
+        "id": 322
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Midsummer Night's Dream.md",
+        "wordCountStart": 318,
+        "charCountStart": 1711,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 20,
+            "c": 214
+          }
+        ],
+        "id": 323
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Much Ado About Nothing.md",
+        "wordCountStart": 278,
+        "charCountStart": 1687,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 32,
+            "c": 210
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Of Mice and Men.md",
+        "wordCountStart": 724,
+        "charCountStart": 3834,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": 43,
+            "c": 208
+          },
+          {
+            "timeKey": "10:10",
+            "w": 15,
+            "c": 129
+          }
+        ],
+        "id": 325
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/The Tempest.md",
+        "wordCountStart": 371,
+        "charCountStart": 1978,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 14,
+            "c": 122
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/The Tragedy of Othello.md",
+        "wordCountStart": 85,
+        "charCountStart": 521,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 55,
+            "c": 344
+          },
+          {
+            "timeKey": "10:15",
+            "w": 38,
+            "c": 283
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/BR.md",
+        "wordCountStart": 7,
+        "charCountStart": 70,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 1,
+            "c": 24
+          }
+        ],
+        "id": 328
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Character.md",
+        "wordCountStart": 7,
+        "charCountStart": 76,
+        "changes": [],
+        "id": 329
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Church.md",
+        "wordCountStart": 10,
+        "charCountStart": 96,
+        "changes": [],
+        "id": 330
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/CN.md",
+        "wordCountStart": 4,
+        "charCountStart": 47,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/College.md",
+        "wordCountStart": 5,
+        "charCountStart": 59,
+        "changes": [],
+        "id": 332
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 42,
+        "charCountStart": 264,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": -2,
+            "c": -23
+          }
+        ],
+        "id": 333
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Map.md",
+        "wordCountStart": 146,
+        "charCountStart": 859,
+        "changes": [],
+        "id": 334
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Q.md",
+        "wordCountStart": 4,
+        "charCountStart": 26,
+        "changes": [],
+        "id": 335
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Session.md",
+        "wordCountStart": 15,
+        "charCountStart": 150,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Session Arouran.md",
+        "wordCountStart": 23,
+        "charCountStart": 210,
+        "changes": [],
+        "id": 337
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "Templates/Session Orsian.md",
+        "wordCountStart": 25,
+        "charCountStart": 246,
+        "changes": [],
+        "id": 338
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Pluvia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 33,
+            "c": 206
+          },
+          {
+            "timeKey": "10:40",
+            "w": 4,
+            "c": 22
+          }
+        ],
+        "id": 339
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Scodis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 54,
+            "c": 332
+          },
+          {
+            "timeKey": "10:45",
+            "w": 2,
+            "c": 16
+          }
+        ],
+        "id": 340
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Nubes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 77,
+            "c": 431
+          },
+          {
+            "timeKey": "10:45",
+            "w": 4,
+            "c": 30
+          }
+        ],
+        "id": 341
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Cresco.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 59,
+            "c": 338
+          },
+          {
+            "timeKey": "10:30",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "10:35",
+            "w": 6,
+            "c": 33
+          }
+        ],
+        "id": 342
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Bellum.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 40,
+            "c": 239
+          },
+          {
+            "timeKey": "10:35",
+            "w": 5,
+            "c": 35
+          }
+        ],
+        "id": 343
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ossum.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 45,
+            "c": 261
+          }
+        ],
+        "id": 344
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Pruina.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 41,
+            "c": 238
+          }
+        ],
+        "id": 345
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Adfligo.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 42,
+            "c": 259
+          }
+        ],
+        "id": 346
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Tabes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 343,
+            "c": 1841
+          }
+        ],
+        "id": 347
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ensis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 7,
+            "c": 59
+          }
+        ],
+        "id": 348
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "3-Journal/2025-07/2025-07-09.md",
+        "wordCountStart": 242,
+        "charCountStart": 1176,
+        "changes": [],
+        "id": 349
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Misadventurers/2-Main/Heim.md",
+        "wordCountStart": 7,
+        "charCountStart": 70,
+        "changes": [],
+        "id": 350
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Ors/2-Main/Ors Creation Myth.md",
+        "wordCountStart": 1946,
+        "charCountStart": 11006,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Ors/2-Main/Nixie.md",
+        "wordCountStart": 18,
+        "charCountStart": 100,
+        "changes": [],
+        "id": 352
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "4-DND/Ors/2-Main/Cor.md",
+        "wordCountStart": 62,
+        "charCountStart": 406,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Supra.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 2,
+            "c": 25
+          },
+          {
+            "timeKey": "10:45",
+            "w": 54,
+            "c": 269
+          }
+        ],
+        "id": 354
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 48,
+            "c": 244
+          }
+        ],
+        "id": 355
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Lapis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 91,
+            "c": 500
+          }
+        ],
+        "id": 356
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Canus.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 78,
+            "c": 434
+          }
+        ],
+        "id": 357
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum History.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 238,
+            "c": 1331
+          }
+        ],
+        "id": 358
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Religions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 295,
+            "c": 1605
+          }
+        ],
+        "id": 359
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Acceleration.md",
+        "wordCountStart": 45,
+        "charCountStart": 302,
+        "changes": [],
+        "id": 360
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Animal Farm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 25,
+            "c": 214
+          },
+          {
+            "timeKey": "20:30",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "21:40",
+            "w": 40,
+            "c": 207
+          },
+          {
+            "timeKey": "21:45",
+            "w": 9,
+            "c": 43
+          },
+          {
+            "timeKey": "22:20",
+            "w": 50,
+            "c": 250
+          },
+          {
+            "timeKey": "22:25",
+            "w": 88,
+            "c": 501
+          },
+          {
+            "timeKey": "22:30",
+            "w": 82,
+            "c": 476
+          }
+        ],
+        "id": 366
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "wordCountStart": 264,
+        "charCountStart": 1643,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 5,
+            "c": 68
+          },
+          {
+            "timeKey": "20:20",
+            "w": 24,
+            "c": 173
+          },
+          {
+            "timeKey": "20:25",
+            "w": 37,
+            "c": 231
+          },
+          {
+            "timeKey": "20:30",
+            "w": 16,
+            "c": 130
+          },
+          {
+            "timeKey": "20:40",
+            "w": 11,
+            "c": 58
+          },
+          {
+            "timeKey": "20:45",
+            "w": 73,
+            "c": 410
+          },
+          {
+            "timeKey": "20:50",
+            "w": 43,
+            "c": 267
+          },
+          {
+            "timeKey": "20:55",
+            "w": -11,
+            "c": -78
+          }
+        ],
+        "id": 367
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Potential Difference.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 8,
+            "c": 78
+          },
+          {
+            "timeKey": "20:35",
+            "w": 13,
+            "c": 80
+          },
+          {
+            "timeKey": "20:40",
+            "w": 21,
+            "c": 118
+          }
+        ],
+        "id": 368
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Force.md",
+        "wordCountStart": 121,
+        "charCountStart": 783,
+        "changes": [],
+        "id": 369
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
+        "wordCountStart": 37,
+        "charCountStart": 244,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 4,
+            "c": 40
+          }
+        ],
+        "id": 370
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Gravity.md",
+        "wordCountStart": 64,
+        "charCountStart": 374,
+        "changes": [],
+        "id": 371
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Work & Energy.md",
+        "wordCountStart": 164,
+        "charCountStart": 951,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 3,
+            "c": 32
+          }
+        ],
+        "id": 372
+      },
+      {
+        "date": "2025-07-21",
+        "filePath": "3-Journal/2025-07/2025-07-21.md",
+        "wordCountStart": 44,
+        "charCountStart": 265,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": -8,
+            "c": -25
+          },
+          {
+            "timeKey": "22:20",
+            "w": 9,
+            "c": 54
+          },
+          {
+            "timeKey": "22:30",
+            "w": 53,
+            "c": 250
+          },
+          {
+            "timeKey": "22:35",
+            "w": 47,
+            "c": 222
+          },
+          {
+            "timeKey": "22:40",
+            "w": 140,
+            "c": 700
+          }
+        ],
+        "id": 373
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Home.md",
+        "wordCountStart": 139,
+        "charCountStart": 1068,
+        "changes": [
+          {
+            "timeKey": "01:20",
+            "w": -7,
+            "c": -38
+          },
+          {
+            "timeKey": "09:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "09:25",
+            "w": 22,
+            "c": 110
+          },
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:25",
+            "w": -5,
+            "c": -21
+          },
+          {
+            "timeKey": "11:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:05",
+            "w": 13,
+            "c": 58
+          },
+          {
+            "timeKey": "22:25",
+            "w": 6,
+            "c": 38
+          }
+        ],
+        "id": 374
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "3-Journal/2025-07/2025-07-21.md",
+        "wordCountStart": 285,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 375
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 6.23.25.md",
+        "wordCountStart": 960,
+        "charCountStart": 5234,
+        "changes": [],
+        "id": 376
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Murder at the Mansion.md",
+        "wordCountStart": 22,
+        "charCountStart": 148,
+        "changes": [],
+        "id": 377
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest Part 2.md",
+        "wordCountStart": 1296,
+        "charCountStart": 7065,
+        "changes": [],
+        "id": 378
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Animal Farm.md",
+        "wordCountStart": 295,
+        "charCountStart": 1699,
+        "changes": [],
+        "id": 379
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Centripetal Force.md",
+        "wordCountStart": 16,
+        "charCountStart": 112,
+        "changes": [],
+        "id": 380
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "wordCountStart": 462,
+        "charCountStart": 2902,
+        "changes": [],
+        "id": 381
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Entropy.md",
+        "wordCountStart": 92,
+        "charCountStart": 553,
+        "changes": [],
+        "id": 382
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Gravity.md",
+        "wordCountStart": 64,
+        "charCountStart": 374,
+        "changes": [],
+        "id": 383
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/System(Physics).md",
+        "wordCountStart": 34,
+        "charCountStart": 227,
+        "changes": [],
+        "id": 384
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/The Laws of Thermodynamics.md",
+        "wordCountStart": 349,
+        "charCountStart": 2151,
+        "changes": [],
+        "id": 385
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "1-Rough/JesterDropOff/Test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 386
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Templates/CN.md",
+        "wordCountStart": 4,
+        "charCountStart": 47,
+        "changes": [],
+        "id": 387
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Templates/Jester.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": 55,
+            "c": 432
+          },
+          {
+            "timeKey": "11:50",
+            "w": -3,
+            "c": -19
+          },
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 63
+          },
+          {
+            "timeKey": "12:05",
+            "w": 22,
+            "c": 157
+          },
+          {
+            "timeKey": "12:10",
+            "w": -79,
+            "c": -633
+          }
+        ],
+        "id": 388
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 2,
+            "c": 10
+          },
+          {
+            "timeKey": "11:55",
+            "w": 134,
+            "c": 982
+          },
+          {
+            "timeKey": "12:00",
+            "w": -52,
+            "c": -326
+          },
+          {
+            "timeKey": "12:05",
+            "w": -3,
+            "c": -21
+          },
+          {
+            "timeKey": "12:10",
+            "w": -81,
+            "c": -645
+          }
+        ],
+        "id": 389
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Templates/Character.md",
+        "wordCountStart": 7,
+        "charCountStart": 76,
+        "changes": [],
+        "id": 390
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Templates/TestTemp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "12:00",
+            "w": -4,
+            "c": -39
+          }
+        ],
+        "id": 391
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Magnetism.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 3,
+            "c": 29
+          },
+          {
+            "timeKey": "20:45",
+            "w": 34,
+            "c": 201
+          },
+          {
+            "timeKey": "20:50",
+            "w": 47,
+            "c": 301
+          },
+          {
+            "timeKey": "20:55",
+            "w": 19,
+            "c": 116
+          }
+        ],
+        "id": 392
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/The Great Gatsby.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": 10,
+            "c": 101
+          },
+          {
+            "timeKey": "21:00",
+            "w": 13,
+            "c": 88
+          },
+          {
+            "timeKey": "21:50",
+            "w": 214,
+            "c": 1292
+          },
+          {
+            "timeKey": "21:55",
+            "w": 58,
+            "c": 277
+          }
+        ],
+        "id": 393
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Electromagnetism.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 4,
+            "c": 50
+          }
+        ],
+        "id": 394
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "3-Journal/2025-07/2025-07-22.md",
+        "wordCountStart": 42,
+        "charCountStart": 242,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": -9,
+            "c": -31
+          },
+          {
+            "timeKey": "22:00",
+            "w": 116,
+            "c": 591
+          },
+          {
+            "timeKey": "22:05",
+            "w": 91,
+            "c": 402
+          },
+          {
+            "timeKey": "22:10",
+            "w": 36,
+            "c": 184
+          }
+        ],
+        "id": 395
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 40,
+        "charCountStart": 241,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": -8
+          }
+        ],
+        "id": 396
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "wordCountStart": 51,
+        "charCountStart": 278,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 397
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "1-Rough/Low vs High Fantasy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 398
+      },
+      {
+        "date": "2025-07-22",
+        "filePath": "1-Rough/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 3,
+            "c": 32
+          },
+          {
+            "timeKey": "22:15",
+            "w": 10,
+            "c": 48
+          },
+          {
+            "timeKey": "22:20",
+            "w": 6,
+            "c": 28
+          },
+          {
+            "timeKey": "22:25",
+            "w": -16,
+            "c": -77
+          }
+        ],
+        "id": 399
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/Untitled.md",
+        "wordCountStart": 3,
+        "charCountStart": 31,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": -3,
+            "c": -31
+          }
+        ],
+        "id": 400
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 460,
+        "charCountStart": 2381,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 401
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Home.md",
+        "wordCountStart": 168,
+        "charCountStart": 1215,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": -15,
+            "c": -80
+          },
+          {
+            "timeKey": "16:10",
+            "w": 31,
+            "c": 185
+          },
+          {
+            "timeKey": "16:15",
+            "w": 11,
+            "c": 61
+          },
+          {
+            "timeKey": "16:55",
+            "w": -17,
+            "c": -110
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:55",
+            "w": 4,
+            "c": 19
+          },
+          {
+            "timeKey": "22:45",
+            "w": 9,
+            "c": 46
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/Maxwell's Equations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "15:55",
+            "w": -2,
+            "c": -18
+          }
+        ],
+        "id": 403
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Electromagnetism.md",
+        "wordCountStart": 4,
+        "charCountStart": 50,
+        "changes": [],
+        "id": 404
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "wordCountStart": 462,
+        "charCountStart": 2902,
+        "changes": [],
+        "id": 405
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/JesterDropOff/Test.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 406
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/JesterDropOff/fs-20250723131845-234.md",
+        "wordCountStart": 94,
+        "charCountStart": 460,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": -94,
+            "c": -460
+          }
+        ],
+        "id": 407
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/JesterDropOff/This is a Test.md",
+        "wordCountStart": 63,
+        "charCountStart": 302,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": -63,
+            "c": -302
+          },
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 408
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/JesterDropOff/ORsAll.md",
+        "wordCountStart": 6849,
+        "charCountStart": 39871,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": -6849,
+            "c": -39871
+          }
+        ],
+        "id": 409
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/JesterDropOff/jester_20250723_155305.md",
+        "wordCountStart": 189,
+        "charCountStart": 1214,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": -189,
+            "c": -1214
+          }
+        ],
+        "id": 410
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/JesterDropOff/jester_20250723_155543.md",
+        "wordCountStart": 570,
+        "charCountStart": 4610,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": -570,
+            "c": -4610
+          }
+        ],
+        "id": 411
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 40,
+        "charCountStart": 233,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": -3,
+            "c": -13
+          },
+          {
+            "timeKey": "16:05",
+            "w": -1,
+            "c": -5
+          }
+        ],
+        "id": 412
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "3-Journal/2025-07/2025-07-22.md",
+        "wordCountStart": 276,
+        "charCountStart": 1388,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+        "wordCountStart": 1212,
+        "charCountStart": 6253,
+        "changes": [],
+        "id": 414
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4567,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": -10
+          }
+        ],
+        "id": 415
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+        "wordCountStart": 74,
+        "charCountStart": 422,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 1,
+            "c": 5
+          }
+        ],
+        "id": 416
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Author.md",
+        "wordCountStart": 1,
+        "charCountStart": 3,
+        "changes": [],
+        "id": 417
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Bind.md",
+        "wordCountStart": 330,
+        "charCountStart": 1760,
+        "changes": [],
+        "id": 418
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/1-Ramblings/On Worldbuilding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 32,
+            "c": 168
+          },
+          {
+            "timeKey": "16:45",
+            "w": 66,
+            "c": 355
+          },
+          {
+            "timeKey": "16:50",
+            "w": 85,
+            "c": 464
+          }
+        ],
+        "id": 419
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "3-Journal/2025-07/2025-07-23.md",
+        "wordCountStart": 38,
+        "charCountStart": 216,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 19,
+            "c": 117
+          },
+          {
+            "timeKey": "19:00",
+            "w": 81,
+            "c": 439
+          },
+          {
+            "timeKey": "21:55",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "22:40",
+            "w": 27,
+            "c": 123
+          },
+          {
+            "timeKey": "22:45",
+            "w": 76,
+            "c": 405
+          },
+          {
+            "timeKey": "22:50",
+            "w": 107,
+            "c": 516
+          }
+        ],
+        "id": 420
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Poet's Land Plot Overview.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 4,
+            "c": 34
+          },
+          {
+            "timeKey": "22:55",
+            "w": 42,
+            "c": 310
+          },
+          {
+            "timeKey": "23:00",
+            "w": 28,
+            "c": 154
+          },
+          {
+            "timeKey": "23:05",
+            "w": 45,
+            "c": 266
+          },
+          {
+            "timeKey": "23:10",
+            "w": 37,
+            "c": 235
+          },
+          {
+            "timeKey": "23:15",
+            "w": 37,
+            "c": 230
+          },
+          {
+            "timeKey": "23:20",
+            "w": 48,
+            "c": 277
+          },
+          {
+            "timeKey": "23:25",
+            "w": 23,
+            "c": 159
+          },
+          {
+            "timeKey": "23:30",
+            "w": 3,
+            "c": 13
+          }
+        ],
+        "id": 421
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "2-Main/Misc/Linux X Windows.md",
+        "wordCountStart": 98,
+        "charCountStart": 1622,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 4,
+            "c": 80
+          }
+        ],
+        "id": 422
+      },
+      {
+        "date": "2025-07-23",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 421,
+        "charCountStart": 2287,
+        "changes": [],
+        "id": 423
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Poet's Land Plot Overview.md",
+        "wordCountStart": 267,
+        "charCountStart": 1678,
+        "changes": [],
+        "id": 424
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/Misc/Linux X Windows.md",
+        "wordCountStart": 102,
+        "charCountStart": 1702,
+        "changes": [],
+        "id": 425
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "Home.md",
+        "wordCountStart": 191,
+        "charCountStart": 1336,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": -2,
+            "c": -9
+          },
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "15:40",
+            "w": -11,
+            "c": -56
+          },
+          {
+            "timeKey": "15:45",
+            "w": -22,
+            "c": -108
+          },
+          {
+            "timeKey": "19:15",
+            "w": 7,
+            "c": 34
+          },
+          {
+            "timeKey": "21:25",
+            "w": -2,
+            "c": -15
+          }
+        ],
+        "id": 426
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/3-Resources/Guides/Jester.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": 451,
+            "c": 3076
+          }
+        ],
+        "id": 427
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 460,
+        "charCountStart": 2382,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 11,
+            "c": 61
+          },
+          {
+            "timeKey": "19:25",
+            "w": 3,
+            "c": 19
+          },
+          {
+            "timeKey": "19:30",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "20:05",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "20:10",
+            "w": -24,
+            "c": -125
+          },
+          {
+            "timeKey": "20:15",
+            "w": 14,
+            "c": 57
+          },
+          {
+            "timeKey": "20:20",
+            "w": 60,
+            "c": 318
+          },
+          {
+            "timeKey": "20:25",
+            "w": 48,
+            "c": 242
+          },
+          {
+            "timeKey": "20:30",
+            "w": 43,
+            "c": 242
+          },
+          {
+            "timeKey": "20:35",
+            "w": 63,
+            "c": 306
+          },
+          {
+            "timeKey": "20:40",
+            "w": 37,
+            "c": 185
+          },
+          {
+            "timeKey": "20:45",
+            "w": 38,
+            "c": 180
+          },
+          {
+            "timeKey": "20:50",
+            "w": 97,
+            "c": 480
+          },
+          {
+            "timeKey": "20:55",
+            "w": 83,
+            "c": 432
+          },
+          {
+            "timeKey": "21:00",
+            "w": 34,
+            "c": 167
+          },
+          {
+            "timeKey": "22:40",
+            "w": 61,
+            "c": 293
+          },
+          {
+            "timeKey": "22:45",
+            "w": 65,
+            "c": 307
+          },
+          {
+            "timeKey": "22:50",
+            "w": 79,
+            "c": 351
+          },
+          {
+            "timeKey": "22:55",
+            "w": 106,
+            "c": 553
+          },
+          {
+            "timeKey": "23:00",
+            "w": 113,
+            "c": 552
+          },
+          {
+            "timeKey": "23:05",
+            "w": 85,
+            "c": 417
+          },
+          {
+            "timeKey": "23:10",
+            "w": 93,
+            "c": 481
+          },
+          {
+            "timeKey": "23:15",
+            "w": 124,
+            "c": 646
+          },
+          {
+            "timeKey": "23:20",
+            "w": 79,
+            "c": 408
+          },
+          {
+            "timeKey": "23:25",
+            "w": 59,
+            "c": 279
+          },
+          {
+            "timeKey": "23:30",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 428
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
+        "wordCountStart": 574,
+        "charCountStart": 3193,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 5,
+            "c": 25
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 429
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "1-Rough/External Dropoff/School Schedule.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 430
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 421,
+        "charCountStart": 2287,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 17,
+            "c": 88
+          }
+        ],
+        "id": 431
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "3-Journal/2025-07/2025-07-24.md",
+        "wordCountStart": 38,
+        "charCountStart": 216,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": -9,
+            "c": -25
+          },
+          {
+            "timeKey": "22:15",
+            "w": 6,
+            "c": 36
+          },
+          {
+            "timeKey": "22:25",
+            "w": 47,
+            "c": 256
+          },
+          {
+            "timeKey": "22:30",
+            "w": 77,
+            "c": 368
+          },
+          {
+            "timeKey": "22:35",
+            "w": 92,
+            "c": 454
+          },
+          {
+            "timeKey": "22:40",
+            "w": 30,
+            "c": 154
+          }
+        ],
+        "id": 432
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "wordCountStart": 51,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 433
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "1-Rough/Low vs High Fantasy.md",
+        "wordCountStart": 1,
+        "charCountStart": 9,
+        "changes": [],
+        "id": 434
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+        "wordCountStart": 1212,
+        "charCountStart": 6253,
+        "changes": [],
+        "id": 435
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4557,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 436
+      },
+      {
+        "date": "2025-07-24",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 36,
+        "charCountStart": 215,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 10,
+            "c": 60
+          }
+        ],
+        "id": 437
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2375,
+        "changes": [],
+        "id": 438
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Home.md",
+        "wordCountStart": 161,
+        "charCountStart": 1181,
+        "changes": [
+          {
+            "timeKey": "11:15",
+            "w": 6,
+            "c": 34
+          },
+          {
+            "timeKey": "12:15",
+            "w": 4,
+            "c": 22
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:25",
+            "w": -9,
+            "c": -44
+          },
+          {
+            "timeKey": "19:00",
+            "w": -17,
+            "c": -75
+          },
+          {
+            "timeKey": "19:05",
+            "w": 19,
+            "c": 117
+          },
+          {
+            "timeKey": "19:10",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "20:20",
+            "w": 6,
+            "c": 30
+          },
+          {
+            "timeKey": "21:05",
+            "w": 14,
+            "c": 79
+          }
+        ],
+        "id": 439
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "3-Journal/2025-07/2025-07-25.md",
+        "wordCountStart": 48,
+        "charCountStart": 276,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": -6,
+            "c": -25
+          },
+          {
+            "timeKey": "10:45",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "12:25",
+            "w": 17,
+            "c": 113
+          },
+          {
+            "timeKey": "13:20",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "13:50",
+            "w": -2,
+            "c": 0
+          },
+          {
+            "timeKey": "19:05",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "20:15",
+            "w": 3,
+            "c": 27
+          },
+          {
+            "timeKey": "20:30",
+            "w": 3,
+            "c": 22
+          },
+          {
+            "timeKey": "20:35",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "20:45",
+            "w": 36,
+            "c": 165
+          },
+          {
+            "timeKey": "20:50",
+            "w": 18,
+            "c": 97
+          },
+          {
+            "timeKey": "20:55",
+            "w": 106,
+            "c": 537
+          },
+          {
+            "timeKey": "21:00",
+            "w": 58,
+            "c": 278
+          }
+        ],
+        "id": 440
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Much Ado About Nothing.md",
+        "wordCountStart": 310,
+        "charCountStart": 1897,
+        "changes": [],
+        "id": 441
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:25",
+            "w": 22,
+            "c": 156
+          },
+          {
+            "timeKey": "12:30",
+            "w": 100,
+            "c": 497
+          },
+          {
+            "timeKey": "12:35",
+            "w": 112,
+            "c": 608
+          },
+          {
+            "timeKey": "12:40",
+            "w": 114,
+            "c": 603
+          },
+          {
+            "timeKey": "12:45",
+            "w": 135,
+            "c": 690
+          },
+          {
+            "timeKey": "12:50",
+            "w": 9,
+            "c": 57
+          }
+        ],
+        "id": 442
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/2-Main/Thrainn Dval.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 12,
+            "c": 116
+          },
+          {
+            "timeKey": "13:25",
+            "w": 30,
+            "c": 163
+          },
+          {
+            "timeKey": "13:30",
+            "w": 53,
+            "c": 257
+          },
+          {
+            "timeKey": "13:35",
+            "w": 23,
+            "c": 126
+          },
+          {
+            "timeKey": "13:40",
+            "w": 28,
+            "c": 119
+          },
+          {
+            "timeKey": "13:45",
+            "w": 62,
+            "c": 318
+          },
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 443
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 1840,
+        "charCountStart": 9284,
+        "changes": [],
+        "id": 444
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 445
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/2-Main/Dvalinn.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "13:35",
+            "w": 146,
+            "c": 856
+          }
+        ],
+        "id": 446
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/2-Main/Torg.md",
+        "wordCountStart": 147,
+        "charCountStart": 854,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 2,
+            "c": 20
+          }
+        ],
+        "id": 447
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/2-Main/Artifact.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": 10,
+            "c": 68
+          },
+          {
+            "timeKey": "13:40",
+            "w": 18,
+            "c": 106
+          }
+        ],
+        "id": 448
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/2-Main/Disaster.md",
+        "wordCountStart": 43,
+        "charCountStart": 312,
+        "changes": [],
+        "id": 449
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Ors/2-Main/Tornado.md",
+        "wordCountStart": 25,
+        "charCountStart": 145,
+        "changes": [],
+        "id": 450
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/Misc/India Position Paper.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 414,
+            "c": 2447
+          }
+        ],
+        "id": 451
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "1-Rough/External Dropoff/School Schedule.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 452
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "1-Rough/Escape the Tavern.md",
+        "wordCountStart": 195,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 453
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Writing/Oneoffs/And the River Keeps Flowing.md",
+        "wordCountStart": 747,
+        "charCountStart": 3871,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 454
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/All Quiet on the Western Front.md",
+        "wordCountStart": 358,
+        "charCountStart": 2030,
+        "changes": [],
+        "id": 455
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Anthem.md",
+        "wordCountStart": 449,
+        "charCountStart": 2669,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": -6
+          },
+          {
+            "timeKey": "18:05",
+            "w": 3,
+            "c": 29
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 456
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Writing/Oneoffs/Brothers.md",
+        "wordCountStart": 1836,
+        "charCountStart": 9293,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": -177
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 457
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "4-DND/Oneshots/George Backstory.md",
+        "wordCountStart": 510,
+        "charCountStart": 2666,
+        "changes": [],
+        "id": 458
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Speaking/Infos/Head Number 7.md",
+        "wordCountStart": 1007,
+        "charCountStart": 5640,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": -43
+          }
+        ],
+        "id": 459
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Speaking/Infos/HN7 Sources.md",
+        "wordCountStart": 164,
+        "charCountStart": 1367,
+        "changes": [],
+        "id": 460
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/Lord of the Flies.md",
+        "wordCountStart": 596,
+        "charCountStart": 3331,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 3,
+            "c": 8
+          }
+        ],
+        "id": 461
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Speaking/Other/Pavlovian Response.md",
+        "wordCountStart": 595,
+        "charCountStart": 3069,
+        "changes": [],
+        "id": 462
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Media Reports/Book Reports/The Refusal.md",
+        "wordCountStart": 330,
+        "charCountStart": 1802,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 3,
+            "c": 17
+          }
+        ],
+        "id": 463
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Zanzar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "18:40",
+            "w": 38,
+            "c": 227
+          },
+          {
+            "timeKey": "18:45",
+            "w": 51,
+            "c": 298
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:55",
+            "w": 33,
+            "c": 160
+          }
+        ],
+        "id": 464
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Creatures/Glassblower Dragon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 37,
+            "c": 242
+          },
+          {
+            "timeKey": "18:45",
+            "w": 12,
+            "c": 67
+          }
+        ],
+        "id": 465
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 37,
+            "c": 199
+          },
+          {
+            "timeKey": "20:20",
+            "w": 38,
+            "c": 220
+          },
+          {
+            "timeKey": "20:25",
+            "w": 25,
+            "c": 148
+          },
+          {
+            "timeKey": "20:30",
+            "w": 63,
+            "c": 346
+          }
+        ],
+        "id": 466
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/3-Resources/Math/Geometry/Circumference.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 15,
+            "c": 83
+          }
+        ],
+        "id": 467
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "wordCountStart": 302,
+        "charCountStart": 1722,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": -12
+          }
+        ],
+        "id": 468
+      },
+      {
+        "date": "2025-07-25",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 46,
+        "charCountStart": 275,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 12,
+            "c": 47
+          },
+          {
+            "timeKey": "20:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 469
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Home.md",
+        "wordCountStart": 186,
+        "charCountStart": 1357,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 20,
+            "c": 93
+          },
+          {
+            "timeKey": "10:05",
+            "w": -2,
+            "c": -16
+          },
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:00",
+            "w": -14,
+            "c": -78
+          },
+          {
+            "timeKey": "18:20",
+            "w": 12,
+            "c": 63
+          },
+          {
+            "timeKey": "19:10",
+            "w": -10,
+            "c": -52
+          },
+          {
+            "timeKey": "19:35",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 470
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 58,
+        "charCountStart": 322,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 3,
+            "c": 13
+          }
+        ],
+        "id": 471
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 472
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/2-Main/Elvagars.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 5,
+            "c": 44
+          },
+          {
+            "timeKey": "18:05",
+            "w": 45,
+            "c": 277
+          },
+          {
+            "timeKey": "18:10",
+            "w": 4,
+            "c": 19
+          },
+          {
+            "timeKey": "18:15",
+            "w": 67,
+            "c": 360
+          },
+          {
+            "timeKey": "18:20",
+            "w": 22,
+            "c": 123
+          },
+          {
+            "timeKey": "18:35",
+            "w": 2,
+            "c": 16
+          },
+          {
+            "timeKey": "18:40",
+            "w": 23,
+            "c": 136
+          }
+        ],
+        "id": 474
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "wordCountStart": 302,
+        "charCountStart": 1710,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 475
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/2-Main/Orsian Users.md",
+        "wordCountStart": 294,
+        "charCountStart": 6453,
+        "changes": [
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 476
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Math/Trig/Trigonometric Functions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "14:15",
+            "w": 68,
+            "c": 387
+          },
+          {
+            "timeKey": "14:20",
+            "w": 40,
+            "c": 355
+          }
+        ],
+        "id": 477
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "wordCountStart": 163,
+        "charCountStart": 913,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 1,
+            "c": 14
+          }
+        ],
+        "id": 478
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 26
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:10",
+            "w": 32,
+            "c": 170
+          },
+          {
+            "timeKey": "19:15",
+            "w": 17,
+            "c": 108
+          },
+          {
+            "timeKey": "19:20",
+            "w": 56,
+            "c": 273
+          }
+        ],
+        "id": 479
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Colleges/Cincinnati.md",
+        "wordCountStart": 5,
+        "charCountStart": 73,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "17:45",
+            "w": 30,
+            "c": 169
+          }
+        ],
+        "id": 480
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Colleges/Bennington.md",
+        "wordCountStart": 30,
+        "charCountStart": 247,
+        "changes": [],
+        "id": 481
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "Templates/College.md",
+        "wordCountStart": 5,
+        "charCountStart": 59,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 10,
+            "c": 84
+          }
+        ],
+        "id": 482
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Colleges/Kansas University.md",
+        "wordCountStart": 5,
+        "charCountStart": 59,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 15,
+            "c": 105
+          },
+          {
+            "timeKey": "17:50",
+            "w": 11,
+            "c": 57
+          }
+        ],
+        "id": 483
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Colleges/San Francisco State.md",
+        "wordCountStart": 5,
+        "charCountStart": 73,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 31,
+            "c": 168
+          },
+          {
+            "timeKey": "17:55",
+            "w": 10,
+            "c": 60
+          }
+        ],
+        "id": 484
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/3-Resources/Colleges/Wyoming.md",
+        "wordCountStart": 5,
+        "charCountStart": 59,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 25,
+            "c": 151
+          },
+          {
+            "timeKey": "18:00",
+            "w": 3,
+            "c": 11
+          }
+        ],
+        "id": 485
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/2-Main/Cor.md",
+        "wordCountStart": 62,
+        "charCountStart": 406,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 486
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/2-Main/Elvaghiem.md",
+        "wordCountStart": 25,
+        "charCountStart": 171,
+        "changes": [],
+        "id": 487
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/2-Main/Artifact.md",
+        "wordCountStart": 28,
+        "charCountStart": 174,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 14,
+            "c": 68
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 488
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/2-Main/Jotuns.md",
+        "wordCountStart": 185,
+        "charCountStart": 1117,
+        "changes": [],
+        "id": 489
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 490
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 1840,
+        "charCountStart": 9284,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:45",
+            "w": -11,
+            "c": -50
+          },
+          {
+            "timeKey": "18:50",
+            "w": -4,
+            "c": -5
+          },
+          {
+            "timeKey": "18:55",
+            "w": -1,
+            "c": -3
+          },
+          {
+            "timeKey": "19:00",
+            "w": -1,
+            "c": -7
+          },
+          {
+            "timeKey": "19:05",
+            "w": -4,
+            "c": -14
+          }
+        ],
+        "id": 491
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Creatures/Sea King.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 39,
+            "c": 219
+          }
+        ],
+        "id": 492
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "3-Journal/2025-07/2025-07-26.md",
+        "wordCountStart": 63,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -6,
+            "c": -25
+          },
+          {
+            "timeKey": "21:50",
+            "w": -5,
+            "c": 0
+          },
+          {
+            "timeKey": "22:30",
+            "w": 7,
+            "c": 75
+          },
+          {
+            "timeKey": "22:35",
+            "w": 64,
+            "c": 317
+          },
+          {
+            "timeKey": "22:40",
+            "w": 151,
+            "c": 730
+          },
+          {
+            "timeKey": "22:45",
+            "w": 14,
+            "c": 70
+          }
+        ],
+        "id": 493
+      },
+      {
+        "date": "2025-07-26",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 492,
+        "charCountStart": 2611,
+        "changes": [],
+        "id": 494
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "Home.md",
+        "wordCountStart": 193,
+        "charCountStart": 1376,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 13,
+            "c": 69
+          },
+          {
+            "timeKey": "18:35",
+            "w": -23,
+            "c": -117
+          },
+          {
+            "timeKey": "22:40",
+            "w": 5,
+            "c": 26
+          },
+          {
+            "timeKey": "22:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 495
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "3-Journal/2025-07/2025-07-26.md",
+        "wordCountStart": 288,
+        "charCountStart": 1503,
+        "changes": [],
+        "id": 496
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "5-Images/1373839.png",
+        "wordCountStart": 2461769,
+        "charCountStart": 11377253,
+        "changes": [],
+        "id": 497
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 5,
+            "c": 42
+          }
+        ],
+        "id": 498
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 499
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "2-Main/3-Resources/Colleges/Cincinnati.md",
+        "wordCountStart": 41,
+        "charCountStart": 275,
+        "changes": [],
+        "id": 500
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "2-Main/3-Resources/Colleges/Kansas University.md",
+        "wordCountStart": 31,
+        "charCountStart": 221,
+        "changes": [],
+        "id": 501
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "2-Main/3-Resources/Colleges/San Francisco State.md",
+        "wordCountStart": 46,
+        "charCountStart": 301,
+        "changes": [],
+        "id": 502
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "2-Main/3-Resources/Colleges/Wyoming.md",
+        "wordCountStart": 33,
+        "charCountStart": 221,
+        "changes": [],
+        "id": 503
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "1-Rough/Current/UMKC.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 504
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "1-Rough/Current/Cambridge.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 505
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "1-Rough/Current/Columbia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 506
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+        "wordCountStart": 1325,
+        "charCountStart": 6868,
+        "changes": [],
+        "id": 507
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 17968,
+        "charCountStart": 588910,
+        "changes": [],
+        "id": 508
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 17968,
+        "charCountStart": 588910,
+        "changes": [],
+        "id": 509
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 510
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest.md",
+        "wordCountStart": 256,
+        "charCountStart": 1416,
+        "changes": [],
+        "id": 511
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Misadventurers/1-Sessions/Monarch's Forest Part 2.md",
+        "wordCountStart": 1296,
+        "charCountStart": 7065,
+        "changes": [],
+        "id": 512
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/DND Loot Table.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:15",
+            "w": 21,
+            "c": 936
+          },
+          {
+            "timeKey": "13:20",
+            "w": 84,
+            "c": 4368
+          },
+          {
+            "timeKey": "17:40",
+            "w": -1,
+            "c": -1122
+          },
+          {
+            "timeKey": "17:45",
+            "w": -104,
+            "c": -4180
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:25",
+            "w": 892,
+            "c": 21827
+          }
+        ],
+        "id": 513
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/2-Main/Sterkgalinn.md",
+        "wordCountStart": 200,
+        "charCountStart": 6002,
+        "changes": [],
+        "id": 514
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/DND Common Rules.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 553,
+            "c": 3747
+          }
+        ],
+        "id": 515
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 1819,
+        "charCountStart": 9205,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 4,
+            "c": 26
+          },
+          {
+            "timeKey": "18:40",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 516
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/2-Main/Orsian Users.md",
+        "wordCountStart": 294,
+        "charCountStart": 6457,
+        "changes": [],
+        "id": 517
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "4-DND/Ors/2-Main/Pusher.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 54,
+            "c": 308
+          },
+          {
+            "timeKey": "18:45",
+            "w": 12,
+            "c": 84
+          }
+        ],
+        "id": 518
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "3-Journal/2025-07/2025-07-27.md",
+        "wordCountStart": 63,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -7,
+            "c": -14
+          },
+          {
+            "timeKey": "18:50",
+            "w": 1,
+            "c": 16
+          },
+          {
+            "timeKey": "19:05",
+            "w": 5,
+            "c": 38
+          },
+          {
+            "timeKey": "19:10",
+            "w": 17,
+            "c": 81
+          },
+          {
+            "timeKey": "19:15",
+            "w": 4,
+            "c": 30
+          },
+          {
+            "timeKey": "22:40",
+            "w": 79,
+            "c": 364
+          },
+          {
+            "timeKey": "22:45",
+            "w": 136,
+            "c": 634
+          },
+          {
+            "timeKey": "22:50",
+            "w": 21,
+            "c": 94
+          }
+        ],
+        "id": 519
+      },
+      {
+        "date": "2025-07-27",
+        "filePath": "2-Main/3-Resources/Math/Trig/Unit Circle.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 33,
+            "c": 170
+          },
+          {
+            "timeKey": "18:50",
+            "w": 40,
+            "c": 217
+          }
+        ],
+        "id": 520
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "Home.md",
+        "wordCountStart": 188,
+        "charCountStart": 1354,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": -7,
+            "c": -40
+          },
+          {
+            "timeKey": "19:05",
+            "w": 14,
+            "c": 80
+          }
+        ],
+        "id": 522
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 355,
+        "charCountStart": 2492,
+        "changes": [],
+        "id": 523
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "3-Journal/2025-07/2025-07-28.md",
+        "wordCountStart": 63,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": -7,
+            "c": -25
+          },
+          {
+            "timeKey": "18:40",
+            "w": 2,
+            "c": 35
+          },
+          {
+            "timeKey": "19:00",
+            "w": 1,
+            "c": 26
+          },
+          {
+            "timeKey": "20:55",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "22:05",
+            "w": -1,
+            "c": -1
+          },
+          {
+            "timeKey": "22:10",
+            "w": 122,
+            "c": 586
+          },
+          {
+            "timeKey": "22:15",
+            "w": 106,
+            "c": 521
+          }
+        ],
+        "id": 524
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "wordCountStart": 51,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 525
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "1-Rough/Escape the Tavern.md",
+        "wordCountStart": 195,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 526
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2375,
+        "changes": [],
+        "id": 527
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "1-Rough/Protagonist.md",
+        "wordCountStart": 7,
+        "charCountStart": 69,
+        "changes": [],
+        "id": 528
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 5,
+        "charCountStart": 42,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "22:15",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "22:20",
+            "w": 87,
+            "c": 439
+          },
+          {
+            "timeKey": "22:25",
+            "w": 83,
+            "c": 392
+          },
+          {
+            "timeKey": "22:30",
+            "w": 42,
+            "c": 208
+          }
+        ],
+        "id": 529
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/3-Resources/Colleges/Cincinnati.md",
+        "wordCountStart": 41,
+        "charCountStart": 275,
+        "changes": [],
+        "id": 530
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/3-Resources/Colleges/Purdue.md",
+        "wordCountStart": 35,
+        "charCountStart": 240,
+        "changes": [],
+        "id": 531
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/3-Resources/Colleges/Mizzou.md",
+        "wordCountStart": 37,
+        "charCountStart": 263,
+        "changes": [],
+        "id": 532
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "4-DND/Ors/2-Main/Aegir.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:40",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "18:55",
+            "w": 22,
+            "c": 127
+          },
+          {
+            "timeKey": "19:00",
+            "w": 17,
+            "c": 91
+          }
+        ],
+        "id": 533
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 4,
+            "c": 54
+          },
+          {
+            "timeKey": "16:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "18:25",
+            "w": 40,
+            "c": 286
+          },
+          {
+            "timeKey": "18:30",
+            "w": 45,
+            "c": 280
+          },
+          {
+            "timeKey": "18:35",
+            "w": 36,
+            "c": 283
+          }
+        ],
+        "id": 534
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/3-Resources/Math/Geometry/Pythagorean Theorem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 5,
+            "c": 39
+          }
+        ],
+        "id": 535
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "3-Journal/2025-07/2025-07-27.md",
+        "wordCountStart": 319,
+        "charCountStart": 1579,
+        "changes": [],
+        "id": 536
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "4-DND/Misadventurers/2-Main/Titania.md",
+        "wordCountStart": 58,
+        "charCountStart": 347,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": -52,
+            "c": -302
+          }
+        ],
+        "id": 537
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "4-DND/Ors/2-Main/right arm of Ginnungagap.md",
+        "wordCountStart": 28,
+        "charCountStart": 207,
+        "changes": [],
+        "id": 538
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "4-DND/Ors/2-Main/Ors Creation Myth.md",
+        "wordCountStart": 1950,
+        "charCountStart": 11023,
+        "changes": [],
+        "id": 539
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "4-DND/Ors/2-Main/Thalia.md",
+        "wordCountStart": 58,
+        "charCountStart": 351,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 540
+      },
+      {
+        "date": "2025-07-28",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Hector State.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 53,
+            "c": 296
+          }
+        ],
+        "id": 541
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 219,
+        "charCountStart": 1104,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 542
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "Home.md",
+        "wordCountStart": 195,
+        "charCountStart": 1394,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:10",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "15:55",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 543
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "3-Journal/2025-07/2025-07-28.md",
+        "wordCountStart": 288,
+        "charCountStart": 1499,
+        "changes": [],
+        "id": 544
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "Home.md",
+        "wordCountStart": 195,
+        "charCountStart": 1394,
+        "changes": [
+          {
+            "timeKey": "09:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:10",
+            "w": 7,
+            "c": 36
+          },
+          {
+            "timeKey": "15:55",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 545
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "2-Main/3-Resources/Math/Trig/Graphing Trigonometric Functions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 14,
+            "c": 85
+          },
+          {
+            "timeKey": "17:10",
+            "w": 37,
+            "c": 186
+          },
+          {
+            "timeKey": "17:15",
+            "w": 65,
+            "c": 394
+          },
+          {
+            "timeKey": "17:20",
+            "w": 66,
+            "c": 349
+          },
+          {
+            "timeKey": "17:25",
+            "w": 33,
+            "c": 188
+          },
+          {
+            "timeKey": "17:30",
+            "w": 22,
+            "c": 125
+          }
+        ],
+        "id": 546
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 1824,
+        "charCountStart": 9238,
+        "changes": [],
+        "id": 547
+      },
+      {
+        "date": "2025-07-29",
+        "filePath": "3-Journal/2025-07/2025-07-29.md",
+        "wordCountStart": 63,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -5,
+            "c": -4
+          },
+          {
+            "timeKey": "17:30",
+            "w": 2,
+            "c": 37
+          },
+          {
+            "timeKey": "20:55",
+            "w": 19,
+            "c": 110
+          },
+          {
+            "timeKey": "21:35",
+            "w": 123,
+            "c": 576
+          },
+          {
+            "timeKey": "21:40",
+            "w": 83,
+            "c": 400
+          }
+        ],
+        "id": 548
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "Home.md",
+        "wordCountStart": 202,
+        "charCountStart": 1429,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 9,
+            "c": 39
+          },
+          {
+            "timeKey": "14:20",
+            "w": -14,
+            "c": -79
+          },
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 28
+          },
+          {
+            "timeKey": "20:40",
+            "w": -5,
+            "c": -27
+          },
+          {
+            "timeKey": "23:00",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "23:05",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 550
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 1824,
+        "charCountStart": 9238,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 715,
+            "c": 3770
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": -28
+          }
+        ],
+        "id": 553
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "3-Journal/2025-07/2025-07-30.md",
+        "wordCountStart": 63,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": -7,
+            "c": -25
+          },
+          {
+            "timeKey": "10:10",
+            "w": 2,
+            "c": 21
+          },
+          {
+            "timeKey": "14:20",
+            "w": 10,
+            "c": 61
+          },
+          {
+            "timeKey": "14:30",
+            "w": 13,
+            "c": 72
+          },
+          {
+            "timeKey": "15:30",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "18:45",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "20:20",
+            "w": 2,
+            "c": 36
+          },
+          {
+            "timeKey": "23:00",
+            "w": 103,
+            "c": 514
+          },
+          {
+            "timeKey": "23:05",
+            "w": 84,
+            "c": 380
+          },
+          {
+            "timeKey": "23:10",
+            "w": 35,
+            "c": 166
+          },
+          {
+            "timeKey": "23:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 554
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 219,
+        "charCountStart": 1104,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 555
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:10",
+            "w": 2,
+            "c": 16
+          },
+          {
+            "timeKey": "10:15",
+            "w": 1848,
+            "c": 9324
+          },
+          {
+            "timeKey": "10:20",
+            "w": 31,
+            "c": 133
+          },
+          {
+            "timeKey": "10:25",
+            "w": 51,
+            "c": 265
+          },
+          {
+            "timeKey": "10:30",
+            "w": -57,
+            "c": -302
+          },
+          {
+            "timeKey": "10:45",
+            "w": 37,
+            "c": 205
+          },
+          {
+            "timeKey": "10:50",
+            "w": 89,
+            "c": 474
+          },
+          {
+            "timeKey": "10:55",
+            "w": 78,
+            "c": 403
+          },
+          {
+            "timeKey": "11:00",
+            "w": 46,
+            "c": 226
+          },
+          {
+            "timeKey": "11:05",
+            "w": 62,
+            "c": 313
+          },
+          {
+            "timeKey": "11:10",
+            "w": 34,
+            "c": 179
+          },
+          {
+            "timeKey": "11:15",
+            "w": 76,
+            "c": 372
+          },
+          {
+            "timeKey": "11:20",
+            "w": 81,
+            "c": 412
+          },
+          {
+            "timeKey": "11:25",
+            "w": 54,
+            "c": 260
+          },
+          {
+            "timeKey": "11:30",
+            "w": 12,
+            "c": 66
+          },
+          {
+            "timeKey": "11:35",
+            "w": -184,
+            "c": -909
+          },
+          {
+            "timeKey": "11:40",
+            "w": 56,
+            "c": 278
+          },
+          {
+            "timeKey": "11:45",
+            "w": -20,
+            "c": -91
+          },
+          {
+            "timeKey": "11:50",
+            "w": 19,
+            "c": 100
+          },
+          {
+            "timeKey": "11:55",
+            "w": 19,
+            "c": 114
+          },
+          {
+            "timeKey": "12:00",
+            "w": 92,
+            "c": 435
+          },
+          {
+            "timeKey": "12:05",
+            "w": -61,
+            "c": -282
+          },
+          {
+            "timeKey": "12:10",
+            "w": 93,
+            "c": 439
+          },
+          {
+            "timeKey": "12:20",
+            "w": 77,
+            "c": 352
+          },
+          {
+            "timeKey": "12:25",
+            "w": 101,
+            "c": 505
+          },
+          {
+            "timeKey": "12:30",
+            "w": 9,
+            "c": 47
+          },
+          {
+            "timeKey": "12:40",
+            "w": 13,
+            "c": 66
+          },
+          {
+            "timeKey": "12:45",
+            "w": -409,
+            "c": -1967
+          },
+          {
+            "timeKey": "12:50",
+            "w": 22,
+            "c": 133
+          },
+          {
+            "timeKey": "12:55",
+            "w": -22,
+            "c": -126
+          },
+          {
+            "timeKey": "13:05",
+            "w": 88,
+            "c": 462
+          },
+          {
+            "timeKey": "13:10",
+            "w": 95,
+            "c": 461
+          },
+          {
+            "timeKey": "13:15",
+            "w": 110,
+            "c": 549
+          },
+          {
+            "timeKey": "13:20",
+            "w": -23,
+            "c": -74
+          },
+          {
+            "timeKey": "13:25",
+            "w": 0,
+            "c": 11
+          },
+          {
+            "timeKey": "13:30",
+            "w": 8,
+            "c": 38
+          },
+          {
+            "timeKey": "13:35",
+            "w": -2,
+            "c": -22
+          },
+          {
+            "timeKey": "13:40",
+            "w": 2,
+            "c": 15
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "13:50",
+            "w": -2,
+            "c": -11
+          },
+          {
+            "timeKey": "14:15",
+            "w": 12,
+            "c": 95
+          }
+        ],
+        "id": 556
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+        "wordCountStart": 1212,
+        "charCountStart": 6253,
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "14:10",
+            "w": 4,
+            "c": 43
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": -21
+          },
+          {
+            "timeKey": "14:20",
+            "w": 0,
+            "c": 18
+          }
+        ],
+        "id": 557
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 355,
+        "charCountStart": 2492,
+        "changes": [],
+        "id": 558
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 23,
+        "charCountStart": 210,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 18,
+            "c": 93
+          },
+          {
+            "timeKey": "15:05",
+            "w": 51,
+            "c": 260
+          },
+          {
+            "timeKey": "15:10",
+            "w": 22,
+            "c": 129
+          },
+          {
+            "timeKey": "15:15",
+            "w": 6,
+            "c": 29
+          },
+          {
+            "timeKey": "15:20",
+            "w": 28,
+            "c": 177
+          },
+          {
+            "timeKey": "15:25",
+            "w": 15,
+            "c": 111
+          },
+          {
+            "timeKey": "15:30",
+            "w": 33,
+            "c": 183
+          },
+          {
+            "timeKey": "15:35",
+            "w": 2,
+            "c": 8
+          },
+          {
+            "timeKey": "15:40",
+            "w": 100,
+            "c": 512
+          },
+          {
+            "timeKey": "15:45",
+            "w": 47,
+            "c": 258
+          },
+          {
+            "timeKey": "15:50",
+            "w": 74,
+            "c": 396
+          },
+          {
+            "timeKey": "15:55",
+            "w": 31,
+            "c": 167
+          },
+          {
+            "timeKey": "16:00",
+            "w": 161,
+            "c": 806
+          },
+          {
+            "timeKey": "16:05",
+            "w": 35,
+            "c": 173
+          },
+          {
+            "timeKey": "16:10",
+            "w": 27,
+            "c": 130
+          },
+          {
+            "timeKey": "16:15",
+            "w": 18,
+            "c": 103
+          },
+          {
+            "timeKey": "16:20",
+            "w": 3,
+            "c": 13
+          },
+          {
+            "timeKey": "16:25",
+            "w": 27,
+            "c": 133
+          },
+          {
+            "timeKey": "18:50",
+            "w": 24,
+            "c": 123
+          },
+          {
+            "timeKey": "18:55",
+            "w": -1,
+            "c": -4
+          },
+          {
+            "timeKey": "20:45",
+            "w": 8,
+            "c": 31
+          },
+          {
+            "timeKey": "20:50",
+            "w": 44,
+            "c": 218
+          },
+          {
+            "timeKey": "20:55",
+            "w": 2,
+            "c": 21
+          }
+        ],
+        "id": 559
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+        "wordCountStart": 1325,
+        "charCountStart": 6868,
+        "changes": [],
+        "id": 560
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+        "wordCountStart": 888,
+        "charCountStart": 4911,
+        "changes": [],
+        "id": 561
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 17968,
+        "charCountStart": 588910,
+        "changes": [],
+        "id": 562
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 17968,
+        "charCountStart": 588910,
+        "changes": [],
+        "id": 563
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 564
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 21,
+            "c": 132
+          },
+          {
+            "timeKey": "15:25",
+            "w": 7,
+            "c": 40
+          },
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 565
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/2-Main/Elvagars.md",
+        "wordCountStart": 168,
+        "charCountStart": 975,
+        "changes": [],
+        "id": 566
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "2-Main/3-Resources/Math/Trig/Inverse Trigonometric Functions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 8,
+            "c": 70
+          },
+          {
+            "timeKey": "20:15",
+            "w": 60,
+            "c": 316
+          }
+        ],
+        "id": 567
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/DND Loot Table.md",
+        "wordCountStart": 892,
+        "charCountStart": 21829,
+        "changes": [],
+        "id": 568
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/DND Common Rules.md",
+        "wordCountStart": 553,
+        "charCountStart": 3747,
+        "changes": [],
+        "id": 569
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "4-DND/Ors/2-Main/Blinding Hunger.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 26,
+            "c": 160
+          }
+        ],
+        "id": 570
+      },
+      {
+        "date": "2025-07-30",
+        "filePath": "2-Main/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 571
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 798,
+        "charCountStart": 4280,
+        "changes": [],
+        "id": 572
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-30.md",
+        "wordCountStart": 306,
+        "charCountStart": 1574,
+        "changes": [],
+        "id": 573
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "Home.md",
+        "wordCountStart": 211,
+        "charCountStart": 1476,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": -9,
+            "c": -53
+          },
+          {
+            "timeKey": "19:25",
+            "w": -7,
+            "c": -36
+          }
+        ],
+        "id": 574
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 219,
+        "charCountStart": 1105,
+        "changes": [],
+        "id": 575
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-31.md",
+        "wordCountStart": 63,
+        "charCountStart": 336,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": -7,
+            "c": -25
+          },
+          {
+            "timeKey": "19:25",
+            "w": 2,
+            "c": 18
+          },
+          {
+            "timeKey": "20:05",
+            "w": 90,
+            "c": 415
+          }
+        ],
+        "id": 576
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-06/2025-06-25.md",
+        "wordCountStart": 327,
+        "charCountStart": 1544,
+        "changes": [],
+        "id": 577
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-06/2025-06-26.md",
+        "wordCountStart": 367,
+        "charCountStart": 1796,
+        "changes": [],
+        "id": 578
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-06/2025-06-27.md",
+        "wordCountStart": 239,
+        "charCountStart": 1137,
+        "changes": [],
+        "id": 579
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-06/2025-06-28.md",
+        "wordCountStart": 311,
+        "charCountStart": 1498,
+        "changes": [],
+        "id": 580
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-06/2025-06-29.md",
+        "wordCountStart": 205,
+        "charCountStart": 1015,
+        "changes": [],
+        "id": 581
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-06/2025-06-30.md",
+        "wordCountStart": 332,
+        "charCountStart": 1576,
+        "changes": [],
+        "id": 582
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-01.md",
+        "wordCountStart": 297,
+        "charCountStart": 1447,
+        "changes": [],
+        "id": 583
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-02.md",
+        "wordCountStart": 231,
+        "charCountStart": 1081,
+        "changes": [],
+        "id": 584
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-07.md",
+        "wordCountStart": 219,
+        "charCountStart": 1115,
+        "changes": [],
+        "id": 585
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-11.md",
+        "wordCountStart": 235,
+        "charCountStart": 1176,
+        "changes": [],
+        "id": 586
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-14.md",
+        "wordCountStart": 220,
+        "charCountStart": 1103,
+        "changes": [],
+        "id": 587
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-23.md",
+        "wordCountStart": 347,
+        "charCountStart": 1816,
+        "changes": [],
+        "id": 588
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-21.md",
+        "wordCountStart": 285,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 589
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-18.md",
+        "wordCountStart": 232,
+        "charCountStart": 1160,
+        "changes": [],
+        "id": 590
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-19.md",
+        "wordCountStart": 468,
+        "charCountStart": 2376,
+        "changes": [],
+        "id": 591
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-20.md",
+        "wordCountStart": 328,
+        "charCountStart": 1723,
+        "changes": [],
+        "id": 592
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-22.md",
+        "wordCountStart": 276,
+        "charCountStart": 1388,
+        "changes": [],
+        "id": 593
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-24.md",
+        "wordCountStart": 289,
+        "charCountStart": 1493,
+        "changes": [],
+        "id": 594
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-25.md",
+        "wordCountStart": 277,
+        "charCountStart": 1490,
+        "changes": [],
+        "id": 595
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-26.md",
+        "wordCountStart": 288,
+        "charCountStart": 1503,
+        "changes": [],
+        "id": 596
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-27.md",
+        "wordCountStart": 319,
+        "charCountStart": 1579,
+        "changes": [],
+        "id": 597
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-28.md",
+        "wordCountStart": 288,
+        "charCountStart": 1499,
+        "changes": [],
+        "id": 598
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "3-Journal/2025-07/2025-07-29.md",
+        "wordCountStart": 285,
+        "charCountStart": 1455,
+        "changes": [],
+        "id": 599
+      },
+      {
+        "date": "2025-07-31",
+        "filePath": "1-Rough/What I Use My Phone For.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 600
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "Home.md",
+        "wordCountStart": 195,
+        "charCountStart": 1470,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": -82
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 10
+          },
+          {
+            "timeKey": "18:20",
+            "w": 5,
+            "c": 22
+          },
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 601
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "1-Rough/What I Use My Phone For.md",
+        "wordCountStart": 2,
+        "charCountStart": 24,
+        "changes": [],
+        "id": 602
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "1-Rough/Escape the Tavern.md",
+        "wordCountStart": 195,
+        "charCountStart": 1065,
+        "changes": [],
+        "id": 603
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2412,
+        "changes": [],
+        "id": 604
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 219,
+        "charCountStart": 1111,
+        "changes": [],
+        "id": 605
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "1-Rough/Protagonist.md",
+        "wordCountStart": 7,
+        "charCountStart": 73,
+        "changes": [],
+        "id": 606
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 492,
+        "charCountStart": 2621,
+        "changes": [],
+        "id": 607
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/1-Ramblings/On Worldbuilding.md",
+        "wordCountStart": 183,
+        "charCountStart": 989,
+        "changes": [],
+        "id": 608
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+        "wordCountStart": 1218,
+        "charCountStart": 6325,
+        "changes": [],
+        "id": 609
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4572,
+        "changes": [],
+        "id": 610
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 2539,
+        "charCountStart": 13015,
+        "changes": [],
+        "id": 611
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/Misc/Linux X Windows.md",
+        "wordCountStart": 102,
+        "charCountStart": 1725,
+        "changes": [],
+        "id": 612
+      },
+      {
+        "date": "2025-08-01",
+        "filePath": "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
+        "wordCountStart": 2537,
+        "charCountStart": 12996,
+        "changes": [],
+        "id": 613
+      }
+    ]
+  }
+}
