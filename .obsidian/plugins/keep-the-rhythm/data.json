@@ -7770,8 +7770,13 @@
           },
           {
             "timeKey": "17:35",
-            "w": 12,
-            "c": 18
+            "w": 22,
+            "c": 204
+          },
+          {
+            "timeKey": "17:40",
+            "w": 11,
+            "c": 158
           }
         ],
         "id": 627
@@ -7803,6 +7808,14 @@
           }
         ],
         "id": 629
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Powers.md",
+        "wordCountStart": 49,
+        "charCountStart": 395,
+        "changes": [],
+        "id": 630
       }
     ]
   }
