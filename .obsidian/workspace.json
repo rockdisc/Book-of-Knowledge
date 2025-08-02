@@ -49,7 +49,8 @@
               "title": "2025-08-01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -310,11 +311,11 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "f9e90b1f0fcfe5c3",
+  "active": "4af2af5bbe751db7",
   "lastOpenFiles": [
     "3-Journal/2025-08-01.md",
-    "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "Home.md",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/2-Main/Blinding Gluttony.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
