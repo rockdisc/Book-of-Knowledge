@@ -37,11 +37,11 @@ svg * {
 .theme-dark {
 
     --background-primary: #1a1a1a;
-  --background-modifier-border: #341349;
+  --background-modifier-border: #3d3d3d;
   --background-primary-alt: #474747;
   --background-secondary: #0e0e0e;
-  --background-secondary-alt: #0b000e;
-  --background-modifier-box-shadow: rgba(223, 223, 223, 0.85);
+  --background-secondary-alt: #160c0c;
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.85);
   --background-nav-alt: rgb(75, 154, 173);
   --background-nav-file-tag: rgb(104, 7, 160);
   --background-nav-selected:  #833ed8;
@@ -63,8 +63,8 @@ svg * {
     
     --h1-color: white;
     --h2-color: rgb(137, 59, 189);
-    --h3-color: rgb(137, 59, 189);
-    --h4-color: #d68d51ba;
+    --h3-color: rgb(123, 45, 175);
+    --h4-color: #d39869ba;
     --h5-color: #dcddde;
   
 }
