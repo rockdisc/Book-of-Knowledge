@@ -8096,6 +8096,28 @@
         "charCountStart": 524,
         "changes": [],
         "id": 643
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/DND Common Rules.md",
+        "wordCountStart": 553,
+        "charCountStart": 3747,
+        "changes": [],
+        "id": 644
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Theme Song List.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:55",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 645
       }
     ]
   }
