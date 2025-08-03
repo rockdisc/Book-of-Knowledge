@@ -54,9 +54,10 @@ cellStyleRules: []
 
 > [!todo]  Today
 > - [ ] The story of the Owl and the Crow
-> - [ ] Make a Audio player for DND 
 > - [ ] Clean my desk
-> - [ ] Make an audio player for myself
+> - [ ] Configure my music player
+> - [ ] Create a locally run LLM 
+> - [ ] Add new songs with different names.
  
 > [!warning]  Run On
 
