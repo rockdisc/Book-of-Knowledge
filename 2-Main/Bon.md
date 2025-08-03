@@ -10,7 +10,7 @@ Is a missionary of the [[Boreal]] church that looked up to the mercenaries now j
 one of the [[Variables]]
 
 Bonded Object: Holy Symbol 
-Magic Item: 
+Magic Item: Mirror that shows a little mirage of incoming enemy
 
 ## Power(s):
 

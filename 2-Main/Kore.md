@@ -10,7 +10,7 @@ Vagabond born in [[Kyling]] but moved up North to [[Dvalinn]]
 one of the [[Variables]]
 
 Magic Item: Pet Tree named Zane 
-Bonded Object: Dented Coin from her mo
+Bonded Object: Dented Coin from his mom 
 
 ## Power(s):
 Fortuna 

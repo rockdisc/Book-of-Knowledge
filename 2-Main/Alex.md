@@ -9,7 +9,7 @@ Born in [[Kyling]] town that was burned down by a dragon and was separated from 
 One of the [[Variables]]
 
 Bonded Object: Strings of Glasses 
-Magic Item: 
+Magic Item: Amulet of water 
 
 ## Power(s):
 Gorgan 

@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Kore.md",
+                "file": "2-Main/Alex.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kore"
+              "title": "Graph of Alex"
             }
           },
           {
@@ -398,11 +398,11 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "5465bd7344979162",
+  "active": "ed1d851e8bc820ae",
   "lastOpenFiles": [
-    "2-Main/Alex.md",
-    "2-Main/Kore.md",
     "2-Main/Bon.md",
+    "2-Main/Kore.md",
+    "2-Main/Alex.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/Variables.md",
     "4-DND/DM Screen.canvas",
