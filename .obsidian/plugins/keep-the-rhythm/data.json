@@ -7036,7 +7036,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7570,7 +7570,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 28,
         "charCountStart": 180,
         "changes": [],
@@ -8044,7 +8044,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 28,
         "charCountStart": 173,
         "changes": [
@@ -8192,6 +8192,28 @@
           }
         ],
         "id": 650
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/2-Main/Muse's Mask.md",
+        "wordCountStart": 109,
+        "charCountStart": 599,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": -13,
+            "c": -64
+          }
+        ],
+        "id": 651
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
+        "wordCountStart": 28,
+        "charCountStart": 175,
+        "changes": [],
+        "id": 652
       }
     ]
   }
