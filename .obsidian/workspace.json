@@ -38,8 +38,7 @@
               "title": "2025-08-03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-03.md",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-03"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -300,10 +299,10 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "54748c0b82b4a3db",
+  "active": "81dea3f2c2f40cda",
   "lastOpenFiles": [
-    "Home.md",
     "3-Journal/2025-08-03.md",
+    "Home.md",
     "4-DND/Ors/Theme Song List.md",
     "4-DND/DM Screen.canvas",
     "3-Journal/2025-08",
