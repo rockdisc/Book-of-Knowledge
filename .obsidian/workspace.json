@@ -11,17 +11,14 @@
             "id": "81dea3f2c2f40cda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
-                "viewState": {
-                  "x": 1019.3702540205978,
-                  "y": 251.054936716898,
-                  "zoom": -0.8724797452641792
-                }
+                "file": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DM Screen"
+              "icon": "lucide-file",
+              "title": "Scribe's Accomplice"
             }
           },
           {
@@ -160,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DM Screen"
+              "title": "Graph of Scribe's Accomplice"
             }
           },
           {
@@ -301,8 +298,8 @@
   },
   "active": "81dea3f2c2f40cda",
   "lastOpenFiles": [
-    "4-DND/Ors/2-Main/Scribe's Accomplice.md",
     "4-DND/DM Screen.canvas",
+    "4-DND/Ors/2-Main/Scribe's Accomplice.md",
     "4-DND/Ors/2-Main/Muse's Mask.md",
     "4-DND/Ors/2-Main/Puppet's String.md",
     "3-Journal/2025-08-03.md",

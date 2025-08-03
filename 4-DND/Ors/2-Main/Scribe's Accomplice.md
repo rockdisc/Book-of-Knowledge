@@ -4,5 +4,4 @@ It is an [[Artifact]] which allows for one to write to each other over long dist
 
 ## Curse 
 
-
-It is uncomfortably hot to the touch. 
+When using it, the user is not able to obs

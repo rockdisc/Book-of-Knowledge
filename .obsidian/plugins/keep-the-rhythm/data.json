@@ -8212,7 +8212,13 @@
         "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 28,
         "charCountStart": 175,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": -6,
+            "c": -33
+          }
+        ],
         "id": 652
       }
     ]
