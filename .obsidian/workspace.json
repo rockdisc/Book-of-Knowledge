@@ -38,8 +38,7 @@
               "title": "Theme Song List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             }
           },
           {
-            "id": "1993d27002b2181f",
+            "id": "97d08b55352e92e5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Theme Song List.md",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Theme Song List"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -300,7 +299,7 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "8c575251d9856c91",
+  "active": "81dea3f2c2f40cda",
   "lastOpenFiles": [
     "2-Main/Theme Song List.md",
     "4-DND/DM Screen.canvas",

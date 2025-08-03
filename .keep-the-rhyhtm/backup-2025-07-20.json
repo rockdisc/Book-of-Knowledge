@@ -7600,7 +7600,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "3-Journal/2025-08-01.md",
+        "filePath": "3-Journal/2025-08/2025-08-01.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -7673,6 +7673,21 @@
             "timeKey": "18:45",
             "w": -5,
             "c": -35
+          },
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:45",
+            "w": -3,
+            "c": -10
+          },
+          {
+            "timeKey": "21:50",
+            "w": 8,
+            "c": 45
           }
         ],
         "id": 621
@@ -7748,7 +7763,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "3-Journal/2025-08-02.md",
+        "filePath": "3-Journal/2025-08/2025-08-02.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -7776,13 +7791,33 @@
             "timeKey": "18:45",
             "w": 2,
             "c": 13
+          },
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 49
+          },
+          {
+            "timeKey": "22:55",
+            "w": 74,
+            "c": 352
+          },
+          {
+            "timeKey": "23:00",
+            "w": 93,
+            "c": 452
+          },
+          {
+            "timeKey": "23:05",
+            "w": 46,
+            "c": 230
           }
         ],
         "id": 624
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Verifying Trig Identities.md",
+        "filePath": "2-Main/3-Resources/Math/Verifying Trig Identities.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7819,7 +7854,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Augurs.md",
+        "filePath": "4-DND/Ors/2-Main/Augurs.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7936,7 +7971,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Dream Veil.md",
+        "filePath": "4-DND/Ors/2-Main/Dream Veil.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7971,7 +8006,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Puppet's String.md",
+        "filePath": "4-DND/Ors/2-Main/Puppet's String.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8023,7 +8058,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Muse's Mask.md",
+        "filePath": "4-DND/Ors/2-Main/Muse's Mask.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8061,6 +8096,33 @@
         "charCountStart": 524,
         "changes": [],
         "id": 643
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/DND Common Rules.md",
+        "wordCountStart": 553,
+        "charCountStart": 3747,
+        "changes": [],
+        "id": 644
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Theme Song List.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 2,
+            "c": 33
+          },
+          {
+            "timeKey": "23:55",
+            "w": 7,
+            "c": 105
+          }
+        ],
+        "id": 645
       }
     ]
   }

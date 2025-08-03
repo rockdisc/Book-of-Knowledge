@@ -6666,6 +6666,7 @@ Stores
 Stables
 Stymphal
 Stymphalian
+Song
 Interesting
 In
 If
@@ -32920,6 +32921,7 @@ Tomorrow
 Theme
 Tyler
 Tamer
+Type
 goat
 going
 get
@@ -51264,6 +51266,8 @@ Lesser
 Labors
 Lion
 Lernea
+Link
+Lucifer
 Johan
 Jupiter
 Jotuns
