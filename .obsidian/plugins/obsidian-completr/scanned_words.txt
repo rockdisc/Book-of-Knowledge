@@ -1336,6 +1336,7 @@ Birds
 Bull
 Belt
 Bund
+Burn
 Ela
 Essay
 East
@@ -47690,6 +47691,7 @@ Hippolyte
 Hesperides
 Humility
 Herbert
+Herta
 Die
 Diathermal
 Do
@@ -52607,6 +52609,7 @@ JsX
 Jerky
 Jar
 Jerked
+Janus
 quarter
 questions
 quickly
