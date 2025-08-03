@@ -7600,7 +7600,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "3-Journal/2025-08-01.md",
+        "filePath": "3-Journal/2025-08/2025-08-01.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -7763,7 +7763,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "3-Journal/2025-08-02.md",
+        "filePath": "3-Journal/2025-08/2025-08-02.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -7804,15 +7804,20 @@
           },
           {
             "timeKey": "23:00",
-            "w": 48,
-            "c": 210
+            "w": 93,
+            "c": 452
+          },
+          {
+            "timeKey": "23:05",
+            "w": 46,
+            "c": 230
           }
         ],
         "id": 624
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Verifying Trig Identities.md",
+        "filePath": "2-Main/3-Resources/Math/Verifying Trig Identities.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
