@@ -59,6 +59,13 @@
         "type": "FILES",
         "pattern": "4-DND/DM Screen.canvas",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "4-DND/Ors/Theme Song List.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
