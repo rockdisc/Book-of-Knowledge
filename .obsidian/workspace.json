@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Alex.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Alex"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -384,11 +384,11 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "c2ccd5ee8404a465",
+  "active": "efc4f8dbca04dac3",
   "lastOpenFiles": [
+    "2-Main/Alex.md",
     "2-Main/Bon.md",
     "4-DND/Ors/Variables.md",
-    "2-Main/Alex.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/DM Screen.canvas",
     "Home.md",

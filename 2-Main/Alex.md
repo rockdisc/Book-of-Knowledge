@@ -11,5 +11,7 @@ One of the [[Variables]]
 
 
 ## Power(s):
-
+Gorgan 
 [[Nixie]]
+
+Eye Control 
