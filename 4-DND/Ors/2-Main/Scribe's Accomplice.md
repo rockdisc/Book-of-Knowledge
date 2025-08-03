@@ -4,4 +4,4 @@ It is an [[Artifact]] which allows for one to write to each other over long dist
 
 ## Curse 
 
-When using it, the user is not able to obs
+When using it, the user is not able to observe or feel anything aside from the paper and the pen. 
