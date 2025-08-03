@@ -9,6 +9,8 @@ Is a missionary of the [[Boreal]] church that looked up to the mercenaries now j
 ### Faction(s): Arouran 
 one of the [[Variables]]
 
+Bonded Object: Holy Symbol 
+Magic Item: 
 
 ## Power(s):
 

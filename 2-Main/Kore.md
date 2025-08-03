@@ -7,10 +7,10 @@ Elf/Druid
 Vagabond born in [[Kyling]] but moved up North to [[Dvalinn]]
 
 ### Faction(s): Arouran 
-one of the 
+one of the [[Variables]]
 
-
-
+Magic Item: Pet Tree named Zane 
+Bonded Object: Dented Coin from her mo
 
 ## Power(s):
 Fortuna 
