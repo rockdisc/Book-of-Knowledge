@@ -8226,7 +8226,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
         "wordCountStart": 1005,
         "charCountStart": 5385,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 1,
+            "c": 9
+          }
+        ],
         "id": 653
       },
       {
@@ -8258,7 +8264,13 @@
         "filePath": "4-DND/Ors/Variables.md",
         "wordCountStart": 330,
         "charCountStart": 6502,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 1,
+            "c": 0
+          }
+        ],
         "id": 655
       },
       {
@@ -8281,9 +8293,33 @@
             "timeKey": "15:05",
             "w": 3,
             "c": 21
+          },
+          {
+            "timeKey": "15:10",
+            "w": 2,
+            "c": 14
           }
         ],
         "id": 656
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "2-Main/Kore.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 25,
+            "c": 195
+          },
+          {
+            "timeKey": "15:15",
+            "w": 6,
+            "c": 29
+          }
+        ],
+        "id": 657
       }
     ]
   }
