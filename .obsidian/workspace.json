@@ -16,7 +16,7 @@
                 "file": "4-DND/DM Screen.canvas",
                 "viewState": {
                   "x": 1076.1402499248418,
-                  "y": 149.90843284810316,
+                  "y": 96.93437991743714,
                   "zoom": -0.37247974526417915
                 }
               },
@@ -136,8 +136,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Alex.md",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +286,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Alex"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -398,11 +397,11 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "ed1d851e8bc820ae",
+  "active": "81dea3f2c2f40cda",
   "lastOpenFiles": [
+    "2-Main/Alex.md",
     "2-Main/Bon.md",
     "2-Main/Kore.md",
-    "2-Main/Alex.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/Variables.md",
     "4-DND/DM Screen.canvas",
