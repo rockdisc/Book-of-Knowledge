@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-08-03"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-03"
             }
           },
           {
@@ -302,9 +302,10 @@
   },
   "active": "54748c0b82b4a3db",
   "lastOpenFiles": [
+    "Home.md",
+    "3-Journal/2025-08-03.md",
     "4-DND/Ors/Theme Song List.md",
     "4-DND/DM Screen.canvas",
-    "Home.md",
     "3-Journal/2025-08",
     "3-Journal/2025-08/2025-08-02.md",
     "2-Main/3-Resources/Math/Verifying Trig Identities.md",

@@ -55,7 +55,6 @@ cellStyleRules: []
 > [!todo]  Today
 > - [ ] The story of the Owl and the Crow
 > - [ ] Clean my desk
-> - [ ] Create a locally run LLM 
  
 > [!warning]  Run On
 
