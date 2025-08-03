@@ -6,9 +6,9 @@ It slowly becomes more and more sentient the more times a person channels their 
 
 | Uses | Tracker | Effect                                  |
 | ---- | ------- | --------------------------------------- |
-| 1    |         | Normal                                  |
-| 2    |         | Normal                                  |
-| 3    |         | Looks Around                            |
+| 1    | x       | Normal                                  |
+| 2    | x       | Normal                                  |
+| 3    | x       | Looks Around                            |
 | 4    |         | Moves Around                            |
 | 5    |         | Mind of a Puppy                         |
 | 6    |         | Can start to take orders                |
