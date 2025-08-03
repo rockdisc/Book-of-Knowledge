@@ -7668,9 +7668,399 @@
             "timeKey": "11:55",
             "w": -5,
             "c": -25
+          },
+          {
+            "timeKey": "18:45",
+            "w": -5,
+            "c": -35
           }
         ],
         "id": 621
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 798,
+        "charCountStart": 4375,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 16,
+            "c": 4
+          },
+          {
+            "timeKey": "17:50",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "18:00",
+            "w": 32,
+            "c": 169
+          },
+          {
+            "timeKey": "18:05",
+            "w": 11,
+            "c": 57
+          },
+          {
+            "timeKey": "18:10",
+            "w": 5,
+            "c": 27
+          },
+          {
+            "timeKey": "18:20",
+            "w": 21,
+            "c": 107
+          },
+          {
+            "timeKey": "18:25",
+            "w": 3,
+            "c": 16
+          },
+          {
+            "timeKey": "18:30",
+            "w": 45,
+            "c": 228
+          },
+          {
+            "timeKey": "18:35",
+            "w": 43,
+            "c": 225
+          },
+          {
+            "timeKey": "18:40",
+            "w": 15,
+            "c": 88
+          },
+          {
+            "timeKey": "18:45",
+            "w": 12,
+            "c": 65
+          }
+        ],
+        "id": 623
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "3-Journal/2025-08-02.md",
+        "wordCountStart": 63,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": -5,
+            "c": -25
+          },
+          {
+            "timeKey": "17:15",
+            "w": 2,
+            "c": 30
+          },
+          {
+            "timeKey": "17:40",
+            "w": 5,
+            "c": 27
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": 11
+          },
+          {
+            "timeKey": "18:45",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 624
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Verifying Trig Identities.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:00",
+            "w": 95,
+            "c": 488
+          },
+          {
+            "timeKey": "17:05",
+            "w": 56,
+            "c": 313
+          },
+          {
+            "timeKey": "17:10",
+            "w": 6,
+            "c": 23
+          }
+        ],
+        "id": 625
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "wordCountStart": 126,
+        "charCountStart": 971,
+        "changes": [],
+        "id": 626
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Augurs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 32,
+            "c": 197
+          },
+          {
+            "timeKey": "17:20",
+            "w": 26,
+            "c": 142
+          },
+          {
+            "timeKey": "17:25",
+            "w": 31,
+            "c": 164
+          },
+          {
+            "timeKey": "17:30",
+            "w": 12,
+            "c": 344
+          },
+          {
+            "timeKey": "17:35",
+            "w": 22,
+            "c": 204
+          },
+          {
+            "timeKey": "17:40",
+            "w": 19,
+            "c": 350
+          },
+          {
+            "timeKey": "17:45",
+            "w": 28,
+            "c": 293
+          },
+          {
+            "timeKey": "17:50",
+            "w": 9,
+            "c": 419
+          }
+        ],
+        "id": 627
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Elvagars.md",
+        "wordCountStart": 168,
+        "charCountStart": 981,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": -14,
+            "c": -83
+          }
+        ],
+        "id": 628
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6536,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": -34
+          }
+        ],
+        "id": 629
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Powers.md",
+        "wordCountStart": 49,
+        "charCountStart": 395,
+        "changes": [],
+        "id": 630
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Sterkgalinn.md",
+        "wordCountStart": 200,
+        "charCountStart": 6034,
+        "changes": [],
+        "id": 631
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18513,
+        "charCountStart": 594182,
+        "changes": [],
+        "id": 632
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18513,
+        "charCountStart": 594182,
+        "changes": [],
+        "id": 633
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+        "wordCountStart": 1325,
+        "charCountStart": 6961,
+        "changes": [],
+        "id": 634
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Dream Veil.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 16,
+            "c": 93
+          },
+          {
+            "timeKey": "18:10",
+            "w": 20,
+            "c": 99
+          }
+        ],
+        "id": 635
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 454,
+        "charCountStart": 3054,
+        "changes": [],
+        "id": 636
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/DND Loot Table.md",
+        "wordCountStart": 892,
+        "charCountStart": 21829,
+        "changes": [],
+        "id": 637
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Puppet's String.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 13,
+            "c": 84
+          },
+          {
+            "timeKey": "18:15",
+            "w": 78,
+            "c": 735
+          },
+          {
+            "timeKey": "18:20",
+            "w": 15,
+            "c": 287
+          }
+        ],
+        "id": 638
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Blinding Gluttony.md",
+        "wordCountStart": 26,
+        "charCountStart": 160,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 639
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "wordCountStart": 28,
+        "charCountStart": 173,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 640
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "2-Main/Muse's Mask.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 66,
+            "c": 383
+          },
+          {
+            "timeKey": "18:30",
+            "w": 43,
+            "c": 216
+          }
+        ],
+        "id": 641
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "1-Rough/Arouran Users.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 18,
+            "c": 130
+          }
+        ],
+        "id": 642
+      },
+      {
+        "date": "2025-08-02",
+        "filePath": "4-DND/Ors/2-Main/Arouran Military Structure.md",
+        "wordCountStart": 85,
+        "charCountStart": 524,
+        "changes": [],
+        "id": 643
       }
     ]
   }
