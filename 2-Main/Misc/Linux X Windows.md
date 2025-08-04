@@ -19,6 +19,7 @@
 | Drawing          | Krita              | Krita                               |
 | Socials          | Discord            | Discord                             |
 | Spotlight Search | Flow Launcher      | Ulauncher                           |
-| Key Rebinding    | Powertoys          | In settings                         |
+| Key Rebinding    | AutoHotKey         | In settings                         |
 | AI chat          | Jester             | Jester                              |
 | Music            | AIMP               | AIMP                                |
+| Game Launcher    | OneGameLaucher     | Terminal                            |

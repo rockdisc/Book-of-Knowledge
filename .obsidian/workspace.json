@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/Misc/Linux X Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Linux X Windows"
             }
           }
         ]
@@ -143,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/Misc/Linux X Windows.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Linux X Windows"
             }
           },
           {
@@ -284,10 +284,10 @@
   },
   "active": "dffd7f08821d9cc0",
   "lastOpenFiles": [
+    "Home.md",
     "4-DND/Ors/2-Main/Kore.md",
     "4-DND/Ors/2-Main/Bon.md",
     "4-DND/Ors/2-Main/Alex.md",
-    "Home.md",
     "1-Rough/Escape the Tavern.md",
     "2-Main/Misc/Linux X Windows.md",
     "3-Journal/2025-08/2025-08-03.md",
