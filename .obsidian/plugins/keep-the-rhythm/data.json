@@ -8177,7 +8177,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "3-Journal/2025-08-03.md",
+        "filePath": "3-Journal/2025-08/2025-08-03.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -8267,7 +8267,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "2-Main/Bon.md",
+        "filePath": "4-DND/Ors/2-Main/Bon.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8320,7 +8320,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "2-Main/Alex.md",
+        "filePath": "4-DND/Ors/2-Main/Alex.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8359,7 +8359,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "2-Main/Kore.md",
+        "filePath": "4-DND/Ors/2-Main/Kore.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8418,6 +8418,30 @@
           }
         ],
         "id": 659
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "4-DND/Ors/2-Main/Alex.md",
+        "wordCountStart": 52,
+        "charCountStart": 348,
+        "changes": [],
+        "id": 660
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "4-DND/Ors/2-Main/Bon.md",
+        "wordCountStart": 57,
+        "charCountStart": 398,
+        "changes": [],
+        "id": 661
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "4-DND/Ors/2-Main/Kore.md",
+        "wordCountStart": 45,
+        "charCountStart": 309,
+        "changes": [],
+        "id": 662
       }
     ]
   }
