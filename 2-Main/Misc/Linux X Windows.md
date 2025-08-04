@@ -23,3 +23,4 @@
 | AI chat          | Jester             | Jester                              |
 | Music            | AIMP               | AIMP                                |
 | Game Launcher    | OneGameLaucher     | Terminal                            |
+| Email            | Thunderbird        | Thunderbird                         |
