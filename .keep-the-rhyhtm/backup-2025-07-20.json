@@ -8177,7 +8177,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "3-Journal/2025-08-03.md",
+        "filePath": "3-Journal/2025-08/2025-08-03.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -8267,7 +8267,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "2-Main/Bon.md",
+        "filePath": "4-DND/Ors/2-Main/Bon.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8320,7 +8320,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "2-Main/Alex.md",
+        "filePath": "4-DND/Ors/2-Main/Alex.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8359,7 +8359,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "2-Main/Kore.md",
+        "filePath": "4-DND/Ors/2-Main/Kore.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8405,9 +8405,67 @@
             "timeKey": "11:05",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "11:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:25",
+            "w": -17,
+            "c": -89
           }
         ],
         "id": 659
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "4-DND/Ors/2-Main/Alex.md",
+        "wordCountStart": 52,
+        "charCountStart": 348,
+        "changes": [],
+        "id": 660
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "4-DND/Ors/2-Main/Bon.md",
+        "wordCountStart": 57,
+        "charCountStart": 398,
+        "changes": [],
+        "id": 661
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "4-DND/Ors/2-Main/Kore.md",
+        "wordCountStart": 45,
+        "charCountStart": 309,
+        "changes": [],
+        "id": 662
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "2-Main/Misc/Linux X Windows.md",
+        "wordCountStart": 105,
+        "charCountStart": 1782,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 4,
+            "c": 80
+          },
+          {
+            "timeKey": "14:25",
+            "w": 3,
+            "c": 80
+          }
+        ],
+        "id": 663
       }
     ]
   }
