@@ -3,7 +3,7 @@
 #### Lesson: Sacrifice is not Valiant if Done with Greed 
 
 
-I sank into the cooling bath. It was freezing but Mother told me that it would help with my skin. When she found me there was a coating of grime and soot on my body, but now it is almost as smooth as hers though mine is not as dark. It was not dark like the people in the village, instead it was a shade of midnight, like the sky fell and formed into a human. I think that is the case because when I asked she just chucked and said that was how she was born. She has a really nice laugh. It
+I sank into the cooling bath. It was freezing but Mother told me that it would help with my skin. When she found me there was a coating of grime and soot on my body, but now it is almost as smooth as hers though mine is not as dark. It was not dark like the people in the village, instead it was a shade of midnight, like the sky fell and formed into a human. I think that is the case because when I asked she just chucked and said that was how she was born. She has a really nice laugh. It was nothing like my father, no, Mother told be not to call that man my father anymore. I grab the bar of soap and start cleaning. I wonder what story she will tell me today. The first night I was still scared of her 
 
 
 
