@@ -8471,6 +8471,20 @@
           }
         ],
         "id": 663
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "1-Rough/The Crow and the Owl.md",
+        "wordCountStart": 219,
+        "charCountStart": 1105,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 2,
+            "c": 9
+          }
+        ],
+        "id": 665
       }
     ]
   }
