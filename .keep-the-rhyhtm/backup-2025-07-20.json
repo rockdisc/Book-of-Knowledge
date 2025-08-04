@@ -7036,7 +7036,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7570,7 +7570,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 28,
         "charCountStart": 180,
         "changes": [],
@@ -8044,7 +8044,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "4-DND/Ors/2-Main/Syncing Tablet.md",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
         "wordCountStart": 28,
         "charCountStart": 173,
         "changes": [
@@ -8107,7 +8107,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/Theme Song List.md",
+        "filePath": "4-DND/Ors/Theme Song List.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8123,6 +8123,233 @@
           }
         ],
         "id": 645
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/Theme Song List.md",
+        "wordCountStart": 9,
+        "charCountStart": 138,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 2,
+            "c": 1
+          }
+        ],
+        "id": 646
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 458,
+        "charCountStart": 3090,
+        "changes": [],
+        "id": 647
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "Home.md",
+        "wordCountStart": 201,
+        "charCountStart": 1425,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": -14,
+            "c": -78
+          },
+          {
+            "timeKey": "12:30",
+            "w": -7,
+            "c": -34
+          }
+        ],
+        "id": 648
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "3-Journal/2025-08-03.md",
+        "wordCountStart": 63,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "12:30",
+            "w": -7,
+            "c": -46
+          }
+        ],
+        "id": 649
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/2-Main/Puppet's String.md",
+        "wordCountStart": 106,
+        "charCountStart": 1106,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 650
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/2-Main/Muse's Mask.md",
+        "wordCountStart": 109,
+        "charCountStart": 599,
+        "changes": [
+          {
+            "timeKey": "13:35",
+            "w": -13,
+            "c": -64
+          }
+        ],
+        "id": 651
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
+        "wordCountStart": 28,
+        "charCountStart": 175,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 13,
+            "c": 60
+          }
+        ],
+        "id": 652
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 1005,
+        "charCountStart": 5385,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 1,
+            "c": 9
+          }
+        ],
+        "id": 653
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "2-Main/Bon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": 14,
+            "c": 131
+          },
+          {
+            "timeKey": "14:55",
+            "w": 28,
+            "c": 175
+          },
+          {
+            "timeKey": "15:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "15:15",
+            "w": 6,
+            "c": 41
+          },
+          {
+            "timeKey": "15:20",
+            "w": 7,
+            "c": 37
+          },
+          {
+            "timeKey": "15:25",
+            "w": 2,
+            "c": 14
+          }
+        ],
+        "id": 654
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 330,
+        "charCountStart": 6502,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 655
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "2-Main/Alex.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 10,
+            "c": 96
+          },
+          {
+            "timeKey": "15:00",
+            "w": 27,
+            "c": 154
+          },
+          {
+            "timeKey": "15:05",
+            "w": 3,
+            "c": 21
+          },
+          {
+            "timeKey": "15:10",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "15:15",
+            "w": 7,
+            "c": 47
+          },
+          {
+            "timeKey": "15:25",
+            "w": 3,
+            "c": 16
+          }
+        ],
+        "id": 656
+      },
+      {
+        "date": "2025-08-03",
+        "filePath": "2-Main/Kore.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 25,
+            "c": 195
+          },
+          {
+            "timeKey": "15:15",
+            "w": 15,
+            "c": 89
+          },
+          {
+            "timeKey": "15:20",
+            "w": 5,
+            "c": 25
+          }
+        ],
+        "id": 657
       }
     ]
   }
