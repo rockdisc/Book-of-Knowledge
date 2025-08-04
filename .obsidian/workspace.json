@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "38a018de887866bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,6 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -306,7 +297,7 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "38a018de887866bd",
+  "active": "a2a18e09612a39d8",
   "lastOpenFiles": [
     "Home.md",
     "3-Journal/2025-08-03.md",
