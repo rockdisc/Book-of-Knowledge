@@ -49,8 +49,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "3-Journal/2025-08-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,12 +194,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 0.7039340459101386,
+                  "scale": 1.5485728074570748,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linux X Windows"
+              "title": "Graph of 2025-08-03"
             }
           },
           {
@@ -311,8 +310,9 @@
       "callout-manager:Insert Callout": true
     }
   },
-  "active": "296cb5fe90deded3",
+  "active": "54748c0b82b4a3db",
   "lastOpenFiles": [
+    "2-Main/Misc/Linux X Windows.md",
     "3-Journal/2025-08-03.md",
     "Home.md",
     "4-DND/Ors/Variables.md",

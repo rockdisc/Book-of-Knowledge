@@ -21,3 +21,4 @@
 | Spotlight Search | Flow Launcher      | Ulauncher                           |
 | Key Rebinding    | Powertoys          | In settings                         |
 | AI chat          | Jester             | Jester                              |
+| Music            | AIMP               | AIMP                                |
