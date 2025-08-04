@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0fb03636eeeb178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Rough/Escape the Tavern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escape the Tavern"
-            }
-          },
-          {
             "id": "b0fd22ef256182d1",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +166,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 1.5485728074570748,
+                  "scale": 0.7039340386515152,
                   "close": true
                 }
               },
@@ -226,8 +211,8 @@
             "state": {
               "type": "keep-the-rhythm",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
             }
           },
           {
@@ -251,8 +236,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -275,30 +260,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
+      "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "callout-manager:Insert Callout": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "keep-the-rhythm:Word Count Stats": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": true,
+      "keep-the-rhythm:Word Count Stats": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "omnisearch:Omnisearch": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "b0fd22ef256182d1",
+  "active": "1eb78fabd1a2c640",
   "lastOpenFiles": [
     "1-Rough/Escape the Tavern.md",
     "Home.md",
