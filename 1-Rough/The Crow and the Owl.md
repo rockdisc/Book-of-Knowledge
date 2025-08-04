@@ -7,7 +7,7 @@ I sank into the cooling bath. It was freezing but Mother told me that it would h
 
 After a few more minutes of soaking I get out of the wooden tub and start wiping down. Looking back it I see how big it was. That man was pretty big, because of that his bathing bucket was very big too. I heard from some of my old neighbors that it was supposed to be for both him and my old mother, but in even my oldest memory of him washing me and my siblings, he could barely fit in there with one of us. This bucket would have fit five of him, now it is all for me. Mother said that she prefers to take a pour-over shower, so she left it for me to use. It would probably be a tight fit for her anyway. 
 
-I put on the tunic she set out for me, it is a pretty loose fit, but she says that it is supposed to fit me even after I am d
+I put on the tunic she set out for me, it is a pretty loose fit, but she says that it is supposed to fit me even after I am all grown up. 'Kids grow up way too fast' I remember her saying as she was sewing my clothes. None of my old clothes were brought here, most probably did not even survive the fire. I would not have either if not for Mother, she saved me in the nick of time. But she was not able to save anyone else sadly. She only had one beak. 
 
 
 
