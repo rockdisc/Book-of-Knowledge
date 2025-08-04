@@ -55,7 +55,6 @@ cellStyleRules: []
 > [!todo]  Today
 > - [ ] The story of the Owl and the Crow
 > - [ ] Clean my desk
-> - [ ] Find a Mail Client. 
  
 > [!warning]  Run On
 
@@ -64,7 +63,6 @@ cellStyleRules: []
 > - [ ] look at dual degree 
  
 > [!summary] What I want to do
-> - Figure out how everything will work when I am in school
 > - Read The Inner Game of Tennis and The Art of Thinking
 > - Read Natchez 
 
