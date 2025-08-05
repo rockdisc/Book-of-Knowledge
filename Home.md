@@ -55,6 +55,7 @@ cellStyleRules: []
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make the Perfect App
+> - [ ] Try Spiceify
  
 > [!warning]  Run On
 > - [ ] get back into the flow of reading. 
