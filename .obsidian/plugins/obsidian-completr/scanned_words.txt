@@ -1337,6 +1337,7 @@ Bull
 Belt
 Bund
 Burn
+Browser
 Ela
 Essay
 East
@@ -2586,6 +2587,7 @@ Exchange
 Esqine
 Effect
 Email
+Easy
 Classic
 Consept
 Character
@@ -12866,6 +12868,9 @@ habits
 hooked
 holy
 hosting
+homepage
+highlight
+highlighted
 never
 nothing
 not
@@ -16733,6 +16738,11 @@ traveling
 tournament
 transparency
 toggled
+typed
+templates
+templater
+toggle
+track
 be
 bright
 but
@@ -18189,6 +18199,10 @@ burnt
 backed
 bird
 biopic
+bindings
+bookmark
+bracket
+buttons
 so
 sand
 spend
@@ -19921,6 +19935,7 @@ sparrow
 songs
 sentences
 service
+sync
 vast
 very
 vibrant
@@ -22333,6 +22348,7 @@ dopamine
 dictionary
 distractions
 derive
+default
 and
 anything
 am
@@ -23666,6 +23682,11 @@ appointment
 admit
 augurs
 artifacts
+application
+apps
+account
+adjust
+albums
 mirages
 miles
 man
@@ -25015,6 +25036,9 @@ model
 missionary
 mercenaries
 mirage
+manage
+management
+menus
 for
 find
 face
@@ -26429,6 +26453,7 @@ freely
 farfetched
 fraction
 flock
+functionality
 can
 covered
 clad
@@ -28024,6 +28049,12 @@ cancel
 copying
 channel
 complicating
+canvas
+columns
+count
+customizable
+counter
+crossfade
 entire
 endless
 everything
@@ -29358,6 +29389,7 @@ ego
 essay
 elvagars
 equals
+editing
 life
 leather
 long
@@ -30618,6 +30650,7 @@ loosen
 languages
 lonely
 locally
+linking
 on
 other
 of
@@ -36877,6 +36910,9 @@ ramblings
 regurgitate
 recover
 roles
+render
+removing
+rows
 yellow
 yet
 you
@@ -40419,6 +40455,9 @@ proud
 psychic
 penetrates
 providers
+preview
+pdf
+properties
 kept
 know
 knew
@@ -43935,6 +43974,7 @@ Apples
 Augur
 AIMP
 AutoHotKey
+App
 Rough
 Readers
 Radkeha
@@ -47719,6 +47759,7 @@ Hesperides
 Humility
 Herbert
 Herta
+Hotkey
 Die
 Diathermal
 Do
@@ -51307,6 +51348,7 @@ Lion
 Lernea
 Link
 Lucifer
+LATEX
 Johan
 Jupiter
 Jotuns
@@ -54939,6 +54981,7 @@ Flaw
 Family
 Frank
 Fighter
+Fully
 Veins
 Vim
 Venus
@@ -58317,6 +58360,7 @@ YKl
 Yeq
 Yah
 Yours
+Youtube
 Using
 Until
 UNUSED
