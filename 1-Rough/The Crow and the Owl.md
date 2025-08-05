@@ -18,4 +18,4 @@ Walking into my room through the archway-like door I saw the oil lamp turned on 
 
 "One day, a lone crow was out scavenging. This crow was not very good at it though. She was so bad in fact that her partner left her with his baby, can you believe that? She had to find her own food, and she had to do it fast if she wanted to protect her egg. Yet it was not food that she found, in a small red juniper tree, nestled between its branches, sat an egg. This egg was not like her own, small and weak, this one was large and sturdy. Though she had not seen one before, she knew exactly what it was, an egg of an owl. 
 
-"'Owls were strong' she thought. 'If I had an owl on my side, I could get all of the rodents, I would not even have to worry about'
+"'Owls were strong' she thought. 'If I had an owl on my side, I could get all of the rodents, I would not even have to worry about getting food.' But she could not find the food for even herself. How could she find the food for both another crow and an owl? She could just break open the egg and eat the owl. That would give her engough 
