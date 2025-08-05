@@ -53,7 +53,6 @@ cellStyleRules: []
 ## Todo
 
 > [!todo]  Today
-> - [ ] The story of the Owl and the Crow
 > - [ ] Clean my desk
  
 > [!warning]  Run On
