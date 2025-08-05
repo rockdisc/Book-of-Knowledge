@@ -54,9 +54,10 @@ cellStyleRules: []
 
 > [!todo]  Today
 > - [ ] Clean my desk
+> - [ ] Make the Perfect App
  
 > [!warning]  Run On
-
+> - [ ] get back into the flow of reading. 
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
