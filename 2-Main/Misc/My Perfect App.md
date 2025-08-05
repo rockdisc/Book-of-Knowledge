@@ -9,6 +9,7 @@ Vim Key bindings, unless in insert mode when it acts like regular text
 Easy Hotkey changing 
 Full GUI
 It should be modular so I can move things around. 
+It should be efficient and fast. 
 ## Web Browser 
 
 Let me watch Youtube in it.
@@ -41,3 +42,7 @@ I should be able to create new files of specific types and edit them. It should 
 
 ## AI 
 
+Allow me to run a Ollama AI model on my pc in here. It should be able to chat on a modular side panel and look at what I am writing/coding. It should be able to offer fixes and in a click of a button, implement them. It should be able to convert a pdf to a markdown file, same with my handwritten notes. 
+
+# All 
+It must be It should have a majority black theme with purple accents. I should be able to use hotkeys to toggle transparency. It should have Vim Key bindings, unless in insert mode when it acts like regular text. Easy Hotkey changing by going into the settings. Full GUI that is modular so I can move things around with my mouse. 
