@@ -9,7 +9,11 @@ After a few more minutes of soaking I get out of the wooden tub and start wiping
 
 I put on the tunic she set out for me, it is a pretty loose fit, but she says that it is supposed to fit me even after I am all grown up. 'Kids grow up way too fast' I remember her saying as she was sewing my clothes. None of my old clothes were brought here, most probably did not even survive the fire. I would not have either if not for Mother, she saved me in the nick of time. But she did not save anyone else. I asked her why later and she said "they could not see me, you my child have special eyes, eyes like mine." Sometimes I feel sad about my old family, but I remember that I have Mother now and I become happy again. 
 
-Walking into my room through the archway-like door I see the oil lamp turned on and my bed neat and folded. It was more comfortable than my old bed, I had to share that one with my brother. By the right side of my bed, right next to my lamp, there is a living pool of darkness that turns to look at me. Her eyes like little stars in the night. "Hey darling," she purrs softly unfolding her wings. Soft shades of ebony envelope me gently caressing me leading me
+Walking into my room through the archway-like door I see the oil lamp turned on and my bed neat and folded. It was more comfortable than my old bed, I had to share that one with my brother. By the right side of my bed, right next to my lamp, there is a living pool of darkness that turns to look at me. Her eyes like little stars in the night. "Hey darling," she purrs softly unfolding her wings. Soft shades of ebony envelope me gently caressing me, leading me toward my bed. As I rotate in her embrace, she uses her other wing to pull down the blankets. After placing me down she covers me back up. "You ready for your story?" she askes. 
+
+"Yes!" I answer enthusiastically. "What is it going to be about today?"
+
+"Tonight," she corrects me with caring eyes. "Tonight is special, this story is about you and me, but"
 
 
 In a forest long ago there used to only be owls and crows which hunted the mice. The owls were always the smartest and quietest, they set traps and caught the rodents. The crows were cunning, they would wait for a fox or wolf to hunt a big beast then scavenge their prey, yet they still had a thirst for mice. For the crows, mice were the only thing they could not get, so they envied the owls for catching them so easily. The owls, ever wise, did not seem to mind as the gazes of the crows did not matter to their hunt. 
