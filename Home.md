@@ -55,7 +55,15 @@ cellStyleRules: []
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make the Perfect App
-> - [ ] Try Spiceify
+> - [ ] Just get Zebar, we can think about Glaze WM later
+> 	- [ ] Use AI to figure out how to edit it
+> 		- [ ] Purple 
+> 		- [ ] Show Desktops
+> 		- [ ] Show Audio 
+> 			- [ ] Adjust Audio 
+> 		- [ ] Show Time & Date 
+> 		- [ ] System Tray 
+> 		- [ ] Battery Menu adjust
  
 > [!warning]  Run On
 > - [ ] get back into the flow of reading. 
