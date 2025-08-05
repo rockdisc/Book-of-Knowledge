@@ -24,4 +24,6 @@ Walking into my room through the archway-like door I saw the oil lamp turned on 
 
 "'I found it abandoned, so I am taking it in,' she responded. 'If you can help me get food for it and my chick I will refund all of what you had afforded me.' It was not a hard choice for the couple. An owl could get several mice a day, and all of their children were about to be able to hunt for themselves, just one of them going on the hunt while another scavenges can feed two other families. They agreed in a few seconds. For the next days, she did not even have to move as one of the couple had brought her all the food she wanted, even after her chick hatched. But one day, one of the couple did not come. The crow was confused, her chick could be safe even with her not there now so she decided to go to their nest to see what happened. She saw that there was only the mother in the nest with her chicks. 'What happened to your husband?' she asked.
 
-"'he went to the hunt, a wolf got him' the wife li
+"'he went to the hunt, a wolf got him' the wife lamented. 'It is only me now, I cannot feed both you and my own family, I am sorry.'
+
+"That was a lie and the Crow knew it. The wife was the most sought after young woman for marriage. She could hunt for a full family even without the wolves. The Crow did not mind though, she already got as much help as see needed. Or at least that is what she thought 
