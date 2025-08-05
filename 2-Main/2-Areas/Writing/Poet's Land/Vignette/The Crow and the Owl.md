@@ -1,4 +1,4 @@
-#Rough #Story #Writing/PoetsLand/vignette 
+ #Story #Writing/PoetsLand/vignette 
 
 I sank into the cooling bath. It was freezing, but Mother told me that it would help with my skin. When she found me there was a coating of grime and soot on my body, but now it is almost as smooth as hers though mine is not as black. It was not dark like the people in the village, instead it was a shade of midnight, like the sky fell and formed into a living thing. I think that is actually how she was born because when I asked she just chuckled and said that was just how she was born. She has a really nice laugh. It was nothing like my father's, no, Mother told be not to call that man my father anymore. I grab the bar of soap and start cleaning. I wondered what story she would tell me today. The first night I was still scared of her, so she told me the story of the old lady and the jar of honey. The few nights after that she told me more stories like that of the bird and her mother and grandmother spider. Each of her stories were different from the others, and they were all from different part of the world. Some of them even came from the Southern Continent. 
 

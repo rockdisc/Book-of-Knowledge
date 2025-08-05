@@ -5235,7 +5235,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -5692,7 +5692,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6114,7 +6114,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 5,
         "charCountStart": 42,
         "changes": [
@@ -6310,7 +6310,7 @@
       },
       {
         "date": "2025-07-29",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1104,
         "changes": [
@@ -6608,7 +6608,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1104,
         "changes": [
@@ -7167,7 +7167,7 @@
       },
       {
         "date": "2025-07-31",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1105,
         "changes": [],
@@ -7491,7 +7491,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1111,
         "changes": [],
@@ -8480,7 +8480,7 @@
       },
       {
         "date": "2025-08-04",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1105,
         "changes": [
@@ -8618,13 +8618,18 @@
             "timeKey": "20:55",
             "w": 77,
             "c": 389
+          },
+          {
+            "timeKey": "22:35",
+            "w": -1,
+            "c": -6
           }
         ],
         "id": 665
       },
       {
         "date": "2025-08-04",
-        "filePath": "3-Journal/2025-08-04.md",
+        "filePath": "3-Journal/2025-08/2025-08-04.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -8650,8 +8655,8 @@
           },
           {
             "timeKey": "22:35",
-            "w": 21,
-            "c": 114
+            "w": 109,
+            "c": 502
           }
         ],
         "id": 666
