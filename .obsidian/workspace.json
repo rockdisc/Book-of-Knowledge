@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/My Perfect App.md",
+                "file": "2-Main/Misc/My Perfect App.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/My Perfect App.md",
+                "file": "2-Main/Misc/My Perfect App.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -311,10 +311,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "3682993bf90d713a",
+  "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
     "2-Main/Misc/Linux X Windows.md",
-    "2-Main/My Perfect App.md",
+    "2-Main/Misc/My Perfect App.md",
     "3-Journal/2025-08-04.md",
     "Home.md",
     "1-Rough/The Crow and the Owl.md",

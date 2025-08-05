@@ -8643,7 +8643,7 @@
       },
       {
         "date": "2025-08-04",
-        "filePath": "2-Main/My Perfect App.md",
+        "filePath": "2-Main/Misc/My Perfect App.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -8654,8 +8654,13 @@
           },
           {
             "timeKey": "21:45",
-            "w": 3,
-            "c": 21
+            "w": 96,
+            "c": 529
+          },
+          {
+            "timeKey": "21:50",
+            "w": 6,
+            "c": 32
           }
         ],
         "id": 667
