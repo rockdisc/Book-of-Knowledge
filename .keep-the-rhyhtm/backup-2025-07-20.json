@@ -61,7 +61,8 @@
       "2025-07-24",
       "2025-07-25",
       "2025-07-27",
-      "2025-07-30"
+      "2025-07-30",
+      "2025-08-04"
     ],
     "dailyActivity": [
       {
@@ -5234,7 +5235,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -5691,7 +5692,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6113,7 +6114,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 5,
         "charCountStart": 42,
         "changes": [
@@ -6309,7 +6310,7 @@
       },
       {
         "date": "2025-07-29",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1104,
         "changes": [
@@ -6607,7 +6608,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1104,
         "changes": [
@@ -7166,7 +7167,7 @@
       },
       {
         "date": "2025-07-31",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1105,
         "changes": [],
@@ -7490,7 +7491,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "1-Rough/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1111,
         "changes": [],
@@ -8425,6 +8426,21 @@
             "timeKey": "15:05",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "20:55",
+            "w": -10,
+            "c": -42
+          },
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:40",
+            "w": 15,
+            "c": 72
           }
         ],
         "id": 659
@@ -8471,6 +8487,243 @@
           }
         ],
         "id": 663
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "wordCountStart": 219,
+        "charCountStart": 1105,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 2,
+            "c": 9
+          },
+          {
+            "timeKey": "16:20",
+            "w": 45,
+            "c": 217
+          },
+          {
+            "timeKey": "16:25",
+            "w": 24,
+            "c": 113
+          },
+          {
+            "timeKey": "16:30",
+            "w": 68,
+            "c": 331
+          },
+          {
+            "timeKey": "16:35",
+            "w": 34,
+            "c": 156
+          },
+          {
+            "timeKey": "16:40",
+            "w": 90,
+            "c": 465
+          },
+          {
+            "timeKey": "16:45",
+            "w": 77,
+            "c": 362
+          },
+          {
+            "timeKey": "16:50",
+            "w": 56,
+            "c": 252
+          },
+          {
+            "timeKey": "16:55",
+            "w": 41,
+            "c": 203
+          },
+          {
+            "timeKey": "18:40",
+            "w": 17,
+            "c": 87
+          },
+          {
+            "timeKey": "18:45",
+            "w": 103,
+            "c": 501
+          },
+          {
+            "timeKey": "18:50",
+            "w": -1,
+            "c": 10
+          },
+          {
+            "timeKey": "18:55",
+            "w": 71,
+            "c": 397
+          },
+          {
+            "timeKey": "19:00",
+            "w": 48,
+            "c": 237
+          },
+          {
+            "timeKey": "19:05",
+            "w": 1,
+            "c": 18
+          },
+          {
+            "timeKey": "19:10",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "19:15",
+            "w": 24,
+            "c": 100
+          },
+          {
+            "timeKey": "19:20",
+            "w": 14,
+            "c": 71
+          },
+          {
+            "timeKey": "19:25",
+            "w": 113,
+            "c": 552
+          },
+          {
+            "timeKey": "19:30",
+            "w": 65,
+            "c": 331
+          },
+          {
+            "timeKey": "20:25",
+            "w": 78,
+            "c": 378
+          },
+          {
+            "timeKey": "20:30",
+            "w": 51,
+            "c": 275
+          },
+          {
+            "timeKey": "20:35",
+            "w": 87,
+            "c": 422
+          },
+          {
+            "timeKey": "20:40",
+            "w": 64,
+            "c": 319
+          },
+          {
+            "timeKey": "20:45",
+            "w": 88,
+            "c": 425
+          },
+          {
+            "timeKey": "20:50",
+            "w": 157,
+            "c": 764
+          },
+          {
+            "timeKey": "20:55",
+            "w": 77,
+            "c": 389
+          },
+          {
+            "timeKey": "22:35",
+            "w": -1,
+            "c": -6
+          }
+        ],
+        "id": 665
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "3-Journal/2025-08/2025-08-04.md",
+        "wordCountStart": 63,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": -4,
+            "c": -21
+          },
+          {
+            "timeKey": "21:15",
+            "w": 12,
+            "c": 84
+          },
+          {
+            "timeKey": "22:25",
+            "w": 8,
+            "c": 30
+          },
+          {
+            "timeKey": "22:30",
+            "w": 119,
+            "c": 630
+          },
+          {
+            "timeKey": "22:35",
+            "w": 109,
+            "c": 502
+          }
+        ],
+        "id": 666
+      },
+      {
+        "date": "2025-08-04",
+        "filePath": "2-Main/Misc/My Perfect App.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 66,
+            "c": 409
+          },
+          {
+            "timeKey": "21:45",
+            "w": 96,
+            "c": 529
+          },
+          {
+            "timeKey": "21:50",
+            "w": 101,
+            "c": 578
+          },
+          {
+            "timeKey": "21:55",
+            "w": 89,
+            "c": 456
+          },
+          {
+            "timeKey": "22:00",
+            "w": 38,
+            "c": 196
+          },
+          {
+            "timeKey": "22:05",
+            "w": 127,
+            "c": 644
+          },
+          {
+            "timeKey": "22:10",
+            "w": 144,
+            "c": 767
+          },
+          {
+            "timeKey": "22:15",
+            "w": 560,
+            "c": 2893
+          },
+          {
+            "timeKey": "22:20",
+            "w": 15,
+            "c": 72
+          }
+        ],
+        "id": 667
       }
     ]
   }
