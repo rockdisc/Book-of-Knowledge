@@ -43,5 +43,8 @@
   "baseline-style@@h3-color@@dark": "#74459E",
   "baseline-style@@h4-color@@dark": "#693D92",
   "baseline-style@@h4-l": true,
-  "baseline-style@@h5-color@@dark": "#C69741"
+  "baseline-style@@h5-color@@dark": "#C69741",
+  "baseline-style@@callouts-style": "callouts-outlined",
+  "baseline-style@@callout-radius": 16,
+  "baseline-style@@blockquote-font-style": "normal"
 }
