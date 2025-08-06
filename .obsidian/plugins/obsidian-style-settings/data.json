@@ -4,7 +4,7 @@
   "baseline-style@@color-scheme-dark": "flexoki-dark",
   "baseline-style@@background-contrast-dark": "contrast-dark-tonal",
   "baseline-style@@background-primary@@light": "#9F63FC",
-  "baseline-style@@background-primary-alt@@dark": "#323232",
+  "baseline-style@@background-primary-alt@@dark": "#1A1A1A",
   "baseline-style@@background-secondary@@dark": "#171717",
   "baseline-style@@background-secondary-alt@@dark": "#0F0F0F",
   "baseline-style@@interactive-normal@@dark": "#7548D8",
@@ -48,5 +48,15 @@
   "baseline-style@@callout-radius": 16,
   "baseline-style@@blockquote-font-style": "normal",
   "baseline-style@@embed-strict": false,
-  "baseline-style@@embed-hide-title": false
+  "baseline-style@@embed-hide-title": false,
+  "baseline-style@@row-lines": false,
+  "baseline-style@@col-lines": false,
+  "baseline-style@@table-lines": false,
+  "baseline-style@@row-alt": true,
+  "baseline-style@@col-alt": false,
+  "baseline-style@@table-tabular": false,
+  "baseline-style@@table-numbers": true,
+  "baseline-style@@table-nowrap": false,
+  "baseline-style@@tag-radius": "0px",
+  "baseline-style@@h1-size": "\"\""
 }
