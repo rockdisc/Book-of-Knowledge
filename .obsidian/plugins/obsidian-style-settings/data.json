@@ -30,5 +30,8 @@
   "baseline-style@@sidebar-tabs-names": "tab-names-off",
   "baseline-style@@window-title-off": false,
   "baseline-style@@focus-view": "focus-view-off",
-  "baseline-style@@colorful-headings": true
+  "baseline-style@@colorful-headings": true,
+  "baseline-style@@header-height": "37px",
+  "baseline-style@@tabs-style": "tabs-default",
+  "baseline-style@@tab-stacked-spine-orientation": "tab-stack-top"
 }
