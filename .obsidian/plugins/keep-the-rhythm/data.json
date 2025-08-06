@@ -9280,7 +9280,13 @@
         "filePath": "2-Main/Ch  1 Pitiful Miracle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": 26,
+            "c": 159
+          }
+        ],
         "id": 708
       }
     ]
