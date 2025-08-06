@@ -28,5 +28,7 @@
   "baseline-style@@nav-item-white-space": "pre",
   "baseline-style@@sidebar-compact-tabs": "compact-tabs-default",
   "baseline-style@@sidebar-tabs-names": "tab-names-off",
-  "baseline-style@@window-title-off": false
+  "baseline-style@@window-title-off": false,
+  "baseline-style@@focus-view": "focus-view-off",
+  "baseline-style@@colorful-headings": true
 }
