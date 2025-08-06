@@ -7,7 +7,7 @@
 > - [ ] Gym 
 > - [ ] Add Missing Note
 > - [ ] Add New Note (Mini Essay or Story)
-> - [ ] Add Old Note from other Notebook Here 
+> - [ ] Add Previous Knowledge  
 > - [ ] Read
 
 > [!Quote]  Quote of the Day

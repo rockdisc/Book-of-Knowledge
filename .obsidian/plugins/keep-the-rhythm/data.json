@@ -8921,6 +8921,28 @@
         "charCountStart": 1088,
         "changes": [],
         "id": 683
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+        "wordCountStart": 1218,
+        "charCountStart": 6313,
+        "changes": [],
+        "id": 684
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 61,
+        "charCountStart": 356,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": -4,
+            "c": -35
+          }
+        ],
+        "id": 685
       }
     ]
   }
