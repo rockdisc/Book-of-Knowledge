@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Aquafinia"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Aquafinia"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Aquafinia"
             }
           }
         ],
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Aquafinia"
             }
           },
           {
@@ -302,11 +302,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4d04e2afec8e12d9",
+  "active": "31dfc4f09377304f",
   "lastOpenFiles": [
     "4-DND/Ors/Variables.md",
-    "3-Journal/2025-08-05.md",
     "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+    "3-Journal/2025-08-05.md",
     "Home.md",
     "2-Main/1-Ramblings/On Worldbuilding.md",
     "2-Main/1-Ramblings/Nothing.md",
