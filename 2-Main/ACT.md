@@ -16,7 +16,7 @@ There are 45 questions with 50 minutes to do them. The first 30 or so questions 
 40 questions and 40 minutes. It is taken at the end and that can lead to people doing worse on it. Knowing basic knowledge about science should be enough for it. Read the context first and annotate everything, this allows for you to identify the elements later. There are times when 2 hypotheses are given, the 7 questions will be split between and it is better to answer the questions for the specific passage before reading the next one. There are 2 other types of passages data representation and research summary. Data has tables you have to interpret. Research is mainly text.  
 ### English 
 
-50 questions in 35 minutes. It will have a literary narrative, an argumentative passage, and 2 informative passages. In English the type is not as important as it is just 
+50 questions in 35 minutes. It will have a literary narrative, an argumentative passage, and 2 informative passages. In English the type is not as important as it is just fixing the grammar and tone. It is always good to look at the commas and know the rules of grammar. There will be a NO CHANGE answer every 5 approximately.  
 ### Reading 
 
-
+30 questions in 30 minutes. There are 4 passages passages with around 7-8 questions for each. They are: prose fiction, social science, humanities, and natural science. A good strategy is to go to the one you are good at first and do the one you are worst at last. 
