@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamics"
+              "title": "Aquafinia"
             }
           }
         ],
@@ -85,9 +85,11 @@
           {
             "id": "c2b32a7e9d534f02",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -96,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 291.5
   },
   "right": {
     "id": "9571311539b15aec",
@@ -113,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dynamics"
+              "title": "Backlinks"
             }
           },
           {
@@ -132,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dynamics"
+              "title": "Graph view"
             }
           },
           {
@@ -169,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dynamics"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -211,13 +210,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamics"
+              "title": "Outline"
             }
           },
           {
@@ -272,13 +270,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "31dfc4f09377304f",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
+    "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+    "Home.md",
+    "2-Main/1-Ramblings/On Worldbuilding.md",
+    "2-Main/1-Ramblings/Nothing.md",
+    "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
     "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
     "3-Journal/2025-08-05.md",
     "1-Rough/Gyles.md",
     "1-Rough/Protagonist.md",
-    "Home.md",
     "2-Main/Misc/Email.md",
     "4-DND/Misadventurers/2-Main/Lord of 5 Faces.md",
     "3-Journal/2025-08/2025-08-04.md",
@@ -298,10 +300,6 @@
     "4-DND/Ors/Theme Song List.md",
     "3-Journal/2025-08",
     "3-Journal/2025-08/2025-08-02.md",
-    "2-Main/3-Resources/Math/Verifying Trig Identities.md",
-    "4-DND/Ors/2-Main/Augurs.md",
-    "4-DND/Ors/Act 1 Map and Breakdown.md",
-    "1-Rough/Arouran Users.md",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",

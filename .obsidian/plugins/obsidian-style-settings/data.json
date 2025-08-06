@@ -46,5 +46,7 @@
   "baseline-style@@h5-color@@dark": "#C69741",
   "baseline-style@@callouts-style": "callouts-outlined",
   "baseline-style@@callout-radius": 16,
-  "baseline-style@@blockquote-font-style": "normal"
+  "baseline-style@@blockquote-font-style": "normal",
+  "baseline-style@@embed-strict": false,
+  "baseline-style@@embed-hide-title": false
 }
