@@ -33,5 +33,15 @@
   "baseline-style@@colorful-headings": true,
   "baseline-style@@header-height": "37px",
   "baseline-style@@tabs-style": "tabs-default",
-  "baseline-style@@tab-stacked-spine-orientation": "tab-stack-top"
+  "baseline-style@@tab-stacked-spine-orientation": "tab-stack-top",
+  "baseline-style@@h1-weight": 600,
+  "baseline-style@@h1-variant": "normal",
+  "baseline-style@@h1-style": "normal",
+  "baseline-style@@h1-l": false,
+  "baseline-style@@h2-color@@dark": "#9359C8",
+  "baseline-style@@h2-l": false,
+  "baseline-style@@h3-color@@dark": "#74459E",
+  "baseline-style@@h4-color@@dark": "#693D92",
+  "baseline-style@@h4-l": true,
+  "baseline-style@@h5-color@@dark": "#C69741"
 }
