@@ -8120,6 +8120,7 @@ Interact
 Initiative
 Identities
 Inverse
+Inertial
 Points
 Powers
 Protagonist
@@ -28154,6 +28155,7 @@ clever
 chicks
 chick
 counterpart
+calculations
 entire
 endless
 everything
@@ -47907,6 +47909,7 @@ Herbert
 Herta
 Hotkey
 Horizontal
+Heavily
 Die
 Diathermal
 Do
@@ -55132,6 +55135,7 @@ Family
 Frank
 Fighter
 Fully
+Frame
 Veins
 Vim
 Venus
