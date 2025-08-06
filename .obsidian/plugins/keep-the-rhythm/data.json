@@ -8943,6 +8943,66 @@
           }
         ],
         "id": 685
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/ACT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 686
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/Frontend Development.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 687
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
+        "wordCountStart": 41,
+        "charCountStart": 292,
+        "changes": [],
+        "id": 688
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Displacement.md",
+        "wordCountStart": 19,
+        "charCountStart": 133,
+        "changes": [],
+        "id": 689
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Acceleration.md",
+        "wordCountStart": 45,
+        "charCountStart": 302,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 20,
+            "c": 123
+          }
+        ],
+        "id": 690
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
+        "wordCountStart": 221,
+        "charCountStart": 1500,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 10,
+            "c": 10
+          }
+        ],
+        "id": 691
       }
     ]
   }

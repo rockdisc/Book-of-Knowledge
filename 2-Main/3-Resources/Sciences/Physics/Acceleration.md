@@ -10,3 +10,5 @@ $$
 
 v<sub>f</sub> = final velocity
 v<sub>i</sub> = initial velocity  ^81b4ee
+
+If acceleration is done over a small time interval, it is considered instantaneous acceleration, an acceleration at a specific time 

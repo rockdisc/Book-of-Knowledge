@@ -9434,6 +9434,7 @@ Puppy
 Pet
 Purple
 Perfect
+Projectile
 Worldbuilding
 WWII
 Wake
@@ -12897,6 +12898,7 @@ huddling
 hungry
 hotkeys
 headings
+horizontal
 never
 nothing
 not
@@ -19998,6 +20000,8 @@ sought
 shift
 stock
 shortcut
+supplemental
+separately
 vast
 very
 vibrant
@@ -21094,6 +21098,7 @@ variable
 variables
 video
 visual
+vertical
 desert
 due
 dark
@@ -22419,6 +22424,7 @@ downloaded
 draft
 dams
 desktops
+derived
 and
 anything
 am
@@ -28147,6 +28153,7 @@ caring
 clever
 chicks
 chick
+counterpart
 entire
 endless
 everything
@@ -29489,6 +29496,7 @@ exclaimed
 eggs
 emails
 edit
+equations
 life
 leather
 long
@@ -41708,6 +41716,7 @@ kfd
 kdT
 knife
 knives
+kinematic
 North
 No
 Newton
@@ -44110,6 +44119,7 @@ AutoHotKey
 App
 Adjust
 Aquasore
+Acceleration
 Rough
 Readers
 Radkeha
@@ -47896,6 +47906,7 @@ Humility
 Herbert
 Herta
 Hotkey
+Horizontal
 Die
 Diathermal
 Do
@@ -56261,6 +56272,7 @@ Virtue
 Vagabond
 View
 Visualizer
+Vertical
 One
 Organ
 On

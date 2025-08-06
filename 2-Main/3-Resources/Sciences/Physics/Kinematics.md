@@ -15,7 +15,7 @@ In kinematic __Acceleration is always constant__.
 
 ## Horizontal & Vertical Motion
 
-Here are the main equations
+Here are the main equations, these are also called the Uniformly Acceleration Motion(UAM) Equations 
 
 $$
 v_{t}= v_{i} + at
