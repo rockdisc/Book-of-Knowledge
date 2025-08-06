@@ -170,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/Frontend Development with HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Frontend Development with HTML"
             }
           },
           {
@@ -188,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/Frontend Development with HTML.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Frontend Development with HTML"
             }
           },
           {
@@ -224,11 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/Frontend Development with HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Frontend Development with HTML"
             }
           }
         ],
@@ -265,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Untitled.md",
+                "file": "2-Main/Frontend Development with HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Frontend Development with HTML"
             }
           },
           {
@@ -326,10 +329,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "5462042a67cd40cf",
   "lastOpenFiles": [
-    "2-Main/Frontend Development with HTML.md",
     "2-Main/Untitled.md",
+    "2-Main/Frontend Development with HTML.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
     "3-Journal/2025-08-06.md",
     "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",

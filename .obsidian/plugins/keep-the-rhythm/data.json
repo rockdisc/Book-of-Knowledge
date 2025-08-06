@@ -8962,7 +8962,18 @@
         "filePath": "2-Main/Frontend Development with HTML.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 18,
+            "c": 115
+          },
+          {
+            "timeKey": "11:25",
+            "w": 7,
+            "c": 47
+          }
+        ],
         "id": 687
       },
       {
