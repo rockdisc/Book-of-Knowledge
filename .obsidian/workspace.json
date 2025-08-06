@@ -49,33 +49,6 @@
             }
           },
           {
-            "id": "d837e982123bda66",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "i",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "f8aeeea9bbfe9913",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "d15b182f7e6ae89b",
             "type": "leaf",
             "pinned": true,
@@ -125,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Journal/2025-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-08-05"
             }
           },
           {
@@ -180,11 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Journal/2025-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-08-05"
             }
           }
         ],
@@ -201,8 +176,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -221,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "3-Journal/2025-08-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux X Windows"
+              "title": "Outline of 2025-08-05"
             }
           },
           {
@@ -284,8 +259,10 @@
   },
   "active": "8cac3ee6362011c6",
   "lastOpenFiles": [
-    "Home.md",
+    "1-Rough/Gyles.md",
+    "1-Rough/Protagonist.md",
     "3-Journal/2025-08-05.md",
+    "Home.md",
     "2-Main/Misc/Email.md",
     "4-DND/Misadventurers/2-Main/Lord of 5 Faces.md",
     "3-Journal/2025-08/2025-08-04.md",
@@ -310,8 +287,6 @@
     "4-DND/Ors/2-Main/Augurs.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
     "1-Rough/Arouran Users.md",
-    "4-DND/Ors/2-Main/Arouran Military Structure.md",
-    "4-DND/Ors/2-Main/Blinding Gluttony.md",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",
