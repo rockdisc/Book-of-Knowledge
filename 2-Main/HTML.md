@@ -7,14 +7,13 @@ Hyper text markup language is a way of creating elements in websites. Here is ho
 <html>  
 <head>  
 <title>Page Title</title>  
+<href></href>
 </head>  
 <body>  
 	<!-- this is a comment -->
 	<h1>This is a Heading</h1>  
 	<p>This is a paragraph.</p>
-	<!-- All elements are enclosed <>, the thing inside tells what element it is in
-	
-	 -->
+	<!-- All elements are enclosed <>, the thing inside tells what element it is in, it is closed by </> -->
 </body>  
 </html>
 ```
