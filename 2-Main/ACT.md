@@ -10,7 +10,7 @@ American College Testing is a test that ranks up to 36 with anything in the high
 
 ### Math 
 
-There are 45 questions with 50 minutes to do
+There are 45 questions with 50 minutes to do them. The first 30 or so questions will be easier and take less than a minute to complete as long as you know what the questions are about. If you are good at math you should rush through the start and then focus on the harder ones. 
 ### Science 
 
 
