@@ -8913,8 +8913,8 @@
           },
           {
             "timeKey": "11:15",
-            "w": 2,
-            "c": 17
+            "w": 7,
+            "c": 49
           }
         ],
         "id": 682
@@ -8959,7 +8959,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/Frontend Development.md",
+        "filePath": "2-Main/Frontend Development with HTML.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -9022,6 +9022,20 @@
           }
         ],
         "id": 692
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "2-Main/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 693
       }
     ]
   }
