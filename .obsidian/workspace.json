@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Rough/Frontend Development with HTML.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend Development with HTML"
+              "title": "Ch 1 Burning Flesh"
             }
           }
         ]
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 980.5
+    "width": 322.5
   },
   "right": {
     "id": "9571311539b15aec",
@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough/Frontend Development with HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Frontend Development with HTML"
+              "title": "Backlinks"
             }
           },
           {
@@ -146,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Rough/Frontend Development with HTML.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +172,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Frontend Development with HTML"
+              "title": "Graph view"
             }
           },
           {
@@ -183,12 +181,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Rough/Frontend Development with HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Frontend Development with HTML"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -225,13 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough/Frontend Development with HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Frontend Development with HTML"
+              "title": "Outline"
             }
           },
           {
@@ -286,17 +282,26 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
+    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+    "2-Main/2-Areas/Writing/Poet's Land/Poet's Land Plot Overview.md",
+    "2-Main/Misc/Writing.md",
+    "2-Main/Misc/What I Use My Phone For.md",
+    "2-Main/Misc/Tits.md",
+    "2-Main/Misc/My Perfect App.md",
+    "2-Main/Misc/Linux X Windows.md",
+    "2-Main/Misc/India Position Paper.md",
+    "2-Main/Misc/Email.md",
+    "1-Rough/Frontend Development with HTML.md",
     "2-Main/3-Resources/Coding/HTML.md",
     "2-Main/3-Resources/Coding",
     "3-Journal/2025-08-06.md",
     "1-Rough/Protagonist.md",
     "1-Rough/Gyles.md",
     "1-Rough/Arouran Users.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
     "2-Main/Misc/ACT.md",
-    "1-Rough/Frontend Development with HTML.md",
     "4-DND/Ors/Variables.md",
     "2-Main/Untitled.md",
     "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
@@ -306,14 +311,6 @@
     "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
     "Templates/JEntry.md",
     "3-Journal/2025-08/2025-08-05.md",
-    "Home.md",
-    "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
-    "2-Main/1-Ramblings/On Worldbuilding.md",
-    "2-Main/1-Ramblings/Nothing.md",
-    "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
-    "2-Main/Misc/Email.md",
-    "4-DND/Misadventurers/2-Main/Lord of 5 Faces.md",
     "4-DND/DM Screen.canvas",
     "3-Journal/2025-08",
     "5-Images/csc and sec graph.png",

@@ -36,7 +36,7 @@
 
 ### Journey to Heaven/Hell 
 
-#### "On the other side of this ocean there is a heaven for our taking"
+##### "On the other side of this ocean there is a heaven for our taking"
 
 # Act 2 Sacrifice
 
@@ -70,7 +70,7 @@
 
 ### Learn what Again means and learn about demons and the forgotten 
 
-#### "Shouldn't demons be opposites to gods?" "Yes, yet the demons have stolen the name, just as they do anything else"
+##### "Shouldn't demons be opposites to gods?" "Yes, yet the demons have stolen the name, just as they do anything else"
 
 ### Figure out how transmigration works
 
