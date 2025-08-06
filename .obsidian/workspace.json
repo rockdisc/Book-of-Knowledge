@@ -31,35 +31,17 @@
             "id": "1a5f190a183a4868",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
-                "viewState": {
-                  "x": 31.635310156174,
-                  "y": -269.6240124222687,
-                  "zoom": 1
-                }
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DM Screen"
-            }
-          },
-          {
-            "id": "50f21005dfdceec2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://homebrewery.naturalcrit.com/share/JX-4z7jTEJKL",
-                "title": "Ors Player Help - The Homebrewery",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Ors Player Help - The Homebrewery"
+              "icon": "lucide-file",
+              "title": "Ch  1 Pitiful Miracle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -183,6 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -219,11 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ch  1 Pitiful Miracle"
             }
           }
         ],
@@ -260,12 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -320,7 +306,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "50f21005dfdceec2",
+  "active": "1a5f190a183a4868",
   "lastOpenFiles": [
     "4-DND/DM Screen.canvas",
     "2-Main/Ch  1 Pitiful Miracle.md",
