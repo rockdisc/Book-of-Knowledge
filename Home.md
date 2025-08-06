@@ -40,7 +40,7 @@ actions:
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
-> - [ ] Make templates so I can easily enter all of my school
+> - [ ] Make templates so I can easily enter what happened in school whenever it starts.
  
 > [!summary] What I want to do
 > - Read The Inner Game of Tennis and The Art of Thinking
