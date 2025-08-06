@@ -8920,6 +8920,11 @@
             "timeKey": "11:50",
             "w": 0,
             "c": 8
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 8
           }
         ],
         "id": 682
@@ -8956,7 +8961,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/ACT.md",
+        "filePath": "2-Main/Misc/ACT.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9007,15 +9012,15 @@
           },
           {
             "timeKey": "13:40",
-            "w": 27,
-            "c": 146
+            "w": 44,
+            "c": 237
           }
         ],
         "id": 686
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/Frontend Development with HTML.md",
+        "filePath": "1-Rough/Frontend Development with HTML.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9028,6 +9033,11 @@
             "timeKey": "11:25",
             "w": 40,
             "c": 253
+          },
+          {
+            "timeKey": "13:45",
+            "w": 1,
+            "c": 7
           }
         ],
         "id": 687
@@ -9106,7 +9116,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/HTML.md",
+        "filePath": "2-Main/3-Resources/Coding/HTML.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9145,6 +9155,36 @@
         "charCountStart": 6502,
         "changes": [],
         "id": 695
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "1-Rough/Arouran Users.md",
+        "wordCountStart": 18,
+        "charCountStart": 130,
+        "changes": [],
+        "id": 696
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2375,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 697
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "1-Rough/Protagonist.md",
+        "wordCountStart": 7,
+        "charCountStart": 69,
+        "changes": [],
+        "id": 698
       }
     ]
   }

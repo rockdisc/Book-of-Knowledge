@@ -5,7 +5,7 @@
 The main character of the story: as the special skill [[Protagonist]].
 He is a [[Transmigrators]] that died a few years after WWII with his real name being Albert Boer. 
 
-#### Readers Avert Die Keter Enlighten Hunt Again
+##### Readers Avert Die Keter Enlighten Hunt Again
 
 Readers- To describe is first powers and tell him that he has 2 while also telling him to read this left to right as well as tell him to focus on his future sight and not his numen abilities. 
 
