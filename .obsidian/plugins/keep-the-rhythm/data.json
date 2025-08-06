@@ -9076,11 +9076,19 @@
           },
           {
             "timeKey": "11:45",
-            "w": 8,
-            "c": 42
+            "w": 434,
+            "c": 4216
           }
         ],
         "id": 694
+      },
+      {
+        "date": "2025-08-06",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 695
       }
     ]
   }
