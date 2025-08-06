@@ -3902,6 +3902,7 @@ Cleric
 Coin
 Client
 Crowns
+Clispse
 Modern
 Mini
 My
@@ -12894,6 +12895,7 @@ hatch
 hatched
 huddling
 hungry
+hotkeys
 never
 nothing
 not
@@ -14057,6 +14059,7 @@ nick
 neat
 neighbor
 nestlings
+narrow
 imagined
 is
 in
@@ -15374,6 +15377,7 @@ increased
 incoming
 internet
 idiot
+installed
 to
 the
 there
@@ -22411,6 +22415,7 @@ dentist
 downloaded
 draft
 dams
+desktops
 and
 anything
 am
