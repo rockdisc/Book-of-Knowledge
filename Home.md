@@ -36,7 +36,6 @@ actions:
 > - [ ] Clean my desk
  
 > [!warning]  Run On
-> - [ ] get back into the flow of reading. 
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
