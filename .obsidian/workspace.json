@@ -63,7 +63,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,34 @@
             }
           },
           {
-            "id": "d15b182f7e6ae89b",
+            "id": "d1cafc39072748a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b2375e3037c4b8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d581f29020d201cb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -142,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -160,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -196,11 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -237,12 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home"
             }
           },
           {
@@ -297,7 +329,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c2b32a7e9d534f02",
+  "active": "4d04e2afec8e12d9",
   "lastOpenFiles": [
     "3-Journal/2025-08-05.md",
     "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",

@@ -8790,9 +8790,107 @@
             "timeKey": "13:55",
             "w": -58,
             "c": -302
+          },
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:25",
+            "w": -32,
+            "c": -338
           }
         ],
         "id": 671
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "3-Journal/2025-08-05.md",
+        "wordCountStart": 63,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 11,
+            "c": 35
+          },
+          {
+            "timeKey": "22:15",
+            "w": 37,
+            "c": 170
+          },
+          {
+            "timeKey": "22:20",
+            "w": 102,
+            "c": 526
+          }
+        ],
+        "id": 672
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "1-Rough/Protagonist.md",
+        "wordCountStart": 7,
+        "charCountStart": 69,
+        "changes": [],
+        "id": 673
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2375,
+        "changes": [],
+        "id": 674
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "wordCountStart": 1713,
+        "charCountStart": 8495,
+        "changes": [],
+        "id": 675
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
+        "wordCountStart": 202,
+        "charCountStart": 1232,
+        "changes": [],
+        "id": 676
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 492,
+        "charCountStart": 2611,
+        "changes": [],
+        "id": 677
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/1-Ramblings/On Worldbuilding.md",
+        "wordCountStart": 183,
+        "charCountStart": 987,
+        "changes": [],
+        "id": 678
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+        "wordCountStart": 107,
+        "charCountStart": 587,
+        "changes": [],
+        "id": 679
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 680
       }
     ]
   }
