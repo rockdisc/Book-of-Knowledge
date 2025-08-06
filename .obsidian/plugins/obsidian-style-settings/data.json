@@ -3,5 +3,14 @@
   "baseline-style@@color-scheme-light": "atom-light",
   "baseline-style@@color-scheme-dark": "flexoki-dark",
   "baseline-style@@background-contrast-dark": "contrast-dark-tonal",
-  "baseline-style@@background-primary@@light": "#9F63FC"
+  "baseline-style@@background-primary@@light": "#9F63FC",
+  "baseline-style@@background-primary-alt@@dark": "#323232",
+  "baseline-style@@background-secondary@@dark": "#171717",
+  "baseline-style@@background-secondary-alt@@dark": "#0F0F0F",
+  "baseline-style@@interactive-normal@@dark": "#7548D8",
+  "baseline-style@@interactive-hover@@dark": "#5C4CB7",
+  "baseline-style@@background-modifier-hover@@dark": "#5C4CB7",
+  "baseline-style@@background-modifier-active-hover@@dark": "#4B3F8D",
+  "baseline-style@@layout-style": "layout-border",
+  "baseline-style@@density-modifier": "0.75"
 }
