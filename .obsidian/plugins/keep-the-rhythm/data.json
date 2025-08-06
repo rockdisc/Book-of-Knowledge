@@ -8809,9 +8809,78 @@
             "timeKey": "20:55",
             "w": 11,
             "c": 35
+          },
+          {
+            "timeKey": "22:15",
+            "w": 1,
+            "c": 13
           }
         ],
         "id": 672
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "1-Rough/Protagonist.md",
+        "wordCountStart": 7,
+        "charCountStart": 69,
+        "changes": [],
+        "id": 673
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2375,
+        "changes": [],
+        "id": 674
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "wordCountStart": 1713,
+        "charCountStart": 8495,
+        "changes": [],
+        "id": 675
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
+        "wordCountStart": 202,
+        "charCountStart": 1232,
+        "changes": [],
+        "id": 676
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 492,
+        "charCountStart": 2611,
+        "changes": [],
+        "id": 677
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/1-Ramblings/On Worldbuilding.md",
+        "wordCountStart": 183,
+        "charCountStart": 987,
+        "changes": [],
+        "id": 678
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+        "wordCountStart": 107,
+        "charCountStart": 587,
+        "changes": [],
+        "id": 679
+      },
+      {
+        "date": "2025-08-05",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 680
       }
     ]
   }

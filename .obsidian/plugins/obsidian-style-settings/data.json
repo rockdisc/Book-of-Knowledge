@@ -37,7 +37,7 @@
   "baseline-style@@h1-weight": 400,
   "baseline-style@@h1-variant": "normal",
   "baseline-style@@h1-style": "normal",
-  "baseline-style@@h1-l": false,
+  "baseline-style@@h1-l": true,
   "baseline-style@@h2-color@@dark": "#9359C8",
   "baseline-style@@h2-l": false,
   "baseline-style@@h3-color@@dark": "#74459E",
@@ -58,5 +58,8 @@
   "baseline-style@@table-numbers": true,
   "baseline-style@@table-nowrap": false,
   "baseline-style@@tag-radius": "0px",
-  "baseline-style@@h1-size": "40px"
+  "baseline-style@@h1-size": "40px",
+  "baseline-style@@background-modifier-border-hover@@dark": "#6F2BAE",
+  "baseline-style@@text-selection@@dark": "#6853C1F2",
+  "baseline-style@@text-highlight-bg@@dark": "#6649C5"
 }
