@@ -31,17 +31,35 @@
             "id": "1a5f190a183a4868",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2-Main/Ch  1 Pitiful Miracle.md",
-                "mode": "source",
-                "source": false
+                "file": "4-DND/DM Screen.canvas",
+                "viewState": {
+                  "x": 31.635310156174,
+                  "y": -269.6240124222687,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ch  1 Pitiful Miracle"
+              "icon": "lucide-layout-dashboard",
+              "title": "DM Screen"
+            }
+          },
+          {
+            "id": "50f21005dfdceec2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://homebrewery.naturalcrit.com/share/JX-4z7jTEJKL",
+                "title": "Ors Player Help - The Homebrewery",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Ors Player Help - The Homebrewery"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +121,7 @@
               "type": "com.maxymillion.zen",
               "state": {},
               "pinned": true,
-              "icon": "eye-off",
+              "icon": "eye",
               "title": "Zen"
             }
           }
@@ -147,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ch  1 Pitiful Miracle"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,7 +183,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +210,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ch  1 Pitiful Miracle"
+              "title": "Graph view"
             }
           },
           {
@@ -203,12 +219,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ch  1 Pitiful Miracle"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -245,13 +260,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ch  1 Pitiful Miracle"
+              "title": "Outline"
             }
           },
           {
@@ -306,10 +320,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1a5f190a183a4868",
+  "active": "50f21005dfdceec2",
   "lastOpenFiles": [
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+    "4-DND/DM Screen.canvas",
     "2-Main/Ch  1 Pitiful Miracle.md",
+    "4-DND/Ors/2-Main/Spirits.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
     "Home.md",
     "Templates/JEntry.md",
     "Templates/Odd Day.md",
@@ -333,9 +349,6 @@
     "4-DND/Ors/Variables.md",
     "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
     "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
-    "2-Main/3-Resources/Sciences/Physics/Acceleration.md",
-    "2-Main/3-Resources/Sciences/Physics/Displacement.md",
-    "4-DND/DM Screen.canvas",
     "3-Journal/2025-08",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
