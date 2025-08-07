@@ -10527,6 +10527,7 @@ Wis
 Wilderness
 West
 Whatsapp
+Would
 would
 wasteland
 walking
@@ -11704,6 +11705,7 @@ wing
 wolves
 warmth
 websites
+whisperings
 have
 hell
 his
@@ -16854,6 +16856,7 @@ targeting
 tons
 tensions
 tripping
+torched
 be
 bright
 but
@@ -20088,6 +20091,8 @@ stockpile
 shoulders
 singles
 soothe
+seven
+singe
 vast
 very
 vibrant
@@ -26649,6 +26654,7 @@ flossing
 footer
 forefront
 fixes
+faced
 can
 covered
 clad
@@ -29621,6 +29627,7 @@ equations
 employ
 efficiently
 efficient
+echoed
 life
 leather
 long
@@ -30890,6 +30897,7 @@ lamented
 launcher
 league
 looming
+louder
 on
 other
 of
@@ -37187,6 +37195,7 @@ rockdisc
 retaliating
 ratified
 revealing
+roared
 yellow
 yet
 you
