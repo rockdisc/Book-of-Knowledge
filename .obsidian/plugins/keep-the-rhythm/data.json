@@ -8924,7 +8924,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "3-Journal/2025-08-06.md",
+        "filePath": "3-Journal/2025-08/2025-08-06.md",
         "wordCountStart": 63,
         "charCountStart": 357,
         "changes": [
@@ -8975,8 +8975,8 @@
           },
           {
             "timeKey": "23:15",
-            "w": 95,
-            "c": 461
+            "w": 145,
+            "c": 718
           }
         ],
         "id": 682
