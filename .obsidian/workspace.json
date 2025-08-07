@@ -144,8 +144,7 @@
               "title": "Zen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7ddc938e953e33ef",
@@ -344,7 +343,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d1cafc39072748a4",
+  "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
     "Home.md",
     "3-Journal/2025-08-07.md",

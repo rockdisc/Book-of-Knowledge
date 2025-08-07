@@ -1,3 +1,3 @@
 #History/1800s/OldWorld/Colonialism 
 
-This is how the counties of [[Central Asia]] were organized by the [[Colonial Powers]]. The [[Great Britain|British]], [[Russian Czardom|Russians]], [[French Empire|French]] 
+This is how the counties of [[Central Asia]] were organized by the [[Colonial Powers]]. The [[Great Britain|British]], [[Russian Czardom|Russians]], and [[French Empire|French]] were main players trying to "civilize" [[Afghanistan]] and other countries surrounding it. This lead to [[British India]] taking control of areas like Punjab and sending people into Afghanistan to create a puppet leader. After a few failed attempts, the British were able to get large amounts of ground. This created borders which separated Afghanistan from modern day Pakistan, though they did not take into account ethnic divides leading to conflicts which still happen in modern day 
