@@ -9538,7 +9538,18 @@
         "filePath": "2-Main/The Great Game.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 3,
+            "c": 30
+          },
+          {
+            "timeKey": "13:15",
+            "w": 26,
+            "c": 182
+          }
+        ],
         "id": 720
       },
       {

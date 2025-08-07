@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#History/1800/OldWorld/Colonialism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,8 @@
               "title": "Zen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7ddc938e953e33ef",
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/The Great Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for The Great Game"
             }
           },
           {
@@ -203,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/The Great Game.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of The Great Game"
             }
           },
           {
@@ -240,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/The Great Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from The Great Game"
             }
           }
         ],
@@ -282,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/The Great Game.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of The Great Game"
             }
           },
           {
@@ -343,10 +344,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "90392afaa2447679",
+  "active": "d1cafc39072748a4",
   "lastOpenFiles": [
-    "3-Journal/2025-08-07.md",
     "Home.md",
+    "3-Journal/2025-08-07.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "2-Main/The Great Game.md",
     "1-Rough/Frontend Development with HTML.md",
