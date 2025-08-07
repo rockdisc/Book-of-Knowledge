@@ -40,21 +40,8 @@
               "icon": "lucide-file",
               "title": "Ch  1 Pitiful Miracle"
             }
-          },
-          {
-            "id": "36a3f892576ce908",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Act 1 Map and Breakdown"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Act 1 Map and Breakdown"
+              "title": "Backlinks for Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -179,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Act 1 Map and Breakdown"
+              "title": "Graph of Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -216,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Act 1 Map and Breakdown"
+              "title": "Outgoing links from Ch  1 Pitiful Miracle"
             }
           }
         ],
@@ -258,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Act 1 Map and Breakdown"
+              "title": "Outline of Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -319,10 +306,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "36a3f892576ce908",
+  "active": "1a5f190a183a4868",
   "lastOpenFiles": [
-    "Home.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "Home.md",
     "2-Main/Ors War.md",
     "4-DND/Ors/2-Main/Ors Creation Myth.md",
     "4-DND/Ors/2-Main/Orsian Military Structure.md",
