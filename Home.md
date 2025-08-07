@@ -35,8 +35,8 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make the perfect app 
-> - [ ] Use Linux 
-> - [ ] Use Google Chrome for Grammarly
+> - [ ] Use Linux
+> - [ ] Read and revise [[Ch 1 Pitiful Miracle]]
  
 > [!warning]  Run On
 

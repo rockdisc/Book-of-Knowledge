@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
               "type": "com.maxymillion.zen",
               "state": {},
               "pinned": true,
-              "icon": "eye",
+              "icon": "eye-off",
               "title": "Zen"
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ch 1 Pitiful Miracle"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ch 1 Pitiful Miracle"
+              "title": "Graph of Home"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ch 1 Pitiful Miracle"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ch 1 Pitiful Miracle"
+              "title": "Outline of Home"
             }
           },
           {
@@ -343,12 +343,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a4296cfdedfe8437",
+  "active": "90392afaa2447679",
   "lastOpenFiles": [
+    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08-07.md",
     "2-Main/The Great Game.md",
     "2-Main/Ch 2 Meeting.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "Home.md",
     "2-Main/Church of the Nameless God.md",
