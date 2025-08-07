@@ -35,6 +35,7 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Use the Dragon's Dogma character creator to make the npcs for Ezra
+> - [ ] Make the perfect app 
  
 > [!warning]  Run On
 
