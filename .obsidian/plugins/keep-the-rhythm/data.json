@@ -9486,7 +9486,13 @@
         "filePath": "Home.md",
         "wordCountStart": 168,
         "charCountStart": 1085,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -15,
+            "c": -75
+          }
+        ],
         "id": 717
       },
       {
@@ -9502,6 +9508,20 @@
           }
         ],
         "id": 718
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "3-Journal/2025-08-07.md",
+        "wordCountStart": 59,
+        "charCountStart": 322,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -7,
+            "c": -25
+          }
+        ],
+        "id": 719
       }
     ]
   }
