@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for CSS"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/CSS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of CSS"
             }
           },
           {
@@ -268,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from CSS"
             }
           }
         ],
@@ -310,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/CSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of CSS"
             }
           },
           {
@@ -371,8 +371,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "90392afaa2447679",
+  "active": "5dba6597e83b201d",
   "lastOpenFiles": [
+    "Home.md",
     "3-Journal/2025-08-07.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "2-Main/Church of the Nameless God.md",
@@ -382,7 +383,6 @@
     "2-Main/CSS.md",
     "1-Rough/Frontend Development with HTML.md",
     "2-Main/The Great Game.md",
-    "Home.md",
     "2-Main/Misc/Email.md",
     "3-Journal/2025-08/2025-08-06.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",

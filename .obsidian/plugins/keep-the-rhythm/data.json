@@ -9549,7 +9549,13 @@
         "filePath": "2-Main/CSS.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 28,
+            "c": 174
+          }
+        ],
         "id": 722
       },
       {
