@@ -4,4 +4,4 @@ They are people that come from the [[Garden of Eden(Poet's Land)]] to the [[Mate
 
 ## Latecomers 
 
-People that are transmigrated and maintain their memories are called latecomers, it seems most people die at birth on Earth if they are born on their magical places. They combine beings with a cursed and become the same person. They are welcomed into two main churches, [[Church of the Nameless God]] accepts people in 
+People that are transmigrated and maintain their memories are called latecomers, it seems most people die at birth on Earth if they are born on their magical places. They combine beings with a cursed and become the same person. They are welcomed into two main churches, [[Church of the Nameless God]] accepts people in [[Witlan]] and other generic Western areas and [[Church of the Venerable Dynast]] in [[The Land of Countless Rivers]] and surrounding areas. 

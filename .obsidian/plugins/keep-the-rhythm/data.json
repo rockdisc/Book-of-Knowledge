@@ -9608,6 +9608,11 @@
             "timeKey": "11:00",
             "w": 0,
             "c": -35
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 724
@@ -9639,7 +9644,13 @@
         "filePath": "2-Main/Church of the Nameless God.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 11,
+            "c": 106
+          }
+        ],
         "id": 727
       },
       {
@@ -9667,6 +9678,11 @@
             "timeKey": "13:40",
             "w": 55,
             "c": 336
+          },
+          {
+            "timeKey": "13:45",
+            "w": 21,
+            "c": 141
           }
         ],
         "id": 728
@@ -9703,11 +9719,30 @@
         "changes": [
           {
             "timeKey": "13:40",
-            "w": 0,
-            "c": -11
+            "w": 1,
+            "c": -6
+          },
+          {
+            "timeKey": "13:45",
+            "w": 26,
+            "c": 153
           }
         ],
         "id": 732
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/Church of the Telluric Queen.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 733
       }
     ]
   }
