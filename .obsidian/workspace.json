@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e8a2085b45ef5276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1"
+            }
+          },
+          {
             "id": "9bd61c11906b106c",
             "type": "leaf",
             "state": {
@@ -34,8 +48,65 @@
               "icon": "lucide-file",
               "title": "The Great Game"
             }
+          },
+          {
+            "id": "551f19d3cf9927ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Rough/Frontend Development with HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frontend Development with HTML"
+            }
+          },
+          {
+            "id": "5dba6597e83b201d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "061f5601026b00fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religious Organizations"
+            }
+          },
+          {
+            "id": "14f4b0751f6887ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Church of the Scarlet Goddess"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -141,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-07.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-07"
+              "title": "Backlinks for Church of the Scarlet Goddess"
             }
           },
           {
@@ -160,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-07.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-07"
+              "title": "Graph of Church of the Scarlet Goddess"
             }
           },
           {
@@ -197,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-07.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-07"
+              "title": "Outgoing links from Church of the Scarlet Goddess"
             }
           }
         ],
@@ -239,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-07.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-07"
+              "title": "Outline of Church of the Scarlet Goddess"
             }
           },
           {
@@ -300,10 +371,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1a9827e9bcef273b",
+  "active": "14f4b0751f6887ec",
   "lastOpenFiles": [
-    "2-Main/The Great Game.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
     "3-Journal/2025-08-07.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+    "2-Main/CSS.md",
+    "1-Rough/Frontend Development with HTML.md",
+    "2-Main/The Great Game.md",
     "Home.md",
     "2-Main/Misc/Email.md",
     "3-Journal/2025-08/2025-08-06.md",
@@ -325,11 +400,7 @@
     "2-Main/Misc/Tits.md",
     "2-Main/Misc/My Perfect App.md",
     "2-Main/Misc/Linux X Windows.md",
-    "2-Main/Misc/India Position Paper.md",
-    "1-Rough/Frontend Development with HTML.md",
-    "2-Main/3-Resources/Coding/HTML.md",
     "2-Main/3-Resources/Coding",
-    "1-Rough/Protagonist.md",
     "3-Journal/2025-08",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
