@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DND/Ors/2-Main/Original War.md",
+                "file": "2-Main/Ors War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Original War"
+              "title": "Ors War"
             }
           }
         ],
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/2-Main/Original War.md",
+                "file": "2-Main/Ors War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Original War"
+              "title": "Backlinks for Ors War"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/2-Main/Original War.md",
+                "file": "2-Main/Ors War.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Original War"
+              "title": "Graph of Ors War"
             }
           },
           {
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/2-Main/Original War.md",
+                "file": "2-Main/Ors War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Original War"
+              "title": "Outgoing links from Ors War"
             }
           }
         ],
@@ -260,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/2-Main/Original War.md",
+                "file": "2-Main/Ors War.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Original War"
+              "title": "Outline of Ors War"
             }
           },
           {
@@ -323,6 +323,10 @@
   },
   "active": "36a3f892576ce908",
   "lastOpenFiles": [
+    "4-DND/Ors/2-Main/Ors Creation Myth.md",
+    "2-Main/Ors War.md",
+    "4-DND/Ors/2-Main/Orsian Military Structure.md",
+    "4-DND/Ors/2-Main/Original War.md",
     "2-Main/Ch  1 Pitiful Miracle.md",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/2-Main/Spirits.md",
@@ -347,9 +351,6 @@
     "1-Rough/Gyles.md",
     "1-Rough/Arouran Users.md",
     "2-Main/Misc/ACT.md",
-    "4-DND/Ors/Variables.md",
-    "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
-    "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
     "3-Journal/2025-08",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
