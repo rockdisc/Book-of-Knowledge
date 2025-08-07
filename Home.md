@@ -36,6 +36,7 @@ actions:
 > - [ ] Clean my desk
 > - [ ] Use the Dragon's Dogma character creator to make the npcs for Ezra
 > - [ ] Make the perfect app 
+> - [ ] Use Linux 
  
 > [!warning]  Run On
 
