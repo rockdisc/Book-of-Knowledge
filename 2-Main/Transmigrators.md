@@ -1,3 +1,3 @@
 #Worldbuilding/Magic/PoetsLand #Worldbuilding/Factions 
 
-They are people that come from the [[Garden of Eden(Poet's Land)]] to the [[Material World]]. These two worlds are interlinked as the [[Ikon|God]]s and [[Numen|Elves]] are in this world and [[Demon]]s
+They are people that come from the [[Garden of Eden(Poet's Land)]] to the [[Material World]]. These two worlds are interlinked as the [[Ikon|God]]s and [[Numen|Elves]] are in this world and [[Demon(Poet's Land)|Demon]]s and [[The Forgotten]] are in the other. When a person dies in one world, they are sent to the other. Memories are not erased, but as most people die before they make memories or damage their brain when they die(brain death), their memories get wiped. 
