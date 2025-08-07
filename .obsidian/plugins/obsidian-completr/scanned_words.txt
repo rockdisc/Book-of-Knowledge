@@ -21187,6 +21187,7 @@ visual
 vertical
 viewport
 visualizer
+veins
 desert
 due
 dark
@@ -28273,6 +28274,7 @@ completion
 customize
 compendium
 cradled
+calluses
 entire
 endless
 everything
@@ -39435,6 +39437,7 @@ juniper
 jungle
 joking
 jutted
+jutting
 past
 people
 pink
@@ -43035,6 +43038,7 @@ Notetaking
 None
 Northwest
 Nouns
+Never
 According
 Albert
 Avert
