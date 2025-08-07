@@ -36,6 +36,7 @@ actions:
 > - [ ] Clean my desk
 > - [ ] Make the perfect app 
 > - [ ] Use Linux 
+> - [ ] Use Google Chrome for Grammarly
  
 > [!warning]  Run On
 
