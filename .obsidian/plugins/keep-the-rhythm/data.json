@@ -9529,6 +9529,11 @@
             "timeKey": "13:10",
             "w": 0,
             "c": 7
+          },
+          {
+            "timeKey": "14:10",
+            "w": 0,
+            "c": 19
           }
         ],
         "id": 719
@@ -9649,6 +9654,11 @@
             "timeKey": "13:45",
             "w": 11,
             "c": 106
+          },
+          {
+            "timeKey": "14:10",
+            "w": -11,
+            "c": -106
           }
         ],
         "id": 727
@@ -9896,6 +9906,44 @@
           }
         ],
         "id": 750
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+        "wordCountStart": 75,
+        "charCountStart": 433,
+        "changes": [],
+        "id": 751
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Bind.md",
+        "wordCountStart": 331,
+        "charCountStart": 1770,
+        "changes": [],
+        "id": 752
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Gift.md",
+        "wordCountStart": 166,
+        "charCountStart": 901,
+        "changes": [],
+        "id": 753
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/Ch 2 Meeting.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 754
       }
     ]
   }
