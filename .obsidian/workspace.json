@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/Obsidian Replacement Code and How to Run It.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Obsidian Replacement Code and How to Run It"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/Obsidian Replacement Code and How to Run It.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Obsidian Replacement Code and How to Run It"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/Obsidian Replacement Code and How to Run It.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Obsidian Replacement Code and How to Run It"
             }
           }
         ],
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/Obsidian Replacement Code and How to Run It.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Obsidian Replacement Code and How to Run It"
             }
           },
           {
@@ -357,11 +357,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "90392afaa2447679",
+  "active": "ba03a09408e269f7",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/Obsidian Replacement Code and How to Run It.md",
     "3-Journal/2025-08/2025-08-04.md",
-    "Home.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08-07.md",
     "2-Main/The Great Game.md",
