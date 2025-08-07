@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
+                "file": "2-Main/Transmigrators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ritual"
+              "title": "Transmigrators"
             }
           }
         ],
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
+                "file": "2-Main/Transmigrators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ritual"
+              "title": "Backlinks for Transmigrators"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
+                "file": "2-Main/Transmigrators.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ritual"
+              "title": "Graph of Transmigrators"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
+                "file": "2-Main/Transmigrators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ritual"
+              "title": "Outgoing links from Transmigrators"
             }
           }
         ],
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
+                "file": "2-Main/Transmigrators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ritual"
+              "title": "Outline of Transmigrators"
             }
           },
           {
@@ -359,10 +359,16 @@
   },
   "active": "edbcfdaccb7853c2",
   "lastOpenFiles": [
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Gift.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Bind.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Epitome.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ikon.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Rapture.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Epitome.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Dercast.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Blights.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Mountain of Ikons.md",
@@ -373,18 +379,12 @@
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Green Moon.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Spirit World.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
     "1-Rough/Frontend Development with HTML.md",
     "2-Main/The Great Game.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "2-Main/Transmigrators.md",
     "2-Main/Church of the Telluric Queen.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
-    "2-Main/Church of the Nameless God.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Presford.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
-    "4-DND/Misadventurers/2-Main/Witnor.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Material World.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Coding",
     "3-Journal/2025-08",

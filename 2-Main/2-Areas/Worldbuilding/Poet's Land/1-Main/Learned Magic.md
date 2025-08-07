@@ -27,5 +27,5 @@ By using metals and compounds to push the edge of the elements, they can get spe
 
 About the same thing as Alchemy, but used on weapons and other objects to give them magical powers. While alchemy barely uses epitomes, enchanting depends on it because most use the [[Epitome#Epitome Fusion|property of epitome fusion]] to make the items use and accept the powers. They need specific way of making them to do this, putting an epitome in a weapon or item during a spot where it is disassembled. For blades it could be when it is being foraged and for items that come together, it can be crushed into a power and spread between the parts as glue before they come together.
 
-#### “A sound magician is a mighty god: Here, Faustus, try thy brains to gain a deity.”
+##### “A sound magician is a mighty god: Here, Faustus, try thy brains to gain a deity.”
 
