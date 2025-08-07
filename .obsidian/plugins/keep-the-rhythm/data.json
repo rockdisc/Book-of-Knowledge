@@ -62,8 +62,7 @@
       "2025-07-25",
       "2025-07-27",
       "2025-07-30",
-      "2025-08-04",
-      "2025-08-06"
+      "2025-08-04"
     ],
     "dailyActivity": [
       {
@@ -8957,6 +8956,11 @@
             "timeKey": "21:15",
             "w": 2,
             "c": 18
+          },
+          {
+            "timeKey": "22:30",
+            "w": 3,
+            "c": 25
           }
         ],
         "id": 682
@@ -8974,7 +8978,13 @@
         "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
         "wordCountStart": 1218,
         "charCountStart": 6313,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": -1218,
+            "c": -6313
+          }
+        ],
         "id": 684
       },
       {
@@ -9303,7 +9313,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/Ch  1 Pitiful Miracle.md",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9369,8 +9379,13 @@
           },
           {
             "timeKey": "22:25",
-            "w": 224,
-            "c": 1103
+            "w": 285,
+            "c": 1441
+          },
+          {
+            "timeKey": "22:30",
+            "w": 42,
+            "c": 228
           }
         ],
         "id": 708
@@ -9417,7 +9432,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/Ors War.md",
+        "filePath": "4-DND/Ors/2-Main/Ors War.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [

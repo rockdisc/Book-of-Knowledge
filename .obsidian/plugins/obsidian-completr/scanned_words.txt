@@ -18330,6 +18330,7 @@ bars
 browse
 bombarded
 bitten
+blared
 so
 sand
 spend
@@ -20093,6 +20094,7 @@ singles
 soothe
 seven
 singe
+subsided
 vast
 very
 vibrant
@@ -29628,6 +29630,7 @@ employ
 efficiently
 efficient
 echoed
+extending
 life
 leather
 long
