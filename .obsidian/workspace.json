@@ -176,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -194,6 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -230,11 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ch  1 Pitiful Miracle"
             }
           }
         ],
@@ -271,12 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/Ch  1 Pitiful Miracle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ch  1 Pitiful Miracle"
             }
           },
           {
@@ -331,10 +335,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c2b32a7e9d534f02",
+  "active": "1a5f190a183a4868",
   "lastOpenFiles": [
-    "2-Main/Ch  1 Pitiful Miracle.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
+    "2-Main/Ch  1 Pitiful Miracle.md",
     "3-Journal/2025-08-06.md",
     "Home.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
