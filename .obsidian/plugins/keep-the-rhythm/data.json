@@ -9560,7 +9560,13 @@
         "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
         "wordCountStart": 660,
         "charCountStart": 6409,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": -35
+          }
+        ],
         "id": 724
       },
       {
@@ -9571,11 +9577,19 @@
         "changes": [
           {
             "timeKey": "11:00",
-            "w": 8,
-            "c": 30
+            "w": 25,
+            "c": 136
           }
         ],
         "id": 725
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Red Moon.md",
+        "wordCountStart": 42,
+        "charCountStart": 305,
+        "changes": [],
+        "id": 726
       }
     ]
   }

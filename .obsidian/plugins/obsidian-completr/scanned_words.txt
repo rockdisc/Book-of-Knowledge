@@ -3926,6 +3926,7 @@ Communication
 Comms
 Camera
 Cardinal
+Color
 Modern
 Mini
 My
@@ -6732,6 +6733,7 @@ Safari
 Steam
 Strick
 Scarlet
+Sight
 Interesting
 In
 If
@@ -8170,6 +8172,7 @@ Imessage
 Instagram
 Ideals
 Imperial
+Intelligence
 Points
 Powers
 Protagonist
@@ -16877,6 +16880,7 @@ tripping
 torched
 tides
 touched
+tapping
 be
 bright
 but
@@ -29672,6 +29676,7 @@ efficient
 echoed
 extending
 eldest
+eclipse
 life
 leather
 long
@@ -30943,6 +30948,7 @@ league
 looming
 louder
 lawyers
+lunar
 on
 other
 of
@@ -31983,6 +31989,7 @@ optional
 offer
 organizations
 orderly
+observer
 Then
 The
 This
@@ -40816,6 +40823,7 @@ panel
 potato
 purple
 piracy
+pointer
 kept
 know
 knew

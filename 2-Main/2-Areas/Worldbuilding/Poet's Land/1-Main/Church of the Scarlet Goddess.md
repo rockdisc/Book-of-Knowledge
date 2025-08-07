@@ -8,7 +8,7 @@ One of the [[Great Goddesses]] and offer protection around the world. They are b
 
 The eldest daughter of the [[Cadaver Father]] was born of his blood and second born. All she could feel when she was born was the heat of the [[Crowned Son]] so she told her father that she wants to be able to do something. She would try to move and shake her father but nothing would happen, she would ask her brother if there was something to do, he brother, creator of warmth and touch would coddle her and give her feeling. They had a loving relationship with their siblings being born, when Hegwis realized something, there was no way of identifying who was who unless they touched each other and she did not like that. So the great intelligence she was she searched and searched to find a way of solving this. Till she found the body of her father, searching through it she went to his face and found 2 balls in his face, putting them in her face, she created the second and greatest sense, sight. It allowed us to see beauty and stop ourselves from walking into danger, now we must use it along with our mind to make our best decisions.
 
-They pray by keeping their eyes open and 
+They pray by keeping their eyes open and putting their hands together. They praise her by tapping their eyes with their index and pointer fingers. 
 
 ## Imperial Watchers
 
