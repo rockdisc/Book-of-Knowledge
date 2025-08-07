@@ -9748,6 +9748,52 @@
           }
         ],
         "id": 733
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
+        "wordCountStart": 405,
+        "charCountStart": 2351,
+        "changes": [],
+        "id": 734
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+        "wordCountStart": 609,
+        "charCountStart": 3460,
+        "changes": [],
+        "id": 735
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "wordCountStart": 302,
+        "charCountStart": 1726,
+        "changes": [],
+        "id": 736
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ikon.md",
+        "wordCountStart": 596,
+        "charCountStart": 3227,
+        "changes": [],
+        "id": 737
+      },
+      {
+        "date": "2025-08-07",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Epitome.md",
+        "wordCountStart": 251,
+        "charCountStart": 1375,
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": 1,
+            "c": -6
+          }
+        ],
+        "id": 738
       }
     ]
   }

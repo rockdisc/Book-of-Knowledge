@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curse"
+              "title": "Ritual"
             }
           }
         ],
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Curse"
+              "title": "Backlinks for Ritual"
             }
           },
           {
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,12 +240,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 1.5485727914889496,
+                  "scale": 0.7039340386515152,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Curse"
+              "title": "Graph of Ritual"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Curse"
+              "title": "Outgoing links from Ritual"
             }
           }
         ],
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Curse"
+              "title": "Outline of Ritual"
             }
           },
           {
@@ -359,8 +359,21 @@
   },
   "active": "edbcfdaccb7853c2",
   "lastOpenFiles": [
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ikon.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Rapture.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Epitome.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Dercast.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Blights.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Mountain of Ikons.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Plain of Consciousness.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Celestial World.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Blue Moon.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Green Moon.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Spirit World.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
     "1-Rough/Frontend Development with HTML.md",
     "2-Main/The Great Game.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
@@ -372,19 +385,6 @@
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
     "4-DND/Misadventurers/2-Main/Witnor.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Material World.md",
-    "Home.md",
-    "3-Journal/2025-08-07.md",
-    "2-Main/CSS.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Red Moon.md",
-    "2-Main/Misc/Email.md",
-    "3-Journal/2025-08/2025-08-06.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
-    "4-DND/Ors/2-Main/Ors War.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Burning Flesh.md",
-    "4-DND/Ors/Act 1 Map and Breakdown.md",
-    "4-DND/Ors/2-Main/Ors Creation Myth.md",
-    "4-DND/Ors/2-Main/Orsian Military Structure.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Coding",
     "3-Journal/2025-08",
