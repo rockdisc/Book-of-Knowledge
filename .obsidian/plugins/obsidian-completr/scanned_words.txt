@@ -1352,6 +1352,7 @@ Borders
 Beth
 Barony
 Blights
+Britain
 Ela
 Essay
 East
@@ -18416,6 +18417,7 @@ bane
 beget
 briar
 barren
+buffer
 so
 sand
 spend
@@ -20201,6 +20203,7 @@ suicide
 stable
 stabilized
 spark
+stairs
 vast
 very
 vibrant
@@ -24010,6 +24013,7 @@ attraction
 apparition
 ascends
 accommodate
+ambassadors
 mirages
 miles
 man
@@ -44541,6 +44545,7 @@ Attaches
 Afghanistan
 Amplitude
 Achieving
+Afghan
 Rough
 Readers
 Radkeha
@@ -46023,6 +46028,8 @@ Religions
 Recruit
 Ramites
 Rapture
+Russians
+Russia
 Gyles
 Giants
 God
@@ -51967,6 +51974,7 @@ Library
 Logs
 Locations
 Latecomers
+Louis
 Johan
 Jupiter
 Jotuns
