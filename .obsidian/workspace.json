@@ -77,8 +77,7 @@
               "title": "Ch 1 Pitiful Miracle"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             }
           },
           {
-            "id": "5a9967eef387b411",
+            "id": "430ad19c4fe69761",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -184,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Journal/2025-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-08-07"
             }
           },
           {
@@ -202,6 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "3-Journal/2025-08-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2025-08-07"
             }
           },
           {
@@ -238,11 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Journal/2025-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-08-07"
             }
           }
         ],
@@ -279,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Obsidian Replacement Code and How to Run It.md",
+                "file": "3-Journal/2025-08-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Replacement Code and How to Run It"
+              "title": "Outline of 2025-08-07"
             }
           },
           {
@@ -340,10 +342,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "1a9827e9bcef273b",
   "lastOpenFiles": [
-    "Home.md",
     "2-Main/Obsidian Replacement Code and How to Run It.md",
+    "Home.md",
     "3-Journal/2025-08/2025-08-04.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08-07.md",

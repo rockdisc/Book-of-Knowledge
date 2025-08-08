@@ -55609,6 +55609,7 @@ Fers
 Fer
 Ferlogs
 Fusion
+Frieren
 Veins
 Vim
 Venus
