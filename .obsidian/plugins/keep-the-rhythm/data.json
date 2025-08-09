@@ -10056,7 +10056,13 @@
         "filePath": "Home.md",
         "wordCountStart": 162,
         "charCountStart": 1058,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 758
       },
       {
@@ -10066,6 +10072,34 @@
         "charCountStart": 1506,
         "changes": [],
         "id": 759
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 3,
+        "charCountStart": 26,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 761
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "3-Journal/2025-08-08.md",
+        "wordCountStart": 59,
+        "charCountStart": 322,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": -6,
+            "c": -25
+          }
+        ],
+        "id": 762
       }
     ]
   }
