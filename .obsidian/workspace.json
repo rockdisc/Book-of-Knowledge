@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "2025-08-08"
             }
+          },
+          {
+            "id": "dd477a3ed56655cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4-DND/DM Screen.canvas",
+                "viewState": {
+                  "x": 1060,
+                  "y": 150,
+                  "zoom": -1.0387695701645754
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DM Screen"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-08.md",
+                "file": "4-DND/DM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-08"
+              "title": "Backlinks for DM Screen"
             }
           },
           {
@@ -161,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-08.md",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-08"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -198,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-08.md",
+                "file": "4-DND/DM Screen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-08"
+              "title": "Outgoing links from DM Screen"
             }
           }
         ],
@@ -240,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-08.md",
+                "file": "4-DND/DM Screen.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-08"
+              "title": "Outline of DM Screen"
             }
           },
           {
@@ -301,10 +318,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6efed9e883064713",
+  "active": "dd477a3ed56655cb",
   "lastOpenFiles": [
-    "2-Main/3-Resources/Sciences/Kelvin.md",
     "3-Journal/2025-08-08.md",
+    "2-Main/3-Resources/Sciences/Kelvin.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/3-Resources/Sciences/Physics/Entropy.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
