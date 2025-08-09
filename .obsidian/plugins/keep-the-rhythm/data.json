@@ -10086,8 +10086,13 @@
           },
           {
             "timeKey": "22:20",
-            "w": 0,
-            "c": 2
+            "w": 5,
+            "c": 22
+          },
+          {
+            "timeKey": "22:25",
+            "w": 12,
+            "c": 78
           }
         ],
         "id": 761
@@ -10107,6 +10112,11 @@
             "timeKey": "21:55",
             "w": 0,
             "c": 10
+          },
+          {
+            "timeKey": "22:20",
+            "w": 1,
+            "c": 17
           }
         ],
         "id": 762
@@ -10193,6 +10203,20 @@
         "charCountStart": 4561,
         "changes": [],
         "id": 771
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "wordCountStart": 324,
+        "charCountStart": 1852,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -1,
+            "c": -51
+          }
+        ],
+        "id": 772
       }
     ]
   }

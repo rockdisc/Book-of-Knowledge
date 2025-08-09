@@ -1,8 +1,7 @@
-#Worldbuilding/Consept #Rough 
+#Worldbuilding/Consept 
 
 Long ago there was a race of giant gods(Titans), They were as tall as mountains and strong enough to crush them, There were many of these Titans and don't ask me where they lived, like the other side of the world or something.
 
-  
 Even though they had this much power, they were bored so they created life, specially Ymir the titan of life
 
 They created the giants who lived in Lapis and this was back when there was only one continent. They built massive cities, and it was a golden age of the world, they lived for centuries conversing with their gods
