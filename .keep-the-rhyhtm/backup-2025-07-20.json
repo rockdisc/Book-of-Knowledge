@@ -10056,7 +10056,13 @@
         "filePath": "Home.md",
         "wordCountStart": 162,
         "charCountStart": 1058,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 758
       },
       {
@@ -10066,6 +10072,166 @@
         "charCountStart": 1506,
         "changes": [],
         "id": 759
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 3,
+        "charCountStart": 26,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:20",
+            "w": 5,
+            "c": 22
+          },
+          {
+            "timeKey": "22:25",
+            "w": 107,
+            "c": 583
+          },
+          {
+            "timeKey": "22:30",
+            "w": 31,
+            "c": 165
+          },
+          {
+            "timeKey": "22:35",
+            "w": 87,
+            "c": 417
+          },
+          {
+            "timeKey": "22:40",
+            "w": 202,
+            "c": 1060
+          }
+        ],
+        "id": 761
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "3-Journal/2025-08-08.md",
+        "wordCountStart": 59,
+        "charCountStart": 322,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": -6,
+            "c": -25
+          },
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": 10
+          },
+          {
+            "timeKey": "22:20",
+            "w": 1,
+            "c": 17
+          }
+        ],
+        "id": 762
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Religions.md",
+        "wordCountStart": 295,
+        "charCountStart": 1646,
+        "changes": [],
+        "id": 763
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/3-Resources/Humanities/Esotericism/Thoth.md",
+        "wordCountStart": 13,
+        "charCountStart": 98,
+        "changes": [],
+        "id": 764
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "4-DND/Ors/2-Main/Pusher.md",
+        "wordCountStart": 66,
+        "charCountStart": 394,
+        "changes": [],
+        "id": 765
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+        "wordCountStart": 75,
+        "charCountStart": 427,
+        "changes": [],
+        "id": 766
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Entropy.md",
+        "wordCountStart": 92,
+        "charCountStart": 568,
+        "changes": [],
+        "id": 767
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/3-Resources/Sciences/Kelvin.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 27,
+            "c": 163
+          },
+          {
+            "timeKey": "21:55",
+            "w": 24,
+            "c": 148
+          }
+        ],
+        "id": 768
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 458,
+        "charCountStart": 3090,
+        "changes": [],
+        "id": 769
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "wordCountStart": 1118,
+        "charCountStart": 5853,
+        "changes": [],
+        "id": 770
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 771
+      },
+      {
+        "date": "2025-08-08",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "wordCountStart": 324,
+        "charCountStart": 1852,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -1,
+            "c": -51
+          }
+        ],
+        "id": 772
       }
     ]
   }

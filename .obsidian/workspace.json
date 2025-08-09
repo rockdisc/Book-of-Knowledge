@@ -49,8 +49,7 @@
               "title": "Chapter 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "fafde4d63706e069",
@@ -125,7 +124,7 @@
             }
           },
           {
-            "id": "cae7d576e310cf00",
+            "id": "321b10cdeaebb7d7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "3-Journal/2025-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ch 2 Meeting"
+              "title": "Backlinks for 2025-08-08"
             }
           },
           {
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "3-Journal/2025-08-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +222,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ch 2 Meeting"
+              "title": "Graph of 2025-08-08"
             }
           },
           {
@@ -232,12 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "3-Journal/2025-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ch 2 Meeting"
+              "title": "Outgoing links from 2025-08-08"
             }
           }
         ],
@@ -274,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "3-Journal/2025-08-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ch 2 Meeting"
+              "title": "Outline of 2025-08-08"
             }
           },
           {
@@ -335,10 +334,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "617f3527fd527986",
+  "active": "6efed9e883064713",
   "lastOpenFiles": [
-    "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "3-Journal/2025-08-08.md",
     "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
     "Home.md",
