@@ -34,8 +34,7 @@ actions:
 
 > [!todo]  Today
 > - [ ] Clean my desk
-> - [ ] Make the perfect app 
-> - [ ] Use Linux
+> - [ ] Make session 
 > - [ ] Read and revise [[Ch 1 Pitiful Miracle]]
  
 > [!warning]  Run On
