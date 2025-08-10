@@ -10295,7 +10295,7 @@
       },
       {
         "date": "2025-08-09",
-        "filePath": "3-Journal/2025-08-09.md",
+        "filePath": "3-Journal/2025-08/2025-08-09.md",
         "wordCountStart": 59,
         "charCountStart": 322,
         "changes": [
@@ -10316,11 +10316,24 @@
           },
           {
             "timeKey": "23:35",
-            "w": 79,
-            "c": 338
+            "w": 107,
+            "c": 473
+          },
+          {
+            "timeKey": "23:40",
+            "w": 111,
+            "c": 561
           }
         ],
         "id": 777
+      },
+      {
+        "date": "2025-08-09",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "wordCountStart": 1118,
+        "charCountStart": 5853,
+        "changes": [],
+        "id": 778
       }
     ]
   }
