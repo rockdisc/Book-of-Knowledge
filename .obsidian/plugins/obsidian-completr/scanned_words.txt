@@ -11773,6 +11773,7 @@ waveform
 womb
 wish
 warriors
+wields
 have
 hell
 his
@@ -24041,6 +24042,7 @@ apparition
 ascends
 accommodate
 ambassadors
+accurately
 mirages
 miles
 man
@@ -29856,6 +29858,7 @@ essence
 equally
 elevation
 enable
+era
 life
 leather
 long
@@ -37474,6 +37477,7 @@ revise
 revising
 radiance
 rags
+ruler
 yellow
 yet
 you
