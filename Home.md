@@ -36,6 +36,7 @@ actions:
 > - [ ] Clean my desk
 > - [ ] Make session 
 > - [ ] Read and revise [[Ch 1 Pitiful Miracle]]
+> - [ ] Try Linux 
  
 > [!warning]  Run On
 
