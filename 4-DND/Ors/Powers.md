@@ -34,5 +34,6 @@ Luck/determinism
 
 REVANANT
 
+Spout Metal 
 
 #### "Every power has a weakness, yours is my existence"

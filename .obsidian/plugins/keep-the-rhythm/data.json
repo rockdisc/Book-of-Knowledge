@@ -10334,6 +10334,20 @@
         "charCountStart": 5853,
         "changes": [],
         "id": 778
+      },
+      {
+        "date": "2025-08-10",
+        "filePath": "4-DND/Ors/Powers.md",
+        "wordCountStart": 49,
+        "charCountStart": 358,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 779
       }
     ]
   }
