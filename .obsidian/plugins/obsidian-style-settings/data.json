@@ -61,5 +61,6 @@
   "baseline-style@@h1-size": "40px",
   "baseline-style@@background-modifier-border-hover@@dark": "#6F2BAE",
   "baseline-style@@text-selection@@dark": "#402D93",
-  "baseline-style@@text-highlight-bg@@dark": "#6649C5"
+  "baseline-style@@text-highlight-bg@@dark": "#6649C5",
+  "baseline-style@@status-bar-style": "status-bar-default"
 }

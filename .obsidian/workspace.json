@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "de1f8cb42145eb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Journal/2025-08-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-10"
-            }
-          },
-          {
             "id": "f9e623004ad690ca",
             "type": "leaf",
             "state": {
@@ -117,8 +103,7 @@
               "title": "Act 1 Map and Breakdown"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-10"
+              "title": "Backlinks for Ch 1 Pitiful Miracle"
             }
           },
           {
@@ -243,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-10"
+              "title": "Graph of Ch 1 Pitiful Miracle"
             }
           },
           {
@@ -280,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-10"
+              "title": "Outgoing links from Ch 1 Pitiful Miracle"
             }
           }
         ],
@@ -322,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-10"
+              "title": "Outline of Ch 1 Pitiful Miracle"
             }
           },
           {
@@ -383,21 +368,21 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "de1f8cb42145eb20",
+  "active": "ca21243dbdade5ae",
   "lastOpenFiles": [
+    "1-Rough/Ch 2 Meeting.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+    "3-Journal/2025-08-10.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
     "Home.md",
     "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
     "4-DND/DM Screen.canvas",
-    "3-Journal/2025-08-10.md",
     "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
     "4-DND/Ors/Powers.md",
     "3-Journal/2025-08/2025-08-09.md",
     "3-Journal/2025-08/2025-08-08.md",
-    "1-Rough/Ch 2 Meeting.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
     "2-Main/3-Resources/Sciences/Kelvin.md",
     "2-Main/3-Resources/Sciences/Physics/Entropy.md",

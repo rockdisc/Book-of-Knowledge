@@ -10391,8 +10391,13 @@
           },
           {
             "timeKey": "22:20",
-            "w": 61,
-            "c": 284
+            "w": 130,
+            "c": 614
+          },
+          {
+            "timeKey": "22:25",
+            "w": 20,
+            "c": 88
           }
         ],
         "id": 781
@@ -10410,7 +10415,13 @@
         "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 1118,
         "charCountStart": 5853,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": -2,
+            "c": -14
+          }
+        ],
         "id": 783
       },
       {
@@ -10474,6 +10485,22 @@
           }
         ],
         "id": 788
+      },
+      {
+        "date": "2025-08-10",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 789
+      },
+      {
+        "date": "2025-08-10",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 435,
+        "charCountStart": 2273,
+        "changes": [],
+        "id": 790
       }
     ]
   }
