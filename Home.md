@@ -35,7 +35,7 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make session  
-> - [ ] Make Reddit account to post my story 
+> - [ ] Make a dnd theme song audio player
  
 > [!warning]  Run On
 
@@ -43,6 +43,7 @@ actions:
 > - [ ] look at dual degree 
 > - [ ] Make templates so I can easily enter what happened in school whenever it starts.
 > - [ ] Try Linux 
+> - [ ] Make Reddit account to post my story 
  
 > [!summary] What I want to do
 > - Read The Inner Game of Tennis and The Art of Thinking

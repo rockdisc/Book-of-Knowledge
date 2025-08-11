@@ -10595,8 +10595,8 @@
           },
           {
             "timeKey": "16:50",
-            "w": 16,
-            "c": 90
+            "w": 27,
+            "c": 143
           }
         ],
         "id": 794
@@ -10616,6 +10616,11 @@
             "timeKey": "16:20",
             "w": -9,
             "c": -50
+          },
+          {
+            "timeKey": "16:50",
+            "w": 9,
+            "c": 43
           }
         ],
         "id": 795
@@ -10671,6 +10676,14 @@
         "charCountStart": 6864,
         "changes": [],
         "id": 800
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/2-Main/Bobby.md",
+        "wordCountStart": 53,
+        "charCountStart": 310,
+        "changes": [],
+        "id": 801
       }
     ]
   }
