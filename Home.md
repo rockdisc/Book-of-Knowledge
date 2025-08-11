@@ -38,6 +38,7 @@ actions:
 > - [ ] Read and revise [[Ch 1 Pitiful Miracle]]
 > - [ ] Try Linux 
 > - [ ] Email the councilor to change my schedule
+> - [ ] Organize backpack 
  
 > [!warning]  Run On
 
