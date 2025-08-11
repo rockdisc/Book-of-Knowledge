@@ -20,7 +20,7 @@
 | Socials          | Discord            | Discord                             |
 | Spotlight Search | Flow Launcher      | Ulauncher                           |
 | Key Rebinding    | AutoHotKey         | In settings                         |
-| AI chat          | Jester             | Jester                              |
-| Music            | AIMP               | AIMP                                |
+| AI chat          | Ollama             | Ollama                              |
+| Music            | Spicetify          | Spicetify                           |
 | Game Launcher    | OneGameLaucher     | Terminal                            |
 | Email            | Thunderbird        | Thunderbird                         |
