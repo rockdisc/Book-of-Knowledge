@@ -241,7 +241,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O 8.12.25"
+              "title": "Backlinks"
             }
           },
           {
@@ -260,7 +259,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,7 +286,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of O 8.12.25"
+              "title": "Graph view"
             }
           },
           {
@@ -297,12 +295,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O 8.12.25"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -339,13 +336,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O 8.12.25"
+              "title": "Outline"
             }
           },
           {
@@ -400,11 +396,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "489316ceac2180ef",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
+    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "2-Main/Awfully Cumbersome.md",
     "3-Journal/2025-08-11.md",
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "2-Main/Master Key.md",
     "4-DND/DM Screen.canvas",
     "2-Main/Silent Viel.md",
