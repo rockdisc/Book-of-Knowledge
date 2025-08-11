@@ -10595,6 +10595,7 @@ Watchers
 Witlan
 Wahis
 Wyrdspawn
+Werewolf
 would
 wasteland
 walking
@@ -13041,6 +13042,7 @@ holders
 heath
 hippies
 hitting
+howl
 never
 nothing
 not
@@ -60340,6 +60342,7 @@ Udrons
 Udr
 Umbra
 Uniformly
+Ulfr
 Quote
 Quicksilver
 Qualities

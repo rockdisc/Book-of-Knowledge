@@ -41,6 +41,10 @@ If she sees magical power, she can negate it's effects, leaving it like the spel
 Power: Eidolon
 ghost
 
-[[Oriri]] 
+[[Nibkil]]
 Power: Thor
 Makes things he touches connect to him with [[Electricity]], then he can make it connect with something else. This can be lead to those 2 objects slamming into each other
+
+Bandit 1 found on way to Erna 
+Power: Ulfr 
+Werewolf 

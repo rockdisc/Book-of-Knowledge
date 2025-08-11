@@ -10610,8 +10610,13 @@
           },
           {
             "timeKey": "17:05",
-            "w": 4,
-            "c": 27
+            "w": 26,
+            "c": 144
+          },
+          {
+            "timeKey": "17:10",
+            "w": 3,
+            "c": 18
           }
         ],
         "id": 794
@@ -10715,6 +10720,20 @@
         "charCountStart": 594182,
         "changes": [],
         "id": 803
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/2-Main/Orsian Users.md",
+        "wordCountStart": 294,
+        "charCountStart": 6502,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 10,
+            "c": 10
+          }
+        ],
+        "id": 804
       }
     ]
   }
