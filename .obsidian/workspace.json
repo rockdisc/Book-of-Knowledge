@@ -224,7 +224,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 0.7039340386515152,
+                  "scale": 0.5905079565609178,
                   "close": true
                 }
               },
@@ -341,7 +341,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a105084b50b80def",
+  "active": "9daba86ed10fde9b",
   "lastOpenFiles": [
     "Home.md",
     "1-Rough/Ch 2 Meeting.md",
