@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "bf40b9fd93825088",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Act 1 Map and Breakdown"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-10"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -203,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-10"
+              "title": "Graph of Home"
             }
           },
           {
@@ -240,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-10"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -282,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-10"
+              "title": "Outline of Home"
             }
           },
           {
@@ -343,13 +355,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "de1f8cb42145eb20",
+  "active": "36be9e54d3d1b82d",
   "lastOpenFiles": [
+    "4-DND/Ors/Act 1 Map and Breakdown.md",
     "Home.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08-10.md",
     "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
     "4-DND/Ors/Powers.md",
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08/2025-08-09.md",
     "3-Journal/2025-08/2025-08-08.md",
     "1-Rough/Ch 2 Meeting.md",
@@ -373,7 +386,6 @@
     "2-Main/Church of the Nameless God.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Gift.md",
     "2-Main/3-Resources/Coding",
     "3-Journal/2025-08",
     "5-Images/csc and sec graph.png",
