@@ -30,7 +30,7 @@ List of Orsian [[Users]]
 | Spear    | Party               | [[Curze]] (Phinehas)      | True invisibility that then turns into fear manipulation                                                                                                  |
 | Spear    | Party               | [[Toadbog]] (Mark)        | Hypnotization and mind control                                                                                                                            |
 | Spear    | Party               | [[Adamzka]] (Ezra)        | The death hunt                                                                                                                                            |
-| Spear    | Party               | (Barnes)                  | control over existing [[Force]]s                                                                                                                          |
+| Spear    | Party               | [[Bobby]] (Barnes)        | control over existing [[Force]]s                                                                                                                          |
 ###  Other
 
 [[Sofie Hler]]
