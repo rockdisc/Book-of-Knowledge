@@ -39,6 +39,7 @@ actions:
 > - [ ] Try Linux 
 > - [ ] Email the councilor to change my schedule
 > - [ ] Organize backpack 
+> - [ ] Make Reddit account to post my story 
  
 > [!warning]  Run On
 
