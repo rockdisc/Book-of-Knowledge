@@ -25431,6 +25431,7 @@ minion
 mercy
 measurement
 maps
+misfortune
 for
 find
 face
@@ -41074,6 +41075,7 @@ piling
 procedure
 politicians
 prays
+pessimistic
 kept
 know
 knew
