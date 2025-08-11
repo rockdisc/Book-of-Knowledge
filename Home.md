@@ -35,7 +35,6 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make session  
-> - [ ] Organize backpack 
 > - [ ] Make Reddit account to post my story 
  
 > [!warning]  Run On

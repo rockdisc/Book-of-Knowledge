@@ -62,23 +62,8 @@
               "icon": "lucide-file",
               "title": "O 8.12.25"
             }
-          },
-          {
-            "id": "b89dd7eb9eccf82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux X Windows"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux X Windows"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -203,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linux X Windows"
+              "title": "Graph of Home"
             }
           },
           {
@@ -240,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linux X Windows"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -282,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux X Windows"
+              "title": "Outline of Home"
             }
           },
           {
@@ -343,7 +328,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b89dd7eb9eccf82c",
+  "active": "f9e623004ad690ca",
   "lastOpenFiles": [
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "2-Main/Misc/Linux X Windows.md",
