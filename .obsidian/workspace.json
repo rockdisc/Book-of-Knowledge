@@ -78,20 +78,6 @@
             }
           },
           {
-            "id": "0e8b938af8274f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/Master Key.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Master Key"
-            }
-          },
-          {
             "id": "00716057d57fef03",
             "type": "leaf",
             "state": {
@@ -149,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/Master Key.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +251,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Master Key"
+              "title": "Backlinks for O 8.12.25"
             }
           },
           {
@@ -274,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Master Key.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -302,7 +288,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Master Key"
+              "title": "Graph of O 8.12.25"
             }
           },
           {
@@ -311,12 +297,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/Master Key.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Master Key"
+              "title": "Outgoing links from O 8.12.25"
             }
           }
         ],
@@ -353,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Master Key.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Master Key"
+              "title": "Outline of O 8.12.25"
             }
           },
           {
@@ -414,7 +400,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0e8b938af8274f08",
+  "active": "489316ceac2180ef",
   "lastOpenFiles": [
     "2-Main/Master Key.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
