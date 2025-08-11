@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "ff7b80837d4e27ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
             "id": "be3b70eae52f8a55",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O 8.12.25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -203,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of O 8.12.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -240,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O 8.12.25"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -282,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O 8.12.25"
+              "title": "Outline of Home"
             }
           },
           {
@@ -343,10 +357,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a105084b50b80def",
+  "active": "ff7b80837d4e27ad",
   "lastOpenFiles": [
-    "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
     "3-Journal/2025-08-11.md",
     "Templates/JEntry.md",
     "Home.md",
