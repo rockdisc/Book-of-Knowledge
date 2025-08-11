@@ -2613,6 +2613,8 @@ Epitome
 Endings
 Ether
 Equations
+Explain
+Erna
 Classic
 Consept
 Character
@@ -3950,6 +3952,7 @@ Consciousness
 Creature
 Cinis
 Cudo
+Confrontation
 Modern
 Mini
 My
@@ -33501,6 +33504,7 @@ Types
 Treants
 Tachyon
 Thump
+Tors
 goat
 going
 get
