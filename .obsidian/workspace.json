@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DND/Ors/Powers.md",
+                "file": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powers"
+              "title": "Kinematics"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-10"
+              "title": "Backlinks for Kinematics"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-10"
+              "title": "Graph of Kinematics"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-10"
+              "title": "Outgoing links from Kinematics"
             }
           }
         ],
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-10.md",
+                "file": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-10"
+              "title": "Outline of Kinematics"
             }
           },
           {
@@ -343,11 +343,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "de1f8cb42145eb20",
+  "active": "799430871d020940",
   "lastOpenFiles": [
-    "Home.md",
-    "3-Journal/2025-08-10.md",
     "4-DND/Ors/Powers.md",
+    "3-Journal/2025-08-10.md",
+    "Home.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08/2025-08-09.md",
     "3-Journal/2025-08/2025-08-08.md",
