@@ -35,7 +35,6 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make session 
-> - [ ] Read and revise [[Ch 1 Pitiful Miracle]]
 > - [ ] Try Linux 
 > - [ ] Email the councilor to change my schedule
 > - [ ] Organize backpack 
