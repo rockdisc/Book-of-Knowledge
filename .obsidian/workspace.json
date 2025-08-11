@@ -266,7 +266,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 0.5905079565609178,
+                  "scale": 0.5905079565609179,
                   "close": true
                 }
               },
@@ -383,7 +383,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "489316ceac2180ef",
+  "active": "9daba86ed10fde9b",
   "lastOpenFiles": [
     "2-Main/Crystal Lens.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
