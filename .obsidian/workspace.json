@@ -64,19 +64,21 @@
             }
           },
           {
-            "id": "0cf20da74de56c91",
+            "id": "b89dd7eb9eccf82c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md"
+                "file": "2-Main/Misc/Linux X Windows.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Act 1 Map and Breakdown"
+              "icon": "lucide-file",
+              "title": "Linux X Windows"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "2-Main/Misc/Linux X Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O 8.12.25"
+              "title": "Backlinks for Linux X Windows"
             }
           },
           {
@@ -201,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "2-Main/Misc/Linux X Windows.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of O 8.12.25"
+              "title": "Graph of Linux X Windows"
             }
           },
           {
@@ -238,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "2-Main/Misc/Linux X Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O 8.12.25"
+              "title": "Outgoing links from Linux X Windows"
             }
           }
         ],
@@ -280,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "2-Main/Misc/Linux X Windows.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O 8.12.25"
+              "title": "Outline of Linux X Windows"
             }
           },
           {
@@ -341,15 +343,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "9daba86ed10fde9b",
+  "active": "b89dd7eb9eccf82c",
   "lastOpenFiles": [
+    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "2-Main/Misc/Linux X Windows.md",
+    "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "1-Rough/Frontend Development with HTML.md",
     "Home.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
-    "3-Journal/2025-08-10.md",
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
-    "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "3-Journal/2025-08/2025-08-10.md",
     "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
@@ -370,8 +374,6 @@
     "2-Main/3-Resources/Humanities",
     "2-Main/3-Resources/Coding/CSS.md",
     "2-Main/Obsidian Replacement Code and How to Run It.md",
-    "3-Journal/2025-08/2025-08-04.md",
-    "2-Main/Church of the Nameless God.md",
     "2-Main/3-Resources/Coding",
     "3-Journal/2025-08",
     "5-Images/csc and sec graph.png",

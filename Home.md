@@ -34,17 +34,17 @@ actions:
 
 > [!todo]  Today
 > - [ ] Clean my desk
-> - [ ] Make session 
-> - [ ] Try Linux 
-> - [ ] Email the councilor to change my schedule
+> - [ ] Make session  
 > - [ ] Organize backpack 
 > - [ ] Make Reddit account to post my story 
  
 > [!warning]  Run On
+> - [ ] Email the councilor to change my schedule
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
 > - [ ] Make templates so I can easily enter what happened in school whenever it starts.
+> - [ ] Try Linux 
  
 > [!summary] What I want to do
 > - Read The Inner Game of Tennis and The Art of Thinking
