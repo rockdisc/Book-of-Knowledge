@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "3-Journal/2025-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O 8.12.25"
+              "title": "Backlinks for 2025-08-10"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "3-Journal/2025-08-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +271,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of O 8.12.25"
+              "title": "Graph of 2025-08-10"
             }
           },
           {
@@ -280,12 +280,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "3-Journal/2025-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O 8.12.25"
+              "title": "Outgoing links from 2025-08-10"
             }
           }
         ],
@@ -322,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "3-Journal/2025-08-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O 8.12.25"
+              "title": "Outline of 2025-08-10"
             }
           },
           {
@@ -383,14 +383,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a105084b50b80def",
+  "active": "de1f8cb42145eb20",
   "lastOpenFiles": [
-    "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "4-DND/Ors/Act 1 Map and Breakdown.md",
     "Home.md",
     "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
     "4-DND/DM Screen.canvas",
-    "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
     "3-Journal/2025-08-10.md",
     "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
     "4-DND/Ors/Powers.md",
