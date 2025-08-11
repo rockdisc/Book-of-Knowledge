@@ -38,7 +38,6 @@ actions:
 > - [ ] Make Reddit account to post my story 
  
 > [!warning]  Run On
-> - [ ] Email the councilor to change my schedule
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
