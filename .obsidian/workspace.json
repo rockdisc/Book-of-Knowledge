@@ -113,7 +113,7 @@
               "state": {
                 "file": "4-DND/DM Screen.canvas",
                 "viewState": {
-                  "x": 1119.235361834964,
+                  "x": 1034.0939605610783,
                   "y": 166.08103962833644,
                   "zoom": -0.9017764639118763
                 }
@@ -402,6 +402,7 @@
   },
   "active": "00716057d57fef03",
   "lastOpenFiles": [
+    "4-DND/DM Screen.canvas",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
     "4-DND/Ors/2-Main/Torg.md",
     "Home.md",
@@ -412,7 +413,6 @@
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/Reminisce.md",
-    "4-DND/DM Screen.canvas",
     "2-Main/Sparrow's Song.md",
     "2-Main/Crystal Lens.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
@@ -428,7 +428,6 @@
     "2-Main/Murphy's Law.md",
     "4-DND/Ors/2-Main/Puppet's String.md",
     "4-DND/Ors/2-Main/Bobby.md",
-    "Templates/JEntry.md",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
     "2-Main/3-Resources/Coding",
