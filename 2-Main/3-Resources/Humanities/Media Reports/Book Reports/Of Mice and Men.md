@@ -1,5 +1,8 @@
 ---
 banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg"
+---
+---
+banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg"
 banner_y: 0.38
 ---
 # Of Mice and Men 
