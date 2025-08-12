@@ -10681,7 +10681,7 @@
           {
             "timeKey": "19:10",
             "w": -1,
-            "c": -2
+            "c": -3
           }
         ],
         "id": 794
@@ -10955,7 +10955,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Loose Ends.md",
+        "filePath": "2-Main/Loose End.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10968,6 +10968,16 @@
             "timeKey": "19:05",
             "w": 86,
             "c": 456
+          },
+          {
+            "timeKey": "19:10",
+            "w": 15,
+            "c": 67
+          },
+          {
+            "timeKey": "19:15",
+            "w": 40,
+            "c": 193
           }
         ],
         "id": 814
