@@ -10695,8 +10695,13 @@
           },
           {
             "timeKey": "22:35",
-            "w": 5,
-            "c": 20
+            "w": 47,
+            "c": 249
+          },
+          {
+            "timeKey": "22:40",
+            "w": -3,
+            "c": -21
           }
         ],
         "id": 794
@@ -10789,7 +10794,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
         "wordCountStart": 1325,
         "charCountStart": 6864,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 800
       },
       {
@@ -10881,7 +10892,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
         "wordCountStart": 1006,
         "charCountStart": 5394,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 25,
+            "c": 146
+          }
+        ],
         "id": 808
       },
       {
