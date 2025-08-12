@@ -11276,6 +11276,11 @@
             "timeKey": "11:20",
             "w": 95,
             "c": 549
+          },
+          {
+            "timeKey": "11:25",
+            "w": 60,
+            "c": 309
           }
         ],
         "id": 821
@@ -11339,6 +11344,14 @@
           }
         ],
         "id": 827
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 828
       }
     ]
   }
