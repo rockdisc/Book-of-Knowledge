@@ -10677,6 +10677,11 @@
             "timeKey": "19:00",
             "w": 2,
             "c": 12
+          },
+          {
+            "timeKey": "19:10",
+            "w": -1,
+            "c": -2
           }
         ],
         "id": 794
@@ -10950,7 +10955,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Fool's Edict.md",
+        "filePath": "2-Main/Loose Ends.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10961,8 +10966,8 @@
           },
           {
             "timeKey": "19:05",
-            "w": 43,
-            "c": 220
+            "w": 86,
+            "c": 456
           }
         ],
         "id": 814
