@@ -11789,6 +11789,7 @@ wish
 warriors
 wields
 wearer
+waving
 have
 hell
 his
@@ -16976,6 +16977,8 @@ televised
 trousers
 teleports
 testing
+thugs
+territory
 be
 bright
 but
@@ -18459,6 +18462,7 @@ barren
 buffer
 beating
 blabbering
+bush
 so
 sand
 spend
@@ -20262,6 +20266,7 @@ strike
 sparrows
 sharpshooting
 stirrup
+squirrel
 vast
 very
 vibrant
@@ -26902,6 +26907,7 @@ funded
 farmers
 factor
 farmlands
+flush
 can
 covered
 clad
@@ -28552,6 +28558,9 @@ consecutive
 chemistry
 conversion
 cheap
+copper
+coins
+cats
 entire
 endless
 everything
@@ -31198,6 +31207,7 @@ losers
 legit
 lunch
 lasts
+limb
 on
 other
 of
@@ -32244,6 +32254,7 @@ overwhelm
 opposed
 onomatopoeia
 outdated
+office
 Then
 The
 This
@@ -37550,6 +37561,7 @@ rural
 realizes
 robbed
 rushing
+rejoin
 yellow
 yet
 you
@@ -41131,6 +41143,7 @@ prays
 pessimistic
 pair
 prompt
+paved
 kept
 know
 knew
@@ -55764,6 +55777,7 @@ Ferlogs
 Fusion
 Frieren
 Further
+Flesh
 Veins
 Vim
 Venus
