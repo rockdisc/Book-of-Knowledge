@@ -11786,6 +11786,7 @@ womb
 wish
 warriors
 wields
+wearer
 have
 hell
 his
@@ -29893,6 +29894,7 @@ equally
 elevation
 enable
 era
+eyesight
 life
 leather
 long
@@ -37521,6 +37523,7 @@ ruler
 roads
 righteous
 rural
+realizes
 yellow
 yet
 you
