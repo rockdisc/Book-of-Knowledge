@@ -11261,6 +11261,11 @@
             "timeKey": "00:25",
             "w": 82,
             "c": 427
+          },
+          {
+            "timeKey": "09:50",
+            "w": 19,
+            "c": 110
           }
         ],
         "id": 821
@@ -11302,6 +11307,14 @@
           }
         ],
         "id": 825
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 6.23.25.md",
+        "wordCountStart": 960,
+        "charCountStart": 5348,
+        "changes": [],
+        "id": 826
       }
     ]
   }
