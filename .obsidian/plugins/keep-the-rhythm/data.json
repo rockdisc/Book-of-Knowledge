@@ -10586,8 +10586,8 @@
         "changes": [
           {
             "timeKey": "00:00",
-            "w": 15,
-            "c": 76
+            "w": 32,
+            "c": 166
           },
           {
             "timeKey": "12:00",
@@ -11209,6 +11209,57 @@
           }
         ],
         "id": 818
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 464,
+        "charCountStart": 3157,
+        "changes": [],
+        "id": 819
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18628,
+        "charCountStart": 588468,
+        "changes": [],
+        "id": 820
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+        "wordCountStart": 1047,
+        "charCountStart": 5723,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 12,
+            "c": 67
+          },
+          {
+            "timeKey": "00:05",
+            "w": 70,
+            "c": 362
+          }
+        ],
+        "id": 821
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 435,
+        "charCountStart": 2273,
+        "changes": [],
+        "id": 822
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 823
       }
     ]
   }
