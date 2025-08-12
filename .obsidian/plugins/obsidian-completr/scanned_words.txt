@@ -6776,6 +6776,7 @@ Spout
 Spicetify
 Super
 Steal
+Strike
 Interesting
 In
 If
@@ -20256,6 +20257,7 @@ situations
 stuns
 strike
 sparrows
+sharpshooting
 vast
 very
 vibrant
@@ -24079,6 +24081,7 @@ ambassadors
 accurately
 ablaze
 absorbs
+amazing
 mirages
 miles
 man
@@ -37537,6 +37540,7 @@ roads
 righteous
 rural
 realizes
+robbed
 yellow
 yet
 you
