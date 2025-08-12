@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O 8.12.25"
+              "title": "Backlinks for DM Screen"
             }
           },
           {
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of O 8.12.25"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -255,12 +255,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O 8.12.25"
+              "title": "Outgoing links from DM Screen"
             }
           }
         ],
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O 8.12.25"
+              "title": "Outline of DM Screen"
             }
           },
           {
@@ -358,11 +358,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "489316ceac2180ef",
+  "active": "00716057d57fef03",
   "lastOpenFiles": [
+    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
     "2-Main/Sparrow's Song.md",
