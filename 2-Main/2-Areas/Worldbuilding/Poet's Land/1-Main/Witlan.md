@@ -18,14 +18,14 @@ In contains most of the Dilin Mountains and has 3 rivers completely within it, t
 ### Currency 
 Taken from the golden standard. 
 Fers are the main currency they are equal to 1/16th of a gram of gold. 
-Denfers are a 10ths of a fer
-Chics a quarter of a denfer
+Denfers are an 8th of a fer
+Chits a quarter of a denfer
 
-| x          | Chic | Denfer | Fer |
+| x          | Chit | Denfer | Fer |
 | ---------- | ---- | ------ | --- |
-| __Chic__   | 1    | 4      | 40  |
-| __Denfer__ | 4    | 1      | 10  |
-| __Fer__    | 40   | 10     | 1   |
+| __Chit__   | 1    | 4      | 32  |
+| __Denfer__ | 4    | 1      | 8   |
+| __Fer__    | 42   | 8      | 1   |
 ### Measurement system
 
 #### Weight 
