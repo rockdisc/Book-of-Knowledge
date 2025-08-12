@@ -20254,6 +20254,8 @@ spoken
 surrounds
 situations
 stuns
+strike
+sparrows
 vast
 very
 vibrant
@@ -34832,6 +34834,7 @@ guru
 guidance
 guessed
 grandson
+gunshots
 use
 until
 used
