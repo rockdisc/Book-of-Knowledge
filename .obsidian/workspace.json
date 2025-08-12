@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for O 8.12.25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -260,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,7 +288,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of O 8.12.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -297,12 +297,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from O 8.12.25"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -339,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of O 8.12.25"
+              "title": "Outline of Home"
             }
           },
           {
@@ -400,14 +400,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "489316ceac2180ef",
+  "active": "f92c0098b20034b1",
   "lastOpenFiles": [
-    "4-DND/Ors/Variables.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "Home.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "4-DND/Ors/Variables.md",
     "4-DND/Ors/1-Sessions/Orsian/O 6.23.25.md",
     "2-Main/Loose End.md",
-    "Home.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/Reminisce.md",
