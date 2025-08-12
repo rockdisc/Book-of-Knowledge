@@ -116,7 +116,19 @@ Chits a quarter of a denfer
 |Grand piano|12,000 fers|$498.36||
 |Opera ticket (box seat)|4 fers|$0.1661|Evening entertainment|
 
-
+| Occupation                  | Daily Pay | Weekly   | Monthly      | Yearly        | Yearly USD  |
+| --------------------------- | --------- | -------- | ------------ | ------------- | ----------- |
+| **Unskilled laborer**       | 18 fers   | 108 fers | 467 fers     | 5,616 fers    | $233.14     |
+| **Skilled craftsman**       | 40 fers   | 240 fers | 1,038 fers   | 12,480 fers   | $518.28     |
+| **Soldier (infantry)**      | 12 fers   | 72 fers  | 311 fers     | 3,744 fers    | $155.48     |
+| **Teacher / schoolmaster**  | 30 fers   | 180 fers | 779 fers     | 9,360 fers    | $388.71     |
+| **Merchant clerk**          | 20 fers   | 120 fers | 519 fers     | 6,240 fers    | $258.62     |
+| **Police constable**        | 25 fers   | 150 fers | 649 fers     | 7,800 fers    | $323.28     |
+| **Ship’s crew (merchant)**  | 28 fers   | 168 fers | 727 fers     | 8,736 fers    | $361.34     |
+| **Junior engineer**         | 45 fers   | 270 fers | 1,168 fers   | 14,040 fers   | $582.54     |
+| **Ship captain (merchant)** | 100 fers  | 600 fers | 2,598 fers   | 31,200 fers   | $1,295.20   |
+| **Factory owner (small)**   | —         | —        | ~8,000 fers  | ~96,000 fers  | ~$3,981.00  |
+| **Colonial governor**       | —         | —        | ~25,000 fers | ~300,000 fers | ~$12,437.00 |
 
 
 ### Measurement system
