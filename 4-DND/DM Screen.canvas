@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b07630b43bfdf94b","type":"text","text":"# Current Session \n![[A 8.3.25]]","x":1270,"y":-480,"width":990,"height":1260},
+		{"id":"b07630b43bfdf94b","type":"text","text":"# Current Session \n![[O 8.12.25]]","x":1270,"y":-480,"width":990,"height":1260},
 		{"id":"a402c19ab4f6f739","type":"file","file":"4-DND/DND Loot Table.md","x":800,"y":-480,"width":470,"height":500},
 		{"id":"cd4f0f96836e5968","type":"text","text":"## Orsian Notes \n\nMoney: 3139 + 94.9\n\n750 per month \n\n### Players:\n- [[Toadbog]]\n- [[Michael Leech]]\n- [[Curze]]\n- [[Adamzka]]\n- [[Bobby]]\n## Quest \n\n1. Kill [[Thrainn Dval]] who is located in [[Dvalinn]]\n\t1.  Go to [[Hoste]] to get on a ship to get to Dvalinn.\n\t2. On the way to Hoste, find and recruit any strong user you come by, This does NOT mean keep them in in Adamzka's ability. (She gives them a few cards of return which allow for people to get teleported directly to [[Torg]] if they agree to it.)\n2. Then find the location of their strongest people, and kill them on your way back to Torg, on land.\n3. Await further instructions \n\n","x":330,"y":320,"width":470,"height":460},
 		{"id":"696295d6b771779f","type":"text","text":"# Initiative \n","x":800,"y":20,"width":470,"height":300},
