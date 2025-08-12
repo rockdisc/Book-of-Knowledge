@@ -1,6 +1,6 @@
 {
   "cssTheme": "Baseline",
-  "showRibbon": true,
+  "showRibbon": false,
   "baseFontSizeAction": true,
   "baseFontSize": 22,
   "enabledCssSnippets": [
