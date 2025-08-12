@@ -35,9 +35,9 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Make session  
-> - [ ] Make a dnd theme song audio player
  
 > [!warning]  Run On
+> - [ ] Renew Book
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
