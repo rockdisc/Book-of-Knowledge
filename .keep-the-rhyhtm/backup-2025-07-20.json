@@ -63,7 +63,8 @@
       "2025-07-27",
       "2025-07-30",
       "2025-08-04",
-      "2025-08-06"
+      "2025-08-06",
+      "2025-08-11"
     ],
     "dailyActivity": [
       {
@@ -10568,6 +10569,804 @@
           }
         ],
         "id": 792
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Misc/Linux X Windows.md",
+        "wordCountStart": 112,
+        "charCountStart": 1942,
+        "changes": [],
+        "id": 793
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+        "wordCountStart": 192,
+        "charCountStart": 1179,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 32,
+            "c": 166
+          },
+          {
+            "timeKey": "12:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:45",
+            "w": 13,
+            "c": 82
+          },
+          {
+            "timeKey": "16:50",
+            "w": 27,
+            "c": 143
+          },
+          {
+            "timeKey": "16:55",
+            "w": 29,
+            "c": 134
+          },
+          {
+            "timeKey": "17:00",
+            "w": 26,
+            "c": 139
+          },
+          {
+            "timeKey": "17:05",
+            "w": 26,
+            "c": 144
+          },
+          {
+            "timeKey": "17:10",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "17:15",
+            "w": 4,
+            "c": 32
+          },
+          {
+            "timeKey": "17:20",
+            "w": 25,
+            "c": 153
+          },
+          {
+            "timeKey": "17:25",
+            "w": 25,
+            "c": 128
+          },
+          {
+            "timeKey": "17:30",
+            "w": 27,
+            "c": 170
+          },
+          {
+            "timeKey": "17:35",
+            "w": 46,
+            "c": 217
+          },
+          {
+            "timeKey": "17:40",
+            "w": 26,
+            "c": 147
+          },
+          {
+            "timeKey": "17:50",
+            "w": 27,
+            "c": 134
+          },
+          {
+            "timeKey": "18:00",
+            "w": 3,
+            "c": 23
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:35",
+            "w": 2,
+            "c": 6
+          },
+          {
+            "timeKey": "18:40",
+            "w": 8,
+            "c": 33
+          },
+          {
+            "timeKey": "19:00",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "19:10",
+            "w": -1,
+            "c": -3
+          },
+          {
+            "timeKey": "20:20",
+            "w": -1,
+            "c": -9
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 9
+          },
+          {
+            "timeKey": "22:35",
+            "w": 47,
+            "c": 249
+          },
+          {
+            "timeKey": "22:40",
+            "w": -3,
+            "c": -21
+          },
+          {
+            "timeKey": "22:55",
+            "w": 73,
+            "c": 383
+          },
+          {
+            "timeKey": "23:00",
+            "w": 11,
+            "c": 47
+          },
+          {
+            "timeKey": "23:25",
+            "w": 54,
+            "c": 273
+          },
+          {
+            "timeKey": "23:30",
+            "w": 95,
+            "c": 554
+          },
+          {
+            "timeKey": "23:35",
+            "w": 74,
+            "c": 365
+          },
+          {
+            "timeKey": "23:40",
+            "w": 48,
+            "c": 243
+          },
+          {
+            "timeKey": "23:45",
+            "w": 61,
+            "c": 313
+          },
+          {
+            "timeKey": "23:50",
+            "w": -7,
+            "c": -5
+          },
+          {
+            "timeKey": "23:55",
+            "w": 53,
+            "c": 265
+          }
+        ],
+        "id": 794
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "Home.md",
+        "wordCountStart": 173,
+        "charCountStart": 1126,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -4,
+            "c": -27
+          },
+          {
+            "timeKey": "16:20",
+            "w": -9,
+            "c": -50
+          },
+          {
+            "timeKey": "16:50",
+            "w": 9,
+            "c": 43
+          },
+          {
+            "timeKey": "22:40",
+            "w": -9,
+            "c": -40
+          },
+          {
+            "timeKey": "22:45",
+            "w": 4,
+            "c": 16
+          },
+          {
+            "timeKey": "23:40",
+            "w": 12,
+            "c": 63
+          }
+        ],
+        "id": 795
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 435,
+        "charCountStart": 2273,
+        "changes": [],
+        "id": 796
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 797
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "3-Journal/2025-08-11.md",
+        "wordCountStart": 59,
+        "charCountStart": 322,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": -6,
+            "c": -25
+          },
+          {
+            "timeKey": "17:20",
+            "w": 2,
+            "c": 15
+          },
+          {
+            "timeKey": "21:00",
+            "w": -1,
+            "c": -1
+          },
+          {
+            "timeKey": "21:05",
+            "w": 19,
+            "c": 106
+          },
+          {
+            "timeKey": "22:40",
+            "w": 40,
+            "c": 182
+          },
+          {
+            "timeKey": "22:45",
+            "w": 94,
+            "c": 439
+          },
+          {
+            "timeKey": "22:50",
+            "w": 97,
+            "c": 502
+          },
+          {
+            "timeKey": "22:55",
+            "w": 28,
+            "c": 131
+          }
+        ],
+        "id": 798
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 57,
+        "charCountStart": 321,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": -3,
+            "c": -13
+          }
+        ],
+        "id": 799
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
+        "wordCountStart": 1325,
+        "charCountStart": 6864,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 800
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/2-Main/Bobby.md",
+        "wordCountStart": 53,
+        "charCountStart": 310,
+        "changes": [],
+        "id": 801
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18513,
+        "charCountStart": 594182,
+        "changes": [],
+        "id": 802
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18513,
+        "charCountStart": 594182,
+        "changes": [],
+        "id": 803
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/2-Main/Orsian Users.md",
+        "wordCountStart": 294,
+        "charCountStart": 6502,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 10,
+            "c": 10
+          },
+          {
+            "timeKey": "17:30",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 804
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Chain of Unfortunate Events.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 56,
+            "c": 303
+          },
+          {
+            "timeKey": "17:20",
+            "w": 16,
+            "c": 97
+          }
+        ],
+        "id": 805
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/2-Main/Puppet's String.md",
+        "wordCountStart": 109,
+        "charCountStart": 1106,
+        "changes": [],
+        "id": 806
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Murphy's Law.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 9,
+            "c": 48
+          }
+        ],
+        "id": 807
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 1006,
+        "charCountStart": 5394,
+        "changes": [
+          {
+            "timeKey": "22:40",
+            "w": 26,
+            "c": 153
+          }
+        ],
+        "id": 808
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Crystal Lens.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 12,
+            "c": 84
+          },
+          {
+            "timeKey": "17:35",
+            "w": 11,
+            "c": 66
+          },
+          {
+            "timeKey": "23:25",
+            "w": 7,
+            "c": 46
+          }
+        ],
+        "id": 809
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Silent Viel.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 11,
+            "c": 68
+          },
+          {
+            "timeKey": "17:45",
+            "w": 72,
+            "c": 378
+          },
+          {
+            "timeKey": "17:50",
+            "w": 18,
+            "c": 96
+          }
+        ],
+        "id": 810
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 458,
+        "charCountStart": 3090,
+        "changes": [],
+        "id": 811
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Master Key.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 11,
+            "c": 74
+          },
+          {
+            "timeKey": "17:55",
+            "w": 11,
+            "c": 60
+          },
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 812
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Awfully Cumbersome.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 44,
+            "c": 256
+          },
+          {
+            "timeKey": "18:05",
+            "w": 44,
+            "c": 255
+          }
+        ],
+        "id": 813
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Loose End.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 45,
+            "c": 242
+          },
+          {
+            "timeKey": "19:05",
+            "w": 86,
+            "c": 456
+          },
+          {
+            "timeKey": "19:10",
+            "w": 15,
+            "c": 67
+          },
+          {
+            "timeKey": "19:15",
+            "w": 50,
+            "c": 250
+          },
+          {
+            "timeKey": "19:20",
+            "w": 29,
+            "c": 148
+          }
+        ],
+        "id": 814
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Reminisce.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 19,
+            "c": 115
+          },
+          {
+            "timeKey": "22:25",
+            "w": 46,
+            "c": 237
+          },
+          {
+            "timeKey": "22:30",
+            "w": 64,
+            "c": 342
+          },
+          {
+            "timeKey": "22:35",
+            "w": 21,
+            "c": 116
+          }
+        ],
+        "id": 815
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "4-DND/Ors/2-Main/Aegir.md",
+        "wordCountStart": 42,
+        "charCountStart": 246,
+        "changes": [],
+        "id": 816
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
+        "wordCountStart": 256,
+        "charCountStart": 1660,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "23:05",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "23:15",
+            "w": 230,
+            "c": 2249
+          },
+          {
+            "timeKey": "23:20",
+            "w": 564,
+            "c": 4370
+          }
+        ],
+        "id": 817
+      },
+      {
+        "date": "2025-08-11",
+        "filePath": "2-Main/Sparrow's Song.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 20,
+            "c": 121
+          },
+          {
+            "timeKey": "23:50",
+            "w": 25,
+            "c": 127
+          }
+        ],
+        "id": 818
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/DM Screen.canvas",
+        "wordCountStart": 464,
+        "charCountStart": 3157,
+        "changes": [],
+        "id": 819
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18628,
+        "charCountStart": 588468,
+        "changes": [],
+        "id": 820
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+        "wordCountStart": 1047,
+        "charCountStart": 5723,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 12,
+            "c": 67
+          },
+          {
+            "timeKey": "00:05",
+            "w": 87,
+            "c": 448
+          },
+          {
+            "timeKey": "00:10",
+            "w": 29,
+            "c": 148
+          },
+          {
+            "timeKey": "00:15",
+            "w": 59,
+            "c": 295
+          },
+          {
+            "timeKey": "00:20",
+            "w": 54,
+            "c": 272
+          },
+          {
+            "timeKey": "00:25",
+            "w": 82,
+            "c": 427
+          },
+          {
+            "timeKey": "09:50",
+            "w": 19,
+            "c": 110
+          },
+          {
+            "timeKey": "11:15",
+            "w": 88,
+            "c": 466
+          },
+          {
+            "timeKey": "11:20",
+            "w": 95,
+            "c": 549
+          },
+          {
+            "timeKey": "11:25",
+            "w": 60,
+            "c": 309
+          },
+          {
+            "timeKey": "11:30",
+            "w": 24,
+            "c": 126
+          },
+          {
+            "timeKey": "11:35",
+            "w": 56,
+            "c": 299
+          },
+          {
+            "timeKey": "11:55",
+            "w": 27,
+            "c": 149
+          }
+        ],
+        "id": 821
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 435,
+        "charCountStart": 2273,
+        "changes": [],
+        "id": 822
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 823
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "Home.md",
+        "wordCountStart": 176,
+        "charCountStart": 1131,
+        "changes": [],
+        "id": 824
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "2-Main/Reminisce.md",
+        "wordCountStart": 150,
+        "charCountStart": 810,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 825
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 6.23.25.md",
+        "wordCountStart": 960,
+        "charCountStart": 5348,
+        "changes": [],
+        "id": 826
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "2-Main/Loose End.md",
+        "wordCountStart": 225,
+        "charCountStart": 1163,
+        "changes": [
+          {
+            "timeKey": "11:10",
+            "w": 24,
+            "c": 112
+          }
+        ],
+        "id": 827
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 828
       }
     ]
   }
