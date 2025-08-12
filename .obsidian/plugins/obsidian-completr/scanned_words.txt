@@ -1355,6 +1355,7 @@ Blights
 Britain
 Behind
 Bowl
+Bardi
 Ela
 Essay
 East
@@ -11790,6 +11791,7 @@ warriors
 wields
 wearer
 waving
+watered
 have
 hell
 his
@@ -15553,6 +15555,7 @@ interweaving
 internally
 inn
 ids
+investigating
 to
 the
 there
@@ -20268,6 +20271,8 @@ sparrows
 sharpshooting
 stirrup
 squirrel
+sheathed
+sickly
 vast
 very
 vibrant
@@ -22728,6 +22733,7 @@ doors
 distort
 disable
 drums
+draws
 and
 anything
 am
@@ -28562,6 +28568,7 @@ cheap
 copper
 coins
 cats
+cancelled
 entire
 endless
 everything
@@ -29926,6 +29933,7 @@ entertain
 examines
 examined
 examine
+exchanged
 life
 leather
 long
@@ -34858,6 +34866,7 @@ guidance
 guessed
 grandson
 gunshots
+genetic
 use
 until
 used
@@ -55781,6 +55790,7 @@ Fusion
 Frieren
 Further
 Flesh
+Fates
 Veins
 Vim
 Venus
