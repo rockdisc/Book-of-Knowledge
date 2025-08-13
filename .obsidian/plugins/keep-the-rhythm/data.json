@@ -11457,6 +11457,11 @@
             "timeKey": "18:25",
             "w": 14,
             "c": 89
+          },
+          {
+            "timeKey": "18:35",
+            "w": -64,
+            "c": -373
           }
         ],
         "id": 834
@@ -11507,6 +11512,25 @@
           }
         ],
         "id": 837
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 54,
+        "charCountStart": 308,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 62,
+            "c": 455
+          },
+          {
+            "timeKey": "18:40",
+            "w": 9,
+            "c": 74
+          }
+        ],
+        "id": 838
       }
     ]
   }
