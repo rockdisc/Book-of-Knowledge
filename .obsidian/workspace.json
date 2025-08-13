@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-08-13"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-13"
             }
           },
           {
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-13.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-13"
             }
           },
           {
@@ -211,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-13"
             }
           }
         ],
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-13"
             }
           },
           {
@@ -316,9 +316,10 @@
   },
   "active": "05e80490aa0051a5",
   "lastOpenFiles": [
-    "1-Rough/Ch 2 Meeting.md",
-    "3-Journal/2025-08-12.md",
     "Home.md",
+    "3-Journal/2025-08-13.md",
+    "1-Rough/Ch 2 Meeting.md",
+    "3-Journal/2025-08/2025-08-12.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "4-DND/DM Screen.canvas",
@@ -327,22 +328,21 @@
     "4-DND/Ors/2-Main/Torg.md",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/1-Sessions/Orsian/O 6.23.25.md",
-    "2-Main/Loose End.md",
-    "2-Main/Reminisce.md",
-    "2-Main/Sparrow's Song.md",
-    "2-Main/Crystal Lens.md",
+    "4-DND/Ors/2-Main/Loose End.md",
+    "4-DND/Ors/2-Main/Reminisce.md",
+    "4-DND/Ors/2-Main/Sparrow's Song.md",
+    "4-DND/Ors/2-Main/Crystal Lens.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
-    "3-Journal/2025-08-11.md",
+    "3-Journal/2025-08/2025-08-11.md",
     "4-DND/Ors/2-Main/Orsian Users.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Orsian/O 7.7.25.md",
     "4-DND/Ors/2-Main/Aegir.md",
-    "2-Main/Awfully Cumbersome.md",
-    "2-Main/Master Key.md",
-    "2-Main/Silent Viel.md",
-    "2-Main/Chain of Unfortunate Events.md",
-    "2-Main/Murphy's Law.md",
-    "4-DND/Ors/2-Main/Puppet's String.md",
+    "4-DND/Ors/2-Main/Awfully Cumbersome.md",
+    "4-DND/Ors/2-Main/Master Key.md",
+    "4-DND/Ors/2-Main/Silent Viel.md",
+    "4-DND/Ors/2-Main/Chain of Unfortunate Events.md",
+    "2-Main/Misc/Murphy's Law.md",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
     "2-Main/3-Resources/Coding",

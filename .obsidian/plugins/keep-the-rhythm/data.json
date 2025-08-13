@@ -10814,7 +10814,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "3-Journal/2025-08-11.md",
+        "filePath": "3-Journal/2025-08/2025-08-11.md",
         "wordCountStart": 59,
         "charCountStart": 322,
         "changes": [
@@ -10934,7 +10934,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Chain of Unfortunate Events.md",
+        "filePath": "4-DND/Ors/2-Main/Chain of Unfortunate Events.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10961,7 +10961,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Murphy's Law.md",
+        "filePath": "2-Main/Misc/Murphy's Law.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10989,7 +10989,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Crystal Lens.md",
+        "filePath": "4-DND/Ors/2-Main/Crystal Lens.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11013,7 +11013,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Silent Viel.md",
+        "filePath": "4-DND/Ors/2-Main/Silent Viel.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11045,7 +11045,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Master Key.md",
+        "filePath": "4-DND/Ors/2-Main/Master Key.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11069,7 +11069,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Awfully Cumbersome.md",
+        "filePath": "4-DND/Ors/2-Main/Awfully Cumbersome.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11088,7 +11088,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Loose End.md",
+        "filePath": "4-DND/Ors/2-Main/Loose End.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11122,7 +11122,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Reminisce.md",
+        "filePath": "4-DND/Ors/2-Main/Reminisce.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11193,7 +11193,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Sparrow's Song.md",
+        "filePath": "4-DND/Ors/2-Main/Sparrow's Song.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11338,7 +11338,7 @@
       },
       {
         "date": "2025-08-12",
-        "filePath": "2-Main/Reminisce.md",
+        "filePath": "4-DND/Ors/2-Main/Reminisce.md",
         "wordCountStart": 150,
         "charCountStart": 810,
         "changes": [
@@ -11360,7 +11360,7 @@
       },
       {
         "date": "2025-08-12",
-        "filePath": "2-Main/Loose End.md",
+        "filePath": "4-DND/Ors/2-Main/Loose End.md",
         "wordCountStart": 225,
         "charCountStart": 1163,
         "changes": [
@@ -11412,7 +11412,7 @@
       },
       {
         "date": "2025-08-12",
-        "filePath": "3-Journal/2025-08-12.md",
+        "filePath": "3-Journal/2025-08/2025-08-12.md",
         "wordCountStart": 56,
         "charCountStart": 309,
         "changes": [
@@ -11433,6 +11433,28 @@
           }
         ],
         "id": 832
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "Home.md",
+        "wordCountStart": 160,
+        "charCountStart": 1049,
+        "changes": [],
+        "id": 833
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "3-Journal/2025-08-13.md",
+        "wordCountStart": 56,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": -6,
+            "c": -25
+          }
+        ],
+        "id": 834
       }
     ]
   }
