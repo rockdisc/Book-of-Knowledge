@@ -6784,6 +6784,8 @@ Strike
 Sell
 Spill
 Spanish
+Saturday
+Schedule
 Interesting
 In
 If
@@ -10609,6 +10611,7 @@ Witlan
 Wahis
 Wyrdspawn
 Werewolf
+Wednesday
 would
 wasteland
 walking
@@ -16994,6 +16997,7 @@ territory
 thread
 tongue
 tidal
+template
 be
 bright
 but
@@ -22751,6 +22755,8 @@ disable
 drums
 draws
 deserve
+dddd
+daily
 and
 anything
 am
@@ -24119,6 +24125,7 @@ amazing
 anthem
 ashamed
 anti
+await
 mirages
 miles
 man
@@ -33605,6 +33612,10 @@ Thump
 Tors
 Thrall
 Tea
+Tuesday
+Thursday
+Templates
+Trad
 goat
 going
 get
@@ -48566,6 +48577,7 @@ Holds
 Hierarchy
 Holl
 Honors
+Holidays
 Die
 Diathermal
 Do
@@ -58082,6 +58094,7 @@ OldWorld
 Ophel
 Others
 Out
+Odd
 Yesterday
 Yellow
 Yggdrasil

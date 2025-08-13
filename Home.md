@@ -34,13 +34,12 @@ actions:
 
 > [!todo]  Today
 > - [ ] Clean my desk
-> - [ ] Make session  
+> - [ ] Find Holidays and add that to the daily template. 
  
 > [!warning]  Run On
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
-> - [ ] Make templates so I can easily enter what happened in school whenever it starts.
 > - [ ] Try Linux 
 > - [ ] Make Reddit account to post my story 
  
