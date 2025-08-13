@@ -11455,11 +11455,30 @@
           },
           {
             "timeKey": "18:25",
-            "w": -1,
-            "c": 0
+            "w": 14,
+            "c": 89
           }
         ],
         "id": 834
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "2-Main/Trad School Schedule 11-1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 12,
+            "c": 115
+          },
+          {
+            "timeKey": "18:30",
+            "w": 4,
+            "c": 35
+          }
+        ],
+        "id": 835
       }
     ]
   }
