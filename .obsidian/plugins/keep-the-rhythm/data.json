@@ -11313,7 +11313,13 @@
         "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4561,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 823
       },
       {
@@ -11321,7 +11327,13 @@
         "filePath": "Home.md",
         "wordCountStart": 176,
         "charCountStart": 1131,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -16,
+            "c": -82
+          }
+        ],
         "id": 824
       },
       {
@@ -11397,6 +11409,20 @@
           }
         ],
         "id": 831
+      },
+      {
+        "date": "2025-08-12",
+        "filePath": "3-Journal/2025-08-12.md",
+        "wordCountStart": 56,
+        "charCountStart": 309,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -1,
+            "c": 1
+          }
+        ],
+        "id": 832
       }
     ]
   }

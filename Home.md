@@ -37,8 +37,6 @@ actions:
 > - [ ] Make session  
  
 > [!warning]  Run On
-> - [ ] Renew Book
-> - [ ] Make the prop wet letter, artifact cards, and town map
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
