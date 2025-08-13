@@ -3957,6 +3957,7 @@ Cinis
 Cudo
 Confrontation
 Clothes
+Calc
 Modern
 Mini
 My
@@ -6782,6 +6783,7 @@ Steal
 Strike
 Sell
 Spill
+Spanish
 Interesting
 In
 If
@@ -44735,6 +44737,9 @@ Achieving
 Afghan
 Aspects
 Acies
+Arts
+Accelerated
+Advanced
 Rough
 Readers
 Radkeha
@@ -48560,6 +48565,7 @@ Hold
 Holds
 Hierarchy
 Holl
+Honors
 Die
 Diathermal
 Do
