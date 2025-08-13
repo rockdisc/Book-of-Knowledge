@@ -28,7 +28,7 @@ const day = tp.date.now("dddd");
 if (day === "Saturday" || day === "Sunday") {
   tR += "No classes today";
 } else if (day === "Tuesday" || day === "Thursday") {
-  tR += await tp.file.include("Templates/Even School Schedule 11-1.md");
+  tR += await tp.file.include("[[Templates/Even School Schedule 11-1.md]]");
 } else if (day === "Monday" || day === "Wednesday") {
   tR += await tp.file.include("[[Templates/Odd School Schedule 11-1.md]]");
 } else {
