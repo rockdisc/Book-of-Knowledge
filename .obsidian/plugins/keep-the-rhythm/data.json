@@ -11727,6 +11727,36 @@
         "charCountStart": 825,
         "changes": [],
         "id": 849
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Inverse Trigonometric Functions.md",
+        "wordCountStart": 68,
+        "charCountStart": 392,
+        "changes": [],
+        "id": 850
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Unit Circle.md",
+        "wordCountStart": 73,
+        "charCountStart": 394,
+        "changes": [],
+        "id": 851
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Debate/Research/Artic Topic Lecture.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 14,
+            "c": 98
+          }
+        ],
+        "id": 852
       }
     ]
   }
