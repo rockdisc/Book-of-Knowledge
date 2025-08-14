@@ -11450,7 +11450,7 @@
       },
       {
         "date": "2025-08-13",
-        "filePath": "3-Journal/2025-08-13.md",
+        "filePath": "3-Journal/2025-08/2025-08-13.md",
         "wordCountStart": 56,
         "charCountStart": 309,
         "changes": [
@@ -11650,6 +11650,33 @@
         "charCountStart": 2273,
         "changes": [],
         "id": 842
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Home.md",
+        "wordCountStart": 151,
+        "charCountStart": 996,
+        "changes": [],
+        "id": 843
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "3-Journal/2025-08-14.md",
+        "wordCountStart": 121,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": -64,
+            "c": -410
+          },
+          {
+            "timeKey": "17:15",
+            "w": 10,
+            "c": 76
+          }
+        ],
+        "id": 844
       }
     ]
   }
