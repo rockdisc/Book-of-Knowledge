@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-13"
+              "title": "Backlinks"
             }
           },
           {
@@ -161,7 +160,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-13.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-13"
+              "title": "Graph view"
             }
           },
           {
@@ -198,12 +196,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-13"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -240,13 +237,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-13"
+              "title": "Outline"
             }
           },
           {
@@ -301,11 +297,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "2725704463d2a376",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
+    "3-Journal/2025-08-13.md",
     "Home.md",
     "Templates/JEntry.md",
-    "3-Journal/2025-08-13.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
