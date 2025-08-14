@@ -11483,6 +11483,11 @@
             "timeKey": "18:50",
             "w": 82,
             "c": 536
+          },
+          {
+            "timeKey": "19:40",
+            "w": 31,
+            "c": 169
           }
         ],
         "id": 834
@@ -11570,6 +11575,33 @@
         "charCountStart": 4561,
         "changes": [],
         "id": 839
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
+        "wordCountStart": 82,
+        "charCountStart": 1895,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 2,
+            "c": -17
+          },
+          {
+            "timeKey": "19:45",
+            "w": 3,
+            "c": 26
+          }
+        ],
+        "id": 840
+      },
+      {
+        "date": "2025-08-13",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+        "wordCountStart": 660,
+        "charCountStart": 6374,
+        "changes": [],
+        "id": 841
       }
     ]
   }

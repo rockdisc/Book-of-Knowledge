@@ -5284,6 +5284,7 @@ Memories
 Miracle
 Metal
 Moretti
+Monopoly
 Summary
 So
 Someone
@@ -49761,6 +49762,7 @@ Dercast
 Dolus
 Defiance
 Derick
+Direct
 Keter
 Knowing
 Kyling
