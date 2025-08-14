@@ -3958,6 +3958,9 @@ Cudo
 Confrontation
 Clothes
 Calc
+CAH
+Cosecant
+Cotangent
 Modern
 Mini
 My
@@ -6787,6 +6790,9 @@ Spill
 Spanish
 Saturday
 Schedule
+Special
+SOH
+Secant
 Interesting
 In
 If
@@ -13064,6 +13070,7 @@ hippies
 hitting
 howl
 headaches
+hypotenuse
 never
 nothing
 not
@@ -17001,6 +17008,9 @@ thread
 tongue
 tidal
 template
+triangles
+tracing
+triangle
 be
 bright
 but
@@ -20296,6 +20306,7 @@ sickly
 swing
 shoot
 sack
+stretch
 vast
 very
 vibrant
@@ -21402,6 +21413,7 @@ violence
 victory
 victim
 villagers
+values
 desert
 due
 dark
@@ -22761,6 +22773,7 @@ deserve
 dddd
 daily
 description
+depending
 and
 anything
 am
@@ -24131,6 +24144,8 @@ ashamed
 anti
 await
 assignment
+amplitude
+asymptotes
 mirages
 miles
 man
@@ -25510,6 +25525,8 @@ monocle
 mostly
 meaningless
 mindset
+manually
+memorizing
 for
 find
 face
@@ -31254,6 +31271,7 @@ lunch
 lasts
 limb
 logic
+lengths
 on
 other
 of
@@ -33624,6 +33642,9 @@ Thursday
 Templates
 Trad
 Talked
+Trig
+Transformations
+TOA
 goat
 going
 get
@@ -37618,6 +37639,9 @@ robbed
 rushing
 rejoin
 reforming
+reflects
+reaches
+reciprocals
 yellow
 yet
 you
@@ -41206,6 +41230,8 @@ piercing
 posters
 penny
 pays
+periodic
+period
 kept
 know
 knew

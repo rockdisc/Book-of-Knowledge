@@ -7820,7 +7820,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/3-Resources/Math/Verifying Trig Identities.md",
+        "filePath": "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11687,6 +11687,46 @@
           }
         ],
         "id": 844
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Graphing Trigonometric Functions.md",
+        "wordCountStart": 237,
+        "charCountStart": 1355,
+        "changes": [],
+        "id": 845
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "wordCountStart": 126,
+        "charCountStart": 915,
+        "changes": [],
+        "id": 846
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Trigonometric Functions.md",
+        "wordCountStart": 110,
+        "charCountStart": 793,
+        "changes": [],
+        "id": 847
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "wordCountStart": 164,
+        "charCountStart": 953,
+        "changes": [],
+        "id": 848
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
+        "wordCountStart": 157,
+        "charCountStart": 825,
+        "changes": [],
+        "id": 849
       }
     ]
   }
