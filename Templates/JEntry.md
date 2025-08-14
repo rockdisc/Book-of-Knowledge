@@ -13,14 +13,6 @@
 > s
 > — Author
 
-
-<hr>
-
-# {{Title}}
-
-
-
-
 ## Classes 
 <%*
 const day = tp.date.now("dddd"); 
@@ -35,3 +27,9 @@ if (day === "Saturday" || day === "Sunday") {
   tR += await tp.file.include("[[Templates/Trad School Schedule 11-1.md]]");
 }
 %>
+
+<hr>
+
+# {{Title}}
+
+
