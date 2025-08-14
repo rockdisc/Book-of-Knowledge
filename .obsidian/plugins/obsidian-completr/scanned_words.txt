@@ -6793,6 +6793,7 @@ Schedule
 Special
 SOH
 Secant
+Spent
 Interesting
 In
 If
@@ -20307,6 +20308,7 @@ swing
 shoot
 sack
 stretch
+syllabus
 vast
 very
 vibrant
@@ -24146,6 +24148,7 @@ await
 assignment
 amplitude
 asymptotes
+assignments
 mirages
 miles
 man
@@ -25527,6 +25530,7 @@ meaningless
 mindset
 manually
 memorizing
+math
 for
 find
 face
@@ -34932,6 +34936,7 @@ guessed
 grandson
 gunshots
 genetic
+growth
 use
 until
 used
@@ -41232,6 +41237,9 @@ penny
 pays
 periodic
 period
+presentation
+packets
+packet
 kept
 know
 knew
@@ -48613,6 +48621,7 @@ Hierarchy
 Holl
 Honors
 Holidays
+Had
 Die
 Diathermal
 Do
@@ -49797,6 +49806,7 @@ Dolus
 Defiance
 Derick
 Direct
+Delta
 Keter
 Knowing
 Kyling
