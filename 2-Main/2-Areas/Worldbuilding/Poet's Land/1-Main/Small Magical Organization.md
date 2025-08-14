@@ -4,15 +4,15 @@
 
 These are ones that are not the size of churches though could be the liked by them or work under them. These also include cults which worship smaller gods. 
 
-| Name             | God of Worship            | Status                                        | Leader           | Key Members | Desc |
-| ---------------- | ------------------------- | --------------------------------------------- | ---------------- | ----------- | ---- |
-| Redglass Society | [[Red Moon]]-Not direct   | Works under [[Church of the Scarlet Goddess]] | Alban Martin     |             |      |
-| Kabbalah         |                           | Made up of [[Dragon]]s and [[Giants]]         | [[Gyles\|Keter]] |             |      |
-| Hearth of Grace  | God of the Hearth         | Cult/Dead                                     | n/a              |             |      |
-| The Monopoly     | [[Green Moon]]-Not Direct | Works under [[Church of the Jade Goddess]]    |                  |             |      |
-|                  |                           |                                               |                  |             |      |
-|                  |                           |                                               |                  |             |      |
-|                  |                           |                                               |                  |             |      |
-|                  |                           |                                               |                  |             |      |
-|                  |                           |                                               |                  |             |      |
-|                  |                           |                                               |                  |             |      |
+| Name                | God of Worship                        | Status                                        | Leader           | Key Members | Desc                                                                                                                 |
+| ------------------- | ------------------------------------- | --------------------------------------------- | ---------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| Redglass Society    | [[Red Moon]]-Not direct               | Works under [[Church of the Scarlet Goddess]] | Alban Steiner    |             |                                                                                                                      |
+| Kabbalah            | Made up of [[Dragon]]s and [[Giants]] |                                               | [[Gyles\|Keter]] |             |                                                                                                                      |
+| Hearth of Grace     | God of the Hearth                     | Cult/Dead                                     | n/a              |             |                                                                                                                      |
+| The Monopoly        | [[Green Moon]]-Not Direct             | Works under [[Church of the Jade Goddess]]    | Not known        |             | They have a monopoly on the assassination market, as they are the easiest to contact and are good at their dealings. |
+| Grim Brotherhood    | Brothers Grim                         | Cult/Underground                              |                  |             |                                                                                                                      |
+| [[London Fan Club]] | [[Church of the Nameless God]]        | Di                                            |                  |             |                                                                                                                      |
+|                     |                                       |                                               |                  |             |                                                                                                                      |
+|                     |                                       |                                               |                  |             |                                                                                                                      |
+|                     |                                       |                                               |                  |             |                                                                                                                      |
+|                     |                                       |                                               |                  |             |                                                                                                                      |
