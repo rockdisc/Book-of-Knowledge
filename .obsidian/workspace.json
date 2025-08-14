@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Religious Organizations"
+              "title": "Backlinks for Small Magical Organization"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Religious Organizations"
+              "title": "Graph of Small Magical Organization"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Religious Organizations"
+              "title": "Outgoing links from Small Magical Organization"
             }
           }
         ],
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+                "file": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Religious Organizations"
+              "title": "Outline of Small Magical Organization"
             }
           },
           {
@@ -343,10 +343,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a9ac2980a0ba820e",
+  "active": "12c105230b1d6734",
   "lastOpenFiles": [
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
     "3-Journal/2025-08-13.md",
     "Home.md",
     "Templates/JEntry.md",

@@ -6,10 +6,10 @@ These are ones that are not the size of churches though could be the liked by th
 
 | Name             | God of Worship            | Status                                        | Leader           | Key Members | Desc |
 | ---------------- | ------------------------- | --------------------------------------------- | ---------------- | ----------- | ---- |
-| Redglass Society | [[Red Moon]]-Not direct   | Works under [[Church of the Scarlet Goddess]] | Martin Stanley   |             |      |
+| Redglass Society | [[Red Moon]]-Not direct   | Works under [[Church of the Scarlet Goddess]] | Alban Martin     |             |      |
 | Kabbalah         |                           | Made up of [[Dragon]]s and [[Giants]]         | [[Gyles\|Keter]] |             |      |
 | Hearth of Grace  | God of the Hearth         | Cult/Dead                                     | n/a              |             |      |
-| The Monopoly     | [[Green Moon]]-Not Direct |                                               |                  |             |      |
+| The Monopoly     | [[Green Moon]]-Not Direct | Works under [[Church of the Jade Goddess]]    |                  |             |      |
 |                  |                           |                                               |                  |             |      |
 |                  |                           |                                               |                  |             |      |
 |                  |                           |                                               |                  |             |      |
