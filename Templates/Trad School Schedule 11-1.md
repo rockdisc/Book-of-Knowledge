@@ -1,5 +1,3 @@
-## Classes 
-
 ### AP English Language Arts 
 
 ### US History 

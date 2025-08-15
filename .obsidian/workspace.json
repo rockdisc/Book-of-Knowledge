@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-08-15"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-15"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-15.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-15"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-15"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-15"
             }
           },
           {
@@ -288,6 +288,10 @@
   },
   "active": "101dffebec77b434",
   "lastOpenFiles": [
+    "Templates/Trad School Schedule 11-1.md",
+    "Templates/Session Orsian.md",
+    "3-Journal/2025-08-15.md",
+    "Home.md",
     "3-Journal/2025-08/2025-08-14.md",
     "2-Main/3-Resources/General Knowledge",
     "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
@@ -302,14 +306,12 @@
     "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
     "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
     "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
-    "Home.md",
     "3-Journal/2025-08/2025-08-13.md",
     "Templates/JEntry.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
-    "Templates/Trad School Schedule 11-1.md",
     "Templates/Even School Schedule 11-1.md",
     "Templates/Odd School Schedule 11-1.md",
     "3-Journal/2025-08/2025-08-12.md",
@@ -317,7 +319,6 @@
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Of Mice and Men.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
-    "4-DND/Ors/2-Main/Torg.md",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
     "2-Main/3-Resources/Coding",
