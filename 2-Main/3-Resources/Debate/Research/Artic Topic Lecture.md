@@ -64,7 +64,7 @@ Loser thought to be a waste of money turns out to have OVERPOWERED powers and be
 There were several polices, Research and policy act, Order 66, Nat Strategy for Artic.
 
 They want presence there for 3 main reasons:
-Security (K?)
+Security 
 Environment
 Econ 
 
@@ -85,3 +85,11 @@ Trump put tariffs on the Artic, but they are on pause. There were random nations
 Trump is allowing drilling in the ANWR(Artic National Wildlife Refuge).
 
 # Args on the Topic 
+
+## Security
+
+Creating new icebreakers, po
+
+## Climate/Resources 
+
+## Indigenous
