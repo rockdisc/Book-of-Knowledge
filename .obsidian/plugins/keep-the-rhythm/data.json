@@ -11661,7 +11661,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "3-Journal/2025-08-14.md",
+        "filePath": "3-Journal/2025-08/2025-08-14.md",
         "wordCountStart": 121,
         "charCountStart": 787,
         "changes": [
@@ -11689,6 +11689,16 @@
             "timeKey": "21:10",
             "w": 2,
             "c": 26
+          },
+          {
+            "timeKey": "22:05",
+            "w": 18,
+            "c": 95
+          },
+          {
+            "timeKey": "22:10",
+            "w": 48,
+            "c": 248
           }
         ],
         "id": 844
@@ -11840,7 +11850,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/Arctic Circle.md",
+        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Circle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
