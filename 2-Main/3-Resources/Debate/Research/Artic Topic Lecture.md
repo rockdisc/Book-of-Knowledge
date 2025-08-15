@@ -78,6 +78,10 @@ I still cannot believe Trump wants to buy Greenland.
 
 He wants it for the REMs and having a bigger presence in the Artic. Shocker Greenland does not want to join. 
 
-The US only has 2 icebreakers, China has 4 and is planning to build more, and Russia has 41. A bit behind not going to 
+The US only has 2 icebreakers, China has 4 and is planning to build more, and Russia has 41. A bit behind not going to lie. Both are very old, Healy might have dementia. The US is planning to build 8.
+
+Trump put tariffs on the Artic, but they are on pause. There were random nations that do not even trade with the US on the list(AI?)
+
+Trump is allowing drilling in the ANWR(Artic National Wildlife Refuge).
 
 # Args on the Topic 
