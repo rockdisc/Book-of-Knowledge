@@ -108,3 +108,26 @@ Research, languages, and policymaking
 Russia & China, Politics, environment, resources, tradeoffs as always
 Unilateral bad and hurts Artic Council or [[Nato]] 
 Dip Cap, focusing on one area of the world is bad 
+Soft power of US is bad or other country good 
+
+## Kritik 
+
+Security, think of a country as a threat, it will become one 
+IR, International relations, Fem, and so on
+Coloniality, Colonialism bad and leave it to the people
+Cap, as always 
+
+## CP 
+
+Alaska only (states)
+Make Canada do it 
+Do it with others 
+US should ask 
+Private sector 
+
+## T
+
+Explore on ground or afar
+physical?
+dev econ?
+Does "its" mean US can't contract out exploration and development?
