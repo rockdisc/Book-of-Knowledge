@@ -48,10 +48,16 @@ There is an agreement for scientific collaboration between the nations, will hav
 
 It is increasing 2-4 times faster than the rest of the world. A positive feedback loop as the dark ocean absorbs the heat which then makes it hotter creating more dark ocean. 2050 means there will be no ice in Artic summers. That would increase the sea level by 7-meters, so perfect everyone dies argument. Trump stopped the program to monitor this. Carbon sink is back, yippee. Methane Hydrates can release more [[Greenhouse Gasses]].
 
-Good news is more sea routes. One big one that would be available 
+Good news is more sea routes. One big one that would be available is the transpolar sea route which goes straight through the center.
 
-# US Artic Policy
+Sea ice is at the lowest ever. Ocean circulation is struggling. US seems to stop caring about this as all 400 scientists working on it were fired. 
+
+There is about 50% of the world's oil in the Artic and a lot of gas. There is not a lot of renewable energy. REMs are everywhere there. 
+
+Greenland basically has Denmark as its sugar daddy. In independent indigenous governance, it wants to slowly get independence. This could be an avenue, like make the US support and aid Greenland which leads to world peace or something. 
+
+# US Artic Policy (Trump)
 
 
 
-# Args on the Topic(Trump)
+# Args on the Topic 
