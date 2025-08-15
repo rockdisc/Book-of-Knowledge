@@ -11746,7 +11746,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Debate/Research/Artic Topic Lecture.md",
+        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11824,13 +11824,18 @@
             "timeKey": "19:50",
             "w": 13,
             "c": 85
+          },
+          {
+            "timeKey": "21:00",
+            "w": 0,
+            "c": 2
           }
         ],
         "id": 852
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/Artic Circle.md",
+        "filePath": "2-Main/Arctic Circle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [

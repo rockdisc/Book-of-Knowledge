@@ -8,9 +8,9 @@ Named after the constellation [[Ursa Major]]
 
 ## Geographically 
 
-Land, sea, and Ice 66.5$\degree$ North, or above the [[Artic Circle]].
+Land, sea, and Ice 66.5$\degree$ North, or above the [[Arctic Circle]].
 
-![[Artic Circle]]
+![[Arctic Circle]]
 
 ## Geopolitically 
 

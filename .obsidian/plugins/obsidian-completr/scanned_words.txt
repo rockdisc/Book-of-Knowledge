@@ -2618,6 +2618,9 @@ Ether
 Equations
 Explain
 Erna
+Exceptionalism
+Environment
+Econ
 Classic
 Consept
 Character
@@ -3962,6 +3965,15 @@ CAH
 Cosecant
 Cotangent
 Climatically
+Canada
+Council
+Cute
+Climate
+Carbon
+China
+Creating
+Cap
+Coloniality
 Modern
 Mini
 My
@@ -5289,6 +5301,7 @@ Miracle
 Metal
 Moretti
 Monopoly
+Methane
 Summary
 So
 Someone
@@ -6795,6 +6808,12 @@ Special
 SOH
 Secant
 Spent
+Sweden
+Saami
+SUPER
+Strategy
+Security
+Shocker
 Interesting
 In
 If
@@ -8237,6 +8256,10 @@ Intelligence
 Illin
 Ikon
 Intego
+Iceland
+Indigenous
+Increase
+International
 Points
 Powers
 Protagonist
@@ -9573,6 +9596,9 @@ Pax
 Punio
 Past
 Policy
+Peoples
+Politics
+Private
 Worldbuilding
 WWII
 Wake
@@ -10622,6 +10648,7 @@ Wahis
 Wyrdspawn
 Werewolf
 Wednesday
+Wildlife
 would
 wasteland
 walking
@@ -13074,6 +13101,7 @@ hitting
 howl
 headaches
 hypotenuse
+hotter
 never
 nothing
 not
@@ -14242,6 +14270,8 @@ nuclear
 npcs
 nonsense
 nine
+native
+news
 imagined
 is
 in
@@ -15580,6 +15610,10 @@ investigating
 idiom
 icebreakers
 impressed
+indigenous
+ice
+independent
+independence
 to
 the
 there
@@ -17014,6 +17048,9 @@ template
 triangles
 tracing
 triangle
+transpolar
+tariffs
+tradeoffs
 be
 bright
 but
@@ -18500,6 +18537,8 @@ blabbering
 bush
 bullet
 bull
+basically
+bases
 so
 sand
 spend
@@ -20311,6 +20350,17 @@ shoot
 sack
 stretch
 syllabus
+southern
+solstice
+shrinking
+scientific
+settlers
+summers
+sink
+struggling
+scientists
+sugar
+satellites
 vast
 very
 vibrant
@@ -22778,6 +22828,10 @@ dddd
 daily
 description
 depending
+daylight
+daddy
+dementia
+drilling
 and
 anything
 am
@@ -24151,6 +24205,11 @@ assignment
 amplitude
 asymptotes
 assignments
+artic
+argument
+avenue
+agents
+afar
 mirages
 miles
 man
@@ -25533,6 +25592,8 @@ mindset
 manually
 memorizing
 math
+monitor
+monitoring
 for
 find
 face
@@ -26970,6 +27031,8 @@ farmers
 factor
 farmlands
 flush
+feedback
+fired
 can
 covered
 clad
@@ -28629,6 +28692,11 @@ chase
 china
 curriculum
 constellation
+climatic
+collaboration
+circulation
+coop
+cleanup
 entire
 endless
 everything
@@ -29994,6 +30062,7 @@ examines
 examined
 examine
 exchanged
+econ
 life
 leather
 long
@@ -31279,6 +31348,7 @@ lasts
 limb
 logic
 lengths
+launch
 on
 other
 of
@@ -32326,6 +32396,8 @@ onomatopoeia
 outdated
 office
 ought
+owns
+observers
 Then
 The
 This
@@ -34941,6 +35013,8 @@ grandson
 gunshots
 genetic
 growth
+governance
+geoengineering
 use
 until
 used
@@ -37651,6 +37725,11 @@ reforming
 reflects
 reaches
 reciprocals
+raise
+route
+renewable
+renewables
+relations
 yellow
 yet
 you
@@ -38694,6 +38773,7 @@ yMJ
 yJa
 ynp
 yell
+yippee
 just
 journey
 join
@@ -41244,6 +41324,14 @@ period
 presentation
 packets
 packet
+permanent
+participants
+program
+polices
+policy
+ports
+platforms
+policymaking
 kept
 know
 knew
@@ -43543,6 +43631,8 @@ Notable
 Named
 Noosphere
 Novi
+Norway
+Nat
 According
 Albert
 Avert
@@ -44800,6 +44890,11 @@ Advanced
 Already
 Artic
 Args
+Alaska
+AIA
+AAC
+ANWR
+Aff
 Rough
 Readers
 Radkeha
@@ -46288,6 +46383,10 @@ Random
 Renew
 Randomly
 Resolved
+RAIPON
+REMs
+Refuge
+Resources
 Gyles
 Giants
 God
@@ -47382,6 +47481,8 @@ Gimhle
 Government
 Geographically
 Geopolitically
+Greenland
+GCI
 He
 Hunt
 Heaven
@@ -48632,6 +48733,9 @@ Holl
 Honors
 Holidays
 Had
+Hoegh
+Hydrates
+Healy
 Die
 Diathermal
 Do
@@ -49817,6 +49921,7 @@ Defiance
 Derick
 Direct
 Delta
+Denmark
 Keter
 Knowing
 Kyling
@@ -51023,6 +51128,8 @@ Kindness
 Kids
 Kiote
 Kind
+Kenneth
+Kritik
 Land
 Lead
 Law
@@ -52249,6 +52356,7 @@ Locations
 Latecomers
 Louis
 Lux
+Loser
 Johan
 Jupiter
 Jotuns
@@ -55899,6 +56007,9 @@ Further
 Flesh
 Fates
 Federal
+Finland
+Freeland
+Fem
 Veins
 Vim
 Venus
@@ -58153,6 +58264,8 @@ Ophel
 Others
 Out
 Odd
+Ocean
+OVERPOWERED
 Yesterday
 Yellow
 Yggdrasil
@@ -60544,6 +60657,7 @@ Udr
 Umbra
 Uniformly
 Ulfr
+Unilateral
 Quote
 Quicksilver
 Qualities
