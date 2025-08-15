@@ -9025,7 +9025,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/Misc/ACT.md",
+        "filePath": "2-Main/3-Resources/General Knowledge/ACT.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10961,7 +10961,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Misc/Murphy's Law.md",
+        "filePath": "2-Main/3-Resources/General Knowledge/Murphy's Law.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11697,8 +11697,13 @@
           },
           {
             "timeKey": "22:10",
-            "w": 48,
-            "c": 248
+            "w": 110,
+            "c": 501
+          },
+          {
+            "timeKey": "22:15",
+            "w": 43,
+            "c": 219
           }
         ],
         "id": 844
