@@ -46,7 +46,9 @@ There is an agreement for scientific collaboration between the nations, will hav
 
 ## Climate Change 
 
-It is increasing 2-4 times faster than the rest of the world. A positive b
+It is increasing 2-4 times faster than the rest of the world. A positive feedback loop as the dark ocean absorbs the heat which then makes it hotter creating more dark ocean. 2050 means there will be no ice in Artic summers. That would increase the sea level by 7-meters, so perfect everyone dies argument. Trump stopped the program to monitor this. Carbon sink is back, yippee. Methane Hydrates can release more [[Greenhouse Gasses]].
+
+Good news is more sea routes. One big one that would be available 
 
 # US Artic Policy
 
