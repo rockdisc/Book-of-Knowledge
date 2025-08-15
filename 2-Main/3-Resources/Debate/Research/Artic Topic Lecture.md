@@ -86,10 +86,25 @@ Trump is allowing drilling in the ANWR(Artic National Wildlife Refuge).
 
 # Args on the Topic 
 
-## Security
+## Aff
+### Security
 
-Creating new icebreakers, po
+Creating new icebreakers, ports, bases, satellites, launch platforms 
+Buy Greenland 
+Increase coop or monitoring
 
-## Climate/Resources 
 
-## Indigenous
+### Climate/Resources 
+
+Oil, gas, REM, seed bank, geoengineering(make clouds more white), renewables, cleanup, and monitoring
+
+### Indigenous
+
+Research, languages, and policymaking 
+
+
+## DA
+
+Russia & China, Politics, environment, resources, tradeoffs as always
+Unilateral bad and hurts Artic Council or [[Nato]] 
+Dip Cap, focusing on one area of the world is bad 
