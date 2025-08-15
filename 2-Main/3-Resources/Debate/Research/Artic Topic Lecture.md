@@ -36,7 +36,17 @@ Kenneth Hoegh is the chair. Norway used to be leader, now handed off to Denmark.
 
 [[UNCLOS]] applies in this sea, there could be plans that are just making the US sign it. 
 
-There is an agreement for scientific collaboration between the nations, will have to see if this includes the 
+There is an agreement for scientific collaboration between the nations, will have to see if this includes the participants, if not it will be a major [[Kritik|K]] opportunity. 
+
+## Indigenous Peoples of the Artic 
+
+![[Final+linguistics+map.webp]]
+
+3-1 ratio between settlers and indigenous peoples
+
+## Climate Change 
+
+It is increasing 2-4 times faster than the rest of the world. A positive b
 
 # US Artic Policy
 
