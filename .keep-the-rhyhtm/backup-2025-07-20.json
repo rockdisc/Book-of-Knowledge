@@ -7820,7 +7820,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/3-Resources/Math/Verifying Trig Identities.md",
+        "filePath": "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9025,7 +9025,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/Misc/ACT.md",
+        "filePath": "2-Main/3-Resources/General Knowledge/ACT.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10961,7 +10961,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/Misc/Murphy's Law.md",
+        "filePath": "2-Main/3-Resources/General Knowledge/Murphy's Law.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11450,7 +11450,7 @@
       },
       {
         "date": "2025-08-13",
-        "filePath": "3-Journal/2025-08-13.md",
+        "filePath": "3-Journal/2025-08/2025-08-13.md",
         "wordCountStart": 56,
         "charCountStart": 309,
         "changes": [
@@ -11650,6 +11650,232 @@
         "charCountStart": 2273,
         "changes": [],
         "id": 842
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "Home.md",
+        "wordCountStart": 151,
+        "charCountStart": 996,
+        "changes": [],
+        "id": 843
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "3-Journal/2025-08/2025-08-14.md",
+        "wordCountStart": 121,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": -64,
+            "c": -410
+          },
+          {
+            "timeKey": "17:15",
+            "w": 10,
+            "c": 76
+          },
+          {
+            "timeKey": "17:40",
+            "w": 112,
+            "c": 567
+          },
+          {
+            "timeKey": "17:45",
+            "w": 9,
+            "c": 51
+          },
+          {
+            "timeKey": "21:10",
+            "w": 2,
+            "c": 26
+          },
+          {
+            "timeKey": "22:05",
+            "w": 18,
+            "c": 95
+          },
+          {
+            "timeKey": "22:10",
+            "w": 110,
+            "c": 501
+          },
+          {
+            "timeKey": "22:15",
+            "w": 72,
+            "c": 375
+          },
+          {
+            "timeKey": "22:20",
+            "w": 17,
+            "c": 71
+          }
+        ],
+        "id": 844
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Graphing Trigonometric Functions.md",
+        "wordCountStart": 237,
+        "charCountStart": 1355,
+        "changes": [],
+        "id": 845
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "wordCountStart": 126,
+        "charCountStart": 915,
+        "changes": [],
+        "id": 846
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Trigonometric Functions.md",
+        "wordCountStart": 110,
+        "charCountStart": 793,
+        "changes": [],
+        "id": 847
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "wordCountStart": 164,
+        "charCountStart": 953,
+        "changes": [],
+        "id": 848
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
+        "wordCountStart": 157,
+        "charCountStart": 825,
+        "changes": [],
+        "id": 849
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Inverse Trigonometric Functions.md",
+        "wordCountStart": 68,
+        "charCountStart": 392,
+        "changes": [],
+        "id": 850
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Math/Trig/Unit Circle.md",
+        "wordCountStart": 73,
+        "charCountStart": 394,
+        "changes": [],
+        "id": 851
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:35",
+            "w": 14,
+            "c": 98
+          },
+          {
+            "timeKey": "18:40",
+            "w": 40,
+            "c": 328
+          },
+          {
+            "timeKey": "18:45",
+            "w": 53,
+            "c": 332
+          },
+          {
+            "timeKey": "18:50",
+            "w": 77,
+            "c": 459
+          },
+          {
+            "timeKey": "18:55",
+            "w": 66,
+            "c": 375
+          },
+          {
+            "timeKey": "19:00",
+            "w": 29,
+            "c": 197
+          },
+          {
+            "timeKey": "19:05",
+            "w": 85,
+            "c": 485
+          },
+          {
+            "timeKey": "19:10",
+            "w": 110,
+            "c": 622
+          },
+          {
+            "timeKey": "19:15",
+            "w": 38,
+            "c": 214
+          },
+          {
+            "timeKey": "19:20",
+            "w": 67,
+            "c": 403
+          },
+          {
+            "timeKey": "19:25",
+            "w": 79,
+            "c": 409
+          },
+          {
+            "timeKey": "19:35",
+            "w": 1,
+            "c": 19
+          },
+          {
+            "timeKey": "19:40",
+            "w": 44,
+            "c": 381
+          },
+          {
+            "timeKey": "19:45",
+            "w": 85,
+            "c": 469
+          },
+          {
+            "timeKey": "19:50",
+            "w": 13,
+            "c": 85
+          },
+          {
+            "timeKey": "21:00",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 852
+      },
+      {
+        "date": "2025-08-14",
+        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Circle.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 3,
+            "c": 24
+          },
+          {
+            "timeKey": "18:45",
+            "w": 23,
+            "c": 139
+          }
+        ],
+        "id": 853
       }
     ]
   }
