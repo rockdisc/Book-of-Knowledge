@@ -63,6 +63,21 @@ Loser thought to be a waste of money turns out to have OVERPOWERED powers and be
 
 There were several polices, Research and policy act, Order 66, Nat Strategy for Artic.
 
-## Artic
+They want presence there for 3 main reasons:
+Security (K?)
+Environment
+Econ 
+
+There are a lot of different agents, I don't think [[ASPEC]] will work. Though Trump is diminishing their powers. 
+
+Alaska has military in it 
+
+## Freeland 
+
+I still cannot believe Trump wants to buy Greenland. 
+
+He wants it for the REMs and having a bigger presence in the Artic. Shocker Greenland does not want to join. 
+
+The US only has 2 icebreakers, China has 4 and is planning to build more, and Russia has 41. A bit behind not going to 
 
 # Args on the Topic 
