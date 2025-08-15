@@ -40,7 +40,7 @@ There is an agreement for scientific collaboration between the nations, will hav
 
 ## Indigenous Peoples of the Artic 
 
-![[Final+linguistics+map.webp]]
+![[Final+linguistics+map.webp|700]]
 
 3-1 ratio between settlers and indigenous peoples
 
@@ -58,6 +58,11 @@ Greenland basically has Denmark as its sugar daddy. In independent indigenous go
 
 # US Artic Policy (Trump)
 
+## Alaska
+Loser thought to be a waste of money turns out to have OVERPOWERED powers and be SUPER rich - basically Alaska 
 
+There were several polices, Research and policy act, Order 66, Nat Strategy for Artic.
+
+## Artic
 
 # Args on the Topic 

@@ -184,7 +184,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 146,
-                  "scale": 0.3128595727340064,
+                  "scale": 0.6882545739950879,
                   "close": true
                 }
               },
@@ -301,7 +301,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d98c5ba50a7c34b2",
+  "active": "9daba86ed10fde9b",
   "lastOpenFiles": [
     "5-Images/Final+linguistics+map.webp",
     "2-Main/Artic Circle.md",
