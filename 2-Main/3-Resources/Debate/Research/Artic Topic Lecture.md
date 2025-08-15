@@ -30,7 +30,13 @@ This can be used to say there will be no conflicts in the Artic, as it has not h
 
 Cute fox. 8 states, 6 permanent participants(native groups), working groups, and 38 observers. 
 
+The participants are the AIA, ICC, AAC, Saami, GCI, and RAIPON. ICC is the most active. 
 
+Kenneth Hoegh is the chair. Norway used to be leader, now handed off to Denmark. 
+
+[[UNCLOS]] applies in this sea, there could be plans that are just making the US sign it. 
+
+There is an agreement for scientific collaboration between the nations, will have to see if this includes the 
 
 # US Artic Policy
 
