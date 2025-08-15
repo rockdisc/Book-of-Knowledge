@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2025-08-15"
             }
+          },
+          {
+            "id": "a344bec82ecb2f9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-15"
+              "title": "Backlinks"
             }
           },
           {
@@ -146,7 +156,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-15.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-15"
+              "title": "Graph view"
             }
           },
           {
@@ -183,12 +192,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-15"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -225,13 +233,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-15"
+              "title": "Outline"
             }
           },
           {
@@ -286,11 +293,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "101dffebec77b434",
+  "active": "a344bec82ecb2f9d",
   "lastOpenFiles": [
+    "3-Journal/2025-08-15.md",
     "Templates/Trad School Schedule 11-1.md",
     "Templates/Session Orsian.md",
-    "3-Journal/2025-08-15.md",
     "Home.md",
     "3-Journal/2025-08/2025-08-14.md",
     "2-Main/3-Resources/General Knowledge",
