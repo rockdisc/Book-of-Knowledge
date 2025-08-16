@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Tragedy of Othello"
+              "title": "There are No Tombs in the Desert (Vignette 1)"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Tragedy of Othello"
+              "title": "Backlinks for There are No Tombs in the Desert (Vignette 1)"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Tragedy of Othello"
+              "title": "Graph of There are No Tombs in the Desert (Vignette 1)"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Tragedy of Othello"
+              "title": "Outgoing links from There are No Tombs in the Desert (Vignette 1)"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+                "file": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Tragedy of Othello"
+              "title": "Outline of There are No Tombs in the Desert (Vignette 1)"
             }
           },
           {
@@ -288,6 +288,7 @@
   },
   "active": "a344bec82ecb2f9d",
   "lastOpenFiles": [
+    "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
     "Templates/Session Orsian.md",
     "2-Main/3-Resources/Sciences/Physics/Normal Force.md",
     "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
@@ -319,7 +320,6 @@
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
     "Templates/Even School Schedule 11-1.md",
-    "Templates/Odd School Schedule 11-1.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
