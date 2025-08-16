@@ -82,7 +82,7 @@ The US only has 2 icebreakers, China has 4 and is planning to build more, and Ru
 
 Trump put tariffs on the Artic, but they are on pause. There were random nations that do not even trade with the US on the list(AI?)
 
-Trump is allowing drilling in the ANWR(Artic National Wildlife Refuge).
+Trump is allowing drilling in the [[ANWR]](Artic National Wildlife Refuge).
 
 # Args on the Topic 
 

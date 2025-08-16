@@ -6814,6 +6814,7 @@ SUPER
 Strategy
 Security
 Shocker
+Says
 Interesting
 In
 If
@@ -11840,6 +11841,7 @@ wearer
 waving
 watered
 weekend
+wildlife
 have
 hell
 his
@@ -22835,6 +22837,7 @@ daddy
 dementia
 drilling
 dating
+democrats
 and
 anything
 am
@@ -37739,6 +37742,7 @@ renewables
 relations
 reviewed
 review
+republicans
 yellow
 yet
 you
@@ -44904,6 +44908,7 @@ AIA
 AAC
 ANWR
 Aff
+Arctic
 Rough
 Readers
 Radkeha
@@ -46397,6 +46402,7 @@ REMs
 Refuge
 Resources
 Rising
+Reserve
 Gyles
 Giants
 God
