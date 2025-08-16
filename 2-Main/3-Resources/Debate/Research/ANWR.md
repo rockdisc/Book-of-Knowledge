@@ -7,3 +7,7 @@ Says that it will not result in anything. It is an actual waste in drilling. The
 https://www.nyu.edu/content/dam/nyu/brademasCenter/documents/Intern%20Research%20Papers/Eric%20Yue%20Undermining%20the%20Environment,%20Undermining%20Equality-%20The%20Consequences%20of%20the%20Environmental%20Policies%20of%20Trump%E2%80%99s%20Second%20Term%20.pdf 
 
 Everything I want and desire. This even has [[Kritik]] defenses.
+
+
+https://heinonline.org/HOL/LandingPage?handle=hein.journals/elrna55&div=20&id=&page=
+Even more

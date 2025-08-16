@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "101dffebec77b434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Journal/2025-08-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-15"
-            }
-          },
-          {
-            "id": "0bfbbe868987086d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ANWR"
-            }
-          },
-          {
             "id": "a344bec82ecb2f9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "The Tragedy of Othello"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ANWR"
+              "title": "Backlinks for The Tragedy of Othello"
             }
           },
           {
@@ -175,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ANWR"
+              "title": "Graph of The Tragedy of Othello"
             }
           },
           {
@@ -212,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ANWR"
+              "title": "Outgoing links from The Tragedy of Othello"
             }
           }
         ],
@@ -254,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ANWR"
+              "title": "Outline of The Tragedy of Othello"
             }
           },
           {
@@ -315,15 +286,19 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0bfbbe868987086d",
+  "active": "a344bec82ecb2f9d",
   "lastOpenFiles": [
-    "3-Journal/2025-08-15.md",
-    "2-Main/0-SORT THIS",
+    "Templates/Session Orsian.md",
+    "2-Main/3-Resources/Sciences/Physics/Normal Force.md",
+    "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
     "Home.md",
+    "2-Main/3-Resources/Debate/Format",
+    "2-Main/3-Resources/Debate/Format/Affirmative.md",
+    "3-Journal/2025-08/2025-08-15.md",
     "2-Main/3-Resources/Debate/Research/ANWR.md",
+    "2-Main/0-SORT THIS",
     "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
     "Templates/Trad School Schedule 11-1.md",
-    "Templates/Session Orsian.md",
     "3-Journal/2025-08/2025-08-14.md",
     "2-Main/3-Resources/General Knowledge",
     "2-Main/3-Resources/Debate/Research/Arctic Circle.md",
@@ -345,8 +320,6 @@
     "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
     "Templates/Even School Schedule 11-1.md",
     "Templates/Odd School Schedule 11-1.md",
-    "3-Journal/2025-08/2025-08-12.md",
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
@@ -357,7 +330,6 @@
     "5-Images/sine and cos graph.png",
     "5-Images/Unit Circle.png",
     "4-DND/Ors/3-Sessions/Arouran",
-    "4-DND/Ors/3-Sessions",
     "5-Images/1373839.png",
     "5-Images/Radian_cropped_color.svg",
     "5-Images/Dvalinn.jpg",

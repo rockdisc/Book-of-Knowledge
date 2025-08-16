@@ -2621,6 +2621,7 @@ Erna
 Exceptionalism
 Environment
 Econ
+Equal
 Classic
 Consept
 Character
@@ -28709,6 +28710,7 @@ collaboration
 circulation
 coop
 cleanup
+confirmations
 entire
 endless
 everything
@@ -33738,6 +33740,8 @@ Transformations
 TOA
 Trump
 TikTok
+Tragedy
+Trifles
 goat
 going
 get
@@ -41350,6 +41354,7 @@ ports
 platforms
 policymaking
 pains
+proofs
 kept
 know
 knew
@@ -56034,6 +56039,7 @@ Federal
 Finland
 Freeland
 Fem
+Fallen
 Veins
 Vim
 Venus
