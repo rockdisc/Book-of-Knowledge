@@ -33,9 +33,7 @@ actions:
 ## Todo
 
 > [!todo]  Today
-> - [ ] Clean my desk
 > - [ ] Find Holidays and add that to the daily template. 
-> - [ ] Organize Notes 
 > - [ ] Make Aff Rough Draft
  
 > [!warning]  Run On
