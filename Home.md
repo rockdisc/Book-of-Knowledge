@@ -36,7 +36,7 @@ actions:
 > - [ ] Clean my desk
 > - [ ] Find Holidays and add that to the daily template. 
 > - [ ] Organize Notes 
-> - [ ] Make Aff Roguth 
+> - [ ] Make Aff Rough Draft
  
 > [!warning]  Run On
 
