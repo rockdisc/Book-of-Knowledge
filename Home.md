@@ -35,6 +35,8 @@ actions:
 > [!todo]  Today
 > - [ ] Clean my desk
 > - [ ] Find Holidays and add that to the daily template. 
+> - [ ] Organize Notes 
+> - [ ] Make Aff Roguth 
  
 > [!warning]  Run On
 

@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ANWR"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ANWR"
+              "title": "Graph of Home"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ANWR"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/Debate/Research/ANWR.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ANWR"
+              "title": "Outline of Home"
             }
           },
           {
@@ -315,11 +315,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0bfbbe868987086d",
+  "active": "a344bec82ecb2f9d",
   "lastOpenFiles": [
-    "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
-    "2-Main/3-Resources/Debate/Research/ANWR.md",
     "3-Journal/2025-08-15.md",
+    "2-Main/3-Resources/Debate/Research/ANWR.md",
+    "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
     "Home.md",
     "Templates/Trad School Schedule 11-1.md",
     "Templates/Session Orsian.md",
