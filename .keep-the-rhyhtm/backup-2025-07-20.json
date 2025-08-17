@@ -11876,6 +11876,263 @@
           }
         ],
         "id": 853
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "3-Journal/2025-08/2025-08-14.md",
+        "wordCountStart": 407,
+        "charCountStart": 2139,
+        "changes": [],
+        "id": 854
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "Home.md",
+        "wordCountStart": 151,
+        "charCountStart": 996,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 10,
+            "c": 53
+          }
+        ],
+        "id": 855
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "3-Journal/2025-08/2025-08-15.md",
+        "wordCountStart": 121,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": -7,
+            "c": -79
+          },
+          {
+            "timeKey": "17:45",
+            "w": 78,
+            "c": 395
+          },
+          {
+            "timeKey": "18:55",
+            "w": 16,
+            "c": 89
+          },
+          {
+            "timeKey": "21:15",
+            "w": 102,
+            "c": 482
+          },
+          {
+            "timeKey": "21:20",
+            "w": 5,
+            "c": 27
+          },
+          {
+            "timeKey": "21:25",
+            "w": 47,
+            "c": 214
+          },
+          {
+            "timeKey": "21:30",
+            "w": 52,
+            "c": 270
+          },
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 16
+          }
+        ],
+        "id": 856
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "Templates/Session Orsian.md",
+        "wordCountStart": 25,
+        "charCountStart": 267,
+        "changes": [],
+        "id": 857
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "Templates/Trad School Schedule 11-1.md",
+        "wordCountStart": 18,
+        "charCountStart": 168,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": -1,
+            "c": -13
+          }
+        ],
+        "id": 858
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/3-Resources/Debate/Research/ANWR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 22,
+            "c": 128
+          },
+          {
+            "timeKey": "20:25",
+            "w": 24,
+            "c": 120
+          },
+          {
+            "timeKey": "20:30",
+            "w": 22,
+            "c": 202
+          },
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "21:30",
+            "w": 7,
+            "c": 32
+          },
+          {
+            "timeKey": "21:35",
+            "w": 78,
+            "c": 429
+          }
+        ],
+        "id": 859
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
+        "wordCountStart": 801,
+        "charCountStart": 4878,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 860
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/3-Resources/Debate/Format/Affirmative.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 18,
+            "c": 105
+          },
+          {
+            "timeKey": "21:40",
+            "w": 3,
+            "c": 29
+          }
+        ],
+        "id": 861
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
+        "wordCountStart": 48,
+        "charCountStart": 247,
+        "changes": [],
+        "id": 862
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Normal Force.md",
+        "wordCountStart": 20,
+        "charCountStart": 126,
+        "changes": [],
+        "id": 863
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+        "wordCountStart": 178,
+        "charCountStart": 1174,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 11,
+            "c": 86
+          }
+        ],
+        "id": 864
+      },
+      {
+        "date": "2025-08-15",
+        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "wordCountStart": 2539,
+        "charCountStart": 12980,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 865
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "Home.md",
+        "wordCountStart": 161,
+        "charCountStart": 1049,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": -9,
+            "c": -46
+          }
+        ],
+        "id": 866
+      },
+      {
+        "date": "2025-08-16",
+        "filePath": "3-Journal/2025-08/2025-08-16.md",
+        "wordCountStart": 121,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": -68,
+            "c": -473
+          },
+          {
+            "timeKey": "21:10",
+            "w": 42,
+            "c": 203
+          },
+          {
+            "timeKey": "21:15",
+            "w": 50,
+            "c": 228
+          },
+          {
+            "timeKey": "21:20",
+            "w": 45,
+            "c": 245
+          },
+          {
+            "timeKey": "21:25",
+            "w": 87,
+            "c": 455
+          }
+        ],
+        "id": 867
       }
     ]
   }
