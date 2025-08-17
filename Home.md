@@ -35,6 +35,8 @@ actions:
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
 > - [ ] Make Aff Rough Draft
+> - [ ] Make Terminal look good on mac 
+> - [ ] Take picture of both cameras 
  
 > [!warning]  Run On
 
