@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-08-17"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-17"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-17.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-17"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-17"
             }
           }
         ],
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-17"
             }
           },
           {
@@ -288,8 +288,9 @@
   },
   "active": "ba0d376bf3a69278",
   "lastOpenFiles": [
-    "3-Journal/2025-08/2025-08-16.md",
     "Home.md",
+    "3-Journal/2025-08-17.md",
+    "3-Journal/2025-08/2025-08-16.md",
     "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
     "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
     "Templates/Session Orsian.md",
@@ -319,7 +320,6 @@
     "Templates/JEntry.md",
     "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
     "1-Rough/Ch 2 Meeting.md",
-    "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
