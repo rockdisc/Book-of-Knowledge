@@ -24,4 +24,10 @@ There are three ways to help do this. To schedule similar tasks together, have b
 > Try not to schedule your entire day in advance as there are things that you will not know about. Just have a list of things you want to do every day and keep to it.  
 
 4. Create a ritual before you enter deep work 
-It can be ve
+It can be very small, but after a week or so after doing it, it will help activate it whenever it is needed. 
+
+> [!tip] Recommendation 
+> Make it a body jester that I do not normally do so I can activate it anywhere. I would recommend something like covering my eyes with my fingers for a few seconds. It also helps calm me down. 
+
+5. Use Idle Gaps like a smart person 
+If you use distraction to fill up boredom every time, you will not be comfortable being bored. Yes people fear [[Nothing]], but it helps us grow into being better at focusing. 
