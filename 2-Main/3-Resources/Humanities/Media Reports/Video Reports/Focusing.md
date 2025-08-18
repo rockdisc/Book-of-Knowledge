@@ -48,4 +48,16 @@ Take on less responsibilities. This will give you more time to focus on the thin
 > Think about everything I do, I think it is about time I made a what I use... for but for myself and cut things I do not want to do or need to do out. 
 
 8. Avoid the "Any Benefit" mind trap 
-Your brain will trick you into thinking the task you are doing, or an easier task provides as much benefit as the important and hard task you have been putting off. 
+Your brain will trick you into thinking the task you are doing, or an easier task provides as much benefit as the important and hard task you have been putting off. You should not take its word for fact. 
+
+> [!tip] Recommendation 
+> Think about the pros and cons when thinking of a task to do. Do [[Impact Calc]], and find the most pressing task, then do it. 
+
+9. End your day the right way 
+Make a list of all unresolved tasks to do in the future. Do not stress your brain at night, instead let it rest for tomorrow. 
+
+> [!tip] Recommendation 
+> Put the tasks at there appropriate spots in the todo list, then actually do them at those times. 
+
+10. Relax the right way 
+Your brain does not tire out like the muscles in your body. People who are more relaxed are 
