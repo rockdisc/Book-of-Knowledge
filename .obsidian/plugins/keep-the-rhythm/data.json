@@ -12344,6 +12344,56 @@
           }
         ],
         "id": 875
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/0-SORT THIS/Rhetorical Analysis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 876
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
+        "wordCountStart": 231,
+        "charCountStart": 1510,
+        "changes": [],
+        "id": 877
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
+        "wordCountStart": 70,
+        "charCountStart": 418,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 13,
+            "c": 95
+          }
+        ],
+        "id": 878
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
+        "wordCountStart": 41,
+        "charCountStart": 284,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 23,
+            "c": 108
+          }
+        ],
+        "id": 879
       }
     ]
   }
