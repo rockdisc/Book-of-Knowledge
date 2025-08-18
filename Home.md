@@ -23,7 +23,8 @@ actions:
 
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
-> - [ ] Work out Home Assistant 
+> - [ ] Work out Home Assistant
+> - [ ] Do the One Word Essay
  
 > [!warning]  Run On
 
