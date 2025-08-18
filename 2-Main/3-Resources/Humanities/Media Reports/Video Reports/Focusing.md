@@ -18,4 +18,10 @@ Whatever time you set out to do things, you have to only do those things and not
 > Turn on personal mode on my phone while doing work and start a timer for the work I want to get done. Or pick a time to start and stop.
 
 3. Don't plan your day like a fool 
-There are three ways to help
+There are three ways to help do this. To schedule similar tasks together, have buffer time in between, and do all deep work in the morning while you have the most energy. I cannot do the last step due to school, but the others can still apply. Yes I would not do the last step even if I did not have school. 
+
+> [!tip] Recommendation 
+> Try not to schedule your entire day in advance as there are things that you will not know about. Just have a list of things you want to do every day and keep to it.  
+
+4. Create a ritual before you enter deep work 
+It can be ve

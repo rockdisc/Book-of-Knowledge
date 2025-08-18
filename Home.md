@@ -19,17 +19,6 @@ actions:
 
 ```
 
-
-## Daily 
-
-> [!daily]
-> - Walk 
-> - Add Missing Note
-> - Add New Note (Mini Essay or Story)
-> - Add Old Note from other Notebook Here 
-> - Add New Resource 
-> - Read
-
 ## Todo
 
 > [!todo]  Today

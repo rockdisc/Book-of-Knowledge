@@ -3975,6 +3975,7 @@ China
 Creating
 Cap
 Coloniality
+Creativity
 Modern
 Mini
 My
@@ -9602,6 +9603,7 @@ Policy
 Peoples
 Politics
 Private
+Psychology
 Worldbuilding
 WWII
 Wake
@@ -11844,6 +11846,7 @@ waving
 watered
 weekend
 wildlife
+worksheets
 have
 hell
 his
@@ -13108,6 +13111,7 @@ howl
 headaches
 hypotenuse
 hotter
+hole
 never
 nothing
 not
@@ -17058,6 +17062,7 @@ transpolar
 tariffs
 tradeoffs
 teachers
+tearing
 be
 bright
 but
@@ -18546,6 +18551,7 @@ bullet
 bull
 basically
 bases
+boxes
 so
 sand
 spend
@@ -20369,6 +20375,8 @@ scientists
 sugar
 satellites
 scene
+selective
+similar
 vast
 very
 vibrant
@@ -21476,6 +21484,7 @@ victory
 victim
 villagers
 values
+vibe
 desert
 due
 dark
@@ -22842,6 +22851,9 @@ dementia
 drilling
 dating
 democrats
+distracting
+desks
+distraction
 and
 anything
 am
@@ -25607,6 +25619,8 @@ monitor
 monitoring
 maintenance
 mac
+minimal
+modes
 for
 find
 face
@@ -28713,6 +28727,7 @@ coop
 cleanup
 confirmations
 cameras
+checking
 entire
 endless
 everything
@@ -35035,6 +35050,7 @@ genetic
 growth
 governance
 geoengineering
+grades
 use
 until
 used
@@ -37753,6 +37769,7 @@ relations
 reviewed
 review
 republicans
+rearrange
 yellow
 yet
 you
@@ -44923,6 +44940,8 @@ ANWR
 Aff
 Arctic
 Aurore
+Assistant
+Areas
 Rough
 Readers
 Radkeha
@@ -46417,6 +46436,7 @@ Refuge
 Resources
 Rising
 Reserve
+Recommendation
 Gyles
 Giants
 God
@@ -57189,6 +57209,7 @@ Values
 Vibra
 Vita
 Vinco
+VideoReport
 One
 Organ
 On
