@@ -27,6 +27,9 @@ actions:
  
 > [!warning]  Run On
 
+> [!info] Later 
+> - [ ] what I use... for but for myself
+
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
 > - [ ] Try Linux 

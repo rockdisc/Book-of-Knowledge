@@ -42,3 +42,10 @@ Instead of doing two tasks that take up the [[Random Access Memory|RAM]] of your
 > After finishing listening to my stories, I should do this on my walks. 
 
 7. You should become irresponsible 
+Take on less responsibilities. This will give you more time to focus on the things you want to do.
+
+> [!tip] Recommendation 
+> Think about everything I do, I think it is about time I made a what I use... for but for myself and cut things I do not want to do or need to do out. 
+
+8. Avoid the "Any Benefit" mind trap 
+Your brain will trick you into thinking the task you are doing, or an easier task provides as much benefit as the important and hard task you have been putting off. 

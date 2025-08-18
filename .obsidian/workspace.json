@@ -49,7 +49,8 @@
               "title": "Focusing"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-17"
+              "title": "Backlinks for Focusing"
             }
           },
           {
@@ -174,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-17"
+              "title": "Graph of Focusing"
             }
           },
           {
@@ -211,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-17"
+              "title": "Outgoing links from Focusing"
             }
           }
         ],
@@ -253,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-17"
+              "title": "Outline of Focusing"
             }
           },
           {
@@ -314,12 +315,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ba0d376bf3a69278",
+  "active": "9a62f781039b4094",
   "lastOpenFiles": [
-    "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
     "Home.md",
-    "2-Main/3-Resources/Humanities/Media Reports/Video Reports",
+    "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
     "3-Journal/2025-08-17.md",
+    "2-Main/3-Resources/Humanities/Media Reports/Video Reports",
     "3-Journal/2025-08/2025-08-16.md",
     "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
     "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",

@@ -8264,6 +8264,7 @@ Indigenous
 Increase
 International
 Inevitablility
+Idle
 Points
 Powers
 Protagonist
@@ -11847,6 +11848,7 @@ watered
 weekend
 wildlife
 worksheets
+wired
 have
 hell
 his
@@ -15624,6 +15626,8 @@ indigenous
 ice
 independent
 independence
+idle
+irresponsible
 to
 the
 there
@@ -18552,6 +18556,7 @@ bull
 basically
 bases
 boxes
+boredom
 so
 sand
 spend
@@ -28728,6 +28733,9 @@ cleanup
 confirmations
 cameras
 checking
+calm
+crave
+cheat
 entire
 endless
 everything
@@ -37770,6 +37778,7 @@ reviewed
 review
 republicans
 rearrange
+responsibilities
 yellow
 yet
 you
@@ -47533,6 +47542,7 @@ Geographically
 Geopolitically
 Greenland
 GCI
+Gaps
 He
 Hunt
 Heaven
