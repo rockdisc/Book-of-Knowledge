@@ -60,4 +60,8 @@ Make a list of all unresolved tasks to do in the future. Do not stress your brai
 > Put the tasks at there appropriate spots in the todo list, then actually do them at those times. 
 
 10. Relax the right way 
-Your brain does not tire out like the muscles in your body. People who are more relaxed are 
+Your brain does not tire out like the muscles in your body. People who are more relaxed are not as happy as people that do things that they enjoy in their free time. Do not just slouch on your bed and scroll all day, instead do things you like and enjoy yourself to motivate yourself to not let work cut into your free time. 
+
+> [!tip] Recommendation 
+> Start drawing and making maps again, this will improve my happiness and make me better. 
+
