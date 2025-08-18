@@ -34,7 +34,6 @@ actions:
 
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
-> - [ ] Make Aff Rough Draft
  
 > [!warning]  Run On
 
