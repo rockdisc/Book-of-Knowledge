@@ -12176,6 +12176,25 @@
           }
         ],
         "id": 869
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 6,
+            "c": 58
+          },
+          {
+            "timeKey": "21:05",
+            "w": 69,
+            "c": 362
+          }
+        ],
+        "id": 870
       }
     ]
   }
