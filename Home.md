@@ -30,12 +30,10 @@ actions:
 > - [ ] Get expo markers for spanish
 
 > [!info] Later 
-> - [ ] what I use... for but for myself
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
 > - [ ] Try Linux 
-> - [ ] Make Reddit account to post my story 
  
 > [!summary] What I want to do
 > - Read The Inner Game of Tennis and The Art of Thinking
