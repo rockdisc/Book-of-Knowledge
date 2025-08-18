@@ -35,7 +35,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-17"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -160,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-17"
+              "title": "Graph of Home"
             }
           },
           {
@@ -197,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-17"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -239,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-17.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-17"
+              "title": "Outline of Home"
             }
           },
           {
@@ -300,10 +301,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ba0d376bf3a69278",
+  "active": "d4276ff2a3c0e7df",
   "lastOpenFiles": [
-    "Home.md",
     "3-Journal/2025-08-17.md",
+    "Home.md",
     "3-Journal/2025-08/2025-08-16.md",
     "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
     "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",

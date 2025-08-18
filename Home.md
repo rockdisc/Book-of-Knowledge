@@ -34,6 +34,7 @@ actions:
 
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
+> - [ ] Work out Home Assistant 
  
 > [!warning]  Run On
 
