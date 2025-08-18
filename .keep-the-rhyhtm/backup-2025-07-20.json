@@ -12138,6 +12138,133 @@
           }
         ],
         "id": 867
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "Home.md",
+        "wordCountStart": 167,
+        "charCountStart": 1081,
+        "changes": [
+          {
+            "timeKey": "13:50",
+            "w": -15,
+            "c": -78
+          },
+          {
+            "timeKey": "20:40",
+            "w": -6,
+            "c": -29
+          },
+          {
+            "timeKey": "20:50",
+            "w": 6,
+            "c": 33
+          },
+          {
+            "timeKey": "21:20",
+            "w": -25,
+            "c": -168
+          },
+          {
+            "timeKey": "21:40",
+            "w": 12,
+            "c": 59
+          }
+        ],
+        "id": 868
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "3-Journal/2025-08-17.md",
+        "wordCountStart": 121,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "14:20",
+            "w": -68,
+            "c": -473
+          },
+          {
+            "timeKey": "21:35",
+            "w": 10,
+            "c": 75
+          },
+          {
+            "timeKey": "21:50",
+            "w": 88,
+            "c": 380
+          },
+          {
+            "timeKey": "21:55",
+            "w": 112,
+            "c": 533
+          }
+        ],
+        "id": 869
+      },
+      {
+        "date": "2025-08-17",
+        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 6,
+            "c": 58
+          },
+          {
+            "timeKey": "21:05",
+            "w": 135,
+            "c": 714
+          },
+          {
+            "timeKey": "21:10",
+            "w": 112,
+            "c": 589
+          },
+          {
+            "timeKey": "21:15",
+            "w": 107,
+            "c": 537
+          },
+          {
+            "timeKey": "21:20",
+            "w": 107,
+            "c": 539
+          },
+          {
+            "timeKey": "21:25",
+            "w": 85,
+            "c": 485
+          },
+          {
+            "timeKey": "21:30",
+            "w": 21,
+            "c": 114
+          },
+          {
+            "timeKey": "21:35",
+            "w": 61,
+            "c": 356
+          },
+          {
+            "timeKey": "21:40",
+            "w": 99,
+            "c": 503
+          },
+          {
+            "timeKey": "21:45",
+            "w": 123,
+            "c": 645
+          },
+          {
+            "timeKey": "21:50",
+            "w": 45,
+            "c": 264
+          }
+        ],
+        "id": 870
       }
     ]
   }
