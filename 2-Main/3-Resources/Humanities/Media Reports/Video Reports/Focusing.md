@@ -36,4 +36,9 @@ If you use distraction to fill up boredom every time, you will not be comfortabl
 > While waiting in line or something else idle, try to stay away from your phone and just stay still. 
 
 6. Multi-task the right way 
-Instead of doing two tasks that take up the [[Random Access Memory|RAM]] of
+Instead of doing two tasks that take up the [[Random Access Memory|RAM]] of your brain. Instead you should focus on something that takes a lot of creativity and brain power while doing something you do not think about. This can train your brain to stay on track and stay on one topic while doing something else. 
+
+> [!tip] Recommendation 
+> After finishing listening to my stories, I should do this on my walks. 
+
+7. You should become irresponsible 
