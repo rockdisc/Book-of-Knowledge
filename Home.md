@@ -24,7 +24,6 @@ actions:
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
 > - [ ] Work out Home Assistant
-> - [ ] Make laptop close screen not turn off. 
  
 > [!warning]  Run On
 > - [ ] Get expo markers for spanish
