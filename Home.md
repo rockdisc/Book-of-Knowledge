@@ -24,7 +24,6 @@ actions:
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
 > - [ ] Work out Home Assistant
-> - [ ] Do the One Word Essay
 > - [ ] Get expo markers for spanish
  
 > [!warning]  Run On
