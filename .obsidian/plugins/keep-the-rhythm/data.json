@@ -12355,6 +12355,11 @@
             "timeKey": "17:25",
             "w": 1,
             "c": 7
+          },
+          {
+            "timeKey": "17:30",
+            "w": 53,
+            "c": 331
           }
         ],
         "id": 876
@@ -12389,11 +12394,24 @@
         "changes": [
           {
             "timeKey": "17:25",
-            "w": 23,
-            "c": 108
+            "w": 32,
+            "c": 157
+          },
+          {
+            "timeKey": "17:30",
+            "w": 20,
+            "c": 116
           }
         ],
         "id": 879
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/3-Resources/Sciences/Physics/Displacement.md",
+        "wordCountStart": 19,
+        "charCountStart": 131,
+        "changes": [],
+        "id": 880
       }
     ]
   }
