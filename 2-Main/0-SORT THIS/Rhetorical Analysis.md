@@ -4,6 +4,16 @@ Rhetorical, according to [[Aristotle]] means "the faculty of observing in any gi
 
 Rhetoric needs 3 things to be considered good:
 - Occasion 
-Knowing when to use it
+Knowing when to use it.
 - Context 
-KNowing
+Knowing where to use it.
+- Purpose
+Knowing how and why to use it.
+
+## Rhetorical Trangle
+
+![[Rhetorical Trangle(Speaker).png|500]]
+
+- The speaker is not who the person speaking actually is, but who they convey to be. This is called the [[Persona]].
+- The subject or message is what the speaker is trying to convey to the audience. This may not be what they actually say, but the message they want the audience to leave with. This is the purpose.
+- 

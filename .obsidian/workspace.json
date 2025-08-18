@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "df87c9dcd38dca12",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=aristotle%27s+rhetorical+triangle&sca_esv=280c54e349802271&udm=2&biw=1466&bih=1022&sxsrf=AE3TifO0EQg_ej3yae-tF-W_RKY5gW1jfw%3A1755556564124&ei=1KqjaJGgB7O1qtsP-5CJ-Aw&oq=rhetorical+triangle&gs_lp=EgNpbWciE3JoZXRvcmljYWwgdHJpYW5nbGUqAggBMhAQABiABBixAxhDGIMBGIoFMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeSOMNUABYAHABeACQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgiYAwCIBgGSBwExoAcAsgcAuAcAwgcDMi0xyAcG&sclient=img#vhid=QmBKFSEOKBIAaM&vssid=mosaic",
+                "title": "aristotle's rhetorical triangle - Google Search",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "aristotle's rhetorical triangle - Google Search"
+            }
+          },
+          {
             "id": "3886d459f753ad78",
             "type": "leaf",
             "state": {
@@ -317,12 +331,14 @@
   },
   "active": "edde20c9bfe583d5",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Persona.md",
+    "2-Main/0-SORT THIS/Rhetorical Analysis.md",
+    "5-Images/Rhetorical Trangle(Speaker).png",
     "3-Journal/2025-08-18.md",
     "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
     "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
     "2-Main/3-Resources/Sciences/Physics/Displacement.md",
     "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
-    "2-Main/0-SORT THIS/Rhetorical Analysis.md",
     "Home.md",
     "Templates/Even School Schedule 11-1.md",
     "Templates/Odd School Schedule 11-1.md",
@@ -349,7 +365,6 @@
     "2-Main/3-Resources/Debate/Research",
     "2-Main/3-Resources/Debate",
     "2-Main/3-Resources/Math/Trig/Unit Circle.md",
-    "2-Main/3-Resources/Math/Trig/Trigonometric Functions.md",
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/Humanities/History",
     "2-Main/3-Resources/Humanities",
@@ -364,7 +379,6 @@
     "5-Images/Dvalinn.jpg",
     "5-Images/Crater (1).jpg",
     "Home.canvas",
-    "5-Images/Magic Circles of Manabrew (1).png",
     "1-Rough/Story Outline.canvas"
   ]
 }

@@ -12358,8 +12358,13 @@
           },
           {
             "timeKey": "17:30",
-            "w": 53,
-            "c": 331
+            "w": 60,
+            "c": 374
+          },
+          {
+            "timeKey": "17:35",
+            "w": 72,
+            "c": 406
           }
         ],
         "id": 876
@@ -12412,6 +12417,20 @@
         "charCountStart": 131,
         "changes": [],
         "id": 880
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/0-SORT THIS/Persona.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 11,
+            "c": 80
+          }
+        ],
+        "id": 881
       }
     ]
   }

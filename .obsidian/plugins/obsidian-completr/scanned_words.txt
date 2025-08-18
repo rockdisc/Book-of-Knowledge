@@ -3977,6 +3977,7 @@ Cap
 Coloniality
 Creativity
 Cal
+Context
 Modern
 Mini
 My
@@ -20388,6 +20389,7 @@ selective
 similar
 spanish
 subtracting
+speaker
 vast
 very
 vibrant
@@ -24247,6 +24249,7 @@ avenue
 agents
 afar
 astronomy
+audience
 mirages
 miles
 man
@@ -28749,6 +28752,7 @@ cheat
 clarity
 comparing
 cars
+convey
 entire
 endless
 everything
@@ -33783,6 +33787,8 @@ TikTok
 Tragedy
 Trifles
 Take
+Techniques
+Trangle
 goat
 going
 get
@@ -46463,6 +46469,8 @@ Rising
 Reserve
 Recommendation
 Reviewed
+Rhetorical
+Rhetoric
 Gyles
 Giants
 God
@@ -58347,6 +58355,7 @@ Out
 Odd
 Ocean
 OVERPOWERED
+Occasion
 Yesterday
 Yellow
 Yggdrasil
