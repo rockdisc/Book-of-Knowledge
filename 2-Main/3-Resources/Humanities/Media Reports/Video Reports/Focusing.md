@@ -30,4 +30,10 @@ It can be very small, but after a week or so after doing it, it will help activa
 > Make it a body jester that I do not normally do so I can activate it anywhere. I would recommend something like covering my eyes with my fingers for a few seconds. It also helps calm me down. 
 
 5. Use Idle Gaps like a smart person 
-If you use distraction to fill up boredom every time, you will not be comfortable being bored. Yes people fear [[Nothing]], but it helps us grow into being better at focusing. 
+If you use distraction to fill up boredom every time, you will not be comfortable being bored. Yes people fear [[Nothing]], but it helps us grow into being better at focusing. Once a person is wired to crave distraction, they cannot do a difficult task without wanting to cheat. 
+
+> [!tip] Recommendation 
+> While waiting in line or something else idle, try to stay away from your phone and just stay still. 
+
+6. Multi-task the right way 
+Instead of doing two tasks that take up the [[Random Access Memory|RAM]] of
