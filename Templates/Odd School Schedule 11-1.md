@@ -1,4 +1,3 @@
-## Classes 
 
 ### AP English Language Arts 
 

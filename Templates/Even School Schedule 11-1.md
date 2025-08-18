@@ -1,4 +1,3 @@
-## Classes 
 
 ### US History 
 
