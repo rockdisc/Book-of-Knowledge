@@ -38,7 +38,6 @@
   "baseline-style@@h1-variant": "normal",
   "baseline-style@@h1-style": "normal",
   "baseline-style@@h1-l": true,
-  "baseline-style@@h2-color@@dark": "#9359C8",
   "baseline-style@@h2-l": false,
   "baseline-style@@h3-color@@dark": "#74459E",
   "baseline-style@@h4-color@@dark": "#693D92",
@@ -62,5 +61,8 @@
   "baseline-style@@background-modifier-border-hover@@dark": "#6F2BAE",
   "baseline-style@@text-selection@@dark": "#402D93",
   "baseline-style@@text-highlight-bg@@dark": "#6649C5",
-  "baseline-style@@status-bar-style": "status-bar-default"
+  "baseline-style@@status-bar-style": "status-bar-default",
+  "baseline-style@@h2-weight": 200,
+  "baseline-style@@h2-color@@dark": "#A5A5A5",
+  "baseline-style@@h2-transform": "capitalize"
 }
