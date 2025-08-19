@@ -9,4 +9,10 @@ This can be used to solve this example problem:
 
 What is the average rate of change on $f(x) = x^3 + 4x \space on \space [-1,2]$? 
 
-$f(-1)=1+4$
+$f(-1)=1-4$
+
+$f(2)=-8+8$
+
+so putting that back in the equation. 
+$\frac{0+3}{2+1}=1$
+would be the answer.
