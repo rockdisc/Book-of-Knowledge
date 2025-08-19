@@ -20406,6 +20406,7 @@ spanish
 subtracting
 speaker
 screen
+slope
 vast
 very
 vibrant
@@ -22887,6 +22888,7 @@ distraction
 drills
 defending
 dimension
+decreases
 and
 anything
 am
@@ -50040,6 +50042,7 @@ Direct
 Delta
 Denmark
 Draft
+Down
 Keter
 Knowing
 Kyling
