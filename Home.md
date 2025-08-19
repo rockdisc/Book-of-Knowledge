@@ -24,6 +24,7 @@ actions:
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
 > - [ ] Organize Phone Files
+> - [ ] Change how ## looks
  
 > [!warning]  Run On
 > - [ ] Get expo markers for spanish

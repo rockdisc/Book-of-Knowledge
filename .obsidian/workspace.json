@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "107a40e8486af8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Concavity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concavity"
+            }
+          },
+          {
+            "id": "eee9776d3c487a0a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Concave_function",
+                "title": "Concave function - Wikipedia",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Concave function - Wikipedia"
+            }
+          },
+          {
             "id": "bad2ea88cce0e4aa",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "2-Main/0-SORT THIS/Concavity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-19"
+              "title": "Backlinks for Concavity"
             }
           },
           {
@@ -160,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "2-Main/0-SORT THIS/Concavity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-19"
+              "title": "Graph of Concavity"
             }
           },
           {
@@ -197,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "2-Main/0-SORT THIS/Concavity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-19"
+              "title": "Outgoing links from Concavity"
             }
           }
         ],
@@ -239,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "2-Main/0-SORT THIS/Concavity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-19"
+              "title": "Outline of Concavity"
             }
           },
           {
@@ -301,10 +330,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b87c59f585c547b7",
+  "active": "107a40e8486af8e7",
   "lastOpenFiles": [
-    "Home.md",
     "3-Journal/2025-08-19.md",
+    "Home.md",
+    "2-Main/0-SORT THIS/Concavity.md",
     "3-Journal/2025-08/2025-08-18.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "2-Main/0-SORT THIS/ASPEC.md",
@@ -334,7 +364,6 @@
     "2-Main/0-SORT THIS",
     "2-Main/3-Resources/3-Humanities/Debate/Research/Arctic Topic Lecture.md",
     "Templates/Trad School Schedule 11-1.md",
-    "3-Journal/2025-08/2025-08-14.md",
     "2-Main/3-Resources/1-General Knowledge",
     "5-Images/Final+linguistics+map.webp",
     "2-Main/3-Resources/3-Humanities/Debate/Research",

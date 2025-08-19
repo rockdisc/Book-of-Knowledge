@@ -12540,6 +12540,11 @@
             "timeKey": "17:10",
             "w": 3,
             "c": 20
+          },
+          {
+            "timeKey": "17:15",
+            "w": 5,
+            "c": 28
           }
         ],
         "id": 886
@@ -12560,11 +12565,30 @@
         "changes": [
           {
             "timeKey": "17:10",
-            "w": 12,
-            "c": -24
+            "w": 21,
+            "c": 19
+          },
+          {
+            "timeKey": "17:15",
+            "w": 25,
+            "c": 125
           }
         ],
         "id": 888
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "2-Main/0-SORT THIS/Concavity.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 42,
+            "c": 248
+          }
+        ],
+        "id": 889
       }
     ]
   }
