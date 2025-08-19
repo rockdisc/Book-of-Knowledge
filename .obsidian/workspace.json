@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "1bb6893532a6449f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,7 @@
             }
           },
           {
-            "id": "dec1647eab27c5c8",
+            "id": "f548f0a99c98330f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -278,6 +291,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
@@ -296,10 +310,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c2b32a7e9d534f02",
+  "active": "1bb6893532a6449f",
   "lastOpenFiles": [
-    "3-Journal/2025-08-18.md",
     "Home.md",
+    "3-Journal/2025-08-18.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "2-Main/0-SORT THIS/ASPEC.md",
     "2-Main/3-Resources/2-STEM",
