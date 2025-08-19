@@ -12599,6 +12599,25 @@
           }
         ],
         "id": 889
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "2-Main/0-SORT THIS/Average Rate of Change.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 14,
+            "c": 73
+          },
+          {
+            "timeKey": "17:25",
+            "w": 71,
+            "c": 330
+          }
+        ],
+        "id": 890
       }
     ]
   }
