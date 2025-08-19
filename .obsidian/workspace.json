@@ -35,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Journal/2025-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-08-19"
             }
           },
           {
@@ -160,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "3-Journal/2025-08-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2025-08-19"
             }
           },
           {
@@ -196,11 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Journal/2025-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-08-19"
             }
           }
         ],
@@ -237,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Untitled.base",
+                "file": "3-Journal/2025-08-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-08-19"
             }
           },
           {
@@ -299,11 +301,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "b87c59f585c547b7",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/0-SORT THIS/Untitled.base",
     "2-Main/0-SORT THIS/Untitled.md",
-    "Home.md",
     "3-Journal/2025-08-19.md",
     "Templates/Odd School Schedule 11-1.md",
     "Templates/Even School Schedule 11-1.md",
