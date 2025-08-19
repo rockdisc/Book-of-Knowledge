@@ -9,7 +9,6 @@
   "baseline-style@@background-secondary-alt@@dark": "#0F0F0F",
   "baseline-style@@interactive-normal@@dark": "#7548D8",
   "baseline-style@@interactive-hover@@dark": "#5C4CB7",
-  "baseline-style@@background-modifier-hover@@dark": "#5C4CB7",
   "baseline-style@@background-modifier-active-hover@@dark": "#4B3F8D",
   "baseline-style@@layout-style": "layout-cards",
   "baseline-style@@density-modifier": "0.75",
@@ -59,10 +58,10 @@
   "baseline-style@@tag-radius": "0px",
   "baseline-style@@h1-size": "40px",
   "baseline-style@@background-modifier-border-hover@@dark": "#6F2BAE",
-  "baseline-style@@text-selection@@dark": "#402D93",
   "baseline-style@@text-highlight-bg@@dark": "#6649C5",
   "baseline-style@@status-bar-style": "status-bar-default",
   "baseline-style@@h2-weight": 200,
   "baseline-style@@h2-color@@dark": "#A5A5A5",
-  "baseline-style@@h2-transform": "capitalize"
+  "baseline-style@@h2-transform": "normal",
+  "baseline-style@@h2-variant": "normal"
 }

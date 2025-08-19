@@ -22,9 +22,7 @@ actions:
 ## Todo
 
 > [!todo]  Today
-> - [ ] Find Holidays and add that to the daily template. 
 > - [ ] Organize Phone Files
-> - [ ] Change how ## looks
  
 > [!warning]  Run On
 > - [ ] Get expo markers for spanish
@@ -32,7 +30,7 @@ actions:
 > [!info] Later 
 > - [ ] Figure out Bases
 > - [ ] Work out Home Assistant
-> - [ ] Debate Band Camp Send
+> - [ ] Debate Band Camp Send 
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
