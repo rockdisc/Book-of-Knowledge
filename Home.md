@@ -23,13 +23,15 @@ actions:
 
 > [!todo]  Today
 > - [ ] Find Holidays and add that to the daily template. 
-> - [ ] Work out Home Assistant
-> - [ ] Debate Band Camp Send
+> 
  
 > [!warning]  Run On
 > - [ ] Get expo markers for spanish
 
 > [!info] Later 
+> - [ ] Figure out Bases
+> - [ ] Work out Home Assistant
+> - [ ] Debate Band Camp Send
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 

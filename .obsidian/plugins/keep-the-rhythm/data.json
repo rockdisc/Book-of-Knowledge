@@ -12310,7 +12310,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "3-Journal/2025-08-18.md",
+        "filePath": "3-Journal/2025-08/2025-08-18.md",
         "wordCountStart": 121,
         "charCountStart": 787,
         "changes": [
@@ -12524,6 +12524,47 @@
         "charCountStart": 134,
         "changes": [],
         "id": 885
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "Home.md",
+        "wordCountStart": 134,
+        "charCountStart": 877,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 7,
+            "c": 34
+          },
+          {
+            "timeKey": "17:10",
+            "w": -2,
+            "c": -6
+          }
+        ],
+        "id": 886
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "3-Journal/2025-08/2025-08-18.md",
+        "wordCountStart": 359,
+        "charCountStart": 1941,
+        "changes": [],
+        "id": 887
+      },
+      {
+        "date": "2025-08-19",
+        "filePath": "3-Journal/2025-08-19.md",
+        "wordCountStart": 121,
+        "charCountStart": 787,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": -22,
+            "c": -204
+          }
+        ],
+        "id": 888
       }
     ]
   }

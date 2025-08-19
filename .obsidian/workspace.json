@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b9754e423ecb5b2",
+            "id": "b87c59f585c547b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Journal/2025-08-18.md",
+                "file": "3-Journal/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-18"
+              "title": "2025-08-19"
             }
           },
           {
-            "id": "b87c59f585c547b7",
+            "id": "bad2ea88cce0e4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "1bb6893532a6449f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -172,6 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -208,11 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -249,12 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home"
             }
           },
           {
@@ -310,10 +302,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1bb6893532a6449f",
+  "active": "bad2ea88cce0e4aa",
   "lastOpenFiles": [
+    "3-Journal/2025-08-19.md",
     "Home.md",
-    "3-Journal/2025-08-18.md",
+    "3-Journal/2025-08/2025-08-18.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "2-Main/0-SORT THIS/ASPEC.md",
     "2-Main/3-Resources/2-STEM",
@@ -344,7 +337,6 @@
     "Templates/Trad School Schedule 11-1.md",
     "3-Journal/2025-08/2025-08-14.md",
     "2-Main/3-Resources/1-General Knowledge",
-    "2-Main/3-Resources/3-Humanities/Debate/Research/Arctic Circle.md",
     "5-Images/Final+linguistics+map.webp",
     "2-Main/3-Resources/3-Humanities/Debate/Research",
     "2-Main/3-Resources/3-Humanities/Debate",
