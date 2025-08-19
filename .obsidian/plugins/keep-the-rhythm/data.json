@@ -69,7 +69,7 @@
     "dailyActivity": [
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Blood Meridian.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Blood Meridian.md",
         "wordCountStart": 172,
         "charCountStart": 981,
         "changes": [],
@@ -167,7 +167,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 444,
         "charCountStart": 2297,
         "changes": [
@@ -186,7 +186,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Calender Types.md",
         "wordCountStart": 51,
         "charCountStart": 283,
         "changes": [],
@@ -232,7 +232,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/System(Physics).md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/System(Physics).md",
         "wordCountStart": 34,
         "charCountStart": 227,
         "changes": [],
@@ -240,7 +240,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Displacement.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Displacement.md",
         "wordCountStart": 19,
         "charCountStart": 133,
         "changes": [],
@@ -248,7 +248,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Dynamics.md",
         "wordCountStart": 202,
         "charCountStart": 1196,
         "changes": [
@@ -326,7 +326,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Humanities/Esotericism/Alchemy.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Alchemy.md",
         "wordCountStart": 294,
         "charCountStart": 3304,
         "changes": [
@@ -340,7 +340,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Humanities/Esotericism/Hermeticism.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Hermeticism.md",
         "wordCountStart": 31,
         "charCountStart": 250,
         "changes": [
@@ -354,7 +354,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Humanities/Esotericism/Hermes Trismegistus.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Hermes Trismegistus.md",
         "wordCountStart": 33,
         "charCountStart": 273,
         "changes": [
@@ -368,7 +368,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Conservation of Momentum.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Conservation of Momentum.md",
         "wordCountStart": 79,
         "charCountStart": 554,
         "changes": [],
@@ -376,7 +376,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Buoyancy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Buoyancy.md",
         "wordCountStart": 39,
         "charCountStart": 277,
         "changes": [],
@@ -384,7 +384,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Average(Physics).md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Average(Physics).md",
         "wordCountStart": 26,
         "charCountStart": 146,
         "changes": [],
@@ -392,7 +392,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Average Angular Velocity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Average Angular Velocity.md",
         "wordCountStart": 10,
         "charCountStart": 91,
         "changes": [],
@@ -502,7 +502,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/2-Maps&Drawings/Mana Explained.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/2-Maps&Drawings/Mana Explained.md",
         "wordCountStart": 1628,
         "charCountStart": 50122,
         "changes": [],
@@ -510,7 +510,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/2-Maps&Drawings/Vibra Explained.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/2-Maps&Drawings/Vibra Explained.md",
         "wordCountStart": 1578,
         "charCountStart": 57374,
         "changes": [],
@@ -653,7 +653,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Curse.md",
         "wordCountStart": 607,
         "charCountStart": 3416,
         "changes": [],
@@ -1094,7 +1094,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Material World.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Material World.md",
         "wordCountStart": 151,
         "charCountStart": 927,
         "changes": [],
@@ -1271,7 +1271,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
         "wordCountStart": 81,
         "charCountStart": 1868,
         "changes": [],
@@ -1927,7 +1927,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -1971,7 +1971,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Julius Caesar (Play).md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Julius Caesar (Play).md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2107,7 +2107,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Land of Weather.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Land of Weather.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2126,7 +2126,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Labyrinth.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Labyrinth.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2145,7 +2145,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Magic/Magic Circles.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Magic/Magic Circles.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2169,7 +2169,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2207,7 +2207,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Humanities/Esotericism/Thoth.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Thoth.md",
         "wordCountStart": 13,
         "charCountStart": 98,
         "changes": [],
@@ -2223,7 +2223,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Fluids.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Fluids.md",
         "wordCountStart": 37,
         "charCountStart": 232,
         "changes": [],
@@ -2231,7 +2231,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
         "wordCountStart": 673,
         "charCountStart": 3796,
         "changes": [],
@@ -2239,7 +2239,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/Colleges/Michigan State.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Michigan State.md",
         "wordCountStart": 32,
         "charCountStart": 233,
         "changes": [],
@@ -2255,7 +2255,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Numen.md",
         "wordCountStart": 573,
         "charCountStart": 3183,
         "changes": [],
@@ -2480,7 +2480,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
         "wordCountStart": 550,
         "charCountStart": 2964,
         "changes": [
@@ -2602,7 +2602,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
         "wordCountStart": 338,
         "charCountStart": 1837,
         "changes": [
@@ -2621,7 +2621,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Blood Meridian.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Blood Meridian.md",
         "wordCountStart": 172,
         "charCountStart": 981,
         "changes": [
@@ -2635,7 +2635,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Don Quixote.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Don Quixote.md",
         "wordCountStart": 66,
         "charCountStart": 360,
         "changes": [
@@ -2654,7 +2654,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Hamlet.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Hamlet.md",
         "wordCountStart": 197,
         "charCountStart": 1112,
         "changes": [
@@ -2668,7 +2668,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Julius Caesar (Play).md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Julius Caesar (Play).md",
         "wordCountStart": 502,
         "charCountStart": 2850,
         "changes": [
@@ -2682,7 +2682,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/King Lear.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
         "wordCountStart": 429,
         "charCountStart": 2296,
         "changes": [
@@ -2696,7 +2696,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Macbeth.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Macbeth.md",
         "wordCountStart": 338,
         "charCountStart": 1792,
         "changes": [
@@ -2710,7 +2710,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
         "wordCountStart": 318,
         "charCountStart": 1711,
         "changes": [
@@ -2724,7 +2724,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Much Ado About Nothing.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Much Ado About Nothing.md",
         "wordCountStart": 278,
         "charCountStart": 1687,
         "changes": [
@@ -2738,7 +2738,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Of Mice and Men.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Of Mice and Men.md",
         "wordCountStart": 724,
         "charCountStart": 3834,
         "changes": [
@@ -2757,7 +2757,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tempest.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Tempest.md",
         "wordCountStart": 371,
         "charCountStart": 1978,
         "changes": [
@@ -2771,7 +2771,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
         "wordCountStart": 85,
         "charCountStart": 521,
         "changes": [
@@ -2890,7 +2890,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Pluvia.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Pluvia.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2909,7 +2909,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Scodis.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Scodis.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2928,7 +2928,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Nubes.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Nubes.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2947,7 +2947,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Cresco.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Cresco.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2971,7 +2971,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Bellum.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Bellum.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2990,7 +2990,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ossum.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ossum.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3004,7 +3004,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Pruina.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Pruina.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3018,7 +3018,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Adfligo.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Adfligo.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3032,7 +3032,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Tabes.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Tabes.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3046,7 +3046,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ensis.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ensis.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3100,7 +3100,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Supra.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Supra.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3119,7 +3119,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3133,7 +3133,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Lapis.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Lapis.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3147,7 +3147,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Canus.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Canus.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3161,7 +3161,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum History.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum History.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3175,7 +3175,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Religions.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Religions.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3189,7 +3189,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Acceleration.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Acceleration.md",
         "wordCountStart": 45,
         "charCountStart": 302,
         "changes": [],
@@ -3197,7 +3197,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Animal Farm.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3241,7 +3241,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
         "wordCountStart": 264,
         "charCountStart": 1643,
         "changes": [
@@ -3290,7 +3290,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Potential Difference.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Potential Difference.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3314,7 +3314,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Force.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Force.md",
         "wordCountStart": 121,
         "charCountStart": 783,
         "changes": [],
@@ -3322,7 +3322,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
         "wordCountStart": 37,
         "charCountStart": 244,
         "changes": [
@@ -3336,7 +3336,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Gravity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Gravity.md",
         "wordCountStart": 64,
         "charCountStart": 374,
         "changes": [],
@@ -3344,7 +3344,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Work & Energy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Work & Energy.md",
         "wordCountStart": 164,
         "charCountStart": 951,
         "changes": [
@@ -3473,7 +3473,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Animal Farm.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
         "wordCountStart": 295,
         "charCountStart": 1699,
         "changes": [],
@@ -3481,7 +3481,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Centripetal Force.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Centripetal Force.md",
         "wordCountStart": 16,
         "charCountStart": 112,
         "changes": [],
@@ -3489,7 +3489,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
         "wordCountStart": 462,
         "charCountStart": 2902,
         "changes": [],
@@ -3497,7 +3497,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Entropy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Entropy.md",
         "wordCountStart": 92,
         "charCountStart": 553,
         "changes": [],
@@ -3505,7 +3505,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Gravity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Gravity.md",
         "wordCountStart": 64,
         "charCountStart": 374,
         "changes": [],
@@ -3513,7 +3513,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/System(Physics).md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/System(Physics).md",
         "wordCountStart": 34,
         "charCountStart": 227,
         "changes": [],
@@ -3521,7 +3521,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/The Laws of Thermodynamics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/The Laws of Thermodynamics.md",
         "wordCountStart": 349,
         "charCountStart": 2151,
         "changes": [],
@@ -3646,7 +3646,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Magnetism.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Magnetism.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3675,7 +3675,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Great Gatsby.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Great Gatsby.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3704,7 +3704,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Electromagnetism.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electromagnetism.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3761,7 +3761,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Calender Types.md",
         "wordCountStart": 51,
         "charCountStart": 278,
         "changes": [
@@ -3832,7 +3832,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 460,
         "charCountStart": 2381,
         "changes": [
@@ -3909,7 +3909,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Electromagnetism.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electromagnetism.md",
         "wordCountStart": 4,
         "charCountStart": 50,
         "changes": [],
@@ -3917,7 +3917,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
         "wordCountStart": 462,
         "charCountStart": 2902,
         "changes": [],
@@ -4049,7 +4049,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4567,
         "changes": [
@@ -4063,7 +4063,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
         "wordCountStart": 74,
         "charCountStart": 422,
         "changes": [
@@ -4077,7 +4077,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Author.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Author.md",
         "wordCountStart": 1,
         "charCountStart": 3,
         "changes": [],
@@ -4085,7 +4085,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Bind.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Bind.md",
         "wordCountStart": 330,
         "charCountStart": 1760,
         "changes": [],
@@ -4156,7 +4156,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Poet's Land Plot Overview.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Poet's Land Plot Overview.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4232,7 +4232,7 @@
       },
       {
         "date": "2025-07-24",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Poet's Land Plot Overview.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Poet's Land Plot Overview.md",
         "wordCountStart": 267,
         "charCountStart": 1678,
         "changes": [],
@@ -4287,7 +4287,7 @@
       },
       {
         "date": "2025-07-24",
-        "filePath": "2-Main/3-Resources/Guides/Jester.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Guides/Jester.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -4301,7 +4301,7 @@
       },
       {
         "date": "2025-07-24",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 460,
         "charCountStart": 2382,
         "changes": [
@@ -4440,7 +4440,7 @@
       },
       {
         "date": "2025-07-24",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Numen.md",
         "wordCountStart": 574,
         "charCountStart": 3193,
         "changes": [
@@ -4526,7 +4526,7 @@
       },
       {
         "date": "2025-07-24",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Calender Types.md",
         "wordCountStart": 51,
         "charCountStart": 278,
         "changes": [],
@@ -4550,7 +4550,7 @@
       },
       {
         "date": "2025-07-24",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4557,
         "changes": [
@@ -4714,7 +4714,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Much Ado About Nothing.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Much Ado About Nothing.md",
         "wordCountStart": 310,
         "charCountStart": 1897,
         "changes": [],
@@ -4805,7 +4805,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 1840,
         "charCountStart": 9284,
         "changes": [],
@@ -4919,7 +4919,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Writing/Oneoffs/And the River Keeps Flowing.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Oneoffs/And the River Keeps Flowing.md",
         "wordCountStart": 747,
         "charCountStart": 3871,
         "changes": [
@@ -4933,7 +4933,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
         "wordCountStart": 358,
         "charCountStart": 2030,
         "changes": [],
@@ -4941,7 +4941,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Anthem.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Anthem.md",
         "wordCountStart": 449,
         "charCountStart": 2669,
         "changes": [
@@ -4965,7 +4965,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Writing/Oneoffs/Brothers.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Oneoffs/Brothers.md",
         "wordCountStart": 1836,
         "charCountStart": 9293,
         "changes": [
@@ -4992,7 +4992,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Speaking/Infos/Head Number 7.md",
+        "filePath": "2-Main/2-Areas/3-Speech/Infos/Head Number 7.md",
         "wordCountStart": 1007,
         "charCountStart": 5640,
         "changes": [
@@ -5006,7 +5006,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Speaking/Infos/HN7 Sources.md",
+        "filePath": "2-Main/2-Areas/3-Speech/Infos/HN7 Sources.md",
         "wordCountStart": 164,
         "charCountStart": 1367,
         "changes": [],
@@ -5014,7 +5014,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Lord of the Flies.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Lord of the Flies.md",
         "wordCountStart": 596,
         "charCountStart": 3331,
         "changes": [
@@ -5028,7 +5028,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Speaking/Other/Pavlovian Response.md",
+        "filePath": "2-Main/2-Areas/3-Speech/Other/Pavlovian Response.md",
         "wordCountStart": 595,
         "charCountStart": 3069,
         "changes": [],
@@ -5036,7 +5036,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Refusal.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Refusal.md",
         "wordCountStart": 330,
         "charCountStart": 1802,
         "changes": [
@@ -5050,7 +5050,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Zanzar.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Zanzar.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5084,7 +5084,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Creatures/Glassblower Dragon.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Creatures/Glassblower Dragon.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5103,7 +5103,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Angles and Radians.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5132,7 +5132,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/3-Resources/Math/Geometry/Circumference.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Geometry/Circumference.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5146,7 +5146,7 @@
       },
       {
         "date": "2025-07-25",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ley Line.md",
         "wordCountStart": 302,
         "charCountStart": 1722,
         "changes": [
@@ -5237,7 +5237,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -5289,7 +5289,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ley Line.md",
         "wordCountStart": 302,
         "charCountStart": 1710,
         "changes": [
@@ -5317,7 +5317,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Math/Trig/Trigonometric Functions.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Functions.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5341,7 +5341,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Angles and Radians.md",
         "wordCountStart": 163,
         "charCountStart": 913,
         "changes": [
@@ -5355,7 +5355,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Aquafinia.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5394,7 +5394,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Colleges/Cincinnati.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Cincinnati.md",
         "wordCountStart": 5,
         "charCountStart": 73,
         "changes": [
@@ -5413,7 +5413,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Colleges/Bennington.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Bennington.md",
         "wordCountStart": 30,
         "charCountStart": 247,
         "changes": [],
@@ -5435,7 +5435,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Colleges/Kansas University.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Kansas University.md",
         "wordCountStart": 5,
         "charCountStart": 59,
         "changes": [
@@ -5454,7 +5454,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Colleges/San Francisco State.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/San Francisco State.md",
         "wordCountStart": 5,
         "charCountStart": 73,
         "changes": [
@@ -5473,7 +5473,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/3-Resources/Colleges/Wyoming.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
         "wordCountStart": 5,
         "charCountStart": 59,
         "changes": [
@@ -5549,7 +5549,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 1840,
         "charCountStart": 9284,
         "changes": [
@@ -5588,7 +5588,7 @@
       },
       {
         "date": "2025-07-26",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Creatures/Sea King.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Creatures/Sea King.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5694,7 +5694,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5716,7 +5716,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/3-Resources/Colleges/Cincinnati.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Cincinnati.md",
         "wordCountStart": 41,
         "charCountStart": 275,
         "changes": [],
@@ -5724,7 +5724,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/3-Resources/Colleges/Kansas University.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Kansas University.md",
         "wordCountStart": 31,
         "charCountStart": 221,
         "changes": [],
@@ -5732,7 +5732,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/3-Resources/Colleges/San Francisco State.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/San Francisco State.md",
         "wordCountStart": 46,
         "charCountStart": 301,
         "changes": [],
@@ -5740,7 +5740,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/3-Resources/Colleges/Wyoming.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
         "wordCountStart": 33,
         "charCountStart": 221,
         "changes": [],
@@ -5899,7 +5899,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 1819,
         "charCountStart": 9205,
         "changes": [
@@ -5994,7 +5994,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "2-Main/3-Resources/Math/Trig/Unit Circle.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Unit Circle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6084,7 +6084,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Calender Types.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Calender Types.md",
         "wordCountStart": 51,
         "charCountStart": 278,
         "changes": [],
@@ -6116,7 +6116,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 5,
         "charCountStart": 42,
         "changes": [
@@ -6150,7 +6150,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/3-Resources/Colleges/Cincinnati.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Cincinnati.md",
         "wordCountStart": 41,
         "charCountStart": 275,
         "changes": [],
@@ -6158,7 +6158,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/3-Resources/Colleges/Purdue.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Purdue.md",
         "wordCountStart": 35,
         "charCountStart": 240,
         "changes": [],
@@ -6166,7 +6166,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/3-Resources/Colleges/Mizzou.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Mizzou.md",
         "wordCountStart": 37,
         "charCountStart": 263,
         "changes": [],
@@ -6198,7 +6198,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Basic Trigonometric Identities.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6232,7 +6232,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/3-Resources/Math/Geometry/Pythagorean Theorem.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Geometry/Pythagorean Theorem.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6298,7 +6298,7 @@
       },
       {
         "date": "2025-07-28",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Hector State.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Hector State.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6312,7 +6312,7 @@
       },
       {
         "date": "2025-07-29",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1104,
         "changes": [
@@ -6392,7 +6392,7 @@
       },
       {
         "date": "2025-07-29",
-        "filePath": "2-Main/3-Resources/Math/Trig/Graphing Trigonometric Functions.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Graphing Trigonometric Functions.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -6431,7 +6431,7 @@
       },
       {
         "date": "2025-07-29",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 1824,
         "charCountStart": 9238,
         "changes": [],
@@ -6527,7 +6527,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 1824,
         "charCountStart": 9238,
         "changes": [
@@ -6610,7 +6610,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1104,
         "changes": [
@@ -6624,7 +6624,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7071,7 +7071,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "2-Main/3-Resources/Math/Trig/Inverse Trigonometric Functions.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Inverse Trigonometric Functions.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7169,7 +7169,7 @@
       },
       {
         "date": "2025-07-31",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1105,
         "changes": [],
@@ -7493,7 +7493,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1111,
         "changes": [],
@@ -7533,7 +7533,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4572,
         "changes": [],
@@ -7541,7 +7541,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 2539,
         "charCountStart": 13015,
         "changes": [],
@@ -7557,7 +7557,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "2-Main/2-Areas/Writing/Oneoffs/There are No Tombs in the Desert.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
         "wordCountStart": 2537,
         "charCountStart": 12996,
         "changes": [],
@@ -7820,7 +7820,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Verifying Trig Identities.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -7849,7 +7849,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Basic Trigonometric Identities.md",
         "wordCountStart": 126,
         "charCountStart": 971,
         "changes": [],
@@ -8502,7 +8502,7 @@
       },
       {
         "date": "2025-08-04",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 219,
         "charCountStart": 1105,
         "changes": [
@@ -8848,7 +8848,7 @@
       },
       {
         "date": "2025-08-05",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/The Crow and the Owl.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/The Crow and the Owl.md",
         "wordCountStart": 1713,
         "charCountStart": 8495,
         "changes": [],
@@ -8856,7 +8856,7 @@
       },
       {
         "date": "2025-08-05",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Dynamics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Dynamics.md",
         "wordCountStart": 202,
         "charCountStart": 1232,
         "changes": [],
@@ -8880,7 +8880,7 @@
       },
       {
         "date": "2025-08-05",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Aquafinia.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Aquafinia.md",
         "wordCountStart": 107,
         "charCountStart": 587,
         "changes": [],
@@ -9025,7 +9025,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/General Knowledge/ACT.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/ACT.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9108,7 +9108,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
         "wordCountStart": 41,
         "charCountStart": 292,
         "changes": [],
@@ -9116,7 +9116,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Displacement.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Displacement.md",
         "wordCountStart": 19,
         "charCountStart": 133,
         "changes": [],
@@ -9124,7 +9124,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Acceleration.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Acceleration.md",
         "wordCountStart": 45,
         "charCountStart": 302,
         "changes": [
@@ -9138,7 +9138,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Kinematics.md",
         "wordCountStart": 221,
         "charCountStart": 1500,
         "changes": [
@@ -9152,7 +9152,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Relative Motion.md",
         "wordCountStart": 44,
         "charCountStart": 270,
         "changes": [
@@ -9185,7 +9185,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/Coding/HTML.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Coding/HTML.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9313,7 +9313,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Poet's Land Plot Overview.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Poet's Land Plot Overview.md",
         "wordCountStart": 267,
         "charCountStart": 1770,
         "changes": [
@@ -9327,7 +9327,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 2539,
         "charCountStart": 12980,
         "changes": [],
@@ -9335,7 +9335,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9581,7 +9581,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/3-Resources/Humanities/History/The Great Game.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/The Great Game.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9623,7 +9623,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/3-Resources/Coding/CSS.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Coding/CSS.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9642,7 +9642,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4557,
         "changes": [
@@ -9656,7 +9656,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
         "wordCountStart": 660,
         "charCountStart": 6409,
         "changes": [
@@ -9675,7 +9675,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Church of the Scarlet Goddess.md",
         "wordCountStart": 405,
         "charCountStart": 2401,
         "changes": [
@@ -9689,7 +9689,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Red Moon.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Red Moon.md",
         "wordCountStart": 42,
         "charCountStart": 305,
         "changes": [],
@@ -9716,7 +9716,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Transmigrators.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Transmigrators.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9755,7 +9755,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Material World.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Material World.md",
         "wordCountStart": 151,
         "charCountStart": 927,
         "changes": [],
@@ -9771,7 +9771,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Witlan.md",
         "wordCountStart": 256,
         "charCountStart": 1713,
         "changes": [],
@@ -9779,7 +9779,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Presford.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Presford.md",
         "wordCountStart": 42,
         "charCountStart": 314,
         "changes": [
@@ -9812,7 +9812,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic Explained.md",
         "wordCountStart": 405,
         "charCountStart": 2351,
         "changes": [],
@@ -9820,7 +9820,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Curse.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Curse.md",
         "wordCountStart": 609,
         "charCountStart": 3460,
         "changes": [],
@@ -9828,7 +9828,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ley Line.md",
         "wordCountStart": 302,
         "charCountStart": 1726,
         "changes": [],
@@ -9836,7 +9836,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ikon.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ikon.md",
         "wordCountStart": 596,
         "charCountStart": 3227,
         "changes": [],
@@ -9844,7 +9844,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Epitome.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Epitome.md",
         "wordCountStart": 251,
         "charCountStart": 1375,
         "changes": [
@@ -9858,7 +9858,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Numen.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Numen.md",
         "wordCountStart": 579,
         "charCountStart": 3263,
         "changes": [],
@@ -9866,7 +9866,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Spirit World.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Spirit World.md",
         "wordCountStart": 310,
         "charCountStart": 1753,
         "changes": [],
@@ -9874,7 +9874,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Green Moon.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Green Moon.md",
         "wordCountStart": 36,
         "charCountStart": 247,
         "changes": [],
@@ -9882,7 +9882,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Blue Moon.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Blue Moon.md",
         "wordCountStart": 46,
         "charCountStart": 299,
         "changes": [],
@@ -9890,7 +9890,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Celestial World.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Celestial World.md",
         "wordCountStart": 253,
         "charCountStart": 1444,
         "changes": [],
@@ -9898,7 +9898,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Plain of Consciousness.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Plain of Consciousness.md",
         "wordCountStart": 49,
         "charCountStart": 332,
         "changes": [],
@@ -9906,7 +9906,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Mountain of Ikons.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Mountain of Ikons.md",
         "wordCountStart": 36,
         "charCountStart": 262,
         "changes": [],
@@ -9914,7 +9914,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Blights.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Blights.md",
         "wordCountStart": 300,
         "charCountStart": 1761,
         "changes": [],
@@ -9922,7 +9922,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Dercast.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Dercast.md",
         "wordCountStart": 41,
         "charCountStart": 274,
         "changes": [],
@@ -9930,7 +9930,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Rapture.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Rapture.md",
         "wordCountStart": 167,
         "charCountStart": 909,
         "changes": [],
@@ -9938,7 +9938,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ritual.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ritual.md",
         "wordCountStart": 150,
         "charCountStart": 887,
         "changes": [],
@@ -9946,7 +9946,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Learned Magic.md",
         "wordCountStart": 673,
         "charCountStart": 3796,
         "changes": [
@@ -9960,7 +9960,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
         "wordCountStart": 75,
         "charCountStart": 433,
         "changes": [],
@@ -9968,7 +9968,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Bind.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Bind.md",
         "wordCountStart": 331,
         "charCountStart": 1770,
         "changes": [],
@@ -9976,7 +9976,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Gift.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Gift.md",
         "wordCountStart": 166,
         "charCountStart": 901,
         "changes": [],
@@ -10003,7 +10003,7 @@
       },
       {
         "date": "2025-08-07",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 1117,
         "charCountStart": 5846,
         "changes": [
@@ -10139,7 +10139,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Cavum Religions.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Cavum Religions.md",
         "wordCountStart": 295,
         "charCountStart": 1646,
         "changes": [],
@@ -10147,7 +10147,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/3-Resources/Humanities/Esotericism/Thoth.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Thoth.md",
         "wordCountStart": 13,
         "charCountStart": 98,
         "changes": [],
@@ -10163,7 +10163,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ability(Poet's Land).md",
         "wordCountStart": 75,
         "charCountStart": 427,
         "changes": [],
@@ -10171,7 +10171,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Entropy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Entropy.md",
         "wordCountStart": 92,
         "charCountStart": 568,
         "changes": [],
@@ -10179,7 +10179,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/3-Resources/Sciences/Kelvin.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Kelvin.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -10206,7 +10206,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 1118,
         "charCountStart": 5853,
         "changes": [],
@@ -10214,7 +10214,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4561,
         "changes": [],
@@ -10222,7 +10222,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
         "wordCountStart": 324,
         "charCountStart": 1852,
         "changes": [
@@ -10330,7 +10330,7 @@
       },
       {
         "date": "2025-08-09",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 1118,
         "charCountStart": 5853,
         "changes": [],
@@ -10420,7 +10420,7 @@
       },
       {
         "date": "2025-08-10",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Kinematics.md",
         "wordCountStart": 231,
         "charCountStart": 1510,
         "changes": [],
@@ -10428,7 +10428,7 @@
       },
       {
         "date": "2025-08-10",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
         "wordCountStart": 1118,
         "charCountStart": 5853,
         "changes": [
@@ -10529,7 +10529,7 @@
       },
       {
         "date": "2025-08-10",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4561,
         "changes": [],
@@ -10806,7 +10806,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4561,
         "changes": [],
@@ -10961,7 +10961,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/3-Resources/General Knowledge/Murphy's Law.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Murphy's Law.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11159,7 +11159,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Witlan.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Witlan.md",
         "wordCountStart": 256,
         "charCountStart": 1660,
         "changes": [
@@ -11310,7 +11310,7 @@
       },
       {
         "date": "2025-08-12",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4561,
         "changes": [
@@ -11398,7 +11398,7 @@
       },
       {
         "date": "2025-08-12",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/Of Mice and Men.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Of Mice and Men.md",
         "wordCountStart": 782,
         "charCountStart": 4188,
         "changes": [
@@ -11600,7 +11600,7 @@
       },
       {
         "date": "2025-08-13",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Chapter 1.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
         "wordCountStart": 881,
         "charCountStart": 4561,
         "changes": [],
@@ -11608,7 +11608,7 @@
       },
       {
         "date": "2025-08-13",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
         "wordCountStart": 82,
         "charCountStart": 1895,
         "changes": [
@@ -11637,7 +11637,7 @@
       },
       {
         "date": "2025-08-13",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Religious Organizations.md",
         "wordCountStart": 660,
         "charCountStart": 6374,
         "changes": [],
@@ -11715,7 +11715,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Graphing Trigonometric Functions.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Graphing Trigonometric Functions.md",
         "wordCountStart": 237,
         "charCountStart": 1355,
         "changes": [],
@@ -11723,7 +11723,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Basic Trigonometric Identities.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Basic Trigonometric Identities.md",
         "wordCountStart": 126,
         "charCountStart": 915,
         "changes": [],
@@ -11731,7 +11731,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Trigonometric Functions.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Functions.md",
         "wordCountStart": 110,
         "charCountStart": 793,
         "changes": [],
@@ -11739,7 +11739,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Angles and Radians.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Angles and Radians.md",
         "wordCountStart": 164,
         "charCountStart": 953,
         "changes": [],
@@ -11747,7 +11747,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Verifying Trig Identities.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Verifying Trig Identities.md",
         "wordCountStart": 157,
         "charCountStart": 825,
         "changes": [],
@@ -11755,7 +11755,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Inverse Trigonometric Functions.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Inverse Trigonometric Functions.md",
         "wordCountStart": 68,
         "charCountStart": 392,
         "changes": [],
@@ -11763,7 +11763,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Math/Trig/Unit Circle.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Unit Circle.md",
         "wordCountStart": 73,
         "charCountStart": 394,
         "changes": [],
@@ -11771,7 +11771,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Research/Arctic Topic Lecture.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11860,7 +11860,7 @@
       },
       {
         "date": "2025-08-14",
-        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Circle.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Research/Arctic Circle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -11972,7 +11972,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/3-Resources/Debate/Research/ANWR.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Research/ANWR.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -12011,7 +12011,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/3-Resources/Debate/Research/Arctic Topic Lecture.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Research/Arctic Topic Lecture.md",
         "wordCountStart": 801,
         "charCountStart": 4878,
         "changes": [
@@ -12025,7 +12025,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/3-Resources/Debate/Format/Affirmative.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -12044,7 +12044,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/2-Areas/Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Dextra.md",
         "wordCountStart": 48,
         "charCountStart": 247,
         "changes": [],
@@ -12052,7 +12052,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Normal Force.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Normal Force.md",
         "wordCountStart": 20,
         "charCountStart": 126,
         "changes": [],
@@ -12060,7 +12060,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
         "wordCountStart": 178,
         "charCountStart": 1174,
         "changes": [
@@ -12074,7 +12074,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/2-Areas/Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
         "wordCountStart": 2539,
         "charCountStart": 12980,
         "changes": [
@@ -12204,7 +12204,7 @@
       },
       {
         "date": "2025-08-17",
-        "filePath": "2-Main/3-Resources/Humanities/Media Reports/Video Reports/Focusing.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Video Reports/Focusing.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -12357,7 +12357,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/0-SORT THIS/Rhetorical Analysis.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -12386,7 +12386,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Kinematics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Kinematics.md",
         "wordCountStart": 231,
         "charCountStart": 1510,
         "changes": [],
@@ -12394,7 +12394,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Relative Motion.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Relative Motion.md",
         "wordCountStart": 70,
         "charCountStart": 418,
         "changes": [
@@ -12408,7 +12408,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Scalar and Vector.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
         "wordCountStart": 41,
         "charCountStart": 284,
         "changes": [
@@ -12427,7 +12427,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/3-Resources/Sciences/Physics/Displacement.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Displacement.md",
         "wordCountStart": 19,
         "charCountStart": 131,
         "changes": [],
@@ -12435,7 +12435,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/0-SORT THIS/Persona.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Persona.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
