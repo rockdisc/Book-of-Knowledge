@@ -12323,6 +12323,11 @@
             "timeKey": "16:50",
             "w": 38,
             "c": 209
+          },
+          {
+            "timeKey": "19:20",
+            "w": 3,
+            "c": 45
           }
         ],
         "id": 873
@@ -12462,6 +12467,25 @@
         "charCountStart": 1445,
         "changes": [],
         "id": 883
+      },
+      {
+        "date": "2025-08-18",
+        "filePath": "2-Main/0-SORT THIS/ASPEC.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 22,
+            "c": 133
+          },
+          {
+            "timeKey": "19:25",
+            "w": 7,
+            "c": 36
+          }
+        ],
+        "id": 884
       }
     ]
   }

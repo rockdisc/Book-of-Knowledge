@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/ASPEC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "ASPEC"
             }
           }
         ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/ASPEC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for ASPEC"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/ASPEC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of ASPEC"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/ASPEC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from ASPEC"
             }
           }
         ],
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/ASPEC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of ASPEC"
             }
           },
           {
@@ -301,14 +301,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "3886d459f753ad78",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/ASPEC.md",
+    "Home.md",
+    "3-Journal/2025-08-18.md",
     "2-Main/3-Resources/2-STEM",
     "2-Main/3-Resources/3-Humanities/English",
     "3-Journal/2025-08/2025-08-16.md",
     "3-Journal/2025-08/2025-08-17.md",
-    "Home.md",
-    "3-Journal/2025-08-18.md",
     "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
     "2-Main/3-Resources/3-Humanities/English/Persona.md",
     "5-Images/Rhetorical Trangle(Speaker).png",
@@ -341,7 +342,6 @@
     "4-DND/DM Screen.canvas",
     "2-Main/3-Resources/3-Humanities/History",
     "2-Main/3-Resources/3-Humanities",
-    "2-Main/3-Resources/2-STEM/Coding",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",
