@@ -35,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-20"
             }
           },
           {
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-20"
             }
           },
           {
@@ -198,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-20"
             }
           }
         ],
@@ -240,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-20"
             }
           },
           {
@@ -302,10 +301,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c18fb4b2b17325c1",
+  "active": "564513ff24d554dd",
   "lastOpenFiles": [
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
     "Home.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
     "3-Journal/2025-08-20.md",
     "3-Journal/2025-08/2025-08-19.md",
     "4-DND/Ors/Variables.md",
