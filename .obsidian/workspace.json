@@ -34,22 +34,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "ddff0aeb4fe1599b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "2-Main/Misc/RecentFiles.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "RecentFiles"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-19"
             }
           },
           {
@@ -174,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-19"
             }
           },
           {
@@ -211,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-19"
             }
           }
         ],
@@ -253,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-19"
             }
           },
           {
@@ -315,11 +301,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "564513ff24d554dd",
+  "active": "b87c59f585c547b7",
   "lastOpenFiles": [
-    "2-Main/Misc/RecentFiles.base",
+    "4-DND/Ors/Variables.md",
     "Home.md",
     "3-Journal/2025-08-19.md",
+    "2-Main/0-SORT THIS/Untitled.base",
+    "4-DND/Ors/Theme Song List.md",
+    "4-DND/DM Screen.canvas",
+    "2-Main/Misc/RecentFiles.base",
     "2-Main/3-Resources/2-STEM/Math/Functions",
     "2-Main/Misc/WIPTracker.base",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Calender Types.md",
@@ -348,14 +338,10 @@
     "3-Journal/2025-08/2025-08-15.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Video Reports/Focusing.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Video Reports",
-    "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
-    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format",
     "2-Main/0-SORT THIS",
     "2-Main/3-Resources/1-General Knowledge",
     "5-Images/Final+linguistics+map.webp",
-    "2-Main/3-Resources/3-Humanities/Debate/Research",
-    "4-DND/DM Screen.canvas",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",

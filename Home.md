@@ -22,12 +22,13 @@ actions:
 ## Todo
 
 > [!todo]  Today
+> - [ ] Work on/finish the Session planning 
+> - [ ] Start writing characters down so I can actually use bases for that
  
 > [!warning]  Run On
 > - [ ] Get expo markers for spanish
 
 > [!info] Later 
-> - [ ] Figure out Bases
 > - [ ] Work out Home Assistant
 > - [ ] Debate Band Camp Send 
 
