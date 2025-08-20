@@ -22,34 +22,20 @@
             }
           },
           {
-            "id": "e94dd1caf5b7afab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "f32d22d424433c93",
+            "id": "ddff0aeb4fe1599b",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "2-Main/0-SORT THIS/WIPTracker.base",
-                "viewName": "View"
+                "file": "2-Main/0-SORT THIS/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-grid",
-              "title": "WIPTracker"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/WIPTracker.base",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WIPTracker"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -174,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/WIPTracker.base",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of WIPTracker"
+              "title": "Graph of Untitled"
             }
           },
           {
@@ -211,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/WIPTracker.base",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WIPTracker"
+              "title": "Outgoing links from Untitled"
             }
           }
         ],
@@ -253,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/WIPTracker.base",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WIPTracker"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -315,23 +301,25 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f32d22d424433c93",
+  "active": "ddff0aeb4fe1599b",
   "lastOpenFiles": [
     "Home.md",
+    "2-Main/0-SORT THIS/Untitled.base",
+    "2-Main/3-Resources/2-STEM/Math/Functions",
+    "2-Main/Misc/WIPTracker.base",
     "3-Journal/2025-08-19.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Calender Types.md",
-    "2-Main/0-SORT THIS/WIPTracker.base",
     "2-Main/0-SORT THIS/Untitled.md",
     "Templates/Odd School Schedule 11-1.md",
     "Templates/Even School Schedule 11-1.md",
     "Templates/JEntry.md",
-    "2-Main/0-SORT THIS/Domain.md",
-    "2-Main/0-SORT THIS/Average Rate of Change.md",
-    "2-Main/0-SORT THIS/Concavity.md",
+    "2-Main/3-Resources/2-STEM/Math/Functions/Domain.md",
+    "2-Main/3-Resources/2-STEM/Math/Functions/Average Rate of Change.md",
+    "2-Main/3-Resources/2-STEM/Math/Functions/Concavity.md",
     "5-Images/Concavity.png",
     "3-Journal/2025-08/2025-08-18.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
-    "2-Main/0-SORT THIS/ASPEC.md",
+    "2-Main/3-Resources/3-Humanities/Debate/Format/ASPEC.md",
     "2-Main/3-Resources/2-STEM",
     "2-Main/3-Resources/3-Humanities/English",
     "3-Journal/2025-08/2025-08-16.md",
@@ -348,15 +336,12 @@
     "2-Main/3-Resources/3-Humanities/Media Reports/Video Reports",
     "2-Main/2-Areas/1-Writing/Poet's Land/Vignette/There are No Tombs in the Desert (Vignette 1).md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/The Tragedy of Othello.md",
-    "Templates/Session Orsian.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format",
     "2-Main/0-SORT THIS",
     "2-Main/3-Resources/1-General Knowledge",
     "5-Images/Final+linguistics+map.webp",
     "2-Main/3-Resources/3-Humanities/Debate/Research",
-    "2-Main/3-Resources/3-Humanities/Debate",
     "4-DND/DM Screen.canvas",
-    "2-Main/3-Resources/3-Humanities/History",
     "5-Images/csc and sec graph.png",
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",

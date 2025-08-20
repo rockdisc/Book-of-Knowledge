@@ -13,3 +13,5 @@ views:
         direction: DESC
     columnSize:
       file.name: 733
+    cardSize: 360
+    imageFit: ""
