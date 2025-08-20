@@ -22,7 +22,6 @@ actions:
 ## Todo
 
 > [!todo]  Today
-> - [ ] Organize Phone Files
  
 > [!warning]  Run On
 > - [ ] Get expo markers for spanish
