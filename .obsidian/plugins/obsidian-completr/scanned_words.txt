@@ -25668,6 +25668,7 @@ modes
 mile
 miss
 media
+mere
 for
 find
 face

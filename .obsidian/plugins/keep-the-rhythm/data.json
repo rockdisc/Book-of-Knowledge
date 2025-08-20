@@ -6875,7 +6875,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 23,
         "charCountStart": 210,
         "changes": [
@@ -7134,7 +7134,7 @@
       },
       {
         "date": "2025-07-31",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 798,
         "charCountStart": 4280,
         "changes": [],
@@ -7589,7 +7589,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
         "changes": [
@@ -7697,7 +7697,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
         "changes": [
@@ -8256,7 +8256,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 1005,
         "charCountStart": 5385,
         "changes": [
@@ -10975,7 +10975,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 1006,
         "charCountStart": 5394,
         "changes": [
@@ -12867,6 +12867,41 @@
           }
         ],
         "id": 905
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+        "wordCountStart": 1032,
+        "charCountStart": 5547,
+        "changes": [],
+        "id": 906
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 67,
+            "c": 451
+          },
+          {
+            "timeKey": "18:35",
+            "w": 38,
+            "c": 199
+          }
+        ],
+        "id": 907
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+        "wordCountStart": 888,
+        "charCountStart": 5005,
+        "changes": [],
+        "id": 908
       }
     ]
   }
