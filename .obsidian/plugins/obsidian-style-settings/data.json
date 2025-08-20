@@ -57,11 +57,12 @@
   "baseline-style@@table-nowrap": false,
   "baseline-style@@tag-radius": "0px",
   "baseline-style@@h1-size": "40px",
-  "baseline-style@@background-modifier-border-hover@@dark": "#6F2BAE",
   "baseline-style@@text-highlight-bg@@dark": "#6649C5",
   "baseline-style@@status-bar-style": "status-bar-default",
   "baseline-style@@h2-weight": 200,
   "baseline-style@@h2-color@@dark": "#A5A5A5",
   "baseline-style@@h2-transform": "normal",
-  "baseline-style@@h2-variant": "normal"
+  "baseline-style@@h2-variant": "normal",
+  "baseline-style@@background-modifier-border-hover@@dark": "#372B42",
+  "baseline-style@@text-selection@@dark": "#2A2170B5"
 }
