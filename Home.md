@@ -40,11 +40,7 @@ actions:
 > - Read Natchez 
 
 ## Work In Progress 
-
-```dataview
-list from #Rough 
-sort file.mtime desc
-```
+![[WIPTracker.base]]
 
 ## Recent Files
 ```dataview
