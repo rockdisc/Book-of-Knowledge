@@ -12827,9 +12827,27 @@
             "timeKey": "16:05",
             "w": -181,
             "c": -1103
+          },
+          {
+            "timeKey": "18:20",
+            "w": 31,
+            "c": 165
+          },
+          {
+            "timeKey": "18:25",
+            "w": 17,
+            "c": 105
           }
         ],
         "id": 903
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
+        "wordCountStart": 93,
+        "charCountStart": 557,
+        "changes": [],
+        "id": 904
       }
     ]
   }
