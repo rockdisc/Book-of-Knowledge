@@ -2,7 +2,7 @@
   "cssTheme": "Baseline",
   "showRibbon": false,
   "baseFontSizeAction": true,
-  "baseFontSize": 20,
+  "baseFontSize": 25,
   "enabledCssSnippets": [
     "dashboard",
     "timesNewRoman"

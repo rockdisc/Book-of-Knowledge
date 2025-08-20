@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "3-Journal/2025-08/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "3-Journal/2025-08/2025-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "3-Journal/2025-08/2025-08-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "3-Journal/2025-08/2025-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-19.md",
+                "file": "3-Journal/2025-08/2025-08-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,7 +305,7 @@
   "lastOpenFiles": [
     "4-DND/Ors/Variables.md",
     "Home.md",
-    "3-Journal/2025-08-19.md",
+    "3-Journal/2025-08/2025-08-19.md",
     "2-Main/0-SORT THIS/Untitled.base",
     "4-DND/Ors/Theme Song List.md",
     "4-DND/DM Screen.canvas",
