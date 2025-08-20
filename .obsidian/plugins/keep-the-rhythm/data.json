@@ -12835,8 +12835,8 @@
           },
           {
             "timeKey": "18:25",
-            "w": 17,
-            "c": 105
+            "w": 40,
+            "c": 261
           }
         ],
         "id": 903
@@ -12848,6 +12848,25 @@
         "charCountStart": 557,
         "changes": [],
         "id": 904
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
+        "wordCountStart": 21,
+        "charCountStart": 134,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 19,
+            "c": 125
+          },
+          {
+            "timeKey": "18:30",
+            "w": 31,
+            "c": 196
+          }
+        ],
+        "id": 905
       }
     ]
   }

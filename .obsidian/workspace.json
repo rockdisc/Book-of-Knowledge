@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "c65f3d20b119f6ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-20"
+              "title": "Backlinks"
             }
           },
           {
@@ -160,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-20.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +197,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-20"
+              "title": "Graph view"
             }
           },
           {
@@ -197,12 +206,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-20"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -239,13 +247,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-20"
+              "title": "Outline"
             }
           },
           {
@@ -301,10 +308,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "564513ff24d554dd",
+  "active": "c65f3d20b119f6ae",
   "lastOpenFiles": [
-    "3-Journal/2025-08-20.md",
     "Home.md",
+    "3-Journal/2025-08-20.md",
+    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
     "3-Journal/2025-08/2025-08-19.md",
     "4-DND/Ors/Variables.md",
@@ -324,7 +332,6 @@
     "2-Main/3-Resources/2-STEM/Math/Functions/Concavity.md",
     "5-Images/Concavity.png",
     "3-Journal/2025-08/2025-08-18.md",
-    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/ASPEC.md",
     "2-Main/3-Resources/2-STEM",
     "2-Main/3-Resources/3-Humanities/English",
