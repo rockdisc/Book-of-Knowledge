@@ -12946,11 +12946,47 @@
         "changes": [
           {
             "timeKey": "18:50",
-            "w": 14,
-            "c": 102
+            "w": 41,
+            "c": 269
           }
         ],
         "id": 910
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/Jester's Accomplice.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 33,
+            "c": 209
+          }
+        ],
+        "id": 911
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/Lain.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 40,
+            "c": 287
+          }
+        ],
+        "id": 912
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 913
       }
     ]
   }

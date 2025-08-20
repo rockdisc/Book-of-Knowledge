@@ -1,0 +1,3 @@
+#Worldbuilding/Item #Ors/Artifact 
+
+The strongest of the accomplices, it can transfer power between it, the [[King's Accomplice]], and [[Scribe's Accomplice]], though it can not see what either of them write. 
