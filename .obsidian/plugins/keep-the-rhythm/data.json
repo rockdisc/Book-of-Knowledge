@@ -12873,7 +12873,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 1032,
         "charCountStart": 5547,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -73,
+            "c": -389
+          }
+        ],
         "id": 906
       },
       {
@@ -12899,8 +12905,8 @@
           },
           {
             "timeKey": "18:45",
-            "w": 28,
-            "c": 155
+            "w": 133,
+            "c": 737
           }
         ],
         "id": 907
@@ -12912,6 +12918,39 @@
         "charCountStart": 5005,
         "changes": [],
         "id": 908
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
+        "wordCountStart": 41,
+        "charCountStart": 235,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "18:50",
+            "w": 15,
+            "c": 98
+          }
+        ],
+        "id": 909
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/King's Accomplice.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 14,
+            "c": 102
+          }
+        ],
+        "id": 910
       }
     ]
   }
