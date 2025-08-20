@@ -43,9 +43,4 @@ actions:
 ![[WIPTracker.base]]
 
 ## Recent Files
-```dataview
-table file.name as "Recent Files", file.mtime as "Last Modified"
-from ""
-sort file.mtime desc
-limit 15
-```
+![[RecentFiles.base]]
