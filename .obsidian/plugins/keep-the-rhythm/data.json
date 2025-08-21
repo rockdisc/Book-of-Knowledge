@@ -12623,7 +12623,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "2-Main/3-Resources/2-STEM/Math/Functions/Concavity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Concavity.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -12642,7 +12642,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "2-Main/3-Resources/2-STEM/Math/Functions/Average Rate of Change.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Average Rate of Change.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -12666,7 +12666,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "2-Main/3-Resources/2-STEM/Math/Functions/Domain.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Domain.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13106,8 +13106,13 @@
           },
           {
             "timeKey": "17:10",
-            "w": 84,
-            "c": 488
+            "w": 102,
+            "c": 571
+          },
+          {
+            "timeKey": "17:15",
+            "w": 16,
+            "c": 91
           }
         ],
         "id": 918
