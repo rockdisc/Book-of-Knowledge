@@ -12819,7 +12819,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "3-Journal/2025-08-20.md",
+        "filePath": "3-Journal/2025-08/2025-08-20.md",
         "wordCountStart": 242,
         "charCountStart": 1493,
         "changes": [
@@ -13118,6 +13118,16 @@
             "timeKey": "17:20",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "18:40",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "18:45",
+            "w": 2,
+            "c": 46
           }
         ],
         "id": 918
@@ -13654,6 +13664,42 @@
           }
         ],
         "id": 954
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/1.4 hapc.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 955
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",
+        "wordCountStart": 978945,
+        "charCountStart": 4789597,
+        "changes": [],
+        "id": 956
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "5-School/11/2-US History/Unit 1/Lesson 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 203,
+            "c": 1235
+          }
+        ],
+        "id": 957
       }
     ]
   }
