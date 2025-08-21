@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c18fb4b2b17325c1",
+            "id": "f2c75e95d6239f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "dbdeff6d3fd98c52",
+            "id": "67228595d267bfdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "Celestial Sphere"
+            }
+          },
+          {
+            "id": "a75738ca5419a9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celestial Equator"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Sphere.md",
+                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Celestial Sphere"
+              "title": "Backlinks for Celestial Equator"
             }
           },
           {
@@ -189,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Sphere.md",
+                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Celestial Sphere"
+              "title": "Graph of Celestial Equator"
             }
           },
           {
@@ -226,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Sphere.md",
+                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Celestial Sphere"
+              "title": "Outgoing links from Celestial Equator"
             }
           }
         ],
@@ -268,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Sphere.md",
+                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Celestial Sphere"
+              "title": "Outline of Celestial Equator"
             }
           },
           {
@@ -330,13 +344,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "dbdeff6d3fd98c52",
+  "active": "a75738ca5419a9fc",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Constellation.md",
+    "2-Main/0-SORT THIS/Celestial Equator.md",
     "2-Main/0-SORT THIS/Celestial Sphere.md",
-    "2-Main/0-SORT THIS/Universe.md",
+    "2-Main/0-SORT THIS/North Celestial Pole.md",
     "3-Journal/2025-08-21.md",
     "2-Main/0-SORT THIS/New World.md",
+    "2-Main/0-SORT THIS/South Celestial Pole.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+    "2-Main/0-SORT THIS/Constellation.md",
+    "2-Main/0-SORT THIS/Universe.md",
     "2-Main/0-SORT THIS/Maximum and Minimum.md",
     "2-Main/0-SORT THIS/Graph.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Domain.md",
@@ -357,10 +375,6 @@
     "2-Main/0-SORT THIS/Jester's Accomplice.md",
     "2-Main/0-SORT THIS/Lain.md",
     "4-DND/Ors/Variables.md",
-    "2-Main/0-SORT THIS/King's Accomplice.md",
-    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
-    "3-Journal/2025-08/2025-08-19.md",
     "2-Main/0-SORT THIS/Untitled.base",
     "4-DND/DM Screen.canvas",
     "2-Main/Misc/RecentFiles.base",

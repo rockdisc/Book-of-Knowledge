@@ -8302,6 +8302,7 @@ ISgr
 Isc
 Ibn
 IaH
+Imaginary
 Points
 Powers
 Protagonist
@@ -20470,6 +20471,7 @@ sports
 szH
 sekB
 sGI
+sphere
 vast
 very
 vibrant
@@ -24354,6 +24356,7 @@ aRP
 asm
 aRN
 aan
+approximated
 mirages
 miles
 man
@@ -28888,6 +28891,7 @@ classifying
 cEf
 cjV
 coordinates
+calculate
 entire
 endless
 everything

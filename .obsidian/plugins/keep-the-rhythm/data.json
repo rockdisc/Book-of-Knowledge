@@ -13260,11 +13260,72 @@
         "changes": [
           {
             "timeKey": "17:35",
-            "w": 27,
-            "c": 164
+            "w": 37,
+            "c": 242
+          },
+          {
+            "timeKey": "17:40",
+            "w": 15,
+            "c": 92
           }
         ],
         "id": 929
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ley Line.md",
+        "wordCountStart": 302,
+        "charCountStart": 1714,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 1,
+            "c": 20
+          }
+        ],
+        "id": 930
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/North Celestial Pole.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 16,
+            "c": 107
+          }
+        ],
+        "id": 931
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/South Celestial Pole.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 11,
+            "c": 71
+          }
+        ],
+        "id": 932
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Celestial Equator.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 8,
+            "c": 61
+          }
+        ],
+        "id": 933
       }
     ]
   }
