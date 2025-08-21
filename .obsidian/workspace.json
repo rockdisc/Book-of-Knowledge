@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomials.md",
+                "file": "2-Main/0-SORT THIS/Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polynomials"
+              "title": "Graph"
             }
           },
           {
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomials.md",
+                "file": "2-Main/0-SORT THIS/Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Polynomials"
+              "title": "Backlinks for Graph"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomials.md",
+                "file": "2-Main/0-SORT THIS/Graph.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Polynomials"
+              "title": "Graph of Graph"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomials.md",
+                "file": "2-Main/0-SORT THIS/Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Polynomials"
+              "title": "Outgoing links from Graph"
             }
           }
         ],
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomials.md",
+                "file": "2-Main/0-SORT THIS/Graph.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Polynomials"
+              "title": "Outline of Graph"
             }
           },
           {
@@ -316,10 +316,16 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ee00dd4020b2fb78",
+  "active": "e621fdaa9f5e1ac4",
   "lastOpenFiles": [
+    "2-Main/3-Resources/2-STEM/Math/Algebra/Domain.md",
+    "2-Main/0-SORT THIS/Graph.md",
+    "2-Main/3-Resources/2-STEM/Math/Algebra/Average Rate of Change.md",
     "2-Main/0-SORT THIS/Polynomials.md",
+    "5-Images/Humors.gif",
+    "5-Images/PolynomialClassification.png",
     "3-Journal/2025-08-21.md",
+    "5-Images/Polynomial Classification.jpg",
     "Home.md",
     "3-Journal/2025-08-20.md",
     "2-Main/1-Ramblings/The Last Thoughts of Martyrs.md",
@@ -346,9 +352,6 @@
     "Templates/Odd School Schedule 11-1.md",
     "Templates/Even School Schedule 11-1.md",
     "Templates/JEntry.md",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Domain.md",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Average Rate of Change.md",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Concavity.md",
     "5-Images/Concavity.png",
     "2-Main/3-Resources/2-STEM",
     "2-Main/3-Resources/3-Humanities/English",
@@ -362,9 +365,6 @@
     "5-Images/tan Graph.png",
     "5-Images/sine and cos graph.png",
     "5-Images/Unit Circle.png",
-    "5-Images/1373839.png",
-    "5-Images/Radian_cropped_color.svg",
-    "5-Images/Dvalinn.jpg",
     "Home.canvas",
     "1-Rough/Story Outline.canvas"
   ]

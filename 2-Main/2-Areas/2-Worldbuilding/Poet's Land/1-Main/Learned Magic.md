@@ -17,7 +17,7 @@ As always, when there is a niche formed around creating something, there are peo
 ## Alchemy
 
 It is a process of creating potions and enchanting/creating items by using circles and [[Gift]]s. It is based on the real world way of Alchemy. People do not know how exactly magic potions work, all they know is they type of element in each plant. Like in this diagram:
-![[fig2_1.gif]]
+![[Humors.gif]]
 ***
 [[Transmigrators]] may be confused when first learning about this, but if they are smart, they can realize that it is just the name of the world in the language they are speaking, their brain translated it into Earth.
 ***

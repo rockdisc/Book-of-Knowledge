@@ -518,7 +518,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "5-Images/fig2_1.gif",
+        "filePath": "5-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -13135,11 +13135,62 @@
           },
           {
             "timeKey": "17:20",
-            "w": 41,
-            "c": 218
+            "w": 58,
+            "c": 298
+          },
+          {
+            "timeKey": "17:25",
+            "w": 18,
+            "c": 119
           }
         ],
         "id": 919
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "5-Images/PolynomialClassification.png",
+        "wordCountStart": 26241,
+        "charCountStart": 123789,
+        "changes": [],
+        "id": 920
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "5-Images/Humors.gif",
+        "wordCountStart": 1128,
+        "charCountStart": 5440,
+        "changes": [],
+        "id": 921
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Average Rate of Change.md",
+        "wordCountStart": 106,
+        "charCountStart": 495,
+        "changes": [],
+        "id": 922
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Domain.md",
+        "wordCountStart": 16,
+        "charCountStart": 87,
+        "changes": [],
+        "id": 923
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Graph.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 17,
+            "c": 79
+          }
+        ],
+        "id": 924
       }
     ]
   }
