@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "0240096d74a90480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Piedmont Farmers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Piedmont Farmers"
+            }
+          },
+          {
+            "id": "09b4e58463c045df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Headright System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Headright System"
+            }
+          },
+          {
             "id": "a38858addb16617c",
             "type": "leaf",
             "state": {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Jamestown.md",
+                "file": "2-Main/0-SORT THIS/Piedmont Farmers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jamestown"
+              "title": "Backlinks for Piedmont Farmers"
             }
           },
           {
@@ -175,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Jamestown.md",
+                "file": "2-Main/0-SORT THIS/Piedmont Farmers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Jamestown"
+              "title": "Graph of Piedmont Farmers"
             }
           },
           {
@@ -212,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Jamestown.md",
+                "file": "2-Main/0-SORT THIS/Piedmont Farmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jamestown"
+              "title": "Outgoing links from Piedmont Farmers"
             }
           }
         ],
@@ -254,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Jamestown.md",
+                "file": "2-Main/0-SORT THIS/Piedmont Farmers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jamestown"
+              "title": "Outline of Piedmont Farmers"
             }
           },
           {
@@ -316,10 +344,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6c2a4dabd6d168c0",
+  "active": "0240096d74a90480",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+    "2-Main/0-SORT THIS/Piedmont Farmers.md",
     "2-Main/0-SORT THIS/Jamestown.md",
+    "2-Main/0-SORT THIS/Tidewater Farmers.md",
+    "2-Main/0-SORT THIS/Headright System.md",
+    "2-Main/0-SORT THIS/Reasons to go to the New World.md",
     "2-Main/0-SORT THIS/New World.md",
     "3-Journal/2025-08-21.md",
     "2-Main/0-SORT THIS/Lunar Month.md",
@@ -341,9 +372,6 @@
     "2-Main/0-SORT THIS/North Celestial Pole.md",
     "2-Main/0-SORT THIS/South Celestial Pole.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ley Line.md",
-    "2-Main/0-SORT THIS/Constellation.md",
-    "2-Main/0-SORT THIS/Universe.md",
-    "2-Main/0-SORT THIS/Maximum and Minimum.md",
     "5-Images/Humors.gif",
     "5-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

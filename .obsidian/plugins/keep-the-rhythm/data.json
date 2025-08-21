@@ -13583,11 +13583,58 @@
           },
           {
             "timeKey": "18:15",
-            "w": 24,
-            "c": 129
+            "w": 40,
+            "c": 252
           }
         ],
         "id": 950
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Headright System.md",
+        "wordCountStart": 4,
+        "charCountStart": 24,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 21,
+            "c": 120
+          }
+        ],
+        "id": 951
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Tidewater Farmers.md",
+        "wordCountStart": 0,
+        "charCountStart": 1,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 21,
+            "c": 119
+          },
+          {
+            "timeKey": "18:20",
+            "w": 2,
+            "c": 18
+          }
+        ],
+        "id": 952
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Piedmont Farmers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 23,
+            "c": 139
+          }
+        ],
+        "id": 953
       }
     ]
   }
