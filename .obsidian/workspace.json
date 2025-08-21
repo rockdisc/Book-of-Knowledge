@@ -273,8 +273,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,8 +300,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "24f5c0797e83740a",
   "lastOpenFiles": [
+    "5-School",
     "2-Main/3-Resources/3-Humanities/History/Middle East",
     "2-Main/3-Resources/3-Humanities/History/US",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Stars",
@@ -311,7 +311,7 @@
     "3-Journal/2025-08-21.md",
     "2-Main/3-Resources/3-Humanities/History/US/Headright System.md",
     "2-Main/3-Resources/3-Humanities/History/US/Jamestown.md",
-    "2-Main/0-SORT THIS/Bacon's Rebellion.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Bacon's Rebellion.md",
     "2-Main/3-Resources/3-Humanities/History/US/Piedmont Farmers.md",
     "2-Main/3-Resources/3-Humanities/History/US/Tidewater Farmers.md",
     "2-Main/3-Resources/3-Humanities/History/US/Reasons to go to the New World.md",
@@ -332,24 +332,23 @@
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Ecliptic.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Celestial Sphere.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Celestial Equator.md",
-    "5-Images/Humors.gif",
-    "5-Images/PolynomialClassification.png",
+    "6-Images/Humors.gif",
+    "6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",
     "2-Main/0-SORT THIS/Untitled.base",
     "4-DND/DM Screen.canvas",
     "2-Main/Misc/RecentFiles.base",
     "2-Main/3-Resources/2-STEM/Math/Algebra",
     "2-Main/Misc/WIPTracker.base",
-    "5-Images/Concavity.png",
+    "6-Images/Concavity.png",
     "2-Main/3-Resources/2-STEM",
     "2-Main/3-Resources/3-Humanities/English",
-    "5-Images/Rhetorical Trangle(Speaker).png",
-    "2-Main/3-Resources/3-Humanities/Media Reports/Video Reports",
-    "5-Images/Final+linguistics+map.webp",
-    "5-Images/csc and sec graph.png",
-    "5-Images/tan Graph.png",
-    "5-Images/sine and cos graph.png",
-    "5-Images/Unit Circle.png",
+    "6-Images/Rhetorical Trangle(Speaker).png",
+    "6-Images/Final+linguistics+map.webp",
+    "6-Images/csc and sec graph.png",
+    "6-Images/tan Graph.png",
+    "6-Images/sine and cos graph.png",
+    "6-Images/Unit Circle.png",
     "Home.canvas",
     "1-Rough/Story Outline.canvas"
   ]
