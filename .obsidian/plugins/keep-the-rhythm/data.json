@@ -13029,7 +13029,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+        "filePath": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13042,6 +13042,16 @@
             "timeKey": "22:20",
             "w": 81,
             "c": 461
+          },
+          {
+            "timeKey": "22:25",
+            "w": 83,
+            "c": 451
+          },
+          {
+            "timeKey": "22:30",
+            "w": 5,
+            "c": 30
           }
         ],
         "id": 915

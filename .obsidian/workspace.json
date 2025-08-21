@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+                "file": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Death of Martyrs"
+              "title": "The Last Thoughts of Martyrs"
             }
           },
           {
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+                "file": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Death of Martyrs"
+              "title": "Backlinks for The Last Thoughts of Martyrs"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+                "file": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Death of Martyrs"
+              "title": "Graph of The Last Thoughts of Martyrs"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+                "file": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Death of Martyrs"
+              "title": "Outgoing links from The Last Thoughts of Martyrs"
             }
           }
         ],
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+                "file": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Death of Martyrs"
+              "title": "Outline of The Last Thoughts of Martyrs"
             }
           },
           {
@@ -319,7 +319,7 @@
   "active": "3e30f9815d5b1cee",
   "lastOpenFiles": [
     "2-Main/1-Ramblings/Nothing.md",
-    "2-Main/0-SORT THIS/The Death of Martyrs.md",
+    "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
     "3-Journal/2025-08-20.md",
     "Home.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",

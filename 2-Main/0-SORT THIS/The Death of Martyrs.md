@@ -1,5 +1,0 @@
-#Mini-Essay 
-
-Do you think [[Joan of Arc]] regretted her decisions in her life? As she was burning on that stake, did she have even a passing thought about how her life would be if she just conformed and bent down to social norms?
-
-We value martyrs like messiahs, this is most likely influenced by [[Christianity]] and the story of [[Jesus of Nazareth]]. Yet these were not the claimed son of God, they were regular people. There is a story of [[Socrates]] fighting to his last breath, but was that truly the case in his mind, or was it an outward expression to calm his inner self? Taking from personal experience, whenever I was punished for doing something, even if I thought I was punished wrongly. I tried to understand why. I also had thoughts of just doing things differently. Regrets, every man has them, so why not our martyrs. It seems almost blasphemous to think 
