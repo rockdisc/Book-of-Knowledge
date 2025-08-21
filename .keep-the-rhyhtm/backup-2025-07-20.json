@@ -6875,7 +6875,7 @@
       },
       {
         "date": "2025-07-30",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 23,
         "charCountStart": 210,
         "changes": [
@@ -7134,7 +7134,7 @@
       },
       {
         "date": "2025-07-31",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 798,
         "charCountStart": 4280,
         "changes": [],
@@ -7589,7 +7589,7 @@
       },
       {
         "date": "2025-08-01",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
         "changes": [
@@ -7697,7 +7697,7 @@
       },
       {
         "date": "2025-08-02",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 798,
         "charCountStart": 4375,
         "changes": [
@@ -8256,7 +8256,7 @@
       },
       {
         "date": "2025-08-03",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 1005,
         "charCountStart": 5385,
         "changes": [
@@ -10975,7 +10975,7 @@
       },
       {
         "date": "2025-08-11",
-        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 1006,
         "charCountStart": 5394,
         "changes": [
@@ -12808,6 +12808,219 @@
           }
         ],
         "id": 901
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "Home.md",
+        "wordCountStart": 120,
+        "charCountStart": 806,
+        "changes": [],
+        "id": 902
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "3-Journal/2025-08-20.md",
+        "wordCountStart": 242,
+        "charCountStart": 1493,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": -181,
+            "c": -1103
+          },
+          {
+            "timeKey": "18:20",
+            "w": 31,
+            "c": 165
+          },
+          {
+            "timeKey": "18:25",
+            "w": 40,
+            "c": 261
+          },
+          {
+            "timeKey": "22:10",
+            "w": 5,
+            "c": 17
+          }
+        ],
+        "id": 903
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Scalar and Vector.md",
+        "wordCountStart": 93,
+        "charCountStart": 557,
+        "changes": [],
+        "id": 904
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
+        "wordCountStart": 21,
+        "charCountStart": 134,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 19,
+            "c": 125
+          },
+          {
+            "timeKey": "18:30",
+            "w": 31,
+            "c": 196
+          }
+        ],
+        "id": 905
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+        "wordCountStart": 1032,
+        "charCountStart": 5547,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": -73,
+            "c": -389
+          }
+        ],
+        "id": 906
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 67,
+            "c": 451
+          },
+          {
+            "timeKey": "18:35",
+            "w": 102,
+            "c": 520
+          },
+          {
+            "timeKey": "18:40",
+            "w": 34,
+            "c": 188
+          },
+          {
+            "timeKey": "18:45",
+            "w": 133,
+            "c": 737
+          },
+          {
+            "timeKey": "19:00",
+            "w": 98,
+            "c": 548
+          },
+          {
+            "timeKey": "19:05",
+            "w": 22,
+            "c": 112
+          }
+        ],
+        "id": 907
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+        "wordCountStart": 888,
+        "charCountStart": 5005,
+        "changes": [],
+        "id": 908
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/2-Main/Scribe's Accomplice.md",
+        "wordCountStart": 41,
+        "charCountStart": 235,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "18:50",
+            "w": 15,
+            "c": 98
+          }
+        ],
+        "id": 909
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/King's Accomplice.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 41,
+            "c": 269
+          }
+        ],
+        "id": 910
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/Jester's Accomplice.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 33,
+            "c": 209
+          },
+          {
+            "timeKey": "18:55",
+            "w": 18,
+            "c": 105
+          }
+        ],
+        "id": 911
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/Lain.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:55",
+            "w": 46,
+            "c": 321
+          }
+        ],
+        "id": 912
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 913
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
+        "wordCountStart": 139,
+        "charCountStart": 3536,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 30,
+            "c": 180
+          }
+        ],
+        "id": 914
       }
     ]
   }
