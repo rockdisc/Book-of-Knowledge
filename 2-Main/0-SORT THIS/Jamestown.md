@@ -1,0 +1,3 @@
+#History/1700s/Americas/North 
+
+It was a colony of [[Great Britain]] which was mainly made of young men. It started with 104, then in a year became 38. But it changed when people brought in [[Tobacco]] which 

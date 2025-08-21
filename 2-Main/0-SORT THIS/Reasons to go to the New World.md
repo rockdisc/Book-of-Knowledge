@@ -1,3 +1,3 @@
 #History/1700s  
 
-The [[Black Plague]] just ended leading to a major population increase. This created a rise in 
+The [[Black Plague]] just ended leading to a major population increase. This created a rise in population. This lead to a rise in strength for [[Feudalism]] which meant they employed more [[Mercantilism|Mercantilist]] policies. [[Christopher Columbus]] was sent to the [[New World]] to find a way to [[British India]]. He found the Americas and gold instead. This lead to people being sent there to create colonies. One of these was [[Jamestown]]. 

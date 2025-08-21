@@ -13564,11 +13564,30 @@
           },
           {
             "timeKey": "18:10",
-            "w": 6,
-            "c": 34
+            "w": 61,
+            "c": 387
           }
         ],
         "id": 949
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Jamestown.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 14,
+            "c": 79
+          },
+          {
+            "timeKey": "18:15",
+            "w": 24,
+            "c": 129
+          }
+        ],
+        "id": 950
       }
     ]
   }

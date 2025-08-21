@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+                "file": "2-Main/0-SORT THIS/Jamestown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reasons to go to the New World"
+              "title": "Jamestown"
             }
           },
           {
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+                "file": "2-Main/0-SORT THIS/Jamestown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reasons to go to the New World"
+              "title": "Backlinks for Jamestown"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+                "file": "2-Main/0-SORT THIS/Jamestown.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Reasons to go to the New World"
+              "title": "Graph of Jamestown"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+                "file": "2-Main/0-SORT THIS/Jamestown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reasons to go to the New World"
+              "title": "Outgoing links from Jamestown"
             }
           }
         ],
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+                "file": "2-Main/0-SORT THIS/Jamestown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reasons to go to the New World"
+              "title": "Outline of Jamestown"
             }
           },
           {
@@ -318,8 +318,9 @@
   },
   "active": "6c2a4dabd6d168c0",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/New World.md",
     "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+    "2-Main/0-SORT THIS/Jamestown.md",
+    "2-Main/0-SORT THIS/New World.md",
     "3-Journal/2025-08-21.md",
     "2-Main/0-SORT THIS/Lunar Month.md",
     "2-Main/0-SORT THIS/Synodic Month.md",
@@ -343,7 +344,6 @@
     "2-Main/0-SORT THIS/Constellation.md",
     "2-Main/0-SORT THIS/Universe.md",
     "2-Main/0-SORT THIS/Maximum and Minimum.md",
-    "2-Main/0-SORT THIS/Graph.md",
     "5-Images/Humors.gif",
     "5-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",
