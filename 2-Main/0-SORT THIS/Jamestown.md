@@ -5,3 +5,7 @@ It was a colony of [[Great Britain]] which was mainly made of young men. It star
 ![[Tidewater Farmers]]
 
 ![[Piedmont Farmers]]
+
+The taxes only went up for the [[Piedmont Farmers]], which made them mad, this caused a revolt.
+
+![[Bacon's Rebellion]]

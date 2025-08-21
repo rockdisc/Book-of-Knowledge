@@ -13227,7 +13227,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Universe.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Universe.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13307,7 +13307,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/South Celestial Pole.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/South Celestial Pole.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13417,7 +13417,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Winter Solstice.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Winter Solstice.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13436,7 +13436,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Summer Solstice.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Summer Solstice.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13478,7 +13478,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Precession.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Precession.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13492,7 +13492,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Thuban.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Stars/Thuban.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13520,7 +13520,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Synodic Month.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synodic Month.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13585,6 +13585,11 @@
             "timeKey": "18:15",
             "w": 40,
             "c": 252
+          },
+          {
+            "timeKey": "18:20",
+            "w": 20,
+            "c": 121
           }
         ],
         "id": 950
@@ -13631,10 +13636,24 @@
           {
             "timeKey": "18:20",
             "w": 23,
-            "c": 139
+            "c": 151
           }
         ],
         "id": 953
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Bacon's Rebellion.md",
+        "wordCountStart": 6,
+        "charCountStart": 32,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 39,
+            "c": 257
+          }
+        ],
+        "id": 954
       }
     ]
   }
