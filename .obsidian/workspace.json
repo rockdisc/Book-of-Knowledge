@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Sphere.md",
+                "file": "2-Main/0-SORT THIS/Orbit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celestial Sphere"
-            }
-          },
-          {
-            "id": "a75738ca5419a9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celestial Equator"
+              "title": "Orbit"
             }
           },
           {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
+                "file": "2-Main/0-SORT THIS/Orbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Celestial Equator"
+              "title": "Backlinks for Orbit"
             }
           },
           {
@@ -203,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
+                "file": "2-Main/0-SORT THIS/Orbit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Celestial Equator"
+              "title": "Graph of Orbit"
             }
           },
           {
@@ -240,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
+                "file": "2-Main/0-SORT THIS/Orbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Celestial Equator"
+              "title": "Outgoing links from Orbit"
             }
           }
         ],
@@ -282,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Celestial Equator.md",
+                "file": "2-Main/0-SORT THIS/Orbit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Celestial Equator"
+              "title": "Outline of Orbit"
             }
           },
           {
@@ -344,10 +330,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a75738ca5419a9fc",
+  "active": "67228595d267bfdc",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Celestial Equator.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ikon.md",
+    "2-Main/0-SORT THIS/Orbit.md",
+    "2-Main/0-SORT THIS/Earth's Rotation.md",
+    "2-Main/0-SORT THIS/Ecliptic.md",
+    "2-Main/0-SORT THIS/Earth's Revolution.md",
     "2-Main/0-SORT THIS/Celestial Sphere.md",
+    "2-Main/0-SORT THIS/Celestial Equator.md",
     "2-Main/0-SORT THIS/North Celestial Pole.md",
     "3-Journal/2025-08-21.md",
     "2-Main/0-SORT THIS/New World.md",
@@ -370,11 +361,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Small Magical Organization.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
-    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
-    "4-DND/Ors/2-Main/Scribe's Accomplice.md",
-    "2-Main/0-SORT THIS/Jester's Accomplice.md",
-    "2-Main/0-SORT THIS/Lain.md",
-    "4-DND/Ors/Variables.md",
     "2-Main/0-SORT THIS/Untitled.base",
     "4-DND/DM Screen.canvas",
     "2-Main/Misc/RecentFiles.base",
