@@ -12840,8 +12840,28 @@
           },
           {
             "timeKey": "22:10",
-            "w": 5,
-            "c": 17
+            "w": 11,
+            "c": 47
+          },
+          {
+            "timeKey": "22:15",
+            "w": 11,
+            "c": 44
+          },
+          {
+            "timeKey": "22:30",
+            "w": 32,
+            "c": 209
+          },
+          {
+            "timeKey": "22:35",
+            "w": 163,
+            "c": 828
+          },
+          {
+            "timeKey": "22:40",
+            "w": 19,
+            "c": 97
           }
         ],
         "id": 903
@@ -13021,6 +13041,43 @@
           }
         ],
         "id": 914
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/1-Ramblings/The Last Thoughts of Martyrs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 74,
+            "c": 413
+          },
+          {
+            "timeKey": "22:20",
+            "w": 81,
+            "c": 461
+          },
+          {
+            "timeKey": "22:25",
+            "w": 83,
+            "c": 451
+          },
+          {
+            "timeKey": "22:30",
+            "w": 59,
+            "c": 318
+          }
+        ],
+        "id": 915
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 492,
+        "charCountStart": 2611,
+        "changes": [],
+        "id": 916
       }
     ]
   }
