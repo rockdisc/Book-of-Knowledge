@@ -12847,6 +12847,16 @@
             "timeKey": "22:15",
             "w": 11,
             "c": 44
+          },
+          {
+            "timeKey": "22:30",
+            "w": 32,
+            "c": 209
+          },
+          {
+            "timeKey": "22:35",
+            "w": 9,
+            "c": 55
           }
         ],
         "id": 903
@@ -13029,7 +13039,7 @@
       },
       {
         "date": "2025-08-20",
-        "filePath": "2-Main/0-SORT THIS/The Last Thoughts of Martyrs.md",
+        "filePath": "2-Main/1-Ramblings/The Last Thoughts of Martyrs.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13050,8 +13060,8 @@
           },
           {
             "timeKey": "22:30",
-            "w": 5,
-            "c": 30
+            "w": 59,
+            "c": 318
           }
         ],
         "id": 915
