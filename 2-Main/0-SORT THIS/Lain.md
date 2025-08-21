@@ -14,4 +14,4 @@ Now lives in [[Glasir]]
 One of the [[Variables]]
 Pythagoras
 [[Sylph]]
-It is basically 
+It is basically Gojo's infinity but opposite too. 
