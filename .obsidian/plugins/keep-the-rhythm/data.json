@@ -13419,9 +13419,70 @@
             "timeKey": "17:50",
             "w": 26,
             "c": 137
+          },
+          {
+            "timeKey": "17:55",
+            "w": 10,
+            "c": 83
           }
         ],
         "id": 940
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Summer Solstice.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 23,
+            "c": 154
+          }
+        ],
+        "id": 941
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Equinox.md",
+        "wordCountStart": 2,
+        "charCountStart": 20,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 54,
+            "c": 310
+          }
+        ],
+        "id": 942
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Equinox.md",
+        "wordCountStart": 2,
+        "charCountStart": 20,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 54,
+            "c": 310
+          }
+        ],
+        "id": 943
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Precession.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 6,
+            "c": 41
+          }
+        ],
+        "id": 944
       }
     ]
   }
