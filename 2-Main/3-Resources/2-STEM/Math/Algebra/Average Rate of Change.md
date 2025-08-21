@@ -1,4 +1,4 @@
-#Math/Functions 
+#Math/Algebra 
 
 A way of getting the average of a [[Slope]]. You find the farthest points in a [[Domain]] given. then do this to them:
 

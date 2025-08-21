@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e621fdaa9f5e1ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Polynomials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polynomials"
+            }
+          },
+          {
             "id": "a38858addb16617c",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "2-Main/0-SORT THIS/Polynomials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-21"
+              "title": "Backlinks for Polynomials"
             }
           },
           {
@@ -160,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "2-Main/0-SORT THIS/Polynomials.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-21"
+              "title": "Graph of Polynomials"
             }
           },
           {
@@ -197,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "2-Main/0-SORT THIS/Polynomials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-21"
+              "title": "Outgoing links from Polynomials"
             }
           }
         ],
@@ -239,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "2-Main/0-SORT THIS/Polynomials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-21"
+              "title": "Outline of Polynomials"
             }
           },
           {
@@ -274,7 +289,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -301,10 +316,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "ee00dd4020b2fb78",
   "lastOpenFiles": [
-    "Home.md",
+    "2-Main/0-SORT THIS/Polynomials.md",
     "3-Journal/2025-08-21.md",
+    "Home.md",
     "3-Journal/2025-08-20.md",
     "2-Main/1-Ramblings/The Last Thoughts of Martyrs.md",
     "2-Main/1-Ramblings/Nothing.md",
@@ -334,7 +350,6 @@
     "2-Main/3-Resources/2-STEM/Math/Algebra/Average Rate of Change.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Concavity.md",
     "5-Images/Concavity.png",
-    "3-Journal/2025-08/2025-08-18.md",
     "2-Main/3-Resources/2-STEM",
     "2-Main/3-Resources/3-Humanities/English",
     "5-Images/Rhetorical Trangle(Speaker).png",

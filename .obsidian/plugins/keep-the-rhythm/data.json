@@ -13111,11 +13111,35 @@
           },
           {
             "timeKey": "17:15",
-            "w": 16,
-            "c": 91
+            "w": 26,
+            "c": 151
+          },
+          {
+            "timeKey": "17:20",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 918
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Polynomials.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:20",
+            "w": 41,
+            "c": 218
+          }
+        ],
+        "id": 919
       }
     ]
   }
