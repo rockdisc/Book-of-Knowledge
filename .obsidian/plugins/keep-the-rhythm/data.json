@@ -13216,7 +13216,13 @@
         "filePath": "2-Main/0-SORT THIS/New World.md",
         "wordCountStart": 0,
         "charCountStart": 0,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 13,
+            "c": 83
+          }
+        ],
         "id": 926
       },
       {
@@ -13525,11 +13531,44 @@
           },
           {
             "timeKey": "18:05",
-            "w": 7,
-            "c": 44
+            "w": 14,
+            "c": 88
           }
         ],
         "id": 947
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Lunar Month.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 21,
+            "c": 142
+          }
+        ],
+        "id": 948
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Reasons to go to the New World.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 13,
+            "c": 79
+          },
+          {
+            "timeKey": "18:10",
+            "w": 6,
+            "c": 34
+          }
+        ],
+        "id": 949
       }
     ]
   }

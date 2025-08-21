@@ -6849,6 +6849,7 @@ Steiner
 SGjT
 SjJW
 SkIH
+Sidereal
 Interesting
 In
 If
