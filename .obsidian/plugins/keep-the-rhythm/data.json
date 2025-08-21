@@ -13337,6 +13337,11 @@
             "timeKey": "17:45",
             "w": 19,
             "c": 119
+          },
+          {
+            "timeKey": "17:50",
+            "w": 12,
+            "c": 91
           }
         ],
         "id": 934
@@ -13385,11 +13390,38 @@
         "changes": [
           {
             "timeKey": "17:45",
-            "w": 10,
-            "c": 79
+            "w": 11,
+            "c": 81
+          },
+          {
+            "timeKey": "17:50",
+            "w": 22,
+            "c": 145
           }
         ],
         "id": 938
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Minnesota Twin Cities.md",
+        "wordCountStart": 42,
+        "charCountStart": 318,
+        "changes": [],
+        "id": 939
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Winter Solstice.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 26,
+            "c": 137
+          }
+        ],
+        "id": 940
       }
     ]
   }
