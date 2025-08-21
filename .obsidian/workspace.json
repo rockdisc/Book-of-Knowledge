@@ -259,7 +259,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,7 +287,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a38858addb16617c",
+  "active": "1eb78fabd1a2c640",
   "lastOpenFiles": [
     "5-School/11/2-US History/Unit 1/Lesson 1.md",
     "3-Journal/2025-08-21.md",
