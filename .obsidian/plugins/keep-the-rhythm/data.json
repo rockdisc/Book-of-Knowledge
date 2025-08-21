@@ -12840,8 +12840,13 @@
           },
           {
             "timeKey": "22:10",
-            "w": 5,
-            "c": 17
+            "w": 11,
+            "c": 47
+          },
+          {
+            "timeKey": "22:15",
+            "w": 11,
+            "c": 44
           }
         ],
         "id": 903
@@ -13021,6 +13026,33 @@
           }
         ],
         "id": 914
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/0-SORT THIS/The Death of Martyrs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 74,
+            "c": 413
+          },
+          {
+            "timeKey": "22:20",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 915
+      },
+      {
+        "date": "2025-08-20",
+        "filePath": "2-Main/1-Ramblings/Nothing.md",
+        "wordCountStart": 492,
+        "charCountStart": 2611,
+        "changes": [],
+        "id": 916
       }
     ]
   }
