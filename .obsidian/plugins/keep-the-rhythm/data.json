@@ -13478,11 +13478,58 @@
         "changes": [
           {
             "timeKey": "18:00",
-            "w": 6,
-            "c": 41
+            "w": 17,
+            "c": 114
           }
         ],
         "id": 944
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Thuban.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 25,
+            "c": 156
+          }
+        ],
+        "id": 945
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Polaris.md",
+        "wordCountStart": 0,
+        "charCountStart": 1,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 10,
+            "c": 72
+          }
+        ],
+        "id": 946
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Synodic Month.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 10,
+            "c": 61
+          },
+          {
+            "timeKey": "18:05",
+            "w": 7,
+            "c": 44
+          }
+        ],
+        "id": 947
       }
     ]
   }
