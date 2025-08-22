@@ -1,5 +1,5 @@
 {
-  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/Ewalp.png",
+  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/Sefirah_Castle.jpg",
   "wallpaperType": "image",
   "playbackSpeed": 1,
   "Quality": false,
@@ -9,6 +9,11 @@
   "blurRadius": 8,
   "brightness": 100,
   "HistoryPaths": [
+    {
+      "path": "plugins/live-wallpaper/wallpapers/history/Sefirah_Castle.jpg",
+      "type": "image",
+      "fileName": "Sefirah_Castle.jpg"
+    },
     {
       "path": "plugins/live-wallpaper/wallpapers/history/Ewalp.png",
       "type": "image",
