@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "f70c125365642c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Humans as Locations"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Humans as Locations"
             }
           },
           {
@@ -161,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Humans as Locations"
             }
           },
           {
@@ -198,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Humans as Locations"
             }
           }
         ],
@@ -240,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Humans as Locations"
             }
           },
           {
@@ -302,8 +316,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "2ff93a5ab68571f6",
+  "active": "f70c125365642c85",
   "lastOpenFiles": [
+    "Home.md",
+    "2-Main/0-SORT THIS/Humans as Locations.md",
     "3-Journal/2025-08-21.md",
     "5-School/11/2-US History/Unit 1/Lesson 1.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
@@ -317,7 +333,6 @@
     "5-School/11/5-AP Physics 1/Unit 1",
     "5-School/11/4-HAPC/Unit 1",
     "5-School/11/3-Spanish 2/Unit 1",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/History/US/Headright System.md",
     "2-Main/3-Resources/3-Humanities/History/US/Jamestown.md",
     "2-Main/3-Resources/3-Humanities/History/US/Bacon's Rebellion.md",
@@ -339,7 +354,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ikon.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Earth's Rotation.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Ecliptic.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Celestial Sphere.md",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

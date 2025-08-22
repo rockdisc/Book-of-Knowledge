@@ -13710,6 +13710,20 @@
           }
         ],
         "id": 957
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Humans as Locations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:40",
+            "w": 1,
+            "c": 14
+          }
+        ],
+        "id": 958
       }
     ]
   }
