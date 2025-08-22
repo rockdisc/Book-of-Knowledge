@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a38858addb16617c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Journal/2025-08-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-21"
-            }
-          },
-          {
             "id": "2ff93a5ab68571f6",
             "type": "leaf",
             "state": {
@@ -90,7 +76,7 @@
             }
           },
           {
-            "id": "7c88a9ac6061db3a",
+            "id": "78553939e11931d8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -141,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-21"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -160,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-21"
+              "title": "Graph of Home"
             }
           },
           {
@@ -197,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-21"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -239,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-21.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-21"
+              "title": "Outline of Home"
             }
           },
           {
@@ -301,10 +287,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a38858addb16617c",
+  "active": "2ff93a5ab68571f6",
   "lastOpenFiles": [
     "2-Main/1-Ramblings/Humans as Locations.md",
-    "3-Journal/2025-08-21.md",
+    "3-Journal/2025-08/2025-08-21.md",
     "Home.md",
     "2-Main/0-SORT THIS/Untitled.base",
     "2-Main/0-SORT THIS/Untitled.md",

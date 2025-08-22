@@ -64,7 +64,8 @@
       "2025-07-30",
       "2025-08-04",
       "2025-08-06",
-      "2025-08-11"
+      "2025-08-11",
+      "2025-08-21"
     ],
     "dailyActivity": [
       {
@@ -13105,7 +13106,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "3-Journal/2025-08-21.md",
+        "filePath": "3-Journal/2025-08/2025-08-21.md",
         "wordCountStart": 242,
         "charCountStart": 1493,
         "changes": [
@@ -13138,6 +13139,21 @@
             "timeKey": "18:45",
             "w": 2,
             "c": 46
+          },
+          {
+            "timeKey": "21:40",
+            "w": 30,
+            "c": 147
+          },
+          {
+            "timeKey": "21:45",
+            "w": 120,
+            "c": 590
+          },
+          {
+            "timeKey": "21:50",
+            "w": 52,
+            "c": 234
           }
         ],
         "id": 918
@@ -13713,7 +13729,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Humans as Locations.md",
+        "filePath": "2-Main/1-Ramblings/Humans as Locations.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13731,9 +13747,62 @@
             "timeKey": "20:50",
             "w": 28,
             "c": 134
+          },
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:35",
+            "w": 83,
+            "c": 428
+          },
+          {
+            "timeKey": "21:40",
+            "w": 78,
+            "c": 405
           }
         ],
         "id": 958
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Untitled.base",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 962
+      },
+      {
+        "date": "2025-08-21",
+        "filePath": "2-Main/0-SORT THIS/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 23,
+            "c": 149
+          },
+          {
+            "timeKey": "21:00",
+            "w": -23,
+            "c": -149
+          }
+        ],
+        "id": 963
       }
     ]
   }
