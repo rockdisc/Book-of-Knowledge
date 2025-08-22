@@ -78,7 +78,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/MissingTown.png",
+        "filePath": "4-DND/6-Images/MissingTown.png",
         "wordCountStart": 1852721,
         "charCountStart": 9084918,
         "changes": [],
@@ -100,7 +100,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/TernaMap.jpg",
+        "filePath": "4-DND/6-Images/TernaMap.jpg",
         "wordCountStart": 649803,
         "charCountStart": 3018528,
         "changes": [],
@@ -495,7 +495,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/Aivon.png",
+        "filePath": "4-DND/6-Images/Aivon.png",
         "wordCountStart": 2731329,
         "charCountStart": 12557682,
         "changes": [],
@@ -519,7 +519,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/Humors.gif",
+        "filePath": "4-DND/6-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -1003,7 +1003,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/AlchemyTrueImage.png",
+        "filePath": "4-DND/6-Images/AlchemyTrueImage.png",
         "wordCountStart": 7240,
         "charCountStart": 35778,
         "changes": [],
@@ -5687,7 +5687,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "6-Images/1373839.png",
+        "filePath": "4-DND/6-Images/1373839.png",
         "wordCountStart": 2461769,
         "charCountStart": 11377253,
         "changes": [],
@@ -13184,7 +13184,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "6-Images/PolynomialClassification.png",
+        "filePath": "4-DND/6-Images/PolynomialClassification.png",
         "wordCountStart": 26241,
         "charCountStart": 123789,
         "changes": [],
@@ -13192,7 +13192,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "6-Images/Humors.gif",
+        "filePath": "4-DND/6-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -13858,6 +13858,11 @@
             "timeKey": "18:05",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 36
           }
         ],
         "id": 965
@@ -13922,7 +13927,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Synchronous Rotation.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synchronous Rotation.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13955,7 +13960,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Spanish Conjugation.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13979,7 +13984,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Spanish Subject Pronouns.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Subject Pronouns.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14027,7 +14032,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/John Smith.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/John Smith.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14041,7 +14046,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/John Rolfe.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/John Rolfe.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14060,7 +14065,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Mayflower.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Mayflower.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14079,7 +14084,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Anne Hutchinson.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Anne Hutchinson.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14093,7 +14098,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Puritans.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Puritans.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14107,7 +14112,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Mayflower Compact.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Mayflower Compact.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14126,7 +14131,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Eclipse.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Eclipse.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
