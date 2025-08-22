@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
+                "file": "3-Journal/2025-08-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spanish Conjugation"
+              "title": "2025-08-22"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
+                "file": "3-Journal/2025-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spanish Conjugation"
+              "title": "Backlinks for 2025-08-22"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
+                "file": "3-Journal/2025-08-22.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Spanish Conjugation"
+              "title": "Graph of 2025-08-22"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
+                "file": "3-Journal/2025-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spanish Conjugation"
+              "title": "Outgoing links from 2025-08-22"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
+                "file": "3-Journal/2025-08-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spanish Conjugation"
+              "title": "Outline of 2025-08-22"
             }
           },
           {
@@ -301,8 +301,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "2ff93a5ab68571f6",
   "lastOpenFiles": [
+    "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
     "3-Journal/2025-08-22.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",
@@ -316,7 +317,6 @@
     "2-Main/3-Resources/3-Humanities/History/US/John Smith.md",
     "5-School/11/2-US History/Unit 1/William Bradford, The Puritan Ethic, & The Mayflower Compact.md",
     "Home.md",
-    "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Subject Pronouns.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Moon.md",
     "4-DND/6-Images/MoonPhases.png",
