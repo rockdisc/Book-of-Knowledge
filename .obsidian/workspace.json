@@ -49,8 +49,7 @@
               "title": "Humans as Locations"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Humans as Locations"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Humans as Locations"
+              "title": "Graph view"
             }
           },
           {
@@ -212,12 +209,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Humans as Locations"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -254,13 +250,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Humans as Locations"
+              "title": "Outline"
             }
           },
           {
@@ -316,14 +311,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f70c125365642c85",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Untitled.base",
+    "3-Journal/2025-08-21.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Humans as Locations.md",
+    "2-Main/0-SORT THIS/Untitled.base",
     "2-Main/0-SORT THIS/Untitled.md",
     "Templates/JEntry.md",
-    "Home.md",
-    "3-Journal/2025-08-21.md",
     "5-School/11/2-US History/Unit 1/Lesson 1.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",

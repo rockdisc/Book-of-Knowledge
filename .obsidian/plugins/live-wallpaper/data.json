@@ -1,18 +1,18 @@
 {
-  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/shipwalp.jpg",
+  "wallpaperPath": "plugins/live-wallpaper/wallpapers/active/normal/Ewalp.png",
   "wallpaperType": "image",
   "playbackSpeed": 1,
   "Quality": false,
   "Reposition": false,
-  "opacity": 16,
+  "opacity": 40,
   "zIndex": 5,
   "blurRadius": 8,
   "brightness": 100,
   "HistoryPaths": [
     {
-      "path": "plugins/live-wallpaper/wallpapers/history/shipwalp.jpg",
+      "path": "plugins/live-wallpaper/wallpapers/history/Ewalp.png",
       "type": "image",
-      "fileName": "shipwalp.jpg"
+      "fileName": "Ewalp.png"
     }
   ],
   "mobileBackgroundWidth": "100vw",
