@@ -74,4 +74,3 @@ if (day === "Saturday" || day === "Sunday" || isHoliday) {
 
 # {{Title}}
 
-
