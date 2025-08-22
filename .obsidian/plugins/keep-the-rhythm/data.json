@@ -14142,6 +14142,20 @@
           }
         ],
         "id": 983
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",
+        "wordCountStart": 52,
+        "charCountStart": 370,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 7,
+            "c": 34
+          }
+        ],
+        "id": 984
       }
     ]
   }
