@@ -22,12 +22,10 @@ actions:
 ## Todo
 
 > [!todo]  Today
-> - [ ] Work on/finish the Session planning 
-> - [ ] Start writing characters down so I can actually use bases for that
-> - [ ] Organize Onenote Class notes
- 
+
 > [!warning]  Run On
-> - [ ] Get expo markers for spanish
+ > - [ ] Work on/finish the Session planning 
+> - [ ] Start writing characters down so I can actually use bases for that
 
 > [!info] Later 
 > - [ ] Work out Home Assistant
