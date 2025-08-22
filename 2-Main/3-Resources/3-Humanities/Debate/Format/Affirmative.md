@@ -1,5 +1,5 @@
 ---
-alliances: aff, Aff
+Aliases: aff, Aff
 ---
 
 #Speech/Debate 

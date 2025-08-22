@@ -13866,7 +13866,13 @@
         "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
         "wordCountStart": 71,
         "charCountStart": 455,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": -2
+          }
+        ],
         "id": 967
       },
       {
@@ -13877,11 +13883,60 @@
         "changes": [
           {
             "timeKey": "17:15",
-            "w": 17,
-            "c": 101
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 968
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synodic Month.md",
+        "wordCountStart": 24,
+        "charCountStart": 149,
+        "changes": [],
+        "id": 969
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Lunar Month.md",
+        "wordCountStart": 21,
+        "charCountStart": 142,
+        "changes": [],
+        "id": 970
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Synchronous Rotation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 5,
+            "c": 49
+          },
+          {
+            "timeKey": "17:20",
+            "w": 29,
+            "c": 184
+          }
+        ],
+        "id": 971
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Moon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 34,
+            "c": 213
+          }
+        ],
+        "id": 972
       }
     ]
   }
