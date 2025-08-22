@@ -1,0 +1,7 @@
+SELECT
+  block.text AS quote,
+  file.link AS source,
+  block.path AS path_in_file
+FROM blocks AS block
+WHERE block.type = 'blockquote'
+ORDER BY file.mtime DESC
