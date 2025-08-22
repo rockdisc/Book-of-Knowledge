@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "32b4274681e468cb",
+            "id": "37163c1c5025f5f2",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -329,12 +329,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "32b4274681e468cb",
+  "active": "37163c1c5025f5f2",
   "lastOpenFiles": [
-    "Templates/JEntry.md",
     "2-Main/0-SORT THIS/Untitled.base",
-    "2-Main/0-SORT THIS/Untitled.md",
     "2-Main/0-SORT THIS/Humans as Locations.md",
+    "2-Main/0-SORT THIS/Untitled.md",
+    "Templates/JEntry.md",
     "Home.md",
     "3-Journal/2025-08-21.md",
     "5-School/11/2-US History/Unit 1/Lesson 1.md",
@@ -366,7 +366,6 @@
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Winter Solstice.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Orbit.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Minnesota Twin Cities.md",
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ikon.md",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",
