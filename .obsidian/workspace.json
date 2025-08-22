@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "78553939e11931d8",
+            "id": "1fef9084d41ffb26",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -145,6 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +174,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -181,11 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -222,12 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home"
             }
           },
           {
@@ -280,11 +284,10 @@
       "keep-the-rhythm:Word Count Stats": true,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "omnisearch:Omnisearch": true,
-      "templater-obsidian:Templater": true,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "c2b32a7e9d534f02",
+  "active": "2ff93a5ab68571f6",
   "lastOpenFiles": [
     "Home.md",
     "2-Main/1-Ramblings/Humans as Locations.md",
