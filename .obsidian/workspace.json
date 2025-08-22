@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-School/11/2-US History/Unit 1/Lesson 1.md",
+                "file": "2-Main/0-SORT THIS/Puritans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1"
-            }
-          },
-          {
-            "id": "d103b1cd2fe8a03f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Mayflower.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mayflower"
+              "title": "Puritans"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mayflower.md",
+                "file": "2-Main/0-SORT THIS/Puritans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mayflower"
+              "title": "Backlinks for Puritans"
             }
           },
           {
@@ -175,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mayflower.md",
+                "file": "2-Main/0-SORT THIS/Puritans.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mayflower"
+              "title": "Graph of Puritans"
             }
           },
           {
@@ -212,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mayflower.md",
+                "file": "2-Main/0-SORT THIS/Puritans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mayflower"
+              "title": "Outgoing links from Puritans"
             }
           }
         ],
@@ -254,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mayflower.md",
+                "file": "2-Main/0-SORT THIS/Puritans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mayflower"
+              "title": "Outline of Puritans"
             }
           },
           {
@@ -316,10 +301,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d103b1cd2fe8a03f",
+  "active": "2ff93a5ab68571f6",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Mayflower.md",
     "5-School/11/2-US History/Unit 1/Lesson 1.md",
+    "2-Main/0-SORT THIS/Puritans.md",
+    "2-Main/0-SORT THIS/Anne Hutchinson.md",
+    "2-Main/0-SORT THIS/Mayflower.md",
     "2-Main/0-SORT THIS/John Rolfe.md",
     "2-Main/0-SORT THIS/John Smith.md",
     "2-Main/0-SORT THIS/William Bradford, The Puritan Ethic, & The Mayflower Compact.md",
@@ -353,8 +340,6 @@
     "2-Main/3-Resources/3-Humanities/History/US/Jamestown.md",
     "2-Main/3-Resources/3-Humanities/History/US/Bacon's Rebellion.md",
     "2-Main/3-Resources/3-Humanities/History/US/Piedmont Farmers.md",
-    "2-Main/3-Resources/3-Humanities/History/US/Tidewater Farmers.md",
-    "2-Main/3-Resources/3-Humanities/History/US/Reasons to go to the New World.md",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

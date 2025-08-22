@@ -14071,11 +14071,44 @@
         "changes": [
           {
             "timeKey": "17:55",
-            "w": 6,
-            "c": 31
+            "w": 21,
+            "c": 145
+          },
+          {
+            "timeKey": "18:00",
+            "w": 14,
+            "c": 96
           }
         ],
         "id": 979
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Anne Hutchinson.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 16,
+            "c": 100
+          }
+        ],
+        "id": 980
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Puritans.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 62,
+            "c": 390
+          }
+        ],
+        "id": 981
       }
     ]
   }
