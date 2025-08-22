@@ -22,6 +22,7 @@ actions:
 ## Todo
 
 > [!todo]  Today
+> - [ ] get cards for the Aff
 
 > [!warning]  Run On
  > - [ ] Work on/finish the Session planning 

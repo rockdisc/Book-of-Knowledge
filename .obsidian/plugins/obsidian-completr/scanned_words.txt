@@ -5655,6 +5655,8 @@ Mumtaz
 Mahal
 Monarchies
 Mercantilism
+Mayflower
+Massachusetts
 Summary
 So
 Someone
@@ -7244,6 +7246,7 @@ SNl
 SIDR
 SAV
 Stock
+Smith
 Interesting
 In
 If
@@ -8795,6 +8798,7 @@ InJH
 IHq
 Issue
 Indians
+Island
 Points
 Powers
 Protagonist
@@ -10224,6 +10228,8 @@ Plan
 Phases
 Pronouns
 Piedmont
+Puritans
+Puritan
 Worldbuilding
 WWII
 Wake
@@ -11376,6 +11382,7 @@ WSq
 WeR
 Wic
 WZy
+Winthrop
 would
 wasteland
 walking
@@ -24383,6 +24390,7 @@ dUl
 dgn
 dTb
 discussion
+doctrine
 and
 anything
 am
@@ -28883,6 +28891,7 @@ fRFW
 fiI
 fEgPG
 farmed
+farms
 can
 covered
 clad
@@ -36115,6 +36124,7 @@ Timeframe
 Them
 Tidewater
 Taxes
+Thought
 goat
 going
 get
@@ -44351,6 +44361,7 @@ pipq
 ppCI
 phrases
 piedmont
+purity
 kept
 know
 knew
@@ -46929,6 +46940,8 @@ NiOLQ
 NbM
 NOlt
 Nosotro
+Nicaragua
+Natives
 According
 Albert
 Avert
@@ -48264,6 +48277,7 @@ AJLd
 AXn
 ARn
 AtRq
+Article
 Rough
 Readers
 Radkeha
@@ -49858,6 +49872,8 @@ RONFq
 RBWq
 Ryh
 Rebellion
+Rolfe
+Rhode
 Gyles
 Giants
 God
@@ -52443,6 +52459,7 @@ HSp
 Huaf
 HwrB
 Headright
+Hutchinson
 Die
 Diathermal
 Do
