@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "Humans as Locations"
             }
+          },
+          {
+            "id": "32b4274681e468cb",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Humans as Locations"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -175,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Humans as Locations"
+              "title": "Graph of Untitled"
             }
           },
           {
@@ -212,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Humans as Locations"
+              "title": "Outgoing links from Untitled"
             }
           }
         ],
@@ -254,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Humans as Locations"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -316,10 +329,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f70c125365642c85",
+  "active": "32b4274681e468cb",
   "lastOpenFiles": [
-    "Home.md",
+    "2-Main/0-SORT THIS/Untitled.base",
     "2-Main/0-SORT THIS/Humans as Locations.md",
+    "Home.md",
     "3-Journal/2025-08-21.md",
     "5-School/11/2-US History/Unit 1/Lesson 1.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
@@ -353,7 +367,6 @@
     "2-Main/3-Resources/1-General Knowledge/Colleges/Minnesota Twin Cities.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Ikon.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Earth's Rotation.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Ecliptic.md",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",
