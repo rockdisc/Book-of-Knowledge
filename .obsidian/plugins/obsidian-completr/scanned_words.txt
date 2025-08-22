@@ -8800,6 +8800,8 @@ IHq
 Issue
 Indians
 Island
+Italian
+Improved
 Points
 Powers
 Protagonist
@@ -18274,6 +18276,7 @@ trailer
 tomb
 tobacco
 tidewater
+telescope
 be
 bright
 but
@@ -24393,6 +24396,7 @@ dgn
 dTb
 discussion
 doctrine
+discoveries
 and
 anything
 am
@@ -25861,6 +25865,8 @@ amr
 arH
 acres
 article
+astronomer
+astronomical
 mirages
 miles
 man
@@ -27368,6 +27374,8 @@ myN
 mAi
 majesty
 mausoleum
+mathematician
+moons
 for
 find
 face
@@ -30682,6 +30690,7 @@ cqf
 cvbp
 colonies
 colonists
+credited
 entire
 endless
 everything
@@ -44365,6 +44374,7 @@ ppCI
 phrases
 piedmont
 purity
+physicist
 kept
 know
 knew

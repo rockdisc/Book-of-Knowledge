@@ -65,8 +65,7 @@
       "2025-08-04",
       "2025-08-06",
       "2025-08-11",
-      "2025-08-21",
-      "2025-08-22"
+      "2025-08-21"
     ],
     "dailyActivity": [
       {
@@ -13825,6 +13824,11 @@
             "timeKey": "17:40",
             "w": 7,
             "c": 30
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 964
@@ -14023,20 +14027,6 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/William Bradford, The Puritan Ethic, & The Mayflower Compact.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "17:40",
-            "w": 2529,
-            "c": 15651
-          }
-        ],
-        "id": 976
-      },
-      {
-        "date": "2025-08-22",
         "filePath": "2-Main/0-SORT THIS/John Smith.md",
         "wordCountStart": 0,
         "charCountStart": 0,
@@ -14142,8 +14132,13 @@
         "changes": [
           {
             "timeKey": "18:05",
-            "w": 31,
-            "c": 201
+            "w": 50,
+            "c": 308
+          },
+          {
+            "timeKey": "18:10",
+            "w": 91,
+            "c": 494
           }
         ],
         "id": 983
