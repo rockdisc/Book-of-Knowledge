@@ -13956,8 +13956,8 @@
           },
           {
             "timeKey": "17:30",
-            "w": 9,
-            "c": 92
+            "w": 25,
+            "c": 254
           }
         ],
         "id": 973
@@ -13980,6 +13980,20 @@
           }
         ],
         "id": 974
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "5-School/11/2-US History/Unit 1/Lesson 1.md",
+        "wordCountStart": 203,
+        "charCountStart": 1235,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 117,
+            "c": 676
+          }
+        ],
+        "id": 975
       }
     ]
   }

@@ -26,3 +26,17 @@ Farmer Types
 - Bacon's Rebellion started because of the taxes only going up for the piedmont farmers, they did not like that. They attacked the Indians for the land and Jamestown for the problems it caused.
 
 Essential question: Why did Europeans go to the new world?
+
+John Smith made martial law, he hung people who did not want work in public.
+
+John Rolfe brought tobacco from Nicaragua.
+
+The Mass Day/New England people came over for freedom of religion. They were the ones that were friendly to Natives and came over on the Mayflower.
+
+John Winthrop is the first governor of Massachusetts, he thought he was lead by God. They were Puritans and wanted the purity of religion.
+
+They were large families who had the same beliefs and small farms.
+
+Anne Hutchinson did not like the Puritan doctrine. Thought that fate is individual and religion should not be in government. For this she got kicked out to Rhode Island.
+
+Read the Puritan Article

@@ -14,3 +14,14 @@ This is to make word phrases, like I ==am== going, she ==is== going, and so on.
 | a   | an    |
 
  
+| ER  | Verbs |
+| --- | ----- |
+| -o  | -emos |
+| es  | x     |
+| e   | en    |
+
+| IR  | Verbs |
+| --- | ----- |
+| -o  | -imos |
+| es  | x     |
+| e   | en    |

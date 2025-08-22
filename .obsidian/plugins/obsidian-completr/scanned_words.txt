@@ -1419,6 +1419,7 @@ Bkg
 BQFr
 BSiC
 BXZxfY
+Bacon
 Ela
 Essay
 East
@@ -2766,6 +2767,8 @@ Exv
 Eao
 ETMgGw
 EOF
+Europe
+Essential
 Classic
 Consept
 Character
@@ -4211,6 +4214,9 @@ Cqj
 Count
 Catalog
 CreationDate
+Christopher
+Columbus
+Company
 Modern
 Mini
 My
@@ -5647,6 +5653,8 @@ MRYA
 ModDate
 Mumtaz
 Mahal
+Monarchies
+Mercantilism
 Summary
 So
 Someone
@@ -7235,6 +7243,7 @@ SIR
 SNl
 SIDR
 SAV
+Stock
 Interesting
 In
 If
@@ -8785,6 +8794,7 @@ IIt
 InJH
 IHq
 Issue
+Indians
 Points
 Powers
 Protagonist
@@ -10213,6 +10223,7 @@ Picture
 Plan
 Phases
 Pronouns
+Piedmont
 Worldbuilding
 WWII
 Wake
@@ -18253,6 +18264,8 @@ tmSTR
 tVDe
 trailer
 tomb
+tobacco
+tidewater
 be
 bright
 but
@@ -19817,6 +19830,7 @@ bFHa
 bFL
 boa
 bpNG
+booming
 so
 sand
 spend
@@ -21729,6 +21743,8 @@ sod
 sfW
 startxref
 solved
+strategy
+servitude
 vast
 very
 vibrant
@@ -25833,6 +25849,7 @@ aFY
 aFWg
 amr
 arH
+acres
 mirages
 miles
 man
@@ -28865,6 +28882,7 @@ fPID
 fRFW
 fiI
 fEgPG
+farmed
 can
 covered
 clad
@@ -30650,6 +30668,8 @@ cmo
 cRFI
 cqf
 cvbp
+colonies
+colonists
 entire
 endless
 everything
@@ -36093,6 +36113,8 @@ TEQ
 TÖ
 Timeframe
 Them
+Tidewater
+Taxes
 goat
 going
 get
@@ -44328,6 +44350,7 @@ pTe
 pipq
 ppCI
 phrases
+piedmont
 kept
 know
 knew
@@ -49834,6 +49857,7 @@ Rpy
 RONFq
 RBWq
 Ryh
+Rebellion
 Gyles
 Giants
 God
@@ -52418,6 +52442,7 @@ HLbA
 HSp
 Huaf
 HwrB
+Headright
 Die
 Diathermal
 Do
@@ -55004,6 +55029,7 @@ Kdd
 KLUT
 KOk
 KKKb
+Kings
 Land
 Lead
 Law
@@ -56307,6 +56333,7 @@ LoD
 LGfPd
 LTG
 LeK
+Lords
 Johan
 Jupiter
 Jotuns
@@ -57765,6 +57792,8 @@ JVt
 JDP
 JJo
 JTf
+Jamestown
+Joint
 quarter
 questions
 quickly
@@ -60314,6 +60343,8 @@ FNqA
 FFq
 Fdn
 Fzw
+Feudalism
+Farmer
 Veins
 Vim
 Venus
