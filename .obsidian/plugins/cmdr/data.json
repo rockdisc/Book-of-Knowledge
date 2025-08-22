@@ -7,7 +7,27 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-statusbar-pomo:start-satusbar-pomo",
+      "icon": "play",
+      "name": "Status Bar Pomodoro Timer: Start pomodoro",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-statusbar-pomo:pause-satusbar-pomo",
+      "icon": "pause",
+      "name": "Status Bar Pomodoro Timer: Toggle timer pause",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-statusbar-pomo:quit-satusbar-pomo",
+      "icon": "quit",
+      "name": "Status Bar Pomodoro Timer: Quit timer",
+      "mode": "any",
+      "color": "#000000"
+    }
+  ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
@@ -15,7 +35,8 @@
     "statusbar": [
       "backlink",
       "sync",
-      "obsidian-git"
+      "obsidian-git",
+      "editor-status"
     ],
     "leftRibbon": []
   },
