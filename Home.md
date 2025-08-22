@@ -28,7 +28,6 @@ actions:
 > - [ ] Start writing characters down so I can actually use bases for that
 
 > [!info] Later 
-> - [ ] Work out Home Assistant
 > - [ ] Debate Band Camp Send 
 
 > [!hint]  Long Term  

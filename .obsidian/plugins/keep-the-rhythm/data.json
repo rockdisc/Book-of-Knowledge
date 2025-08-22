@@ -13809,7 +13809,13 @@
         "filePath": "Home.md",
         "wordCountStart": 113,
         "charCountStart": 770,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": -6,
+            "c": -32
+          }
+        ],
         "id": 964
       },
       {
