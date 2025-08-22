@@ -49,7 +49,8 @@
               "title": "Humans as Locations"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Humans as Locations"
             }
           },
           {
@@ -173,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Humans as Locations"
             }
           },
           {
@@ -209,11 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Humans as Locations"
             }
           }
         ],
@@ -250,12 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/0-SORT THIS/Humans as Locations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Humans as Locations"
             }
           },
           {
@@ -311,7 +316,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c2b32a7e9d534f02",
+  "active": "f70c125365642c85",
   "lastOpenFiles": [
     "3-Journal/2025-08-21.md",
     "Home.md",
