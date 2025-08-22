@@ -13932,11 +13932,30 @@
         "changes": [
           {
             "timeKey": "17:20",
-            "w": 34,
-            "c": 213
+            "w": 36,
+            "c": 232
           }
         ],
         "id": 972
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Spanish Conjugation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 10,
+            "c": 56
+          },
+          {
+            "timeKey": "17:25",
+            "w": 27,
+            "c": 160
+          }
+        ],
+        "id": 973
       }
     ]
   }
