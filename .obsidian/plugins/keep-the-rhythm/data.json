@@ -13138,6 +13138,11 @@
             "timeKey": "18:45",
             "w": 2,
             "c": 46
+          },
+          {
+            "timeKey": "21:40",
+            "w": 3,
+            "c": 26
           }
         ],
         "id": 918
@@ -13713,7 +13718,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Humans as Locations.md",
+        "filePath": "2-Main/1-Ramblings/Humans as Locations.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13739,8 +13744,13 @@
           },
           {
             "timeKey": "21:35",
-            "w": 41,
-            "c": 231
+            "w": 83,
+            "c": 428
+          },
+          {
+            "timeKey": "21:40",
+            "w": 78,
+            "c": 405
           }
         ],
         "id": 958
