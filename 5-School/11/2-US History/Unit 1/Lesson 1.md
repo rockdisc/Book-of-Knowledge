@@ -1,8 +1,8 @@
 What is going on in Europe:
 
-- After the Black death, population in booming
-- Monarchies are getting more powerful with that new population
-- Mercantilism was a strategy to get more government control.
+- After the [[Black Plague]], population in booming
+- [[Monarchy|Monarchies]] are getting more powerful with that new population
+- [[Mercantilism]] was a strategy to get more government control.
 - Explained Feudalism
 
 - Christopher Columbus went and found America
@@ -39,4 +39,4 @@ They were large families who had the same beliefs and small farms.
 
 Anne Hutchinson did not like the Puritan doctrine. Thought that fate is individual and religion should not be in government. For this she got kicked out to Rhode Island.
 
-Read the Puritan Article
+Read the [[William Bradford, The Puritan Ethic, & The Mayflower Compact]]. 
