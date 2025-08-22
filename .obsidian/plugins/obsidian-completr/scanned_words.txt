@@ -10212,6 +10212,7 @@ PDFContext
 Picture
 Plan
 Phases
+Pronouns
 Worldbuilding
 WWII
 Wake
@@ -22894,6 +22895,7 @@ vLU
 vCp
 vCH
 vdic
+vosotro
 desert
 due
 dark
@@ -32123,6 +32125,8 @@ eXF
 eeyp
 eRH
 endings
+ellos
+ellas
 life
 leather
 long
@@ -36088,6 +36092,7 @@ TrpO
 TEQ
 TÖ
 Timeframe
+Them
 goat
 going
 get
@@ -38748,6 +38753,7 @@ uKO
 usiga
 uPI
 ucv
+ustedes
 robe
 red
 realize
@@ -46899,6 +46905,7 @@ NKq
 NiOLQ
 NbM
 NOlt
+Nosotro
 According
 Albert
 Avert
