@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Puritans.md",
+                "file": "2-Main/0-SORT THIS/Eclipse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Puritans"
+              "title": "Eclipse"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Puritans.md",
+                "file": "2-Main/0-SORT THIS/Eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Puritans"
+              "title": "Backlinks for Eclipse"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Puritans.md",
+                "file": "2-Main/0-SORT THIS/Eclipse.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Puritans"
+              "title": "Graph of Eclipse"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Puritans.md",
+                "file": "2-Main/0-SORT THIS/Eclipse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Puritans"
+              "title": "Outgoing links from Eclipse"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Puritans.md",
+                "file": "2-Main/0-SORT THIS/Eclipse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Puritans"
+              "title": "Outline of Eclipse"
             }
           },
           {
@@ -303,15 +303,17 @@
   },
   "active": "2ff93a5ab68571f6",
   "lastOpenFiles": [
-    "5-School/11/2-US History/Unit 1/Lesson 1.md",
+    "3-Journal/2025-08-22.md",
+    "2-Main/0-SORT THIS/Eclipse.md",
     "2-Main/0-SORT THIS/Puritans.md",
+    "2-Main/0-SORT THIS/Mayflower Compact.md",
+    "5-School/11/2-US History/Unit 1/Lesson 1.md",
     "2-Main/0-SORT THIS/Anne Hutchinson.md",
     "2-Main/0-SORT THIS/Mayflower.md",
     "2-Main/0-SORT THIS/John Rolfe.md",
     "2-Main/0-SORT THIS/John Smith.md",
     "2-Main/0-SORT THIS/William Bradford, The Puritan Ethic, & The Mayflower Compact.md",
     "Home.md",
-    "3-Journal/2025-08-22.md",
     "2-Main/0-SORT THIS/Spanish Conjugation.md",
     "2-Main/0-SORT THIS/Spanish Subject Pronouns.md",
     "2-Main/0-SORT THIS/Moon.md",
@@ -338,8 +340,6 @@
     "5-School/11/4-HAPC/Unit 1",
     "2-Main/3-Resources/3-Humanities/History/US/Headright System.md",
     "2-Main/3-Resources/3-Humanities/History/US/Jamestown.md",
-    "2-Main/3-Resources/3-Humanities/History/US/Bacon's Rebellion.md",
-    "2-Main/3-Resources/3-Humanities/History/US/Piedmont Farmers.md",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

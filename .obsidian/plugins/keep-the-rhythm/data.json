@@ -13849,6 +13849,11 @@
             "timeKey": "17:15",
             "w": 52,
             "c": 274
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 965
@@ -14104,11 +14109,44 @@
         "changes": [
           {
             "timeKey": "18:00",
-            "w": 62,
-            "c": 390
+            "w": 67,
+            "c": 441
           }
         ],
         "id": 981
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Mayflower Compact.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 17,
+            "c": 107
+          },
+          {
+            "timeKey": "18:05",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 982
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Eclipse.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 31,
+            "c": 201
+          }
+        ],
+        "id": 983
       }
     ]
   }
