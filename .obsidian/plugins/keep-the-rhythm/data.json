@@ -14029,6 +14029,53 @@
           }
         ],
         "id": 976
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/John Smith.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 23,
+            "c": 147
+          }
+        ],
+        "id": 977
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/John Rolfe.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 6,
+            "c": 39
+          },
+          {
+            "timeKey": "17:55",
+            "w": 13,
+            "c": 102
+          }
+        ],
+        "id": 978
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Mayflower.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 6,
+            "c": 31
+          }
+        ],
+        "id": 979
       }
     ]
   }
