@@ -13814,6 +13814,11 @@
             "timeKey": "17:00",
             "w": -6,
             "c": -32
+          },
+          {
+            "timeKey": "17:10",
+            "w": 5,
+            "c": 30
           }
         ],
         "id": 964
@@ -13831,8 +13836,13 @@
           },
           {
             "timeKey": "17:10",
-            "w": 37,
-            "c": 180
+            "w": 58,
+            "c": 303
+          },
+          {
+            "timeKey": "17:15",
+            "w": 52,
+            "c": 274
           }
         ],
         "id": 965
@@ -13850,6 +13860,28 @@
           }
         ],
         "id": 966
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
+        "wordCountStart": 71,
+        "charCountStart": 455,
+        "changes": [],
+        "id": 967
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Sidereal Month.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 17,
+            "c": 101
+          }
+        ],
+        "id": 968
       }
     ]
   }

@@ -29,6 +29,7 @@ actions:
 
 > [!info] Later 
 > - [ ] Debate Band Camp Send 
+> - [ ] Do Physics assignment
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 

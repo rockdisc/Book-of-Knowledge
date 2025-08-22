@@ -8784,6 +8784,7 @@ Ieu
 IIt
 InJH
 IHq
+Issue
 Points
 Powers
 Protagonist
@@ -10208,6 +10209,8 @@ PQY
 Pages
 Producer
 PDFContext
+Picture
+Plan
 Worldbuilding
 WWII
 Wake
@@ -21723,6 +21726,7 @@ svG
 sod
 sfW
 startxref
+solved
 vast
 very
 vibrant
@@ -24359,6 +24363,7 @@ dTl
 dUl
 dgn
 dTb
+discussion
 and
 anything
 am
@@ -36080,6 +36085,7 @@ TFh
 TrpO
 TEQ
 TÖ
+Timeframe
 goat
 going
 get
