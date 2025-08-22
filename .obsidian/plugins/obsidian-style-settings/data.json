@@ -7,9 +7,7 @@
   "baseline-style@@background-primary-alt@@dark": "#1A1A1A",
   "baseline-style@@background-secondary@@dark": "#171717",
   "baseline-style@@background-secondary-alt@@dark": "#0F0F0F",
-  "baseline-style@@interactive-normal@@dark": "#7548D8",
   "baseline-style@@interactive-hover@@dark": "#5C4CB7",
-  "baseline-style@@background-modifier-active-hover@@dark": "#4B3F8D",
   "baseline-style@@layout-style": "layout-cards",
   "baseline-style@@density-modifier": "0.75",
   "baseline-style@@icon-stroke-modifier": "1",
@@ -64,5 +62,6 @@
   "baseline-style@@h2-transform": "normal",
   "baseline-style@@h2-variant": "normal",
   "baseline-style@@background-modifier-border-hover@@dark": "#372B42",
-  "baseline-style@@text-selection@@dark": "#2A2170B5"
+  "baseline-style@@text-selection@@dark": "#2A2170B5",
+  "baseline-style@@background-modifier-active-hover@@dark": "#4F438E"
 }
