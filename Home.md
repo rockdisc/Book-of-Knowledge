@@ -23,7 +23,6 @@ actions:
 
 > [!todo]  Today
 > - [ ] get cards for the Aff
-> - [ ] Research Colleges
 
 > [!warning]  Run On
  > - [ ] Work on/finish the Session planning 
