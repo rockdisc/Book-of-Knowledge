@@ -21778,6 +21778,7 @@ servitude
 stagnant
 slouch
 sniffing
+sincerity
 vast
 very
 vibrant
@@ -24423,6 +24424,7 @@ deactivate
 degrading
 disheveled
 defeat
+discuss
 and
 anything
 am
