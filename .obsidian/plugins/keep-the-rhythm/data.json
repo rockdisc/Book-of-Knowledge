@@ -14470,6 +14470,11 @@
             "timeKey": "16:50",
             "w": 72,
             "c": 401
+          },
+          {
+            "timeKey": "16:55",
+            "w": 38,
+            "c": 201
           }
         ],
         "id": 1000
@@ -14729,6 +14734,20 @@
         "charCountStart": 211,
         "changes": [],
         "id": 1019
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/2-Main/Shrouding Ring.md",
+        "wordCountStart": 31,
+        "charCountStart": 174,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 48,
+            "c": 261
+          }
+        ],
+        "id": 1020
       }
     ]
   }
