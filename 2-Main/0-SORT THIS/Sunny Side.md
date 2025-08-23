@@ -1,3 +1,7 @@
+---
+Owner: NA
+---
+
 #Ors/Artifact #Worldbuilding/Item 
 
 For every 100 hard truths said while having contact with this artifact, one lie will become true. A stronger Wish. 

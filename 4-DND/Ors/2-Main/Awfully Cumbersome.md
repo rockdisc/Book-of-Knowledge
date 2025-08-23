@@ -1,3 +1,6 @@
+---
+Owner: [[Derick]]
+---
 #Worldbuilding/Item #Ors/Artifact 
 
 A ring, it can distort the actions of anyone in a 10 meter radius. This means changing the words they say, the direction they are moving, or their intention of their attack. 

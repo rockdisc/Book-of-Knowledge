@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "e7a246942b589492",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Sunny Side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sunny Side"
-            }
-          },
-          {
             "id": "d957bd2c55b271a6",
             "type": "leaf",
             "state": {
@@ -74,6 +60,20 @@
               },
               "icon": "lucide-table",
               "title": "Artifact List"
+            }
+          },
+          {
+            "id": "f3a2d2c7f4eb551a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-DND/Ors/Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables"
             }
           }
         ],
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Sunny Side.md",
+                "file": "2-Main/0-SORT THIS/Artifact List.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sunny Side"
+              "title": "Backlinks for Artifact List"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Sunny Side.md",
+                "file": "2-Main/0-SORT THIS/Artifact List.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sunny Side"
+              "title": "Graph of Artifact List"
             }
           },
           {
@@ -239,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Sunny Side.md",
+                "file": "2-Main/0-SORT THIS/Artifact List.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sunny Side"
+              "title": "Outgoing links from Artifact List"
             }
           }
         ],
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Sunny Side.md",
+                "file": "2-Main/0-SORT THIS/Artifact List.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sunny Side"
+              "title": "Outline of Artifact List"
             }
           },
           {
@@ -343,14 +343,20 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e7a246942b589492",
+  "active": "d957bd2c55b271a6",
   "lastOpenFiles": [
+    "4-DND/Ors/Variables.md",
     "2-Main/0-SORT THIS/Artifact List.base",
-    "Home.md",
-    "2-Main/0-SORT THIS/Sunny Side.md",
+    "4-DND/Ors/2-Main/Dream Veil.md",
+    "4-DND/Ors/2-Main/Crystal Lens.md",
+    "4-DND/Ors/2-Main/Chain of Unfortunate Events.md",
+    "4-DND/Ors/2-Main/Blinding Gluttony.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+    "4-DND/Ors/2-Main/Awfully Cumbersome.md",
     "3-Journal/2025-08-22.md",
+    "2-Main/0-SORT THIS/Sunny Side.md",
+    "Home.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",
@@ -368,11 +374,6 @@
     "4-DND/6-Images/MoonPhases.png",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synchronous Rotation.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Lunar Month.md",
-    "2-Main/0-SORT THIS/Sidereal Month.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synodic Month.md",
-    "Templates/JEntry.md",
-    "2-Main/1-Ramblings/Humans as Locations.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.1 hapc.pdf",

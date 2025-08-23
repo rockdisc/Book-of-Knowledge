@@ -4,3 +4,6 @@ views:
     filters:
       and:
         - file.hasTag("Ors/Artifact")
+    order:
+      - file.name
+      - Owner
