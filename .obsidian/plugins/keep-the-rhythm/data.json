@@ -12205,7 +12205,7 @@
       },
       {
         "date": "2025-08-17",
-        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Video Reports/Focusing.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14390,7 +14390,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
         "wordCountStart": 582,
         "charCountStart": 3210,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 1,
+            "c": 4
+          }
+        ],
         "id": 1000
       },
       {
@@ -14468,6 +14474,36 @@
           }
         ],
         "id": 1006
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:20",
+            "w": 39,
+            "c": 271
+          }
+        ],
+        "id": 1007
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/Misc/Writing.md",
+        "wordCountStart": 73,
+        "charCountStart": 353,
+        "changes": [],
+        "id": 1008
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
+        "wordCountStart": 901,
+        "charCountStart": 4804,
+        "changes": [],
+        "id": 1009
       }
     ]
   }
