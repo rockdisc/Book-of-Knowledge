@@ -22,15 +22,14 @@ actions:
 ## Todo
 
 > [!todo]  Today
-> - [ ] get cards for the Aff
 
 > [!warning]  Run On
  > - [ ] Work on/finish the Session planning 
-> - [ ] Start writing characters down so I can actually use bases for that
 
 > [!info] Later 
 > - [ ] Debate Band Camp Send 
 > - [ ] Do Physics assignment
+> - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
 > - [ ] Organize the notes I just titled main
 
 > [!hint]  Long Term  
