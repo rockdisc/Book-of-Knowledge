@@ -74,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Keen Eye.md",
+                "file": "2-Main/0-SORT THIS/In Dreams of Many.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keen Eye"
+              "title": "In Dreams of Many"
             }
           },
           {
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Keen Eye.md",
+                "file": "2-Main/0-SORT THIS/In Dreams of Many.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Keen Eye"
+              "title": "Backlinks for In Dreams of Many"
             }
           },
           {
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Keen Eye.md",
+                "file": "2-Main/0-SORT THIS/In Dreams of Many.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Keen Eye"
+              "title": "Graph of In Dreams of Many"
             }
           },
           {
@@ -250,12 +250,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Keen Eye.md",
+                "file": "2-Main/0-SORT THIS/In Dreams of Many.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Keen Eye"
+              "title": "Outgoing links from In Dreams of Many"
             }
           }
         ],
@@ -292,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Keen Eye.md",
+                "file": "2-Main/0-SORT THIS/In Dreams of Many.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Keen Eye"
+              "title": "Outline of In Dreams of Many"
             }
           },
           {
@@ -359,7 +359,7 @@
   "active": "ee5e17176390719d",
   "lastOpenFiles": [
     "4-DND/Ors/Artifact List.base",
-    "2-Main/0-SORT THIS/Keen Eye.md",
+    "2-Main/0-SORT THIS/In Dreams of Many.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "Home.md",
     "3-Journal/2025-08-23.md",
