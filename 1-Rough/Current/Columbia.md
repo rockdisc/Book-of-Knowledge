@@ -1,16 +1,16 @@
 #College
 
 ## Location
-- Temp 
+- Temp colder than here 
 - Urban 
 - Distance
 ## Campus
 - Clubs 
-- Looks 
+- Looks Really Good 
 - Size
 ## Classes
 - Astrophysics 
 - Comp Sci 
 - Debate
 # Price
-$ 
+$40k
