@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Act 1 Map and Breakdown"
             }
           },
           {
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Act 1 Map and Breakdown"
             }
           },
           {
@@ -221,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Act 1 Map and Breakdown"
             }
           }
         ],
@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Act 1 Map and Breakdown"
             }
           },
           {
@@ -327,11 +327,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "13a4d4c6dd1e1544",
+  "active": "2e4790dbd794856d",
   "lastOpenFiles": [
-    "4-DND/Ors/Act 1 Map and Breakdown.md",
-    "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "Home.md",
+    "4-DND/Ors/Act 1 Map and Breakdown.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "2-Main/0-SORT THIS/Vextra the Trader.md",
     "2-Main/0-SORT THIS/OrChar.md",

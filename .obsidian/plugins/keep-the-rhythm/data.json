@@ -14418,8 +14418,8 @@
           },
           {
             "timeKey": "16:00",
-            "w": 83,
-            "c": 424
+            "w": 92,
+            "c": 480
           }
         ],
         "id": 1000
@@ -14609,6 +14609,22 @@
           }
         ],
         "id": 1013
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18628,
+        "charCountStart": 588468,
+        "changes": [],
+        "id": 1014
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/Act 1 Map and Breakdown.md",
+        "wordCountStart": 18628,
+        "charCountStart": 588468,
+        "changes": [],
+        "id": 1015
       }
     ]
   }
