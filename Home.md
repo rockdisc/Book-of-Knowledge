@@ -22,6 +22,11 @@ actions:
 ## Todo
 
 > [!todo]  Today
+> - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
+> - [ ] Create a new template for Users 
+> - [ ] Make the Base 
+> - [ ] Add more Characters, at least the ones that they have encountered already 
+> - [ ] Create the paper copy of artifacts 
 
 > [!warning]  Run On
  > - [ ] Work on/finish the Session planning 
@@ -29,7 +34,6 @@ actions:
 > [!info] Later 
 > - [ ] Debate Band Camp Send 
 > - [ ] Do Physics assignment
-> - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
 > - [ ] Organize the notes I just titled main
 
 > [!hint]  Long Term  

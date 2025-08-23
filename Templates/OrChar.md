@@ -1,5 +1,6 @@
 ---
 Name:
+Faction:
 Type:
 ---
 
