@@ -1,4 +1,5 @@
 #Worldbuilding/Culture/Religion  #VideoReport 
+https://youtu.be/pjrrUZeJMSo 
 
 Religions are not stagnant, they change and morph throughout time. If I want to make the religions of [[Boreal]] and [[Religious Organizations]] of Poet's Land seem well made, I should follow these steps. 
 
@@ -18,4 +19,12 @@ There should be rituals in daily life for religions. Think of [[Islam]] going to
 > For both, have rituals 
 
 
-## Materi
+## Materiality 
+
+Have materials and symbols from all religions.
+> [!tip] Recommendation 
+> What symbols do they have?
+
+## Lived Religion 
+
+What do people do so show their religion, every person is different but there could be recent trends. Some people might endorse these trends, others may not. The ruling classes can even make them beni
