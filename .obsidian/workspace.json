@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "e7a246942b589492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Sunny Side.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunny Side"
+            }
+          },
+          {
             "id": "d957bd2c55b271a6",
             "type": "leaf",
             "state": {
@@ -170,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Sunny Side.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Sunny Side"
             }
           },
           {
@@ -189,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Sunny Side.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Sunny Side"
             }
           },
           {
@@ -226,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Sunny Side.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Sunny Side"
             }
           }
         ],
@@ -268,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Sunny Side.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Sunny Side"
             }
           },
           {
@@ -330,10 +344,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d957bd2c55b271a6",
+  "active": "e7a246942b589492",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Sunny Side.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+    "Home.md",
     "3-Journal/2025-08-22.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
@@ -347,7 +363,6 @@
     "2-Main/3-Resources/3-Humanities/History/US/John Rolfe.md",
     "2-Main/3-Resources/3-Humanities/History/US/John Smith.md",
     "5-School/11/2-US History/Unit 1/William Bradford, The Puritan Ethic, & The Mayflower Compact.md",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Subject Pronouns.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Moon.md",
     "4-DND/6-Images/MoonPhases.png",
@@ -360,7 +375,6 @@
     "2-Main/1-Ramblings/Humans as Locations.md",
     "3-Journal/2025-08/2025-08-21.md",
     "2-Main/0-SORT THIS/Untitled.base",
-    "2-Main/0-SORT THIS/Untitled.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.1 hapc.pdf",
