@@ -12798,7 +12798,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "2-Main/0-SORT THIS/Untitled.base",
+        "filePath": "2-Main/0-SORT THIS/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13768,7 +13768,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Untitled.base",
+        "filePath": "2-Main/0-SORT THIS/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14197,11 +14197,24 @@
           },
           {
             "timeKey": "21:10",
-            "w": 29,
-            "c": 156
+            "w": 56,
+            "c": 308
+          },
+          {
+            "timeKey": "21:15",
+            "w": 38,
+            "c": 193
           }
         ],
         "id": 987
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Artifact List.base",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 988
       }
     ]
   }
