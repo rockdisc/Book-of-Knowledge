@@ -7252,6 +7252,7 @@ SAV
 Stock
 Smith
 Scribe
+Syncretism
 Interesting
 In
 If
@@ -30710,6 +30711,7 @@ colonies
 colonists
 credited
 cons
+consult
 entire
 endless
 everything
@@ -34728,6 +34730,7 @@ ouo
 oaK
 oRT
 oel
+oracle
 Then
 The
 This
