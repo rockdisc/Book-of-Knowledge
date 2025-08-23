@@ -56,15 +56,13 @@
             }
           },
           {
-            "id": "2e4790dbd794856d",
+            "id": "d3bb5e1d1268ba25",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Act 1 Map and Breakdown"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -165,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Act 1 Map and Breakdown"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,7 +181,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Act 1 Map and Breakdown"
+              "title": "Graph view"
             }
           },
           {
@@ -221,12 +217,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Act 1 Map and Breakdown"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -263,13 +258,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/Act 1 Map and Breakdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Act 1 Map and Breakdown"
+              "title": "Outline"
             }
           },
           {
@@ -327,11 +321,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2e4790dbd794856d",
+  "active": "d3bb5e1d1268ba25",
   "lastOpenFiles": [
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
-    "Home.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "2-Main/0-SORT THIS/Vextra the Trader.md",
     "2-Main/0-SORT THIS/OrChar.md",
