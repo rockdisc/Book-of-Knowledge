@@ -18,12 +18,7 @@ They are the strongest of the [[Elvagars]] and live in [[Elvaghiem]]. They are t
 | Cereborus   | [[Hudes]]  | Fire                | Cereborus                    |
 
 ## 7 Virtues 
-| Virtue     | Augur Name | Family Name | Power |
-| ---------- | ---------- | ----------- | ----- |
-| Chastity   |            |             |       |
-| Charity    |            |             |       |
-| Diligence  |            |             |       |
-| Temperance | [[Narra]]  |             |       |
-| Kindness   |            |             |       |
-| Patience   |            |             |       |
-| Humility   |            |             |       |
+| Virtue     | Augur Name | Family Name | Power                                                            |
+| ---------- | ---------- | ----------- | -------------------------------------------------- |
+| Chastity   |                                                                                             |
+                                                                                                                                                                                                                                                                                             Can beat any power, easily, kind of an anti copy.  copy.  copy.  copy.  copy.  copy.  copy.  co                                                                                                                                                                                                                                                                                |

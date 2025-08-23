@@ -14803,6 +14803,25 @@
         "charCountStart": 898,
         "changes": [],
         "id": 1023
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/2-Main/Augurs.md",
+        "wordCountStart": 179,
+        "charCountStart": 2113,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 11,
+            "c": 493
+          },
+          {
+            "timeKey": "17:35",
+            "w": -1,
+            "c": 24
+          }
+        ],
+        "id": 1024
       }
     ]
   }
