@@ -1,3 +1,6 @@
+---
+Owner: Orsian Party
+---
 #Worldbuilding/Item #Ors/Artifact 
 
 A charm, allows the user to control sparrows in a 100 meter range to fly somewhere and speak. You can see through their eyes. 

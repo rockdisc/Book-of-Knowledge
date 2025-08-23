@@ -1,5 +1,5 @@
 ---
-Owner: [[Derick]]
+Owner: "[[Derick]]"
 ---
 #Worldbuilding/Item #Ors/Artifact 
 

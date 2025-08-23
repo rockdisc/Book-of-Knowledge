@@ -4,6 +4,8 @@ views:
     filters:
       and:
         - file.hasTag("Ors/Artifact")
+        - not:
+            - file.inFolder("Templates")
     order:
       - file.name
       - Owner

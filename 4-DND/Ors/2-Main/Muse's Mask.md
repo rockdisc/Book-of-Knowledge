@@ -1,3 +1,6 @@
+---
+Owner: NA
+---
 #Worldbuilding/Item #Ors/Artifact 
 
 Allows for one to change their appearance, voice, and all other noticeable features such as unconscious habits of the person it copies, though not their powers whether it be their magic, spirit, or knowledge. The mask does not have a reflection so a person looking at a mirror can see the person underneath it. 

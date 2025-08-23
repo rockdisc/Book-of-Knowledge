@@ -1,3 +1,6 @@
+---
+Owner: "[[Derick]]"
+---
 #Worldbuilding/Item #Ors/Artifact 
 
 This key will open any regular lock.

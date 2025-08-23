@@ -1,5 +1,5 @@
 ---
-Owner: [[Esqine Augean]]
+Owner: "[[Esqine Augean]]"
 ---
 
 #Worldbuilding/Item #Ors/Artifact  

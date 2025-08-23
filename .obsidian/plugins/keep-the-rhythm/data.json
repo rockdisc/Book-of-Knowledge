@@ -12798,7 +12798,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "2-Main/0-SORT THIS/Artifact List.base",
+        "filePath": "4-DND/Ors/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13768,7 +13768,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Artifact List.base",
+        "filePath": "4-DND/Ors/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13787,7 +13787,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Untitled.md",
+        "filePath": "Templates/ArtifTemp.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14216,7 +14216,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Artifact List.base",
+        "filePath": "4-DND/Ors/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -14232,6 +14232,11 @@
             "timeKey": "21:15",
             "w": 2,
             "c": 26
+          },
+          {
+            "timeKey": "21:20",
+            "w": -1,
+            "c": -10
           }
         ],
         "id": 989
@@ -14249,8 +14254,8 @@
           },
           {
             "timeKey": "21:20",
-            "w": 3,
-            "c": 33
+            "w": 1,
+            "c": 16
           }
         ],
         "id": 990
@@ -14263,8 +14268,8 @@
         "changes": [
           {
             "timeKey": "21:20",
-            "w": 2,
-            "c": 27
+            "w": 1,
+            "c": 17
           }
         ],
         "id": 991
@@ -14296,6 +14301,36 @@
           }
         ],
         "id": 993
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 994
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Jester's Accomplice.md",
+        "wordCountStart": 53,
+        "charCountStart": 343,
+        "changes": [],
+        "id": 995
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Templates/ArtifTemp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 6,
+            "c": 67
+          }
+        ],
+        "id": 996
       }
     ]
   }
