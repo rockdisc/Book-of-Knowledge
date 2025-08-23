@@ -14202,7 +14202,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/0-SORT THIS/Sunny Side.md",
+        "filePath": "4-DND/Ors/2-Main/Sunny Side.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14352,8 +14352,33 @@
         "filePath": "Home.md",
         "wordCountStart": 119,
         "charCountStart": 798,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 13,
+            "c": 72
+          }
+        ],
         "id": 998
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "3-Journal/2025-08-22.md",
+        "wordCountStart": 218,
+        "charCountStart": 1279,
+        "changes": [
+          {
+            "timeKey": "00:20",
+            "w": 123,
+            "c": 590
+          },
+          {
+            "timeKey": "00:25",
+            "w": 4,
+            "c": 19
+          }
+        ],
+        "id": 999
       }
     ]
   }

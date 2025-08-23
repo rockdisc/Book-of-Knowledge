@@ -63,8 +63,7 @@
               "title": "A 8.3.25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-22"
             }
           },
           {
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-22.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-22"
             }
           },
           {
@@ -226,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-22"
             }
           }
         ],
@@ -268,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-22"
             }
           },
           {
@@ -330,12 +329,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "15df31851ab540ca",
+  "active": "2ff93a5ab68571f6",
   "lastOpenFiles": [
+    "Home.md",
     "3-Journal/2025-08-22.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
-    "2-Main/0-SORT THIS/Sunny Side.md",
+    "4-DND/Ors/2-Main/Sunny Side.md",
     "4-DND/Ors/Artifact List.base",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/Powers.md",
@@ -346,7 +346,6 @@
     "4-DND/Ors/2-Main/Jester's Accomplice.md",
     "4-DND/Ors/2-Main/Dream Veil.md",
     "4-DND/Ors/2-Main/Crystal Lens.md",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",

@@ -23,6 +23,7 @@ actions:
 
 > [!todo]  Today
 > - [ ] get cards for the Aff
+> - [ ] Research Colleges
 
 > [!warning]  Run On
  > - [ ] Work on/finish the Session planning 
@@ -31,6 +32,7 @@ actions:
 > [!info] Later 
 > - [ ] Debate Band Camp Send 
 > - [ ] Do Physics assignment
+> - [ ] Organize the notes I just titled main
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree 
