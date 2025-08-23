@@ -66,6 +66,20 @@
         "type": "FILES",
         "pattern": "4-DND/Ors/Theme Song List.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

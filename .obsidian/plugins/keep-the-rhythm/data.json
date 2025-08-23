@@ -241,7 +241,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Displacement.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Displacement.md",
         "wordCountStart": 19,
         "charCountStart": 133,
         "changes": [],
@@ -249,7 +249,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Dynamics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
         "wordCountStart": 202,
         "charCountStart": 1196,
         "changes": [
@@ -369,7 +369,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Conservation of Momentum.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Conservation of Momentum.md",
         "wordCountStart": 79,
         "charCountStart": 554,
         "changes": [],
@@ -377,7 +377,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Buoyancy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
         "wordCountStart": 39,
         "charCountStart": 277,
         "changes": [],
@@ -385,7 +385,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Average(Physics).md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Average(Physics).md",
         "wordCountStart": 26,
         "charCountStart": 146,
         "changes": [],
@@ -393,7 +393,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Average Angular Velocity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Average Angular Velocity.md",
         "wordCountStart": 10,
         "charCountStart": 91,
         "changes": [],
@@ -1928,7 +1928,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Electricity.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3190,7 +3190,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Acceleration.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Acceleration.md",
         "wordCountStart": 45,
         "charCountStart": 302,
         "changes": [],
@@ -3242,7 +3242,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Electricity.md",
         "wordCountStart": 264,
         "charCountStart": 1643,
         "changes": [
@@ -3482,7 +3482,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Centripetal Force.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Centripetal Force.md",
         "wordCountStart": 16,
         "charCountStart": 112,
         "changes": [],
@@ -3490,7 +3490,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Electricity.md",
         "wordCountStart": 462,
         "charCountStart": 2902,
         "changes": [],
@@ -3705,7 +3705,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electromagnetism.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Electromagnetism.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3910,7 +3910,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electromagnetism.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Electromagnetism.md",
         "wordCountStart": 4,
         "charCountStart": 50,
         "changes": [],
@@ -3918,7 +3918,7 @@
       },
       {
         "date": "2025-07-23",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Electricity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Electricity.md",
         "wordCountStart": 462,
         "charCountStart": 2902,
         "changes": [],
@@ -8857,7 +8857,7 @@
       },
       {
         "date": "2025-08-05",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Dynamics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
         "wordCountStart": 202,
         "charCountStart": 1232,
         "changes": [],
@@ -9117,7 +9117,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Displacement.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Displacement.md",
         "wordCountStart": 19,
         "charCountStart": 133,
         "changes": [],
@@ -9125,7 +9125,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Acceleration.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Acceleration.md",
         "wordCountStart": 45,
         "charCountStart": 302,
         "changes": [
@@ -12458,7 +12458,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Displacement.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Displacement.md",
         "wordCountStart": 19,
         "charCountStart": 131,
         "changes": [],
@@ -14357,6 +14357,11 @@
             "timeKey": "00:20",
             "w": 13,
             "c": 72
+          },
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 998
@@ -14379,6 +14384,22 @@
           }
         ],
         "id": 999
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 582,
+        "charCountStart": 3210,
+        "changes": [],
+        "id": 1000
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+        "wordCountStart": 39,
+        "charCountStart": 289,
+        "changes": [],
+        "id": 1001
       }
     ]
   }
