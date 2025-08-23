@@ -78,7 +78,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/MissingTown.png",
+        "filePath": "4-DND/6-Images/MissingTown.png",
         "wordCountStart": 1852721,
         "charCountStart": 9084918,
         "changes": [],
@@ -100,7 +100,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/TernaMap.jpg",
+        "filePath": "4-DND/6-Images/TernaMap.jpg",
         "wordCountStart": 649803,
         "charCountStart": 3018528,
         "changes": [],
@@ -495,7 +495,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/Aivon.png",
+        "filePath": "4-DND/6-Images/Aivon.png",
         "wordCountStart": 2731329,
         "charCountStart": 12557682,
         "changes": [],
@@ -519,7 +519,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/Humors.gif",
+        "filePath": "4-DND/6-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -1003,7 +1003,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "6-Images/AlchemyTrueImage.png",
+        "filePath": "4-DND/6-Images/AlchemyTrueImage.png",
         "wordCountStart": 7240,
         "charCountStart": 35778,
         "changes": [],
@@ -5687,7 +5687,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "6-Images/1373839.png",
+        "filePath": "4-DND/6-Images/1373839.png",
         "wordCountStart": 2461769,
         "charCountStart": 11377253,
         "changes": [],
@@ -12798,7 +12798,7 @@
       },
       {
         "date": "2025-08-19",
-        "filePath": "2-Main/0-SORT THIS/Untitled.base",
+        "filePath": "4-DND/Ors/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13184,7 +13184,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "6-Images/PolynomialClassification.png",
+        "filePath": "4-DND/6-Images/PolynomialClassification.png",
         "wordCountStart": 26241,
         "charCountStart": 123789,
         "changes": [],
@@ -13192,7 +13192,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "6-Images/Humors.gif",
+        "filePath": "4-DND/6-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -13768,7 +13768,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Untitled.base",
+        "filePath": "4-DND/Ors/Artifact List.base",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13787,7 +13787,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "2-Main/0-SORT THIS/Untitled.md",
+        "filePath": "Templates/ArtifTemp.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -13803,6 +13803,534 @@
           }
         ],
         "id": 963
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Home.md",
+        "wordCountStart": 113,
+        "charCountStart": 770,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": -6,
+            "c": -32
+          },
+          {
+            "timeKey": "17:10",
+            "w": 5,
+            "c": 30
+          },
+          {
+            "timeKey": "17:40",
+            "w": 7,
+            "c": 30
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 964
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "3-Journal/2025-08-22.md",
+        "wordCountStart": 242,
+        "charCountStart": 1493,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": -174,
+            "c": -1026
+          },
+          {
+            "timeKey": "17:10",
+            "w": 58,
+            "c": 303
+          },
+          {
+            "timeKey": "17:15",
+            "w": 52,
+            "c": 274
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:20",
+            "w": 0,
+            "c": 36
+          }
+        ],
+        "id": 965
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 240,
+        "charCountStart": 1492,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 966
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
+        "wordCountStart": 71,
+        "charCountStart": 455,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 967
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Sidereal Month.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 968
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synodic Month.md",
+        "wordCountStart": 24,
+        "charCountStart": 149,
+        "changes": [],
+        "id": 969
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Lunar Month.md",
+        "wordCountStart": 21,
+        "charCountStart": 142,
+        "changes": [],
+        "id": 970
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Synchronous Rotation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 5,
+            "c": 49
+          },
+          {
+            "timeKey": "17:20",
+            "w": 29,
+            "c": 184
+          }
+        ],
+        "id": 971
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Moon.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 36,
+            "c": 232
+          }
+        ],
+        "id": 972
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 10,
+            "c": 56
+          },
+          {
+            "timeKey": "17:25",
+            "w": 27,
+            "c": 163
+          },
+          {
+            "timeKey": "17:30",
+            "w": 25,
+            "c": 254
+          }
+        ],
+        "id": 973
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/Spanish/Spanish Subject Pronouns.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 16,
+            "c": 192
+          },
+          {
+            "timeKey": "17:30",
+            "w": 13,
+            "c": 212
+          }
+        ],
+        "id": 974
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "5-School/11/2-US History/Unit 1/Lesson 1.md",
+        "wordCountStart": 203,
+        "charCountStart": 1235,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 117,
+            "c": 676
+          },
+          {
+            "timeKey": "17:40",
+            "w": 6,
+            "c": 61
+          },
+          {
+            "timeKey": "17:45",
+            "w": 1,
+            "c": 12
+          },
+          {
+            "timeKey": "17:50",
+            "w": 1,
+            "c": 66
+          }
+        ],
+        "id": 975
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/John Smith.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 23,
+            "c": 147
+          }
+        ],
+        "id": 977
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/John Rolfe.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:50",
+            "w": 6,
+            "c": 39
+          },
+          {
+            "timeKey": "17:55",
+            "w": 13,
+            "c": 102
+          }
+        ],
+        "id": 978
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Mayflower.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 21,
+            "c": 145
+          },
+          {
+            "timeKey": "18:00",
+            "w": 14,
+            "c": 96
+          }
+        ],
+        "id": 979
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Anne Hutchinson.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 16,
+            "c": 100
+          }
+        ],
+        "id": 980
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Puritans.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 67,
+            "c": 441
+          }
+        ],
+        "id": 981
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Mayflower Compact.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 17,
+            "c": 107
+          },
+          {
+            "timeKey": "18:05",
+            "w": 4,
+            "c": 37
+          }
+        ],
+        "id": 982
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Eclipse.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 50,
+            "c": 308
+          },
+          {
+            "timeKey": "18:10",
+            "w": 91,
+            "c": 494
+          }
+        ],
+        "id": 983
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",
+        "wordCountStart": 52,
+        "charCountStart": 370,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 7,
+            "c": 34
+          }
+        ],
+        "id": 984
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+        "wordCountStart": 959,
+        "charCountStart": 5158,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 985
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+        "wordCountStart": 456,
+        "charCountStart": 2556,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 125,
+            "c": 640
+          }
+        ],
+        "id": 986
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "2-Main/0-SORT THIS/Sunny Side.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 11,
+            "c": 73
+          },
+          {
+            "timeKey": "21:10",
+            "w": 56,
+            "c": 308
+          },
+          {
+            "timeKey": "21:15",
+            "w": 40,
+            "c": 212
+          }
+        ],
+        "id": 987
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/Artifact List.base",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 988
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Awfully Cumbersome.md",
+        "wordCountStart": 88,
+        "charCountStart": 511,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 2,
+            "c": 26
+          },
+          {
+            "timeKey": "21:20",
+            "w": -1,
+            "c": -10
+          }
+        ],
+        "id": 989
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Blinding Gluttony.md",
+        "wordCountStart": 26,
+        "charCountStart": 162,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "21:20",
+            "w": 1,
+            "c": 16
+          }
+        ],
+        "id": 990
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Chain of Unfortunate Events.md",
+        "wordCountStart": 72,
+        "charCountStart": 400,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 1,
+            "c": 17
+          }
+        ],
+        "id": 991
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Crystal Lens.md",
+        "wordCountStart": 30,
+        "charCountStart": 196,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 3,
+            "c": 34
+          }
+        ],
+        "id": 992
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Dream Veil.md",
+        "wordCountStart": 36,
+        "charCountStart": 192,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 2,
+            "c": 19
+          }
+        ],
+        "id": 993
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [],
+        "id": 994
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "4-DND/Ors/2-Main/Jester's Accomplice.md",
+        "wordCountStart": 53,
+        "charCountStart": 343,
+        "changes": [],
+        "id": 995
+      },
+      {
+        "date": "2025-08-22",
+        "filePath": "Templates/ArtifTemp.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 6,
+            "c": 67
+          }
+        ],
+        "id": 996
       }
     ]
   }

@@ -7,15 +7,7 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "obsidian-statusbar-pomo:quit-satusbar-pomo",
-      "icon": "quit",
-      "name": "Status Bar Pomodoro Timer: Quit timer",
-      "mode": "any",
-      "color": "#000000"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
