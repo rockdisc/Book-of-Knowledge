@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/OrChar.md",
+                "file": "3-Journal/2025-08-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OrChar"
+              "title": "2025-08-23"
+            }
+          },
+          {
+            "id": "2bfc1dd0dafa4680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/OrChar.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OrChar"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -136,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/OrChar.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of OrChar"
+              "title": "Graph of Home"
             }
           },
           {
@@ -173,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/OrChar.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OrChar"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -229,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/OrChar.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OrChar"
+              "title": "Outline of Home"
             }
           },
           {
@@ -291,14 +306,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "15df31851ab540ca",
+  "active": "2bfc1dd0dafa4680",
   "lastOpenFiles": [
+    "3-Journal/2025-08-23.md",
+    "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
     "4-DND/Ors/2-Main/In Dreams of Many.md",
     "4-DND/Ors/2-Main/Endless Spring.md",
-    "3-Journal/2025-08-23.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
-    "Templates/OrChar.md",
     "Home.md",
     "4-DND/Ors/Artifact List.base",
     "4-DND/Ors/2-Main/Augurs.md",
