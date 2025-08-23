@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "A 8.3.25"
             }
+          },
+          {
+            "id": "2e4790dbd794856d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "4-DND/Ors/Act 1 Map and Breakdown.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Act 1 Map and Breakdown"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A 8.3.25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -172,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.3.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -209,12 +221,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A 8.3.25"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -251,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A 8.3.25"
+              "title": "Outline of Home"
             }
           },
           {
@@ -315,15 +327,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "510f4bf099ab4fbf",
+  "active": "13a4d4c6dd1e1544",
   "lastOpenFiles": [
-    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+    "4-DND/Ors/Act 1 Map and Breakdown.md",
+    "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "2-Main/0-SORT THIS/Vextra the Trader.md",
     "2-Main/0-SORT THIS/OrChar.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
     "3-Journal/2025-08-23.md",
-    "Home.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
     "2-Main/Misc/Writing.md",
     "1-Rough/Current/UMKC.md",
@@ -348,7 +361,6 @@
     "4-DND/Ors/2-Main/Chain of Unfortunate Events.md",
     "4-DND/Ors/2-Main/Jester's Accomplice.md",
     "4-DND/Ors/2-Main/Dream Veil.md",
-    "4-DND/Ors/2-Main/Crystal Lens.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
     "4-DND/6-Images/MoonPhases.png",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
