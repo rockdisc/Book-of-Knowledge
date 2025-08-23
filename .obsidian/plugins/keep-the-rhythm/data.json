@@ -14504,8 +14504,8 @@
           },
           {
             "timeKey": "17:25",
-            "w": 3,
-            "c": 16
+            "w": 78,
+            "c": 421
           }
         ],
         "id": 1000
@@ -14795,6 +14795,14 @@
         "charCountStart": 371,
         "changes": [],
         "id": 1022
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/2-Main/Elvagars.md",
+        "wordCountStart": 154,
+        "charCountStart": 898,
+        "changes": [],
+        "id": 1023
       }
     ]
   }
