@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -318,6 +318,8 @@
   },
   "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion",
@@ -353,8 +355,6 @@
     "5-School/11/4-HAPC/Unit 1/1.1 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.2 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.3 hapc.pdf",
-    "5-School/11/6-Astronomy/Unit 1",
-    "5-School/11/Unit 1",
     "4-DND/6-Images/Humors.gif",
     "4-DND/6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

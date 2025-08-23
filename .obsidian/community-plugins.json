@@ -1,6 +1,5 @@
 [
   "table-editor-obsidian",
-  "obsidian-banners",
   "better-word-count",
   "callout-manager",
   "cmdr",
@@ -25,5 +24,6 @@
   "templater-obsidian",
   "zen",
   "obsidian-style-settings",
-  "live-wallpaper"
+  "live-wallpaper",
+  "obsidian-banners"
 ]

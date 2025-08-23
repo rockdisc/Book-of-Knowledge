@@ -369,7 +369,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Conservation of Momentum.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Conservation of Momentum.md",
         "wordCountStart": 79,
         "charCountStart": 554,
         "changes": [],
@@ -377,7 +377,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
         "wordCountStart": 39,
         "charCountStart": 277,
         "changes": [],
@@ -2224,7 +2224,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Fluids.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Fluids.md",
         "wordCountStart": 37,
         "charCountStart": 232,
         "changes": [],
@@ -3498,7 +3498,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Entropy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics/Entropy.md",
         "wordCountStart": 92,
         "charCountStart": 553,
         "changes": [],
@@ -10172,7 +10172,7 @@
       },
       {
         "date": "2025-08-08",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Entropy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics/Entropy.md",
         "wordCountStart": 92,
         "charCountStart": 568,
         "changes": [],
@@ -14395,7 +14395,7 @@
       },
       {
         "date": "2025-08-23",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Buoyancy.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
         "wordCountStart": 39,
         "charCountStart": 289,
         "changes": [],
