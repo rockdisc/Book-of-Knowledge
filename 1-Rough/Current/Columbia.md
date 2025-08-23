@@ -3,14 +3,14 @@
 ## Location
 - Temp colder than here 
 - Urban 
-- Distance
+- 20hr car, 4 hr flight 
 ## Campus
-- Clubs 
+- Clubs 500
 - Looks Really Good 
-- Size
+- Size large 
 ## Classes
-- Astrophysics 
-- Comp Sci 
-- Debate
+- Astrophysics Good research 
+- Comp Sci good 
+- Debate decent 
 # Price
 $40k

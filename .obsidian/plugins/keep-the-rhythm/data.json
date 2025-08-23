@@ -14444,8 +14444,8 @@
         "changes": [
           {
             "timeKey": "14:25",
-            "w": 7,
-            "c": 16
+            "w": 18,
+            "c": 67
           }
         ],
         "id": 1005
@@ -14455,7 +14455,18 @@
         "filePath": "1-Rough/Current/UMKC.md",
         "wordCountStart": 15,
         "charCountStart": 158,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 4,
+            "c": 2
+          },
+          {
+            "timeKey": "14:30",
+            "w": 13,
+            "c": 65
+          }
+        ],
         "id": 1006
       }
     ]

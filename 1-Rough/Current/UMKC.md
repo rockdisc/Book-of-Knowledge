@@ -1,16 +1,16 @@
 #College
 
 ## Location
-- Temp 
+- Temp Here
 - Urban 
-- Distance
+- Distance here 
 ## Campus
-- Clubs 
-- Looks 
-- Size
+- Clubs 300
+- Looks bad, like a modern soulless design 
+- Size med, 10k
 ## Classes
-- Astrophysics 
-- Comp Sci 
-- Debate
+- Astrophysics Decent 
+- Comp Sci Decent 
+- Debate Decent 
 # Price
-$ 
+$13k 
