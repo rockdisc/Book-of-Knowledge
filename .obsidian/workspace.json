@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A 8.3.25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.3.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A 8.3.25"
+              "title": "Outgoing links from Home"
             }
           }
         ],
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A 8.3.25"
+              "title": "Outline of Home"
             }
           },
           {
@@ -330,8 +330,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "510f4bf099ab4fbf",
+  "active": "d957bd2c55b271a6",
   "lastOpenFiles": [
+    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "3-Journal/2025-08-22.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
@@ -362,7 +363,6 @@
     "2-Main/0-SORT THIS/Untitled.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",
-    "2-Main/0-SORT THIS/1.4 hapc.md",
     "5-School/11/4-HAPC/Unit 1/1.1 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.2 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.3 hapc.pdf",
