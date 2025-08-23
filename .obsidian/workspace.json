@@ -56,6 +56,33 @@
             }
           },
           {
+            "id": "c8c30e286a41999c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "4-DND/Ors/Artifact List.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Artifact List"
+            }
+          },
+          {
+            "id": "ee5e17176390719d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Keen Eye.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keen Eye"
+            }
+          },
+          {
             "id": "d3bb5e1d1268ba25",
             "type": "leaf",
             "state": {
@@ -70,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Keen Eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Keen Eye"
             }
           },
           {
@@ -186,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Keen Eye.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Keen Eye"
             }
           },
           {
@@ -223,12 +250,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Keen Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Keen Eye"
             }
           }
         ],
@@ -265,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Keen Eye.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Keen Eye"
             }
           },
           {
@@ -329,11 +356,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d3bb5e1d1268ba25",
+  "active": "ee5e17176390719d",
   "lastOpenFiles": [
-    "3-Journal/2025-08-23.md",
-    "Home.md",
+    "4-DND/Ors/Artifact List.base",
+    "2-Main/0-SORT THIS/Keen Eye.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "Home.md",
+    "3-Journal/2025-08-23.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "2-Main/0-SORT THIS/Vextra the Trader.md",
@@ -354,15 +383,12 @@
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion",
     "3-Journal/2025-08/2025-08-22.md",
     "4-DND/Ors/2-Main/Sunny Side.md",
-    "4-DND/Ors/Artifact List.base",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/Powers.md",
     "Templates/ArtifTemp.md",
     "4-DND/Ors/2-Main/Awfully Cumbersome.md",
     "4-DND/Ors/2-Main/Blinding Gluttony.md",
     "4-DND/Ors/2-Main/Chain of Unfortunate Events.md",
-    "4-DND/Ors/2-Main/Jester's Accomplice.md",
-    "4-DND/Ors/2-Main/Dream Veil.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
     "4-DND/6-Images/MoonPhases.png",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
