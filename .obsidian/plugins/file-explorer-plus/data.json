@@ -80,6 +80,13 @@
         "type": "FILES",
         "pattern": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

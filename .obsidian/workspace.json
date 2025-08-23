@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buoyancy"
+              "title": "A 8.3.25"
             }
           }
         ],
@@ -62,7 +62,7 @@
       {
         "id": "5e00736ba802a68f",
         "type": "tabs",
-        "dimension": 81.75182481751825,
+        "dimension": 71.53284671532847,
         "children": [
           {
             "id": "702dfa8f1d515b11",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math",
+                "query": "[\"Owner\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
       {
         "id": "7ddc938e953e33ef",
         "type": "tabs",
-        "dimension": 18.248175182481752,
+        "dimension": 28.467153284671532,
         "children": [
           {
             "id": "c2b32a7e9d534f02",
@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1197.5
+    "width": 309.5
   },
   "right": {
     "id": "9571311539b15aec",
@@ -146,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Buoyancy"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,7 +164,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Buoyancy"
+              "title": "Graph view"
             }
           },
           {
@@ -202,26 +200,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Buoyancy"
-            }
-          },
-          {
-            "id": "f2fd2ab5cc8c17af",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -258,13 +241,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Buoyancy"
+              "title": "Outline"
             }
           },
           {
@@ -317,15 +299,20 @@
       "keep-the-rhythm:Word Count Stats": true,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "omnisearch:Omnisearch": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": true,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
+    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Hook's Law.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Potential Difference.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism",
-    "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion",
     "Home.md",
     "3-Journal/2025-08/2025-08-22.md",
@@ -343,7 +330,7 @@
     "4-DND/Ors/2-Main/Crystal Lens.md",
     "2-Main/3-Resources/3-Humanities/Spanish/Spanish Conjugation.md",
     "2-Main/3-Resources/3-Humanities/Spanish",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Galileo Galilei.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Eclipse.md",
     "2-Main/3-Resources/3-Humanities/History/US/Puritans.md",
     "2-Main/3-Resources/3-Humanities/History/US/Mayflower Compact.md",
@@ -351,14 +338,10 @@
     "2-Main/3-Resources/3-Humanities/History/US/Anne Hutchinson.md",
     "2-Main/3-Resources/3-Humanities/History/US/Mayflower.md",
     "2-Main/3-Resources/3-Humanities/History/US/John Rolfe.md",
-    "2-Main/3-Resources/3-Humanities/History/US/John Smith.md",
-    "5-School/11/2-US History/Unit 1/William Bradford, The Puritan Ethic, & The Mayflower Compact.md",
     "4-DND/6-Images/MoonPhases.png",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.1 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.2 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.3 hapc.pdf",
     "4-DND/6-Images/Humors.gif",
     "4-DND/6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

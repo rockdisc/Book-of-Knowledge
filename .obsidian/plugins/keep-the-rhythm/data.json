@@ -233,7 +233,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/System(Physics).md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/System(Physics).md",
         "wordCountStart": 34,
         "charCountStart": 227,
         "changes": [],
@@ -3291,7 +3291,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Potential Difference.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Potential Difference.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3337,7 +3337,7 @@
       },
       {
         "date": "2025-07-21",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Gravity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Gravity.md",
         "wordCountStart": 64,
         "charCountStart": 374,
         "changes": [],
@@ -3506,7 +3506,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Gravity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Gravity.md",
         "wordCountStart": 64,
         "charCountStart": 374,
         "changes": [],
@@ -3514,7 +3514,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/System(Physics).md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/System(Physics).md",
         "wordCountStart": 34,
         "charCountStart": 227,
         "changes": [],
@@ -3522,7 +3522,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/The Laws of Thermodynamics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics/The Laws of Thermodynamics.md",
         "wordCountStart": 349,
         "charCountStart": 2151,
         "changes": [],
@@ -3647,7 +3647,7 @@
       },
       {
         "date": "2025-07-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Magnetism.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Magnetism.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -9139,7 +9139,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Kinematics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
         "wordCountStart": 221,
         "charCountStart": 1500,
         "changes": [
@@ -10421,7 +10421,7 @@
       },
       {
         "date": "2025-08-10",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Kinematics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
         "wordCountStart": 231,
         "charCountStart": 1510,
         "changes": [],
@@ -12053,7 +12053,7 @@
       },
       {
         "date": "2025-08-15",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Normal Force.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Normal Force.md",
         "wordCountStart": 20,
         "charCountStart": 126,
         "changes": [],
@@ -12417,7 +12417,7 @@
       },
       {
         "date": "2025-08-18",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Kinematics.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
         "wordCountStart": 231,
         "charCountStart": 1510,
         "changes": [],
@@ -14155,7 +14155,7 @@
       },
       {
         "date": "2025-08-22",
-        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/Galileo Galilei.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Galileo Galilei.md",
         "wordCountStart": 52,
         "charCountStart": 370,
         "changes": [
@@ -14400,6 +14400,22 @@
         "charCountStart": 289,
         "changes": [],
         "id": 1001
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Hook's Law.md",
+        "wordCountStart": 31,
+        "charCountStart": 226,
+        "changes": [],
+        "id": 1002
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Potential Difference.md",
+        "wordCountStart": 42,
+        "charCountStart": 283,
+        "changes": [],
+        "id": 1003
       }
     ]
   }
