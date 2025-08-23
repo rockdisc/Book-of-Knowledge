@@ -12690,7 +12690,6 @@ had
 heard
 home
 heat
-handing
 horror
 him
 he
@@ -12705,11 +12704,9 @@ hot
 hundreds
 hoarse
 herding
-hands
 hard
 heatmap
 hear
-hand
 happening
 horrific
 heroic
@@ -13578,8 +13575,6 @@ honourable
 heart
 honor
 honest
-hang
-hanged
 hero
 headed
 helps
@@ -13587,7 +13582,6 @@ happiness
 hills
 hunderds
 heavenly
-handsome
 hoping
 heating
 humans
@@ -13607,7 +13601,6 @@ harvest
 highest
 held
 hill
-handed
 host
 heal
 horses
@@ -51517,7 +51510,6 @@ HhW
 HUX
 HtL
 HGX
-HaN
 HCz
 HhjL
 HhkI
@@ -52063,7 +52055,6 @@ Hermia
 Helena
 Hero
 However
-Hands
 Hearing
 History
 Heat
@@ -52421,7 +52412,6 @@ HvU
 Hcx
 Hhl
 Hnz
-Hand
 Honey
 Honeysuckle
 Hope
@@ -52436,7 +52426,6 @@ Has
 Hard
 Honestly
 Hudson
-Handycam
 Hydra
 Hippolyte
 Hesperides

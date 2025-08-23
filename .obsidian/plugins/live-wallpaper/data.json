@@ -4,20 +4,15 @@
   "playbackSpeed": 1,
   "Quality": false,
   "Reposition": false,
-  "opacity": 11,
+  "opacity": 12,
   "zIndex": 5,
   "blurRadius": 8,
-  "brightness": 100,
+  "brightness": 122,
   "HistoryPaths": [
     {
       "path": "plugins/live-wallpaper/wallpapers/history/Sefirah_Castle.jpg",
       "type": "image",
       "fileName": "Sefirah_Castle.jpg"
-    },
-    {
-      "path": "plugins/live-wallpaper/wallpapers/history/Ewalp.png",
-      "type": "image",
-      "fileName": "Ewalp.png"
     }
   ],
   "mobileBackgroundWidth": "100vw",
