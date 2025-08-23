@@ -27,4 +27,7 @@ Have materials and symbols from all religions.
 
 ## Lived Religion 
 
-What do people do so show their religion, every person is different but there could be recent trends. Some people might endorse these trends, others may not. The ruling classes can even make them beni
+What do people do so show their religion, every person is different but there could be recent trends. Some people might endorse these trends, others may not. The ruling classes can even make them beneficial to them. People can know that the things that they are doing do not mean anything, but will do it anyway in hopes they might. 
+
+> [!tip] Recommendation 
+> The higher ranking people in churches may feel this way. 
