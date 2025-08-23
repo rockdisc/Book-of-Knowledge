@@ -14395,6 +14395,11 @@
             "timeKey": "15:15",
             "w": 1,
             "c": 4
+          },
+          {
+            "timeKey": "15:40",
+            "w": 75,
+            "c": 409
           }
         ],
         "id": 1000
@@ -14538,6 +14543,14 @@
           }
         ],
         "id": 1010
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
+        "wordCountStart": 959,
+        "charCountStart": 5162,
+        "changes": [],
+        "id": 1011
       }
     ]
   }
