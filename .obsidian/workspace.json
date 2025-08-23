@@ -95,16 +95,6 @@
             }
           },
           {
-            "id": "3b2375e3037c4b8e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "2e316f1d2af25438",
             "type": "leaf",
             "pinned": true,
@@ -218,6 +208,20 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Buoyancy"
+            }
+          },
+          {
+            "id": "f2fd2ab5cc8c17af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],

@@ -4,9 +4,7 @@
   "callout-manager",
   "cmdr",
   "obsidian-completr",
-  "obsidian-doubleshift",
   "obsidian-excalidraw-plugin",
-  "fantasy-name",
   "file-explorer-plus",
   "obsidian-git",
   "homepage",
@@ -17,13 +15,11 @@
   "graph-nested-tags",
   "omnisearch",
   "obsidian-paste-image-rename",
-  "url-into-selection",
   "quickadd",
-  "cycle-through-panes",
   "tag-wrangler",
   "templater-obsidian",
   "zen",
   "obsidian-style-settings",
-  "live-wallpaper",
-  "obsidian-banners"
+  "obsidian-banners",
+  "live-wallpaper"
 ]
