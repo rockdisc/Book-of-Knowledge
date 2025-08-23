@@ -65,8 +65,7 @@
       "2025-08-04",
       "2025-08-06",
       "2025-08-11",
-      "2025-08-21",
-      "2025-08-23"
+      "2025-08-21"
     ],
     "dailyActivity": [
       {
@@ -14666,6 +14665,11 @@
             "timeKey": "16:05",
             "w": 0,
             "c": 13
+          },
+          {
+            "timeKey": "17:55",
+            "w": 2,
+            "c": 13
           }
         ],
         "id": 1010
@@ -14675,7 +14679,13 @@
         "filePath": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
         "wordCountStart": 959,
         "charCountStart": 5162,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": -959,
+            "c": -5162
+          }
+        ],
         "id": 1011
       },
       {
@@ -14717,6 +14727,11 @@
             "timeKey": "17:45",
             "w": 1,
             "c": 9
+          },
+          {
+            "timeKey": "17:55",
+            "w": 1,
+            "c": 11
           }
         ],
         "id": 1013
@@ -14747,7 +14762,7 @@
       },
       {
         "date": "2025-08-23",
-        "filePath": "2-Main/0-SORT THIS/In Dreams of Many.md",
+        "filePath": "4-DND/Ors/2-Main/In Dreams of Many.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14766,7 +14781,7 @@
       },
       {
         "date": "2025-08-23",
-        "filePath": "2-Main/0-SORT THIS/Endless Spring.md",
+        "filePath": "4-DND/Ors/2-Main/Endless Spring.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14845,7 +14860,7 @@
       },
       {
         "date": "2025-08-23",
-        "filePath": "2-Main/0-SORT THIS/Mirror of Narcissus.md",
+        "filePath": "4-DND/Ors/2-Main/Mirror of Narcissus.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
