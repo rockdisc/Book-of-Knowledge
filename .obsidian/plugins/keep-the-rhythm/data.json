@@ -14410,6 +14410,11 @@
             "timeKey": "15:50",
             "w": 156,
             "c": 808
+          },
+          {
+            "timeKey": "15:55",
+            "w": 85,
+            "c": 407
           }
         ],
         "id": 1000
@@ -14572,9 +14577,33 @@
             "timeKey": "15:50",
             "w": 10,
             "c": 93
+          },
+          {
+            "timeKey": "15:55",
+            "w": -10,
+            "c": -93
           }
         ],
         "id": 1012
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "2-Main/0-SORT THIS/OrChar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 9,
+            "c": 96
+          },
+          {
+            "timeKey": "15:55",
+            "w": 2,
+            "c": 6
+          }
+        ],
+        "id": 1013
       }
     ]
   }
