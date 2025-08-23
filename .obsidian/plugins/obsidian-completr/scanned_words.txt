@@ -19858,6 +19858,7 @@ boa
 bpNG
 booming
 bogged
+beaten
 so
 sand
 spend
@@ -21774,6 +21775,7 @@ strategy
 servitude
 stagnant
 slouch
+sniffing
 vast
 very
 vibrant
@@ -24417,6 +24419,8 @@ discoveries
 dictatorship
 deactivate
 degrading
+disheveled
+defeat
 and
 anything
 am
@@ -34736,6 +34740,7 @@ oaK
 oRT
 oel
 oracle
+orc
 Then
 The
 This
