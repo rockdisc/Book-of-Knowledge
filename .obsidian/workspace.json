@@ -49,7 +49,8 @@
               "title": "A 8.3.25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             }
           },
           {
-            "id": "6fc6b46067329bca",
+            "id": "2e316f1d2af25438",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for A 8.3.25"
             }
           },
           {
@@ -174,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of A 8.3.25"
             }
           },
           {
@@ -211,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from A 8.3.25"
             }
           }
         ],
@@ -253,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of A 8.3.25"
             }
           },
           {
@@ -315,10 +316,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "510f4bf099ab4fbf",
   "lastOpenFiles": [
-    "3-Journal/2025-08/2025-08-22.md",
     "Home.md",
+    "3-Journal/2025-08/2025-08-22.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "4-DND/Ors/2-Main/Sunny Side.md",
