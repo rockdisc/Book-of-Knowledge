@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Leif Vectaris.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Leif Vectaris"
+              "title": "Backlinks for A 8.24.25"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Leif Vectaris.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +291,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Leif Vectaris"
+              "title": "Graph of A 8.24.25"
             }
           },
           {
@@ -300,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Leif Vectaris.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leif Vectaris"
+              "title": "Outgoing links from A 8.24.25"
             }
           },
           {
@@ -336,10 +336,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Leif Vectaris.md"
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Leif Vectaris"
+              "title": "File properties for A 8.24.25"
             }
           },
           {
@@ -383,13 +383,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Leif Vectaris.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Leif Vectaris"
+              "title": "Outline of A 8.24.25"
             }
           }
         ],
@@ -419,11 +419,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6e3a616767c96917",
+  "active": "5cf7dcce27dc4107",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Leif Vectaris.md",
     "4-DND/Ors/Variables.md",
     "2-Main/0-SORT THIS/Idor.md",
-    "2-Main/0-SORT THIS/Leif Vectaris.md",
     "4-DND/Ors/2-Main/Bon.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
     "2-Main/0-SORT THIS/Characters.base",
