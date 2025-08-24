@@ -5749,7 +5749,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "1-Rough/Current/UMKC.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/UMKC.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -14598,7 +14598,7 @@
       },
       {
         "date": "2025-08-23",
-        "filePath": "1-Rough/Current/UMKC.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/UMKC.md",
         "wordCountStart": 15,
         "charCountStart": 158,
         "changes": [
@@ -14953,6 +14953,30 @@
         "charCountStart": 1003,
         "changes": [],
         "id": 1027
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "1-Rough/Current/Cambridge.md",
+        "wordCountStart": 31,
+        "charCountStart": 221,
+        "changes": [],
+        "id": 1028
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "1-Rough/Current/Columbia.md",
+        "wordCountStart": 33,
+        "charCountStart": 225,
+        "changes": [],
+        "id": 1029
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/UMKC.md",
+        "wordCountStart": 32,
+        "charCountStart": 225,
+        "changes": [],
+        "id": 1030
       }
     ]
   }
