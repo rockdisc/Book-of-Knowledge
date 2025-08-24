@@ -63,8 +63,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-23"
             }
           },
           {
@@ -179,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-23"
             }
           },
           {
@@ -216,12 +215,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-23"
             }
           }
         ],
@@ -238,10 +237,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-08-23.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-08-23"
             }
           },
           {
@@ -307,12 +306,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "efba328fdd13726a",
+  "active": "15df31851ab540ca",
   "lastOpenFiles": [
-    "Templates/OrChar.md",
-    "Home.md",
-    "3-Journal/2025-08-23.md",
     "4-DND/Ors/Variables.md",
+    "Home.md",
+    "Templates/OrChar.md",
+    "3-Journal/2025-08-23.md",
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
     "4-DND/Ors/2-Main/In Dreams of Many.md",
     "4-DND/Ors/2-Main/Endless Spring.md",

@@ -19,7 +19,7 @@ actions:
 
 ```
 
-## Todo
+## To-do
 
 > [!todo]  Today
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
