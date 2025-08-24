@@ -7,7 +7,8 @@
     "dashboard",
     "timesNewRoman"
   ],
-  "textFontFamily": "American Typewriter",
+  "textFontFamily": "",
   "showViewHeader": true,
-  "interfaceFontFamily": "American Typewriter"
+  "interfaceFontFamily": "",
+  "theme": "obsidian"
 }

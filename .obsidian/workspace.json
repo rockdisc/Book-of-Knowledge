@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Variables"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,7 +164,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/Variables.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Variables"
+              "title": "Graph view"
             }
           },
           {
@@ -202,12 +200,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variables"
+              "title": "Outgoing links"
             }
           },
           {
@@ -253,21 +250,6 @@
             }
           },
           {
-            "id": "c8e19be0dd7feaf8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "4-DND/Ors/Variables.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Variables"
-            }
-          },
-          {
             "id": "ee00dd4020b2fb78",
             "type": "leaf",
             "state": {
@@ -310,11 +292,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "80fe3867140bec7b",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
+    "Home.md",
     "4-DND/Ors/Variables.md",
     "3-Journal/2025-08-23.md",
-    "Home.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
     "4-DND/Ors/2-Main/In Dreams of Many.md",
