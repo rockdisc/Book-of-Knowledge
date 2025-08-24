@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A 8.24.25"
+              "title": "Backlinks for DM Screen"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +291,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.24.25"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -300,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A 8.24.25"
+              "title": "Outgoing links from DM Screen"
             }
           },
           {
@@ -336,10 +336,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md"
+                "file": "4-DND/DM Screen.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for A 8.24.25"
+              "title": "File properties for DM Screen"
             }
           },
           {
@@ -383,13 +383,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "4-DND/DM Screen.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A 8.24.25"
+              "title": "Outline of DM Screen"
             }
           }
         ],
@@ -419,15 +419,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5cf7dcce27dc4107",
+  "active": "80b51cbd3538914b",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Idor.md",
+    "2-Main/0-SORT THIS/Characters.base",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+    "2-Main/0-SORT THIS/Idor.md",
     "4-DND/DM Screen.canvas",
     "2-Main/0-SORT THIS/Leif Vectaris.md",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/2-Main/Bon.md",
-    "2-Main/0-SORT THIS/Characters.base",
     "4-DND/Ors/2-Main/Alex.md",
     "4-DND/Ors/2-Main/Zayn.md",
     "Home.md",
