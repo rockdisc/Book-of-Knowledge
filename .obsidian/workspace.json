@@ -159,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-23"
+              "title": "Backlinks"
             }
           },
           {
@@ -178,7 +177,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-23"
+              "title": "Graph view"
             }
           },
           {
@@ -215,12 +213,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-23"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -236,11 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3-Journal/2025-08-23.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2025-08-23"
+              "title": "File properties"
             }
           },
           {
@@ -303,10 +298,11 @@
       "keep-the-rhythm:Word Count Stats": true,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "omnisearch:Omnisearch": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": true,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "9daba86ed10fde9b",
+  "active": "c2b32a7e9d534f02",
   "lastOpenFiles": [
     "3-Journal/2025-08-23.md",
     "4-DND/Ors/Variables.md",
