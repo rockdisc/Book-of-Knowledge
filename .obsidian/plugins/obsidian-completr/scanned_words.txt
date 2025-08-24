@@ -4225,6 +4225,7 @@ Castletown
 Cumbersome
 Cutting
 Characters
+CHANGE
 Modern
 Mini
 My
@@ -7260,6 +7261,7 @@ Smith
 Scribe
 Syncretism
 SHOLDERS
+Strategies
 Interesting
 In
 If
@@ -14035,6 +14037,8 @@ huX
 htjw
 hitch
 hushed
+hypotheses
+humanities
 never
 nothing
 not
@@ -16785,6 +16789,8 @@ iOS
 imos
 intention
 inFolder
+interpret
+informative
 to
 the
 there
@@ -18294,6 +18300,7 @@ telescope
 titled
 tire
 technically
+tables
 be
 bright
 but
@@ -25917,6 +25924,9 @@ avenged
 appeal
 adjectives
 ambush
+annotate
+argumentative
+approximately
 mirages
 miles
 man
@@ -28959,6 +28969,7 @@ farms
 flintlock
 fours
 flight
+fixing
 can
 covered
 clad
@@ -30751,6 +30762,9 @@ cons
 consult
 consequences
 checker
+calc
+context
+commas
 entire
 endless
 everything
@@ -33613,6 +33627,7 @@ lci
 lJp
 lZe
 labels
+literary
 on
 other
 of
@@ -40501,6 +40516,7 @@ relaxed
 ruling
 rounds
 replace
+rush
 yellow
 yet
 you
@@ -44468,6 +44484,9 @@ proper
 passes
 personality
 pseudoscience
+pre
+passages
+prose
 kept
 know
 knew
@@ -47048,6 +47067,7 @@ NOlt
 Nosotro
 Nicaragua
 Natives
+NOW
 According
 Albert
 Avert

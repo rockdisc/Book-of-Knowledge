@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+                "file": "2-Main/3-Resources/1-General Knowledge/ACT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uni of Wisconsin-Madison"
+              "title": "ACT"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+                "file": "2-Main/3-Resources/1-General Knowledge/ACT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uni of Wisconsin-Madison"
+              "title": "Backlinks for ACT"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+                "file": "2-Main/3-Resources/1-General Knowledge/ACT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Uni of Wisconsin-Madison"
+              "title": "Graph of ACT"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+                "file": "2-Main/3-Resources/1-General Knowledge/ACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uni of Wisconsin-Madison"
+              "title": "Outgoing links from ACT"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md"
+                "file": "2-Main/3-Resources/1-General Knowledge/ACT.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Uni of Wisconsin-Madison"
+              "title": "File properties for ACT"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+                "file": "2-Main/3-Resources/1-General Knowledge/ACT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Uni of Wisconsin-Madison"
+              "title": "Outline of ACT"
             }
           }
         ],
@@ -292,10 +292,11 @@
   },
   "active": "070c899a34164d15",
   "lastOpenFiles": [
-    "1-Rough/Current/Uni of New Mexico.md",
-    "1-Rough/Current/Uni of Wisconsin-Madison.md",
-    "1-Rough/Current/Tufts Uni.md",
     "Home.md",
+    "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
+    "1-Rough/Current/Uni of Wisconsin-Madison.md",
+    "1-Rough/Current/Uni of New Mexico.md",
+    "1-Rough/Current/Tufts Uni.md",
     "1-Rough/Current/Untitled",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Cambridge.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Columbia.md",
@@ -319,7 +320,6 @@
     "2-Main/0-SORT THIS/Vextra the Trader.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
-    "2-Main/Misc/Writing.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
