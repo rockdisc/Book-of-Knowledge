@@ -63,6 +63,23 @@
             }
           },
           {
+            "id": "80b51cbd3538914b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4-DND/DM Screen.canvas",
+                "viewState": {
+                  "x": 1060,
+                  "y": 150,
+                  "zoom": -0.8368916600996649
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DM Screen"
+            }
+          },
+          {
             "id": "c8dab2b86a2a6230",
             "type": "leaf",
             "state": {
@@ -362,12 +379,12 @@
   },
   "active": "8efec01cb7d56f13",
   "lastOpenFiles": [
-    "4-DND/Ors/2-Main/Adamzka.md",
-    "2-Main/0-SORT THIS/Characters.base",
     "Templates/OrChar.md",
+    "4-DND/Ors/2-Main/Adamzka.md",
+    "4-DND/DM Screen.canvas",
+    "2-Main/0-SORT THIS/Characters.base",
     "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
-    "4-DND/DM Screen.canvas",
     "3-Journal/2025-08-24.md",
     "2-Main/3-Resources/1-General Knowledge/ACT.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
@@ -391,7 +408,6 @@
     "1-Rough/Arouran Users.md",
     "4-DND/Ors/2-Main/Shrouding Ring.md",
     "4-DND/Ors/2-Main/Slumbering Veil.md",
-    "4-DND/Ors/Act 1 Map and Breakdown.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",

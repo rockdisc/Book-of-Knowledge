@@ -15109,7 +15109,13 @@
         "filePath": "4-DND/Ors/2-Main/Adamzka.md",
         "wordCountStart": 467,
         "charCountStart": 2450,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 4,
+            "c": 16
+          }
+        ],
         "id": 1041
       }
     ]

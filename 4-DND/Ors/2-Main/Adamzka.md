@@ -1,5 +1,7 @@
 ---
 Name: Yaga
+Type: "[[Nixie]]"
+Faction: Orsian
 ---
 #Ors/Orsian/player 
 
