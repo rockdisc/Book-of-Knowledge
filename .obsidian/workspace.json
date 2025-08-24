@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A 8.24.25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.24.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -200,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A 8.24.25"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -236,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for A 8.24.25"
+              "title": "File properties for Home"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A 8.24.25"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -319,8 +319,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5cf7dcce27dc4107",
+  "active": "f0014db699bd8862",
   "lastOpenFiles": [
+    "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
     "4-DND/DM Screen.canvas",
     "Home.md",
     "3-Journal/2025-08-24.md",
@@ -339,7 +340,6 @@
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
     "4-DND/Ors/2-Main/In Dreams of Many.md",
     "4-DND/Ors/2-Main/Endless Spring.md",
-    "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
     "4-DND/Ors/Artifact List.base",
     "4-DND/Ors/2-Main/Augurs.md",
     "4-DND/Ors/2-Main/Elvagars.md",

@@ -27,7 +27,6 @@ actions:
 > - [ ] Create a new template for Users 
 > - [ ] Make the Base 
 > - [ ] Add more Characters, at least the ones that they have encountered already 
-> - [ ] Create the paper copy of artifacts 
 > - [ ] Find theme songs 
 
 > [!warning]  Run On
