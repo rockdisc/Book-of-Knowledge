@@ -35,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             }
           },
           {
-            "id": "771fd2fb4f6ae816",
+            "id": "e46ac0722710634e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-23"
             }
           },
           {
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-23"
             }
           },
           {
@@ -188,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-23"
             }
           },
           {
@@ -244,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-23"
             }
           },
           {
@@ -306,15 +305,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "2bfc1dd0dafa4680",
+  "active": "15df31851ab540ca",
   "lastOpenFiles": [
+    "Home.md",
     "3-Journal/2025-08-23.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
     "4-DND/Ors/2-Main/In Dreams of Many.md",
     "4-DND/Ors/2-Main/Endless Spring.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
-    "Home.md",
     "4-DND/Ors/Artifact List.base",
     "4-DND/Ors/2-Main/Augurs.md",
     "4-DND/Ors/2-Main/Elvagars.md",
