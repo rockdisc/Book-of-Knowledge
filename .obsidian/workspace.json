@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Uni of Wisconsin-Madison"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Uni of Wisconsin-Madison"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Uni of Wisconsin-Madison"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Uni of Wisconsin-Madison"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Uni of Wisconsin-Madison"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of Wisconsin-Madison.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Uni of Wisconsin-Madison"
             }
           }
         ],
@@ -292,10 +292,14 @@
   },
   "active": "070c899a34164d15",
   "lastOpenFiles": [
+    "1-Rough/Current/Uni of New Mexico.md",
+    "1-Rough/Current/Uni of Wisconsin-Madison.md",
+    "1-Rough/Current/Tufts Uni.md",
+    "Home.md",
+    "1-Rough/Current/Untitled",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Cambridge.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Columbia.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/UMKC.md",
-    "Home.md",
     "3-Journal/2025-08/2025-08-23.md",
     "4-DND/Ors/Variables.md",
     "Templates/OrChar.md",
@@ -316,9 +320,6 @@
     "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
     "2-Main/Misc/Writing.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Hook's Law.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Potential Difference.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
@@ -328,7 +329,6 @@
     "4-DND/6-Images/MoonPhases.png",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.4 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.1 hapc.pdf",
     "4-DND/6-Images/Humors.gif",
     "4-DND/6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",

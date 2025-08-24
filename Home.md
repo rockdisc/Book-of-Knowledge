@@ -37,7 +37,7 @@ actions:
 > - [ ] Organize the notes I just titled main
 
 > [!hint]  Long Term  
-> - [ ] look at dual degree 
+> - [ ] look at dual degree NOW
 > - [ ] Try Linux 
  
 > [!summary] What I want to do

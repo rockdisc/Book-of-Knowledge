@@ -14951,7 +14951,13 @@
         "filePath": "Home.md",
         "wordCountStart": 155,
         "charCountStart": 1003,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 1,
+            "c": 3
+          }
+        ],
         "id": 1027
       },
       {
@@ -14977,6 +14983,48 @@
         "charCountStart": 225,
         "changes": [],
         "id": 1030
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "1-Rough/Current/Tufts Uni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 1031
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "1-Rough/Current/Uni of New Mexico.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 1032
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 1033
       }
     ]
   }
