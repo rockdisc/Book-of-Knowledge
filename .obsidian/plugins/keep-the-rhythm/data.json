@@ -14662,7 +14662,7 @@
       },
       {
         "date": "2025-08-23",
-        "filePath": "3-Journal/2025-08-23.md",
+        "filePath": "3-Journal/2025-08/2025-08-23.md",
         "wordCountStart": 242,
         "charCountStart": 1492,
         "changes": [
@@ -14945,6 +14945,14 @@
           }
         ],
         "id": 1026
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "Home.md",
+        "wordCountStart": 155,
+        "charCountStart": 1003,
+        "changes": [],
+        "id": 1027
       }
     ]
   }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Cambridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Cambridge"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Cambridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Cambridge"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Cambridge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Cambridge"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Cambridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Cambridge"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "1-Rough/Current/Cambridge.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Cambridge"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Cambridge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Cambridge"
             }
           }
         ],
@@ -292,8 +292,11 @@
   },
   "active": "15df31851ab540ca",
   "lastOpenFiles": [
-    "3-Journal/2025-08-23.md",
+    "1-Rough/Current/UMKC.md",
+    "1-Rough/Current/Columbia.md",
+    "1-Rough/Current/Cambridge.md",
     "Home.md",
+    "3-Journal/2025-08/2025-08-23.md",
     "4-DND/Ors/Variables.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
@@ -313,9 +316,6 @@
     "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
     "2-Main/Misc/Writing.md",
-    "1-Rough/Current/UMKC.md",
-    "1-Rough/Current/Columbia.md",
-    "1-Rough/Current/Cambridge.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Buoyancy.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Hook's Law.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism/Potential Difference.md",
