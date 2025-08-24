@@ -30,7 +30,6 @@ actions:
 > - [ ] Find theme songs 
 
 > [!warning]  Run On
- > - [ ] Work on/finish the Session planning 
 
 > [!info] Later 
 > - [ ] Debate Band Camp Send 
