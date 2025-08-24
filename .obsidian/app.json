@@ -7,5 +7,6 @@
   "attachmentFolderPath": "6-Images",
   "showInlineTitle": true,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheck": false
 }
