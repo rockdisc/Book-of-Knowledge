@@ -16,7 +16,7 @@ Poor kid in a village, a group of believers of a church of [[Boreal]] went to th
 ### Faction(s): Aroruan 
 
 Bonded Object: Silver Anklet 
-Magic Item: 
+Magic Item: Amulet of Lifestile, 1d4
 
 ## Power(s):
 
