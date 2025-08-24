@@ -14891,6 +14891,20 @@
           }
         ],
         "id": 1025
+      },
+      {
+        "date": "2025-08-23",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6502,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1026
       }
     ]
   }
