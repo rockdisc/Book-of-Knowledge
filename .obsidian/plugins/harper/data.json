@@ -1,5 +1,5 @@
 {
-  "ignoredLints": "{\"context_hashes\":[]}",
+  "ignoredLints": "{\"context_hashes\":[6388013494239682708]}",
   "useWebWorker": true,
   "lintSettings": {
     "ACoupleMore": null,
@@ -387,11 +387,11 @@
     "WroughtIron": null
   },
   "userDictionary": [
+    "Ors",
     "Worldbuilding",
     "Thrainn",
     "Dval",
-    "Arouran",
-    "Ors"
+    "Arouran"
   ],
   "dialect": 0,
   "delay": -1

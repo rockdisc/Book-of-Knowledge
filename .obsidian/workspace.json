@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "5cf7dcce27dc4107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A 8.24.25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for A 8.24.25"
             }
           },
           {
@@ -149,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of A 8.24.25"
             }
           },
           {
@@ -186,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from A 8.24.25"
             }
           },
           {
@@ -222,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for A 8.24.25"
             }
           },
           {
@@ -269,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of A 8.24.25"
             }
           }
         ],
@@ -305,10 +319,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f0014db699bd8862",
+  "active": "5cf7dcce27dc4107",
   "lastOpenFiles": [
-    "3-Journal/2025-08-24.md",
+    "4-DND/DM Screen.canvas",
     "Home.md",
+    "3-Journal/2025-08-24.md",
     "2-Main/3-Resources/1-General Knowledge/ACT.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
     "1-Rough/Current/Uni of Wisconsin-Madison.md",
@@ -334,7 +349,6 @@
     "4-DND/Ors/2-Main/Shrouding Ring.md",
     "4-DND/Ors/2-Main/Slumbering Veil.md",
     "4-DND/Ors/Act 1 Map and Breakdown.md",
-    "2-Main/0-SORT THIS/Vextra the Trader.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
@@ -347,7 +361,6 @@
     "4-DND/6-Images/Humors.gif",
     "4-DND/6-Images/PolynomialClassification.png",
     "5-Images/Polynomial Classification.jpg",
-    "4-DND/DM Screen.canvas",
     "4-DND/6-Images/Concavity.png",
     "4-DND/6-Images/Rhetorical Trangle(Speaker).png",
     "4-DND/6-Images/Final+linguistics+map.webp",
