@@ -5,7 +5,7 @@ Faction: Arouran
 
 ## Summary
 
-Elf/Cleric/Spiritualist 
+Dwarf/Spiritualist 
 
 Is a missionary of the [[Boreal]] church that looked up to the mercenaries now joined them. 
 

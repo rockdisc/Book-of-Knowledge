@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "6c10b5c9364387a3",
+            "id": "c4397be803cdca93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DND/Ors/2-Main/Zayn.md",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zayn"
+              "title": "Idor"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/2-Main/Zayn.md",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zayn"
+              "title": "Backlinks for Idor"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/2-Main/Zayn.md",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Zayn"
+              "title": "Graph of Idor"
             }
           },
           {
@@ -272,12 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/2-Main/Zayn.md",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zayn"
+              "title": "Outgoing links from Idor"
             }
           },
           {
@@ -308,10 +308,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/Ors/2-Main/Zayn.md"
+                "file": "2-Main/0-SORT THIS/Idor.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Zayn"
+              "title": "File properties for Idor"
             }
           },
           {
@@ -355,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/2-Main/Zayn.md",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zayn"
+              "title": "Outline of Idor"
             }
           }
         ],
@@ -391,15 +391,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6c10b5c9364387a3",
+  "active": "c4397be803cdca93",
   "lastOpenFiles": [
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+    "4-DND/Ors/2-Main/Alex.md",
+    "4-DND/Ors/2-Main/Bon.md",
+    "4-DND/Ors/2-Main/Zayn.md",
     "2-Main/0-SORT THIS/Idor.md",
     "Home.md",
     "2-Main/0-SORT THIS/Characters.base",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/Variables.md",
-    "4-DND/Ors/2-Main/Zayn.md",
     "4-DND/Ors/2-Main/Lain.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Adamzka.md",
@@ -421,7 +423,6 @@
     "4-DND/Ors/2-Main/Augurs.md",
     "4-DND/Ors/2-Main/Elvagars.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
-    "4-DND/Ors/Powers.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
