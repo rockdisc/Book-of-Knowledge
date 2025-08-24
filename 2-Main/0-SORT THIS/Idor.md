@@ -9,12 +9,14 @@ ThemeSong:
 
 ## Summary
 
-Dragonborn/
+Dragonborn/Paladin 
 
-Poor kid in a village, a group of believers of a church went to the village and raised him as a paladin, now on 
+Poor kid in a village, a group of believers of a church of [[Boreal]] went to the village and raised him as a paladin, now joined mercenary for experience. 
 
-### Faction(s):
+### Faction(s): Aroruan 
 
+Bonded Object: Silver Anklet 
+Magic Item: 
 
 ## Power(s):
 
