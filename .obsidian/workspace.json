@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Characters.base",
+                "file": "4-DND/DM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Characters"
+              "title": "Backlinks for DM Screen"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Characters.base",
+                "file": "4-DND/DM Screen.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Characters"
+              "title": "Graph of DM Screen"
             }
           },
           {
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Characters.base",
+                "file": "4-DND/DM Screen.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Characters"
+              "title": "Outgoing links from DM Screen"
             }
           },
           {
@@ -294,10 +294,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Characters.base"
+                "file": "4-DND/DM Screen.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Characters"
+              "title": "File properties for DM Screen"
             }
           },
           {
@@ -341,13 +341,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Characters.base",
+                "file": "4-DND/DM Screen.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters"
+              "title": "Outline of DM Screen"
             }
           }
         ],
@@ -377,13 +377,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "8efec01cb7d56f13",
+  "active": "80b51cbd3538914b",
   "lastOpenFiles": [
+    "Home.md",
+    "2-Main/0-SORT THIS/Characters.base",
+    "4-DND/Ors/2-Main/Lain.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Adamzka.md",
     "4-DND/DM Screen.canvas",
-    "2-Main/0-SORT THIS/Characters.base",
-    "Home.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
     "3-Journal/2025-08-24.md",
     "2-Main/3-Resources/1-General Knowledge/ACT.md",
@@ -407,7 +408,6 @@
     "4-DND/Ors/Powers.md",
     "1-Rough/Arouran Users.md",
     "4-DND/Ors/2-Main/Shrouding Ring.md",
-    "4-DND/Ors/2-Main/Slumbering Veil.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",

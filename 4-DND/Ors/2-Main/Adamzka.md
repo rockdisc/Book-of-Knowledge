@@ -1,5 +1,5 @@
 ---
-Name: Yaga
+Name: Jaeger Measter
 Type: "[[Nixie]]"
 Faction: Orsian
 ---

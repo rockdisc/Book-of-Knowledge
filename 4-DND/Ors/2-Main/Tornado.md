@@ -1,3 +1,6 @@
+---
+Faction: "[[Disaster]]"
+---
 #Worldbuilding/Location #Ors/NPC 
 
 One of the [[Disaster]]

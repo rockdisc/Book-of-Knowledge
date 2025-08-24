@@ -14966,6 +14966,11 @@
             "timeKey": "13:15",
             "w": -8,
             "c": -44
+          },
+          {
+            "timeKey": "14:10",
+            "w": -13,
+            "c": -64
           }
         ],
         "id": 1027
@@ -15112,11 +15117,19 @@
         "changes": [
           {
             "timeKey": "14:05",
-            "w": 4,
-            "c": 16
+            "w": 5,
+            "c": 26
           }
         ],
         "id": 1041
+      },
+      {
+        "date": "2025-08-24",
+        "filePath": "4-DND/Ors/2-Main/Lain.md",
+        "wordCountStart": 46,
+        "charCountStart": 321,
+        "changes": [],
+        "id": 1042
       }
     ]
   }

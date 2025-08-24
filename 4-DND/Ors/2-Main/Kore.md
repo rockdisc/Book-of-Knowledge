@@ -1,3 +1,6 @@
+---
+Faction: "[[Elvagars]]"
+---
 #Worldbuilding/Character #Ors/Arouran/player 
 
 ## Summary

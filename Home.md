@@ -24,8 +24,6 @@ actions:
 
 > [!todo]  Today
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
-> - [ ] Create a new template for Users 
-> - [ ] Make the Base 
 > - [ ] Add more Characters, at least the ones that they have encountered already 
 > - [ ] Find theme songs 
 

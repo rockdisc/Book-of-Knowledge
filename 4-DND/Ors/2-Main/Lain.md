@@ -1,3 +1,6 @@
+---
+Faction: Arouran
+---
 #Worldbuilding/Character #Ors/NPC 
 
 ## Summary

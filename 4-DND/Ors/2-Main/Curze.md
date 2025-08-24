@@ -1,3 +1,6 @@
+---
+Faction: Orsian
+---
 #Ors/Orsian/player 
 ### Plot Hooks
 He knows a lot about Scythe
