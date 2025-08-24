@@ -1,7 +1,7 @@
 ---
-Name: Leinth 
-Faction: Arouran 
-Type:
+Name: Leinth
+Faction: Arouran
+Type: "[[Trow]]"
 ThemeSong:
 ---
 
