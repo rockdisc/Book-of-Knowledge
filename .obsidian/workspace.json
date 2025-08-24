@@ -36,62 +36,6 @@
             }
           },
           {
-            "id": "5cf7dcce27dc4107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A 8.24.25"
-            }
-          },
-          {
-            "id": "92780bdc88be3ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-DND/Ors/2-Main/Bon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bon"
-            }
-          },
-          {
-            "id": "6e3a616767c96917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Leif Vectaris.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leif Vectaris"
-            }
-          },
-          {
-            "id": "17ab6bb0b879f648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-DND/Ors/Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables"
-            }
-          },
-          {
             "id": "8efec01cb7d56f13",
             "type": "leaf",
             "state": {
@@ -103,54 +47,9 @@
               "icon": "lucide-table",
               "title": "Characters"
             }
-          },
-          {
-            "id": "80b51cbd3538914b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "4-DND/DM Screen.canvas",
-                "viewState": {
-                  "x": 1058.3388362652227,
-                  "y": 113.45439783491196,
-                  "zoom": -0.8368916600996649
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DM Screen"
-            }
-          },
-          {
-            "id": "c8dab2b86a2a6230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-DND/Ors/2-Main/Adamzka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adamzka"
-            }
-          },
-          {
-            "id": "3709697fab044ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-DND/Ors/Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variables"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A 8.24.25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -263,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of A 8.24.25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -300,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A 8.24.25"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -336,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for A 8.24.25"
+              "title": "File properties for Home"
             }
           },
           {
@@ -383,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A 8.24.25"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -419,18 +318,18 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5cf7dcce27dc4107",
+  "active": "f0014db699bd8862",
   "lastOpenFiles": [
-    "4-DND/Ors/2-Main/Bon.md",
-    "4-DND/DM Screen.canvas",
     "2-Main/0-SORT THIS/Characters.base",
+    "Home.md",
+    "4-DND/Ors/2-Main/Bon.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+    "4-DND/DM Screen.canvas",
     "2-Main/0-SORT THIS/Idor.md",
     "2-Main/0-SORT THIS/Leif Vectaris.md",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/2-Main/Alex.md",
     "4-DND/Ors/2-Main/Zayn.md",
-    "Home.md",
     "4-DND/Ors/2-Main/Lain.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Adamzka.md",
