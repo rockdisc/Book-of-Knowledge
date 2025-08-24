@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A 8.24.25"
+              "title": "Idor"
             }
           },
           {
@@ -94,21 +94,21 @@
             }
           },
           {
-            "id": "d5fdf20b9466c0b0",
+            "id": "3709697fab044ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/OrChar.md",
+                "file": "4-DND/Ors/Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OrChar"
+              "title": "Variables"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Screen"
+              "title": "Backlinks for Idor"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DM Screen"
+              "title": "Graph of Idor"
             }
           },
           {
@@ -258,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DM Screen"
+              "title": "Outgoing links from Idor"
             }
           },
           {
@@ -294,10 +294,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/DM Screen.canvas"
+                "file": "2-Main/0-SORT THIS/Idor.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for DM Screen"
+              "title": "File properties for Idor"
             }
           },
           {
@@ -341,13 +341,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "2-Main/0-SORT THIS/Idor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DM Screen"
+              "title": "Outline of Idor"
             }
           }
         ],
@@ -377,15 +377,18 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "80b51cbd3538914b",
+  "active": "5cf7dcce27dc4107",
   "lastOpenFiles": [
+    "4-DND/DM Screen.canvas",
+    "4-DND/Ors/Variables.md",
+    "2-Main/0-SORT THIS/Idor.md",
+    "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
+    "4-DND/Ors/2-Main/Zayn.md",
     "Home.md",
     "2-Main/0-SORT THIS/Characters.base",
     "4-DND/Ors/2-Main/Lain.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Adamzka.md",
-    "4-DND/DM Screen.canvas",
-    "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
     "3-Journal/2025-08-24.md",
     "2-Main/3-Resources/1-General Knowledge/ACT.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
@@ -397,7 +400,6 @@
     "2-Main/3-Resources/1-General Knowledge/Colleges/Columbia.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/UMKC.md",
     "3-Journal/2025-08/2025-08-23.md",
-    "4-DND/Ors/Variables.md",
     "4-DND/Ors/2-Main/Mirror of Narcissus.md",
     "4-DND/Ors/2-Main/In Dreams of Many.md",
     "4-DND/Ors/2-Main/Endless Spring.md",
@@ -406,8 +408,6 @@
     "4-DND/Ors/2-Main/Elvagars.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.3.25 Rough.md",
     "4-DND/Ors/Powers.md",
-    "1-Rough/Arouran Users.md",
-    "4-DND/Ors/2-Main/Shrouding Ring.md",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",

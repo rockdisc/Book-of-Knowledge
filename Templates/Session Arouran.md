@@ -1,7 +1,7 @@
 #Session/Ors/Arouran 
 
 ### Players:
-[[Fimbul]]
+[[Idor]]
 [[Alex]]
 [[Bon]]
 UPDATE

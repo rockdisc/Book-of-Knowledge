@@ -1,5 +1,5 @@
 ---
-Faction: "[[Elvagars]]"
+Faction: Arouran
 ---
 #Worldbuilding/Character #Ors/Arouran/player 
 
