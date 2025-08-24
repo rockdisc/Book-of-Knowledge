@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.hasTag("Ors/NPC")
+        - file.hasTag("Ors/Orsian/player")
+        - file.hasTag("Ors/Arouran/player")
+    order:
+      - file.name
+      - Name
+      - Type
+      - Faction
+      - ThemeSong
