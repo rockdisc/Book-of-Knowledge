@@ -1,16 +1,18 @@
 ---
 Name: Zephreus
-Faction: 
-Type:
+Faction: Arouran
+Type: "[[Sylph]]"
 ThemeSong:
 ---
 
 #Worldbuilding/Character #Ors/NPC 
 
 ## Summary
+High Elf/Spiriutalist 
 
 
-### Faction(s):
+
+### Faction(s): Arouran 
 
 
 ## Power(s):

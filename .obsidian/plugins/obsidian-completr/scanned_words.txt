@@ -10249,6 +10249,7 @@ Puritans
 Puritan
 Perfectly
 Pomodoro
+Paladin
 Worldbuilding
 WWII
 Wake
@@ -44488,6 +44489,7 @@ pseudoscience
 pre
 passages
 prose
+paladin
 kept
 know
 knew
@@ -48407,6 +48409,8 @@ AtRq
 Article
 Asks
 Awfully
+Aroruan
+Anklet
 Rough
 Readers
 Radkeha
@@ -53850,6 +53854,7 @@ Dde
 DRr
 DCt
 DhA
+Dwarf
 Keter
 Knowing
 Kyling
@@ -70544,6 +70549,7 @@ ZsY
 Zvc
 ZTP
 ZSU
+Zephreus
 xOY
 xb
 xt
