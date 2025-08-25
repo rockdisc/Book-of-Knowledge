@@ -40,7 +40,7 @@
     "AtTheEndOfTheDay": null,
     "Australia": null,
     "AvoidAndAlso": null,
-    "AvoidCurses": null,
+    "AvoidCurses": false,
     "AzureNames": null,
     "BackInTheDay": null,
     "Backplane": null,

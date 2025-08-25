@@ -48,8 +48,7 @@
               "title": "Characters"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-24"
             }
           },
           {
@@ -162,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-24"
             }
           },
           {
@@ -199,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-24"
             }
           },
           {
@@ -235,10 +234,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-08-24.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-08-24"
             }
           },
           {
@@ -282,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-24"
             }
           }
         ],
@@ -318,15 +317,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f0014db699bd8862",
+  "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Characters.base",
     "Home.md",
+    "4-DND/Ors/Characters.base",
     "4-DND/Ors/2-Main/Bon.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
     "4-DND/DM Screen.canvas",
-    "2-Main/0-SORT THIS/Idor.md",
-    "2-Main/0-SORT THIS/Leif Vectaris.md",
+    "4-DND/Ors/2-Main/Idor.md",
+    "4-DND/Ors/2-Main/Leif Vectaris.md",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/2-Main/Alex.md",
     "4-DND/Ors/2-Main/Zayn.md",
