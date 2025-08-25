@@ -15341,8 +15341,8 @@
           },
           {
             "timeKey": "17:55",
-            "w": 42,
-            "c": 227
+            "w": 57,
+            "c": 312
           }
         ],
         "id": 1052
@@ -15354,6 +15354,39 @@
         "charCountStart": 1060,
         "changes": [],
         "id": 1053
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Rhetorical Appeals.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 63,
+            "c": 352
+          },
+          {
+            "timeKey": "18:00",
+            "w": 48,
+            "c": 248
+          }
+        ],
+        "id": 1054
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/DIDS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 14,
+            "c": 72
+          }
+        ],
+        "id": 1055
       }
     ]
   }

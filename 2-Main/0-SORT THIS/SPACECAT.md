@@ -27,4 +27,4 @@ What [[Rhetorical Appeals]] did the speaker make?
 - T - Tone 
 What tone did the speaker have while making this. Does is shift? What are the [[DIDS]] of tone. 
 
-The last three are separate from the others. They are small things the author can do to effect their writings. The appeals are first, then in a
+The last three are separate from the others. They are small things the author can do to effect their writings. The appeals are first, then in an umbrella below it, there is tone, below that is choices. 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/SPACECAT.md",
+                "file": "2-Main/0-SORT THIS/DIDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPACECAT"
+              "title": "DIDS"
             }
           },
           {
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/SPACECAT.md",
+                "file": "2-Main/0-SORT THIS/DIDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SPACECAT"
+              "title": "Backlinks for DIDS"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/SPACECAT.md",
+                "file": "2-Main/0-SORT THIS/DIDS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SPACECAT"
+              "title": "Graph of DIDS"
             }
           },
           {
@@ -214,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/SPACECAT.md",
+                "file": "2-Main/0-SORT THIS/DIDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SPACECAT"
+              "title": "Outgoing links from DIDS"
             }
           },
           {
@@ -250,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/SPACECAT.md"
+                "file": "2-Main/0-SORT THIS/DIDS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for SPACECAT"
+              "title": "File properties for DIDS"
             }
           },
           {
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/SPACECAT.md",
+                "file": "2-Main/0-SORT THIS/DIDS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SPACECAT"
+              "title": "Outline of DIDS"
             }
           }
         ],
@@ -335,8 +335,10 @@
   },
   "active": "860de00fc0a12a6d",
   "lastOpenFiles": [
-    "3-Journal/2025-08-25.md",
     "2-Main/0-SORT THIS/SPACECAT.md",
+    "2-Main/0-SORT THIS/DIDS.md",
+    "2-Main/0-SORT THIS/Rhetorical Appeals.md",
+    "3-Journal/2025-08-25.md",
     "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
     "Home.md",
     "3-Journal/2025-08/2025-08-24.md",
@@ -362,8 +364,6 @@
     "2-Main/3-Resources/1-General Knowledge/Colleges/Columbia.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/UMKC.md",
     "3-Journal/2025-08/2025-08-23.md",
-    "4-DND/Ors/2-Main/Mirror of Narcissus.md",
-    "4-DND/Ors/2-Main/In Dreams of Many.md",
     "4-DND/Ors/Artifact List.base",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
