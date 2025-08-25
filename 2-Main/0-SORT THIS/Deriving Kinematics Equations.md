@@ -17,3 +17,6 @@ Are three of these can be derived by knowing how to [[Graph]] [[Acceleration]], 
 
 When the [[Displacement]] over [[Time]] is linear, it means that there is a constant [[Velocity]]. as velocity is the slope of that graph. As there is no change in velocity, there is no [[Acceleration]].
 
+![[Parabolic Velocity Graph|5000]]
+
+This shows that a change in [[Displacement]] over [[Time]] means a change in [[Velocity]]. As velocity changes, that rate of change is [[Acceleration]]. Now to get all of those equations, we have to do something a bit more complicated. 
