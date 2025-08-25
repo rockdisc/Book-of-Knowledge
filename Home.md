@@ -23,15 +23,14 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
-> - [ ] Add more Characters, at least the ones that they have encountered already 
 
 > [!warning]  Run On
 
 > [!info] Later 
 > - [ ] Debate Band Camp Send 
-> - [ ] Do Physics assignment
 > - [ ] Organize the notes I just titled main
+> - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
+> - [ ] Add more Characters, at least the ones that they have encountered already 
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree NOW
