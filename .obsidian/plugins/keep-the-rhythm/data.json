@@ -15439,8 +15439,8 @@
         "changes": [
           {
             "timeKey": "18:15",
-            "w": 45,
-            "c": 226
+            "w": 53,
+            "c": 309
           }
         ],
         "id": 1058
@@ -15452,6 +15452,34 @@
         "charCountStart": 1510,
         "changes": [],
         "id": 1059
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Displacement.md",
+        "wordCountStart": 19,
+        "charCountStart": 131,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 10,
+            "c": 70
+          }
+        ],
+        "id": 1060
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Velocity.md",
+        "wordCountStart": 22,
+        "charCountStart": 188,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 17,
+            "c": 105
+          }
+        ],
+        "id": 1061
       }
     ]
   }

@@ -8,3 +8,4 @@ $$
 
 ^d478ed
 
+In a velocity over [[Time]] graph, the [[Slope]] is [[Acceleration]]. The area below the line is [[Displacement]].

@@ -11,4 +11,5 @@ $$
 $$
 v_{f}^2 = v_{i}^2 + 2ad
 $$
-Are three of these can be derived by knowing how to [[Graph]] [[Acceleration]]
+Are three of these can be derived by knowing how to [[Graph]] [[Acceleration]], [[Time]], [[Velocity]], and [[Displacement]]. 
+
