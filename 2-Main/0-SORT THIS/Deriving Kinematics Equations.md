@@ -15,4 +15,5 @@ Are three of these can be derived by knowing how to [[Graph]] [[Acceleration]], 
 
 ![[Linear Velocity Graph|5000]]
 
-When the [[Displacement]] over [[Time]] is linear, it means that there is a constant [[Velocity]]. as velocity is the slope of that graph. As there is no change in velocy, 
+When the [[Displacement]] over [[Time]] is linear, it means that there is a constant [[Velocity]]. as velocity is the slope of that graph. As there is no change in velocity, there is no [[Acceleration]].
+
