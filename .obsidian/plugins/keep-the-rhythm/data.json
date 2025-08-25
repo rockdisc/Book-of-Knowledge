@@ -15319,6 +15319,16 @@
             "timeKey": "17:45",
             "w": 17,
             "c": 106
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1051
@@ -15420,6 +15430,28 @@
           }
         ],
         "id": 1057
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 45,
+            "c": 226
+          }
+        ],
+        "id": 1058
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
+        "wordCountStart": 231,
+        "charCountStart": 1510,
+        "changes": [],
+        "id": 1059
       }
     ]
   }
