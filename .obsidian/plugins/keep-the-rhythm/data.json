@@ -15451,6 +15451,16 @@
             "timeKey": "18:35",
             "w": 44,
             "c": 272
+          },
+          {
+            "timeKey": "18:45",
+            "w": 11,
+            "c": 61
+          },
+          {
+            "timeKey": "18:50",
+            "w": 63,
+            "c": 364
           }
         ],
         "id": 1058
@@ -15550,6 +15560,22 @@
         "charCountStart": 584,
         "changes": [],
         "id": 1067
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1068
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1069
       }
     ]
   }

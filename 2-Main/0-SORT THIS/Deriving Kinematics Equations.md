@@ -20,3 +20,7 @@ When the [[Displacement]] over [[Time]] is linear, it means that there is a cons
 ![[Parabolic Velocity Graph|5000]]
 
 This shows that a change in [[Displacement]] over [[Time]] means a change in [[Velocity]]. As velocity changes, that rate of change is [[Acceleration]]. Now to get all of those equations, we have to do something a bit more complicated. 
+![[Deriving Kin1 Graphically|1000]]
+
+To get the $\Delta x$, you needed the blue, which is the [[Velocity]] it was traveling, the red, which is its change in velocity([[Acceleration]]) x [[Time]] squared to turn the graph linear, and that part should be halved because it is a triangle. This can then be re-arranged. 
+I will go into a deeper explanation of the second part of the equation because it was bot explained well. 
