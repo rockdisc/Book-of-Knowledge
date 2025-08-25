@@ -15317,8 +15317,8 @@
         "changes": [
           {
             "timeKey": "17:45",
-            "w": 12,
-            "c": 74
+            "w": 17,
+            "c": 106
           }
         ],
         "id": 1051
@@ -15331,11 +15331,24 @@
         "changes": [
           {
             "timeKey": "17:45",
-            "w": 12,
-            "c": 71
+            "w": 59,
+            "c": 346
+          },
+          {
+            "timeKey": "17:50",
+            "w": 39,
+            "c": 208
           }
         ],
         "id": 1052
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
+        "wordCountStart": 185,
+        "charCountStart": 1060,
+        "changes": [],
+        "id": 1053
       }
     ]
   }

@@ -7263,6 +7263,9 @@ Syncretism
 SHOLDERS
 Strategies
 Spiriutalist
+SPA
+Speaker
+Same
 Interesting
 In
 If
@@ -44497,6 +44500,8 @@ pre
 passages
 prose
 paladin
+purpose
+persona
 kept
 know
 knew
