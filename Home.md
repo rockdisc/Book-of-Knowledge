@@ -25,7 +25,6 @@ actions:
 > [!todo]  Today
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
 > - [ ] Add more Characters, at least the ones that they have encountered already 
-> - [ ] Find theme songs 
 
 > [!warning]  Run On
 

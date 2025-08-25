@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "070c899a34164d15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Journal/2025-08-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-24"
-            }
-          },
-          {
             "id": "f0014db699bd8862",
             "type": "leaf",
             "state": {
@@ -33,19 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Home"
-            }
-          },
-          {
-            "id": "8efec01cb7d56f13",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Characters.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Characters"
             }
           }
         ]
@@ -142,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-24.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-24"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -161,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-24.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-24"
+              "title": "Graph of Home"
             }
           },
           {
@@ -198,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-24.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-24"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -234,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Journal/2025-08-24.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-08-24"
+              "title": "File properties for Home"
             }
           },
           {
@@ -281,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-24.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-24"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -317,9 +290,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "f0014db699bd8862",
   "lastOpenFiles": [
     "Home.md",
+    "3-Journal/2025-08-24.md",
     "4-DND/Ors/Characters.base",
     "4-DND/Ors/2-Main/Bon.md",
     "4-DND/Ors/1-Sessions/Arouran/A 8.24.25.md",
@@ -332,7 +306,6 @@
     "4-DND/Ors/2-Main/Lain.md",
     "Templates/OrChar.md",
     "4-DND/Ors/2-Main/Adamzka.md",
-    "3-Journal/2025-08-24.md",
     "2-Main/3-Resources/1-General Knowledge/ACT.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Wyoming.md",
     "1-Rough/Current/Uni of Wisconsin-Madison.md",
