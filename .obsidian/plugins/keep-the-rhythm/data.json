@@ -15382,11 +15382,44 @@
         "changes": [
           {
             "timeKey": "18:00",
-            "w": 14,
-            "c": 72
+            "w": 43,
+            "c": 254
           }
         ],
         "id": 1055
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/CER.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 30,
+            "c": 160
+          },
+          {
+            "timeKey": "18:05",
+            "w": 45,
+            "c": 238
+          }
+        ],
+        "id": 1056
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Thesis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 13,
+            "c": 95
+          }
+        ],
+        "id": 1057
       }
     ]
   }
