@@ -15738,7 +15738,7 @@
       },
       {
         "date": "2025-08-25",
-        "filePath": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+        "filePath": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15756,6 +15756,11 @@
             "timeKey": "21:50",
             "w": 28,
             "c": 143
+          },
+          {
+            "timeKey": "21:55",
+            "w": 87,
+            "c": 440
           }
         ],
         "id": 1079

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+                "file": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
                 "mode": "source",
                 "source": false
               },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+                "file": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+                "file": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+                "file": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -236,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md"
+                "file": "2-Main/1-Ramblings/On Friction of Daily Tasks.md"
               },
               "icon": "lucide-info",
               "title": "File properties for On Friction of Daily Tasks"
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+                "file": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,10 +319,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "81dd268ae61f9dff",
+  "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
     "Home.md",
-    "2-Main/0-SORT THIS/On Friction of Daily Tasks.md",
+    "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
     "3-Journal/2025-08-25.md",
     "4-DND/Ors/2-Main/Semos Varks.md",
     "4-DND/Ors/Variables.md",
