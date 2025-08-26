@@ -15680,6 +15680,41 @@
         "charCountStart": 584,
         "changes": [],
         "id": 1075
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Semos Varks.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 122,
+            "c": 692
+          },
+          {
+            "timeKey": "21:35",
+            "w": 5,
+            "c": 25
+          }
+        ],
+        "id": 1076
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6503,
+        "changes": [],
+        "id": 1077
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "4-DND/Ors/Characters.base",
+        "wordCountStart": 28,
+        "charCountStart": 271,
+        "changes": [],
+        "id": 1078
       }
     ]
   }
