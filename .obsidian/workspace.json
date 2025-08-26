@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.35.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Drawing 2025-08-25 19.35.44.excalidraw"
             }
           },
           {
@@ -202,6 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.35.44.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Drawing 2025-08-25 19.35.44.excalidraw"
             }
           },
           {
@@ -238,11 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.35.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Drawing 2025-08-25 19.35.44.excalidraw"
             }
           },
           {
@@ -272,9 +275,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.35.44.excalidraw.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Drawing 2025-08-25 19.35.44.excalidraw"
             }
           },
           {
@@ -318,12 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.35.44.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drawing 2025-08-25 19.35.44.excalidraw"
             }
           }
         ],
@@ -353,11 +359,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d16d7026d1fcbbbd",
+  "active": "145d290836e12a76",
   "lastOpenFiles": [
     "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "2-Main/0-SORT THIS/Drawing 2025-08-25 19.35.44.excalidraw.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "Home.md",
     "3-Journal/2025-08-25.md",
     "2-Main/0-SORT THIS/Deriving Ken2 Graphically.md",
