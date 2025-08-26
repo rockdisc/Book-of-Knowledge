@@ -8,4 +8,4 @@
 
 ## Minimizing Friction 
 
-Putting your shoe stand next to the door is a good first step, but making it usable is the main one. When buying fancy things be sure you know how to use them. Things should be fast, intuitive(at least to you), and easy to use while being reliable. As much as [[Minimalism]] is flourishing in modern day, it is not that good at doing this. Even while ente
+Putting your shoe stand next to the door is a good first step, but making it usable is the main one. When buying fancy things be sure you know how to use them. Things should be fast, intuitive(at least to you), and easy to use while being reliable. As much as [[Minimalism]] is flourishing in modern day, it is not that good at doing this. Even while entering [[Flow]], I should have everything next to me which I need. The less strength it takes to use it, the better it is for me. 
