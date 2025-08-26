@@ -69,10 +69,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md"
+                "file": "2-Main/0-SORT THIS/Deriving Ken2 Graphically.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-25 19.26.09.excalidraw"
+              "title": "Deriving Ken2 Graphically"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md",
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-08-25 19.26.09.excalidraw"
+              "title": "Backlinks for Deriving Kinematics Equations"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md",
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-08-25 19.26.09.excalidraw"
+              "title": "Graph of Deriving Kinematics Equations"
             }
           },
           {
@@ -240,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md",
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-08-25 19.26.09.excalidraw"
+              "title": "Outgoing links from Deriving Kinematics Equations"
             }
           },
           {
@@ -276,10 +276,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md"
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-08-25 19.26.09.excalidraw"
+              "title": "File properties for Deriving Kinematics Equations"
             }
           },
           {
@@ -323,13 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md",
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-25 19.26.09.excalidraw"
+              "title": "Outline of Deriving Kinematics Equations"
             }
           }
         ],
@@ -359,10 +359,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "eb6ba02f1fdb60e2",
+  "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
-    "2-Main/0-SORT THIS/Drawing 2025-08-25 19.26.09.excalidraw.md",
+    "2-Main/0-SORT THIS/Deriving Ken2 Graphically.md",
     "Home.md",
     "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
     "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",

@@ -15487,6 +15487,11 @@
             "timeKey": "19:20",
             "w": 11,
             "c": 51
+          },
+          {
+            "timeKey": "19:30",
+            "w": 69,
+            "c": 389
           }
         ],
         "id": 1058
@@ -15618,6 +15623,22 @@
         "charCountStart": 584,
         "changes": [],
         "id": 1071
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Deriving Ken2 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1072
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Deriving Ken2 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1073
       }
     ]
   }

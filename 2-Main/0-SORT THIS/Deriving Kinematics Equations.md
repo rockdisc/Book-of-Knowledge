@@ -35,3 +35,10 @@ $$
 \Delta \vec{v} = \vec{a}t
 $$
 which plugged into the equation gets that $t^2$ which I was sweating over for a bit. 
+
+## Equation 1
+
+This one is pretty easy compared to the one above, though the one above was necessary to understand this. 
+![[Deriving Ken2 Graphically|1000]]
+
+This equation is used to get the final [[Velocity]], which mean there is no need to focus on blue as velocity is only the y axis. So it makes sense that the initial velocity plus the change in velocity equals the final velocity. From above, we 
