@@ -15467,6 +15467,11 @@
             "timeKey": "18:50",
             "w": 63,
             "c": 364
+          },
+          {
+            "timeKey": "19:00",
+            "w": -5,
+            "c": -25
           }
         ],
         "id": 1058
@@ -15582,6 +15587,22 @@
         "charCountStart": 584,
         "changes": [],
         "id": 1069
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1070
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1071
       }
     ]
   }
