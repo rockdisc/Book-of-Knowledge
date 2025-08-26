@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0014db699bd8862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Journal/2025-08-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-25"
-            }
-          },
-          {
             "id": "95997f41217ac9e5",
             "type": "leaf",
             "state": {
@@ -80,7 +66,7 @@
             }
           },
           {
-            "id": "1c0e3f6117908de5",
+            "id": "e61f232b0b02a0d9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-25.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-25"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -148,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-25.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-25"
+              "title": "Graph of Home"
             }
           },
           {
@@ -185,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-25.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-25"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -221,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Journal/2025-08-25.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-08-25"
+              "title": "File properties for Home"
             }
           },
           {
@@ -268,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-25.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-25"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -304,11 +290,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "95997f41217ac9e5",
   "lastOpenFiles": [
+    "3-Journal/2025-08/2025-08-25.md",
     "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
     "Home.md",
-    "3-Journal/2025-08-25.md",
     "4-DND/Ors/2-Main/Semos Varks.md",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/Characters.base",

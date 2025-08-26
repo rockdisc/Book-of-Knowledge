@@ -65,7 +65,8 @@
       "2025-08-04",
       "2025-08-06",
       "2025-08-11",
-      "2025-08-21"
+      "2025-08-21",
+      "2025-08-25"
     ],
     "dailyActivity": [
       {
@@ -78,7 +79,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "4-DND/6-Images/MissingTown.png",
+        "filePath": "6-Images/MissingTown.png",
         "wordCountStart": 1852721,
         "charCountStart": 9084918,
         "changes": [],
@@ -100,7 +101,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "4-DND/6-Images/TernaMap.jpg",
+        "filePath": "6-Images/TernaMap.jpg",
         "wordCountStart": 649803,
         "charCountStart": 3018528,
         "changes": [],
@@ -495,7 +496,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "4-DND/6-Images/Aivon.png",
+        "filePath": "6-Images/Aivon.png",
         "wordCountStart": 2731329,
         "charCountStart": 12557682,
         "changes": [],
@@ -519,7 +520,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "4-DND/6-Images/Humors.gif",
+        "filePath": "6-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -1003,7 +1004,7 @@
       },
       {
         "date": "2025-07-20",
-        "filePath": "4-DND/6-Images/AlchemyTrueImage.png",
+        "filePath": "6-Images/AlchemyTrueImage.png",
         "wordCountStart": 7240,
         "charCountStart": 35778,
         "changes": [],
@@ -5687,7 +5688,7 @@
       },
       {
         "date": "2025-07-27",
-        "filePath": "4-DND/6-Images/1373839.png",
+        "filePath": "6-Images/1373839.png",
         "wordCountStart": 2461769,
         "charCountStart": 11377253,
         "changes": [],
@@ -13184,7 +13185,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "4-DND/6-Images/PolynomialClassification.png",
+        "filePath": "6-Images/PolynomialClassification.png",
         "wordCountStart": 26241,
         "charCountStart": 123789,
         "changes": [],
@@ -13192,7 +13193,7 @@
       },
       {
         "date": "2025-08-21",
-        "filePath": "4-DND/6-Images/Humors.gif",
+        "filePath": "6-Images/Humors.gif",
         "wordCountStart": 1128,
         "charCountStart": 5440,
         "changes": [],
@@ -15070,7 +15071,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "3-Journal/2025-08-24.md",
+        "filePath": "3-Journal/2025-08/2025-08-24.md",
         "wordCountStart": 242,
         "charCountStart": 1492,
         "changes": [
@@ -15300,6 +15301,490 @@
           }
         ],
         "id": 1048
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "Home.md",
+        "wordCountStart": 132,
+        "charCountStart": 888,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": -5,
+            "c": -30
+          },
+          {
+            "timeKey": "21:35",
+            "w": -6,
+            "c": -31
+          },
+          {
+            "timeKey": "21:45",
+            "w": 18,
+            "c": 95
+          }
+        ],
+        "id": 1049
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "3-Journal/2025-08/2025-08-25.md",
+        "wordCountStart": 134,
+        "charCountStart": 824,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 17,
+            "c": 106
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:25",
+            "w": 2,
+            "c": 33
+          },
+          {
+            "timeKey": "21:35",
+            "w": 1,
+            "c": 23
+          },
+          {
+            "timeKey": "21:40",
+            "w": 8,
+            "c": 52
+          },
+          {
+            "timeKey": "22:05",
+            "w": 142,
+            "c": 690
+          },
+          {
+            "timeKey": "22:10",
+            "w": 88,
+            "c": 438
+          }
+        ],
+        "id": 1051
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/SPACECAT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 59,
+            "c": 346
+          },
+          {
+            "timeKey": "17:50",
+            "w": 82,
+            "c": 481
+          },
+          {
+            "timeKey": "17:55",
+            "w": 57,
+            "c": 312
+          }
+        ],
+        "id": 1052
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
+        "wordCountStart": 185,
+        "charCountStart": 1060,
+        "changes": [],
+        "id": 1053
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Appeals.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 63,
+            "c": 352
+          },
+          {
+            "timeKey": "18:00",
+            "w": 48,
+            "c": 248
+          }
+        ],
+        "id": 1054
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/DIDS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 43,
+            "c": 254
+          }
+        ],
+        "id": 1055
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/CER.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 30,
+            "c": 160
+          },
+          {
+            "timeKey": "18:05",
+            "w": 45,
+            "c": 238
+          }
+        ],
+        "id": 1056
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Thesis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 13,
+            "c": 95
+          }
+        ],
+        "id": 1057
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Kinematics Equations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 53,
+            "c": 309
+          },
+          {
+            "timeKey": "18:25",
+            "w": 39,
+            "c": 238
+          },
+          {
+            "timeKey": "18:35",
+            "w": 44,
+            "c": 272
+          },
+          {
+            "timeKey": "18:45",
+            "w": 11,
+            "c": 61
+          },
+          {
+            "timeKey": "18:50",
+            "w": 63,
+            "c": 364
+          },
+          {
+            "timeKey": "19:00",
+            "w": -5,
+            "c": -25
+          },
+          {
+            "timeKey": "19:10",
+            "w": 43,
+            "c": 230
+          },
+          {
+            "timeKey": "19:15",
+            "w": 73,
+            "c": 408
+          },
+          {
+            "timeKey": "19:20",
+            "w": 11,
+            "c": 51
+          },
+          {
+            "timeKey": "19:30",
+            "w": 89,
+            "c": 499
+          },
+          {
+            "timeKey": "19:35",
+            "w": 16,
+            "c": 93
+          },
+          {
+            "timeKey": "20:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:50",
+            "w": 8,
+            "c": 44
+          },
+          {
+            "timeKey": "20:55",
+            "w": 21,
+            "c": 115
+          }
+        ],
+        "id": 1058
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
+        "wordCountStart": 231,
+        "charCountStart": 1510,
+        "changes": [],
+        "id": 1059
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Displacement.md",
+        "wordCountStart": 19,
+        "charCountStart": 131,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 10,
+            "c": 70
+          }
+        ],
+        "id": 1060
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Velocity.md",
+        "wordCountStart": 22,
+        "charCountStart": 188,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 17,
+            "c": 105
+          }
+        ],
+        "id": 1061
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Linear Velocity Graph.md",
+        "wordCountStart": 43,
+        "charCountStart": 570,
+        "changes": [],
+        "id": 1062
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Linear Velocity Graph.md",
+        "wordCountStart": 43,
+        "charCountStart": 570,
+        "changes": [],
+        "id": 1063
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.27.57.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 570,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": -43,
+            "c": -570
+          }
+        ],
+        "id": 1064
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.27.57.excalidraw.md",
+        "wordCountStart": 43,
+        "charCountStart": 570,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": -43,
+            "c": -570
+          }
+        ],
+        "id": 1065
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Parabolic Velocity Graph.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1066
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Parabolic Velocity Graph.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1067
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Kin1 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1068
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Kin1 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1069
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Further Explanation of Deriving Kin1.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1070
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Further Explanation of Deriving Kin1.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1071
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Ken2 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1072
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Ken2 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1073
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Ken3 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1074
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Ken3 Graphically.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1075
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "4-DND/Ors/2-Main/Semos Varks.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 122,
+            "c": 692
+          },
+          {
+            "timeKey": "21:35",
+            "w": 64,
+            "c": 323
+          }
+        ],
+        "id": 1076
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6503,
+        "changes": [],
+        "id": 1077
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "4-DND/Ors/Characters.base",
+        "wordCountStart": 28,
+        "charCountStart": 271,
+        "changes": [],
+        "id": 1078
+      },
+      {
+        "date": "2025-08-25",
+        "filePath": "2-Main/1-Ramblings/On Friction of Daily Tasks.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 62,
+            "c": 352
+          },
+          {
+            "timeKey": "21:45",
+            "w": 106,
+            "c": 571
+          },
+          {
+            "timeKey": "21:50",
+            "w": 28,
+            "c": 143
+          },
+          {
+            "timeKey": "21:55",
+            "w": 87,
+            "c": 440
+          },
+          {
+            "timeKey": "22:00",
+            "w": 124,
+            "c": 597
+          },
+          {
+            "timeKey": "22:05",
+            "w": 8,
+            "c": 35
+          }
+        ],
+        "id": 1079
       }
     ]
   }

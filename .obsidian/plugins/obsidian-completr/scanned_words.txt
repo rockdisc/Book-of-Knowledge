@@ -25950,7 +25950,6 @@ annotate
 argumentative
 approximately
 aoe
-accelration
 acrynim
 acronym
 analysis
