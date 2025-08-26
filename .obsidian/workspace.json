@@ -53,10 +53,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md"
+                "file": "2-Main/0-SORT THIS/Further Explanation of Deriving Kin1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-25 18.53.38.excalidraw"
+              "title": "Further Explanation of Deriving Kin1"
             }
           },
           {
@@ -66,11 +66,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://chatgpt.com/c/68acfa7f-9024-8322-a500-30091613121e",
-                "title": "Kinematics equation explanation",
+                "title": "Kinematic equation explanation",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Kinematics equation explanation"
+              "title": "Kinematic equation explanation"
             }
           },
           {
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Deriving Kinematics Equations"
             }
           },
           {
@@ -214,6 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Deriving Kinematics Equations"
             }
           },
           {
@@ -250,11 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Deriving Kinematics Equations"
             }
           },
           {
@@ -284,9 +287,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Deriving Kinematics Equations"
             }
           },
           {
@@ -330,12 +335,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Deriving Kinematics Equations"
             }
           }
         ],
@@ -365,9 +371,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d16d7026d1fcbbbd",
+  "active": "25a7c8449b33173c",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
+    "2-Main/0-SORT THIS/Further Explanation of Deriving Kin1.md",
     "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
     "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
     "Home.md",

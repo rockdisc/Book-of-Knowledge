@@ -24,3 +24,4 @@ This shows that a change in [[Displacement]] over [[Time]] means a change in [[V
 
 To get the $\Delta x$, you needed the blue, which is the [[Velocity]] it was traveling, the red, which is its change in velocity([[Acceleration]]) x [[Time]] squared, and that part should be halved because it is a triangle. This can then be re-arranged. 
 I will go into a deeper explanation of the second part of the equation because it was bot explained well. 
+![[Further Explanation of Deriving Kin1|1000]]
