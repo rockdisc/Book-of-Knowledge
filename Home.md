@@ -27,10 +27,9 @@ actions:
 > [!warning]  Run On
 
 > [!info] Later 
-> - [ ] Debate Band Camp Send 
-> - [ ] Organize the notes I just titled main
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
 > - [ ] Add more Characters, at least the ones that they have encountered already 
+> - [ ] Organize the notes I just titled main
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree NOW

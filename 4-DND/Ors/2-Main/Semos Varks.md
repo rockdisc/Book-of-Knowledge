@@ -16,4 +16,6 @@ One of the [[Variables]]
 ## Power(s):
 Sancus 
 [[Nixie]]
-He has the ability to convince anyone to do whatever he wants that he directly interacts with. They will also think of him as a good person that was a great help to them. 
+He has the ability to convince anyone to do whatever he wants that he directly interacts with. They will also think of him as a good person that was a great help to them. They will also hate people that go against them. Though this power does not work if the victim does not like him to begin with. It works if they are neutral, but not if they do not like him. 
+
+He carries an [[Artifact]] which allows him to change how he looks with him to better fit what he wants. 

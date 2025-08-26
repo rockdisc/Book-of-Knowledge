@@ -15311,6 +15311,11 @@
             "timeKey": "18:50",
             "w": -5,
             "c": -30
+          },
+          {
+            "timeKey": "21:35",
+            "w": -6,
+            "c": -31
           }
         ],
         "id": 1049
@@ -15340,6 +15345,11 @@
             "timeKey": "21:25",
             "w": 2,
             "c": 33
+          },
+          {
+            "timeKey": "21:35",
+            "w": 1,
+            "c": 23
           }
         ],
         "id": 1051
@@ -15683,7 +15693,7 @@
       },
       {
         "date": "2025-08-25",
-        "filePath": "2-Main/0-SORT THIS/Semos Varks.md",
+        "filePath": "4-DND/Ors/2-Main/Semos Varks.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15694,8 +15704,8 @@
           },
           {
             "timeKey": "21:35",
-            "w": 5,
-            "c": 25
+            "w": 64,
+            "c": 323
           }
         ],
         "id": 1076
