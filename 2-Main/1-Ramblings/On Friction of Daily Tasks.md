@@ -16,4 +16,8 @@ Putting your shoe stand next to the door is a good first step, but making it usa
 
 ## When not to Minimize 
 
-Everyone has their rituals, things they either want to or do not want to do. If you are forced into a ritual, then yes minimize it, but not for things you like doing. to enter [[Flow]] I have a ritual, yes I could do it faster, but I do not need to. Some things do not need 
+Everyone has their rituals, things they either want to or do not want to do. If you are forced into a ritual, then yes minimize it, but not for things you like doing. to enter [[Flow]] I have a ritual, yes I could do it faster, but I do not need to. Some things do not need to be made faster. An easy way to identify them is to think, do I like doing this? Will I like it better if it were shorter? And do I truly want it shorter or am I just going on a trend in my head to make all of my life easier to do when it is not necessary?
+
+## Needing to Maximize 
+
+There are some things I do not want to do, but I do anyway. This is like doom scrolling, for this, create friction. A simple way of doing this is just taking the apps you use, and take them out of your home screen, instead put them in your app library taking an extra second of mindfulness before you open it to do what ever is needed to be done. 
