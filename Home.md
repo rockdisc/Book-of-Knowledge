@@ -23,6 +23,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
+>  - [ ] create new bases template for books and make all the book and video reports follow it
 
 > [!warning]  Run On
 

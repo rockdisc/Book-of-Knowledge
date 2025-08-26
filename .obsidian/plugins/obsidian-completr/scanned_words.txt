@@ -5673,6 +5673,7 @@ Mayflower
 Massachusetts
 Materiality
 Meols
+Minimizing
 Summary
 So
 Someone
@@ -16804,6 +16805,7 @@ inFolder
 interpret
 informative
 indepth
+intuitive
 to
 the
 there
@@ -21811,6 +21813,7 @@ scrolled
 shrunk
 sweating
 substituting
+shoe
 vast
 very
 vibrant
@@ -40557,6 +40560,8 @@ rectangle
 rearranged
 relying
 reliance
+rack
+reliable
 yellow
 yet
 you
@@ -60547,6 +60552,8 @@ Fdn
 Fzw
 Feudalism
 Farmer
+Fogg
+Friction
 Veins
 Vim
 Venus
