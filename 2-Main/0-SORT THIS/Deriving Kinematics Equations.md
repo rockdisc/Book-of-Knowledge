@@ -25,3 +25,5 @@ This shows that a change in [[Displacement]] over [[Time]] means a change in [[V
 To get the $\Delta x$, you needed the blue, which is the [[Velocity]] it was traveling, the red, which is its change in velocity([[Acceleration]]) x [[Time]] squared, and that part should be halved because it is a triangle. This can then be re-arranged. 
 I will go into a deeper explanation of the second part of the equation because it was bot explained well. 
 ![[Further Explanation of Deriving Kin1|1000]]
+The blue part is easy enough to get, to get the area of a rectangle it is just height times width. The height is the initial [[Velocity]], the width is the [[Time]] at point $v_{f}$. The orange is harder to get. It is when there is [[Acceleration]]. It is a triangle, so the equation is $\frac{1}{2}hw$, the width is the same, time. The height is $\Delta \vec{v}$. According to the equation for acceleration:
+![[Acceleration#^ec2b39]]

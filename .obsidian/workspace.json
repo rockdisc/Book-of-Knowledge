@@ -65,12 +65,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/c/68acfa7f-9024-8322-a500-30091613121e",
-                "title": "Kinematic equation explanation",
+                "url": "https://chatgpt.com/c/68acfcf8-9328-8324-b87f-7f50f69dc50e",
+                "title": "Vector arrow in LaTeX",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Kinematic equation explanation"
+              "title": "Vector arrow in LaTeX"
             }
           },
           {
@@ -373,9 +373,9 @@
   },
   "active": "25a7c8449b33173c",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
     "2-Main/0-SORT THIS/Further Explanation of Deriving Kin1.md",
     "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
-    "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
     "Home.md",
     "2-Main/0-SORT THIS/Parabolic Velocity Graph.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
