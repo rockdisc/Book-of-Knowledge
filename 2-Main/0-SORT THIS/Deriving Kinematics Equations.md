@@ -50,3 +50,5 @@ so substituting it in leaves us with the equation.
 ## Equation 3
 
 This comes when trying to do what equation one did without relying on time.
+![[Deriving Ken3 Graphically|1000]]
+Yes I could have written all of this in [[LaTeX]], but that is not going to happen right now. It is pretty simple algebra. 

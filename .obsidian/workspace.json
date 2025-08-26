@@ -22,60 +22,6 @@
             }
           },
           {
-            "id": "25a7c8449b33173c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deriving Kinematics Equations"
-            }
-          },
-          {
-            "id": "145d290836e12a76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Ken3 Graphically.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Deriving Ken3 Graphically"
-            }
-          },
-          {
-            "id": "d16d7026d1fcbbbd",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/c/68acfa7f-9024-8322-a500-30091613121e",
-                "title": "Kinematic equation explanation",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Kinematic equation explanation"
-            }
-          },
-          {
-            "id": "8da2b40f856e4437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kinematics"
-            }
-          },
-          {
             "id": "95997f41217ac9e5",
             "type": "leaf",
             "state": {
@@ -89,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
+                "file": "3-Journal/2025-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deriving Kinematics Equations"
+              "title": "Backlinks for 2025-08-25"
             }
           },
           {
@@ -203,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
+                "file": "3-Journal/2025-08-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Deriving Kinematics Equations"
+              "title": "Graph of 2025-08-25"
             }
           },
           {
@@ -240,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
+                "file": "3-Journal/2025-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deriving Kinematics Equations"
+              "title": "Outgoing links from 2025-08-25"
             }
           },
           {
@@ -276,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md"
+                "file": "3-Journal/2025-08-25.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Deriving Kinematics Equations"
+              "title": "File properties for 2025-08-25"
             }
           },
           {
@@ -323,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
+                "file": "3-Journal/2025-08-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deriving Kinematics Equations"
+              "title": "Outline of 2025-08-25"
             }
           }
         ],
@@ -359,13 +304,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "25a7c8449b33173c",
+  "active": "f0014db699bd8862",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Deriving Ken3 Graphically.md",
-    "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "Home.md",
     "3-Journal/2025-08-25.md",
+    "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
+    "2-Main/0-SORT THIS/Deriving Ken3 Graphically.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "2-Main/0-SORT THIS/Deriving Ken2 Graphically.md",
     "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
     "2-Main/0-SORT THIS/Further Explanation of Deriving Kin1.md",
