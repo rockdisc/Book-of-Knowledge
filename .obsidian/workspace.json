@@ -60,6 +60,20 @@
             }
           },
           {
+            "id": "d16d7026d1fcbbbd",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/68acfa7f-9024-8322-a500-30091613121e",
+                "title": "Kinematics equation explanation",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Kinematics equation explanation"
+            }
+          },
+          {
             "id": "8da2b40f856e4437",
             "type": "leaf",
             "state": {
@@ -88,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +196,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-08-25 18.53.38.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
@@ -201,7 +214,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-08-25 18.53.38.excalidraw"
+              "title": "Graph view"
             }
           },
           {
@@ -238,12 +250,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-08-25 18.53.38.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -273,11 +284,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-08-25 18.53.38.excalidraw"
+              "title": "File properties"
             }
           },
           {
@@ -321,13 +330,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-25 18.53.38.excalidraw"
+              "title": "Outline"
             }
           }
         ],
@@ -357,12 +365,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "34880c20887123ce",
+  "active": "d16d7026d1fcbbbd",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
     "2-Main/0-SORT THIS/Deriving Kinematics Equations.md",
     "2-Main/0-SORT THIS/Deriving Kin1 Graphically.md",
     "Home.md",
-    "2-Main/0-SORT THIS/Drawing 2025-08-25 18.53.38.excalidraw.md",
     "2-Main/0-SORT THIS/Parabolic Velocity Graph.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "2-Main/0-SORT THIS/Drawing 2025-08-25 18.27.57.excalidraw.md",
