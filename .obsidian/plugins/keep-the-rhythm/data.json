@@ -15824,6 +15824,11 @@
             "timeKey": "20:30",
             "w": 1,
             "c": 5
+          },
+          {
+            "timeKey": "20:35",
+            "w": 8,
+            "c": 47
           }
         ],
         "id": 1081
@@ -15980,6 +15985,39 @@
           }
         ],
         "id": 1092
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Synthetic Division.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 101,
+            "c": 556
+          }
+        ],
+        "id": 1093
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Rational Roots Theorem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 68,
+            "c": 406
+          },
+          {
+            "timeKey": "20:40",
+            "w": 6,
+            "c": 34
+          }
+        ],
+        "id": 1094
       }
     ]
   }
