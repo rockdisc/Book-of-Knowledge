@@ -7,3 +7,6 @@ Roots are where the function is at 0. This is how to find them in long [[Polynom
 3. Use [[Synthetic Division]], [[Long Polynomial Division]], or [[Quadratic Formula]] to verify all roots. 
 
 Here is an example:
+
+![[Finding Roots Example|1000]]
+Everything should be self explanatory. 
