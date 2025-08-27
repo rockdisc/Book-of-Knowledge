@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e18c617485ca216c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-26 20.25.25.excalidraw"
+            }
+          },
+          {
             "id": "7ce5a81a904be057",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Polynomial Division"
+              "title": "Backlinks for Drawing 2025-08-26 20.25.25.excalidraw"
             }
           },
           {
@@ -163,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Polynomial Division"
+              "title": "Graph of Drawing 2025-08-26 20.25.25.excalidraw"
             }
           },
           {
@@ -200,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Polynomial Division"
+              "title": "Outgoing links from Drawing 2025-08-26 20.25.25.excalidraw"
             }
           },
           {
@@ -236,10 +248,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomial Division.md"
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Polynomial Division"
+              "title": "File properties for Drawing 2025-08-26 20.25.25.excalidraw"
             }
           },
           {
@@ -283,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Polynomial Division"
+              "title": "Outline of Drawing 2025-08-26 20.25.25.excalidraw"
             }
           }
         ],
@@ -319,11 +331,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4f57a363ea0e6acf",
+  "active": "e18c617485ca216c",
   "lastOpenFiles": [
+    "Home.md",
+    "2-Main/0-SORT THIS/Drawing 2025-08-26 20.25.25.excalidraw.md",
     "2-Main/0-SORT THIS/Polynomial Division.md",
     "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
-    "Home.md",
     "3-Journal/2025-08-26.md",
     "2-Main/0-SORT THIS/Imaginary Numbers.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomials.md",
@@ -348,7 +361,6 @@
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Displacement.md",
     "2-Main/3-Resources/3-Humanities/English/CER.md",
     "2-Main/3-Resources/3-Humanities/English/Thesis.md",
-    "2-Main/3-Resources/3-Humanities/English/SPACECAT.md",
     "4-DND/DM Screen.canvas",
     "1-Rough/Current/Untitled",
     "4-DND/Ors/Artifact List.base",
