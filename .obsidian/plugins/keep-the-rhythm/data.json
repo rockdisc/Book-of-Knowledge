@@ -16018,6 +16018,20 @@
           }
         ],
         "id": 1094
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Finding Roots.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 60,
+            "c": 374
+          }
+        ],
+        "id": 1095
       }
     ]
   }
