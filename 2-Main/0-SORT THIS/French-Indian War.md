@@ -1,3 +1,4 @@
 #History/Conflict #History/1700s/Americas/North 
 
-This was a war between the [[French Empire]] and [[Great Britain]]. They were groups that wanted a lot of land in the [[New World]]. The British had the [[13 Colonies]] while the french had 
+This was a war between the [[French Empire]] and [[Great Britain]]. They were groups that wanted a lot of land in the [[New World]]. The British had the [[13 Colonies]] while the French had Canada. In the Ohio River Valley was the first fight, [[George Washington]] was a commander for the British in this fight, people say it made him pursue goals of independence. 
+Both sides used [[Native Americas]] as fighters, the French were winning at first but the British won in the end. This is thanks to the efforts of [[William Pitt]]. Though this made the British lose a lot of money, that is why they started taxing their colonies, which eventually led to independence. 

@@ -16156,11 +16156,19 @@
           },
           {
             "timeKey": "21:15",
-            "w": 13,
-            "c": 65
+            "w": 105,
+            "c": 600
           }
         ],
         "id": 1105
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/New World.md",
+        "wordCountStart": 13,
+        "charCountStart": 83,
+        "changes": [],
+        "id": 1106
       }
     ]
   }
