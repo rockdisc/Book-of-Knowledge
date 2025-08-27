@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-08-26 20.19.54.excalidraw"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-08-26 20.19.54.excalidraw"
+              "title": "Graph of Home"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-08-26 20.19.54.excalidraw"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -234,10 +234,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-08-26 20.19.54.excalidraw"
+              "title": "File properties for Home"
             }
           },
           {
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-26 20.19.54.excalidraw"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -317,10 +317,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "627a56d60baa3161",
+  "active": "ee1131de2502131c",
   "lastOpenFiles": [
-    "Home.md",
     "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Polynomial Division.md",
     "3-Journal/2025-08-26.md",
     "2-Main/0-SORT THIS/Imaginary Numbers.md",
