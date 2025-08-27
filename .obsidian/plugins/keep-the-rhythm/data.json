@@ -15819,6 +15819,11 @@
             "timeKey": "19:35",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "20:30",
+            "w": 1,
+            "c": 5
           }
         ],
         "id": 1081
@@ -15898,7 +15903,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Polynomial Division.md",
+        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15919,8 +15924,13 @@
           },
           {
             "timeKey": "20:30",
-            "w": 0,
-            "c": 7
+            "w": 84,
+            "c": 452
+          },
+          {
+            "timeKey": "20:35",
+            "w": -101,
+            "c": -558
           }
         ],
         "id": 1087
@@ -15956,6 +15966,20 @@
         "charCountStart": 584,
         "changes": [],
         "id": 1091
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Remainder Theorem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 27,
+            "c": 161
+          }
+        ],
+        "id": 1092
       }
     ]
   }
