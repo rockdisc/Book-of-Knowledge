@@ -15853,11 +15853,38 @@
         "changes": [
           {
             "timeKey": "19:35",
-            "w": 27,
-            "c": 178
+            "w": 28,
+            "c": 183
+          },
+          {
+            "timeKey": "19:40",
+            "w": 33,
+            "c": 156
           }
         ],
         "id": 1084
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Imaginary Numbers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 22,
+            "c": 137
+          }
+        ],
+        "id": 1085
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomials.md",
+        "wordCountStart": 76,
+        "charCountStart": 418,
+        "changes": [],
+        "id": 1086
       }
     ]
   }
