@@ -15914,8 +15914,13 @@
           },
           {
             "timeKey": "20:25",
-            "w": 8,
-            "c": 46
+            "w": 25,
+            "c": 143
+          },
+          {
+            "timeKey": "20:30",
+            "w": 0,
+            "c": 7
           }
         ],
         "id": 1087
@@ -15935,6 +15940,22 @@
         "charCountStart": 584,
         "changes": [],
         "id": 1089
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Synthetic Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1090
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Synthetic Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1091
       }
     ]
   }
