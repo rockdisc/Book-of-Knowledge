@@ -15906,9 +15906,30 @@
             "timeKey": "20:15",
             "w": 13,
             "c": 107
+          },
+          {
+            "timeKey": "20:20",
+            "w": 31,
+            "c": 179
           }
         ],
         "id": 1087
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1088
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1089
       }
     ]
   }

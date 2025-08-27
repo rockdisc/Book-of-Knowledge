@@ -36,19 +36,21 @@
             }
           },
           {
-            "id": "627a56d60baa3161",
+            "id": "7ce5a81a904be057",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "webviewer",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md"
+                "url": "https://www.google.com/search?q=devisor%20and%20divident",
+                "title": "devisor and divident - Google Search",
+                "mode": "webview"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-26 20.19.54.excalidraw"
+              "icon": "globe-2",
+              "title": "devisor and divident - Google Search"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Polynomial Division"
             }
           },
           {
@@ -161,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Polynomial Division"
             }
           },
           {
@@ -198,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Polynomial Division"
             }
           },
           {
@@ -234,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Polynomial Division.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Polynomial Division"
             }
           },
           {
@@ -281,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Polynomial Division.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Polynomial Division"
             }
           }
         ],
@@ -317,11 +319,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ee1131de2502131c",
+  "active": "4f57a363ea0e6acf",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Drawing 2025-08-26 20.19.54.excalidraw.md",
-    "Home.md",
     "2-Main/0-SORT THIS/Polynomial Division.md",
+    "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+    "Home.md",
     "3-Journal/2025-08-26.md",
     "2-Main/0-SORT THIS/Imaginary Numbers.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomials.md",
