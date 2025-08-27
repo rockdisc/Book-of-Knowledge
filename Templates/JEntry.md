@@ -8,6 +8,7 @@
 > - [ ] Add New Note (Mini Essay or Story) 
 > - [ ] Add Previous Knowledge 
 > - [ ] Read 
+> - [ ] Debate Drill
 
 > [!Quote]  Quote of the Day
 > s
