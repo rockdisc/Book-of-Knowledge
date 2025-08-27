@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Drawing 2025-08-26 21.03.17.excalidraw"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Drawing 2025-08-26 21.03.17.excalidraw"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Drawing 2025-08-26 21.03.17.excalidraw"
             }
           },
           {
@@ -248,10 +248,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Drawing 2025-08-26 21.03.17.excalidraw"
             }
           },
           {
@@ -295,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Drawing 2025-08-26 21.03.17.excalidraw"
             }
           }
         ],
@@ -331,10 +331,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c69da53702385db0",
+  "active": "32b4367092bbc3d7",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md",
     "Home.md",
+    "2-Main/0-SORT THIS/Drawing 2025-08-26 21.03.17.excalidraw.md",
     "2-Main/0-SORT THIS/Polynomial Inequalities.md",
     "3-Journal/2025-08-26.md",
     "2-Main/0-SORT THIS/Finding Roots Example.md",
