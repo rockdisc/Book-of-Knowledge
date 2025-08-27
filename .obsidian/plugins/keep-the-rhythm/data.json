@@ -15814,9 +15814,50 @@
             "timeKey": "17:50",
             "w": 3,
             "c": 13
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1081
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
+        "wordCountStart": 848512,
+        "charCountStart": 4062992,
+        "changes": [],
+        "id": 1082
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Quadratic Formula.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 22,
+            "c": 134
+          }
+        ],
+        "id": 1083
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Multiplicity.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 27,
+            "c": 178
+          }
+        ],
+        "id": 1084
       }
     ]
   }
