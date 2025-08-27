@@ -53,16 +53,16 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.google.com/search?q=devisor%20and%20divident",
-                "title": "devisor and divident - Google Search",
+                "url": "https://www.desmos.com/calculator",
+                "title": "Desmos | Graphing Calculator",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "devisor and divident - Google Search"
+              "title": "Desmos | Graphing Calculator"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.48.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-08-26 20.48.28.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,7 +174,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.48.28.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +201,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Drawing 2025-08-26 20.48.28.excalidraw"
+              "title": "Graph view"
             }
           },
           {
@@ -212,12 +210,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.48.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-08-26 20.48.28.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -247,11 +244,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.48.28.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-08-26 20.48.28.excalidraw"
+              "title": "File properties"
             }
           },
           {
@@ -295,13 +290,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Drawing 2025-08-26 20.48.28.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-26 20.48.28.excalidraw"
+              "title": "Outline"
             }
           }
         ],
@@ -331,10 +325,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "159d2b80b40d3f33",
+  "active": "7ce5a81a904be057",
   "lastOpenFiles": [
-    "Home.md",
     "2-Main/0-SORT THIS/Drawing 2025-08-26 20.48.28.excalidraw.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Finding Roots.md",
     "2-Main/0-SORT THIS/Rational Roots Theorem.md",
     "3-Journal/2025-08-26.md",
