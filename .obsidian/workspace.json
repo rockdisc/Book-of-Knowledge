@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "c7cfea4c189aeb1e",
+            "id": "6f619189a5303a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+                "file": "2-Main/0-SORT THIS/French-Indian War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mass Bay Colony"
-            }
-          },
-          {
-            "id": "7ce5a81a904be057",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.desmos.com/calculator",
-                "title": "Desmos | Graphing Calculator",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Desmos | Graphing Calculator"
+              "title": "French-Indian War"
             }
           }
         ],
@@ -144,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+                "file": "2-Main/0-SORT THIS/French-Indian War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mass Bay Colony"
+              "title": "Backlinks for French-Indian War"
             }
           },
           {
@@ -163,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+                "file": "2-Main/0-SORT THIS/French-Indian War.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mass Bay Colony"
+              "title": "Graph of French-Indian War"
             }
           },
           {
@@ -200,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+                "file": "2-Main/0-SORT THIS/French-Indian War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mass Bay Colony"
+              "title": "Outgoing links from French-Indian War"
             }
           },
           {
@@ -236,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mass Bay Colony.md"
+                "file": "2-Main/0-SORT THIS/French-Indian War.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Mass Bay Colony"
+              "title": "File properties for French-Indian War"
             }
           },
           {
@@ -283,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+                "file": "2-Main/0-SORT THIS/French-Indian War.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mass Bay Colony"
+              "title": "Outline of French-Indian War"
             }
           }
         ],
@@ -319,10 +305,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c7cfea4c189aeb1e",
+  "active": "6f619189a5303a0c",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Mass Bay Colony.md",
+    "2-Main/3-Resources/3-Humanities/History/US/New World.md",
+    "2-Main/0-SORT THIS/French-Indian War.md",
     "3-Journal/2025-08-26.md",
+    "2-Main/0-SORT THIS/Mass Bay Colony.md",
     "2-Main/0-SORT THIS/Polynomial Inequalities.md",
     "2-Main/0-SORT THIS/Polynomial Inequalities Example.md",
     "Home.md",
@@ -348,8 +336,6 @@
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/Characters.base",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Kinematics Equations.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Ken3 Graphically.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "4-DND/DM Screen.canvas",
     "1-Rough/Current/Untitled",
     "4-DND/Ors/Artifact List.base",

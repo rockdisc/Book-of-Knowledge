@@ -16142,6 +16142,25 @@
           }
         ],
         "id": 1104
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/French-Indian War.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 18,
+            "c": 118
+          },
+          {
+            "timeKey": "21:15",
+            "w": 13,
+            "c": 65
+          }
+        ],
+        "id": 1105
       }
     ]
   }
