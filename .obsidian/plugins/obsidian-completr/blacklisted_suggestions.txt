@@ -12,3 +12,4 @@ handing
 handsome
 Handycam
 accelration
+negitive
