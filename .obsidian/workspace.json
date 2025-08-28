@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "dcf3e7ea3ca3fa5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "e61f232b0b02a0d9",
+            "id": "cfc3044d1e77ae5b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -115,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
@@ -134,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph view"
             }
           },
           {
@@ -171,12 +182,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
@@ -206,11 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Home.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties"
             }
           },
           {
@@ -254,13 +262,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           }
         ],
@@ -290,10 +297,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "dcf3e7ea3ca3fa5b",
   "lastOpenFiles": [
-    "3-Journal/2025-08/2025-08-26.md",
     "Home.md",
+    "3-Journal/2025-08/2025-08-26.md",
     "Templates/JEntry.md",
     "2-Main/0-SORT THIS/Sci-fi Worldbuilding.md",
     "3-Journal/2025-08/2025-08-11.md",

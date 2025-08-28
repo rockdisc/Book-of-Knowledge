@@ -66,7 +66,8 @@
       "2025-08-06",
       "2025-08-11",
       "2025-08-21",
-      "2025-08-25"
+      "2025-08-25",
+      "2025-08-26"
     ],
     "dailyActivity": [
       {
@@ -15785,6 +15786,524 @@
           }
         ],
         "id": 1079
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "Home.md",
+        "wordCountStart": 139,
+        "charCountStart": 922,
+        "changes": [],
+        "id": 1080
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "3-Journal/2025-08/2025-08-26.md",
+        "wordCountStart": 242,
+        "charCountStart": 1492,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": -158,
+            "c": -952
+          },
+          {
+            "timeKey": "17:15",
+            "w": 46,
+            "c": 352
+          },
+          {
+            "timeKey": "17:50",
+            "w": 3,
+            "c": 13
+          },
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:30",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "20:35",
+            "w": 8,
+            "c": 47
+          },
+          {
+            "timeKey": "22:45",
+            "w": 2,
+            "c": 38
+          },
+          {
+            "timeKey": "22:50",
+            "w": 0,
+            "c": 10
+          },
+          {
+            "timeKey": "22:55",
+            "w": 52,
+            "c": 273
+          },
+          {
+            "timeKey": "23:00",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "23:20",
+            "w": 116,
+            "c": 570
+          },
+          {
+            "timeKey": "23:25",
+            "w": 137,
+            "c": 630
+          },
+          {
+            "timeKey": "23:30",
+            "w": 60,
+            "c": 275
+          }
+        ],
+        "id": 1081
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
+        "wordCountStart": 848512,
+        "charCountStart": 4062992,
+        "changes": [],
+        "id": 1082
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Quadratic Formula.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 22,
+            "c": 134
+          }
+        ],
+        "id": 1083
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Multiplicity.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 28,
+            "c": 183
+          },
+          {
+            "timeKey": "19:40",
+            "w": 33,
+            "c": 156
+          }
+        ],
+        "id": 1084
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Imaginary Numbers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 22,
+            "c": 137
+          },
+          {
+            "timeKey": "19:45",
+            "w": 1,
+            "c": 10
+          },
+          {
+            "timeKey": "20:15",
+            "w": 32,
+            "c": 166
+          }
+        ],
+        "id": 1085
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomials.md",
+        "wordCountStart": 76,
+        "charCountStart": 418,
+        "changes": [],
+        "id": 1086
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 13,
+            "c": 107
+          },
+          {
+            "timeKey": "20:20",
+            "w": 31,
+            "c": 179
+          },
+          {
+            "timeKey": "20:25",
+            "w": 25,
+            "c": 143
+          },
+          {
+            "timeKey": "20:30",
+            "w": 84,
+            "c": 452
+          },
+          {
+            "timeKey": "20:35",
+            "w": -101,
+            "c": -558
+          }
+        ],
+        "id": 1087
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1088
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1089
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Synthetic Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1090
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Synthetic Division Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1091
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Remainder Theorem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:30",
+            "w": 27,
+            "c": 161
+          }
+        ],
+        "id": 1092
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Synthetic Division.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 101,
+            "c": 556
+          }
+        ],
+        "id": 1093
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Rational Roots Theorem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 68,
+            "c": 406
+          },
+          {
+            "timeKey": "20:40",
+            "w": 25,
+            "c": 140
+          }
+        ],
+        "id": 1094
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Finding Roots.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:45",
+            "w": 60,
+            "c": 374
+          },
+          {
+            "timeKey": "20:55",
+            "w": 10,
+            "c": 72
+          }
+        ],
+        "id": 1095
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Finding Roots Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1096
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Finding Roots Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1097
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Moon.md",
+        "wordCountStart": 36,
+        "charCountStart": 232,
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "21:00",
+            "w": 22,
+            "c": 117
+          }
+        ],
+        "id": 1098
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Phases of the Moon Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1099
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Phases of the Moon Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1100
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Polynomial Inequalities.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 8,
+            "c": 66
+          },
+          {
+            "timeKey": "21:05",
+            "w": 5,
+            "c": 43
+          }
+        ],
+        "id": 1101
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Polynomial Inequalities Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1102
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Polynomial Inequalities Example.md",
+        "wordCountStart": 45,
+        "charCountStart": 584,
+        "changes": [],
+        "id": 1103
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 25,
+            "c": 157
+          },
+          {
+            "timeKey": "21:10",
+            "w": 23,
+            "c": 133
+          }
+        ],
+        "id": 1104
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/French-Indian War.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 18,
+            "c": 118
+          },
+          {
+            "timeKey": "21:15",
+            "w": 105,
+            "c": 600
+          }
+        ],
+        "id": 1105
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/New World.md",
+        "wordCountStart": 13,
+        "charCountStart": 83,
+        "changes": [],
+        "id": 1106
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+        "wordCountStart": 1739,
+        "charCountStart": 9390,
+        "changes": [],
+        "id": 1107
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Nibkil.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 59,
+            "c": 376
+          },
+          {
+            "timeKey": "22:50",
+            "w": 16,
+            "c": 88
+          }
+        ],
+        "id": 1108
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "4-DND/Ors/Variables.md",
+        "wordCountStart": 331,
+        "charCountStart": 6503,
+        "changes": [],
+        "id": 1109
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "4-DND/Ors/2-Main/Orsian Users.md",
+        "wordCountStart": 305,
+        "charCountStart": 6512,
+        "changes": [],
+        "id": 1110
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "3-Journal/2025-08/2025-08-11.md",
+        "wordCountStart": 332,
+        "charCountStart": 1671,
+        "changes": [],
+        "id": 1111
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "2-Main/0-SORT THIS/Sci-fi Worldbuilding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:00",
+            "w": 71,
+            "c": 400
+          },
+          {
+            "timeKey": "23:05",
+            "w": 96,
+            "c": 520
+          },
+          {
+            "timeKey": "23:10",
+            "w": 122,
+            "c": 680
+          },
+          {
+            "timeKey": "23:15",
+            "w": 143,
+            "c": 735
+          },
+          {
+            "timeKey": "23:20",
+            "w": 46,
+            "c": 240
+          }
+        ],
+        "id": 1112
+      },
+      {
+        "date": "2025-08-26",
+        "filePath": "Templates/JEntry.md",
+        "wordCountStart": 240,
+        "charCountStart": 1491,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 4,
+            "c": 21
+          }
+        ],
+        "id": 1113
       }
     ]
   }
