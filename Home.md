@@ -25,6 +25,7 @@ actions:
 > [!todo]  Today
 >  - [ ] create new bases template for books and make all the book and video reports follow it
 >  - [ ] Make the full debate into a video.
+>  - [ ] Renew Books
 >  - [ ] Get started on Science Honors Society
 
 > [!warning]  Run On
