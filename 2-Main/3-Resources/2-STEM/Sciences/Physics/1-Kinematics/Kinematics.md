@@ -23,7 +23,7 @@ $$
 
 ^e6a12c
 
-the velocity of an object at any time (t) = the initial velocity + its acceleration x time.
+the velocity of an object at any time (t) = the initial velocity + its acceleration x time. Use this equation when [[Displacement]] does not matter. 
 
 $$
 x_{t}=x_{o}+v_{i}t+\frac{1}{2}at^2
@@ -31,7 +31,7 @@ $$
 
 ^c75c23
 
-The position of an object with respect to a point of origin = its original position + initial velocity x time + 1/2 acceleration x time^2
+The position of an object with respect to a point of origin = its original position + initial velocity x time + 1/2 acceleration x time^2, use this equation when $v_{f}$ does not matter. 
 
 $$
 v_{f}^2 = v_{i}^2 + 2ad
@@ -39,7 +39,7 @@ $$
 
 ^89ccc7
 
-the final velocity^2 = the initial velocity^2 + 2 x acceleration x displacement
+the final velocity^2 = the initial velocity^2 + 2 x acceleration x displacement. Use this when time does not matter. 
 
 Other supplemental equations that can be derived are such:
 $$
