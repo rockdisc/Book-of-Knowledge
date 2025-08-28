@@ -24,6 +24,7 @@ actions:
 
 > [!todo]  Today
 >  - [ ] create new bases template for books and make all the book and video reports follow it
+>  - [ ] Make the full debate into a video. 
 
 > [!warning]  Run On
 
