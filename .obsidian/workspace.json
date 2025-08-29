@@ -49,8 +49,7 @@
               "title": "Adding thumbnails in Obsidian"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-28"
             }
           },
           {
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-28"
             }
           },
           {
@@ -200,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-28"
             }
           },
           {
@@ -236,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-08-28.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-08-28"
             }
           },
           {
@@ -283,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-28"
             }
           }
         ],
@@ -319,8 +318,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c6e50adbddc82e66",
+  "active": "7008172f64d985f9",
   "lastOpenFiles": [
+    "Home.md",
     "3-Journal/2025-08-28.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
@@ -333,7 +333,6 @@
     "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
     "2-Main/0-SORT THIS/Worldbuilding.md",
     "4-DND/Ors/Characters.base",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Macbeth.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Lord of the Flies.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
