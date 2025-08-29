@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Report")
+        - not:
+            - file.inFolder("Templates")
+    order:
+      - file.name
+      - MediaType
+      - Author
+      - Rating

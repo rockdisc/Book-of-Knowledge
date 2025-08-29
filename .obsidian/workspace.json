@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+                "file": "2-Main/0-SORT THIS/MedRep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Quiet on the Western Front"
-            }
-          },
-          {
-            "id": "0a815caf04bba13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A 6.27.25"
+              "title": "MedRep"
             }
           },
           {
@@ -55,12 +41,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/c/68acfcf8-9328-8324-b87f-7f50f69dc50e",
-                "title": "Vector arrow in LaTeX",
+                "url": "https://chatgpt.com/c/68b106df-e5f4-8328-9e1c-c54732136b2c",
+                "title": "Adding thumbnails in Obsidian",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Vector arrow in LaTeX"
+              "title": "Adding thumbnails in Obsidian"
             }
           },
           {
@@ -72,12 +58,12 @@
                 "file": "2-Main/0-SORT THIS/Untitled.base",
                 "viewName": "Table"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,8 +119,7 @@
               "title": "Zen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "be1519f7ded17593",
@@ -172,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for All Quiet on the Western Front"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -191,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of All Quiet on the Western Front"
+              "title": "Graph of Untitled"
             }
           },
           {
@@ -228,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from All Quiet on the Western Front"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -264,10 +249,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md"
+                "file": "2-Main/0-SORT THIS/Untitled.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for All Quiet on the Western Front"
+              "title": "File properties for Untitled"
             }
           },
           {
@@ -311,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+                "file": "2-Main/0-SORT THIS/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All Quiet on the Western Front"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -347,15 +332,16 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1eb78fabd1a2c640",
+  "active": "2f37d815a2fd0c5a",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/MedRep.md",
-    "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
-    "2-Main/0-SORT THIS/Worldbuilding.md",
     "2-Main/0-SORT THIS/Untitled.base",
+    "2-Main/0-SORT THIS/MedRep.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
+    "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
+    "2-Main/0-SORT THIS/Worldbuilding.md",
     "4-DND/Ors/Characters.base",
     "Home.md",
-    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Macbeth.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Lord of the Flies.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
@@ -365,7 +351,6 @@
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Blood Meridian.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Anthem.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
-    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
     "3-Journal/2025-08-28.md",
     "2-Main/3-Resources/3-Humanities/History/US/Jean Jacques Rousseau.md",
     "2-Main/3-Resources/3-Humanities/History/US/Adam Smith.md",
@@ -379,7 +364,6 @@
     "2-Main/3-Resources/2-STEM/Math/Algebra/Limit.md",
     "1-Rough/External Dropoff/1.6 hapc.pdf",
     "1-Rough/External Dropoff/Kinematics practice 1.pdf",
-    "3-Journal/2025-08/2025-08-27.md",
     "6-Images/Desmos Finding Roots Example.png",
     "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
     "4-DND/DM Screen.canvas",

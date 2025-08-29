@@ -1,7 +1,14 @@
 ---
 MediaType:
-Author: 
-banner: "![[]]"
-Rating: #Article
+Author:
+banner: ""
+Rating:
 ---
+# {{Title}}
 #Report 
+
+## Summary 
+
+
+## Interesting Points 
+
