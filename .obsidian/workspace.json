@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/0-SORT THIS/Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Limit"
             }
           },
           {
@@ -176,6 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/0-SORT THIS/Limit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Limit"
             }
           },
           {
@@ -212,11 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/0-SORT THIS/Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Limit"
             }
           },
           {
@@ -246,9 +249,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "2-Main/0-SORT THIS/Limit.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Limit"
             }
           },
           {
@@ -292,12 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/0-SORT THIS/Limit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Limit"
             }
           }
         ],
@@ -327,7 +333,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "17ed316707a507a1",
+  "active": "eab2785d6bc6b67e",
   "lastOpenFiles": [
     "2-Main/0-SORT THIS/Limit.md",
     "3-Journal/2025-08-28.md",
