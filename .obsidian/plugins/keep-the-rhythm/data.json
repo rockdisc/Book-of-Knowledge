@@ -16500,11 +16500,44 @@
         "changes": [
           {
             "timeKey": "19:20",
-            "w": 6,
-            "c": 43
+            "w": 26,
+            "c": 189
           }
         ],
         "id": 1126
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/0-SORT THIS/Social Contracts.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 22,
+            "c": 122
+          },
+          {
+            "timeKey": "19:25",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 1127
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/0-SORT THIS/Voltaire.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 26,
+            "c": 183
+          }
+        ],
+        "id": 1128
       }
     ]
   }
