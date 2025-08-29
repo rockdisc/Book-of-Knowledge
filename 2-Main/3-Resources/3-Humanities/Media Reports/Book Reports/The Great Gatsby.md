@@ -4,6 +4,7 @@ banner_y: 0.324
 Status: Summarized
 MediaType: Book
 Rating: 8.7
+Author: F. Scott Fitzgerald
 ---
 
 # The Great Gatsby

@@ -16829,6 +16829,48 @@
           }
         ],
         "id": 1147
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/0-SORT THIS/William Shakespeare.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1148
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
+        "wordCountStart": 908,
+        "charCountStart": 4859,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 3,
+            "c": 20
+          }
+        ],
+        "id": 1149
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
+        "wordCountStart": 240,
+        "charCountStart": 1519,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 2,
+            "c": 29
+          }
+        ],
+        "id": 1150
       }
     ]
   }

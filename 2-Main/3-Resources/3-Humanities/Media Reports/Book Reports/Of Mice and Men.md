@@ -3,6 +3,7 @@ banner: https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392
 Status: Summarized
 MediaType: Book
 Rating: 9.5
+Author: John Steinbeck
 ---
 ---
 banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg"

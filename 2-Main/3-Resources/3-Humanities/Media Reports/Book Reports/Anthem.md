@@ -2,6 +2,7 @@
 Status: Finished
 MediaType: Book
 Rating: 5.3
+Author: Ayn Rand
 ---
 #Writing/Mini-Essay #Report/Book #Ela/Classic/Modern 
 

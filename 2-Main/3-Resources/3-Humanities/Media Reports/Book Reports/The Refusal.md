@@ -2,6 +2,7 @@
 Status: Finished
 MediaType: Book
 Rating: 7.6
+Author: Franz Kafka
 ---
 #Report/Book #Ela/Classic/Modern 
 

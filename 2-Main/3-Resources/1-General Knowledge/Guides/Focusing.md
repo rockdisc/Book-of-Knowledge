@@ -2,6 +2,7 @@
 Status: Finished
 MediaType: Video
 Rating: 6.4
+Author: Alex Dekora
 ---
 #Psychology #Report/Video 
 

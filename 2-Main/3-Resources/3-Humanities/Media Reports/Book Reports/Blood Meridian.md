@@ -3,6 +3,7 @@ banner: https://suntup.press/wp-content/uploads/2021/03/BloodMeridian_Hero_Mobil
 Status: Summarized
 MediaType: Book
 Rating: 8.9
+Author: Cormac McCarthy
 ---
 
 # Blood Meridian
