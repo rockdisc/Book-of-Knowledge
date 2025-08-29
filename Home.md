@@ -27,6 +27,11 @@ actions:
 >  - [ ] Get new Book 
 >  - [ ] Get started on Science Honors Society
 
+> [!warning] Homework
+>  - [ ] Do the 1.3 Language reading
+>  - [ ] Do the Physics Online Homework
+
+
 > [!warning]  Run On
 
 > [!info] Later 
