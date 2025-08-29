@@ -9028,7 +9028,7 @@
       },
       {
         "date": "2025-08-06",
-        "filePath": "2-Main/3-Resources/1-General Knowledge/ACT.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15058,7 +15058,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "2-Main/3-Resources/1-General Knowledge/ACT.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
         "wordCountStart": 476,
         "charCountStart": 2735,
         "changes": [
@@ -15893,7 +15893,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Multiplicity.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Multiplicity.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15912,7 +15912,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Imaginary Numbers.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Imaginary Numbers.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15944,7 +15944,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Long Polynomial Division.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15978,7 +15978,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Long Polynomial Division Example.md",
         "wordCountStart": 45,
         "charCountStart": 584,
         "changes": [],
@@ -15986,7 +15986,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Long Polynomial Division Example.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Long Polynomial Division Example.md",
         "wordCountStart": 45,
         "charCountStart": 584,
         "changes": [],
@@ -16057,7 +16057,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Finding Roots.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Finding Roots.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -16076,7 +16076,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Finding Roots Example.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Finding Roots Example.md",
         "wordCountStart": 45,
         "charCountStart": 584,
         "changes": [],
@@ -16084,7 +16084,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Finding Roots Example.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Finding Roots Example.md",
         "wordCountStart": 45,
         "charCountStart": 584,
         "changes": [],
@@ -16162,7 +16162,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/Mass Bay Colony.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/Mass Bay Colony.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -16181,7 +16181,7 @@
       },
       {
         "date": "2025-08-26",
-        "filePath": "2-Main/0-SORT THIS/French-Indian War.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/French-Indian War.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -16369,7 +16369,7 @@
       },
       {
         "date": "2025-08-27",
-        "filePath": "2-Main/0-SORT THIS/AP Lang Test.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -16398,7 +16398,7 @@
       },
       {
         "date": "2025-08-27",
-        "filePath": "2-Main/3-Resources/1-General Knowledge/ACT.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
         "wordCountStart": 476,
         "charCountStart": 2736,
         "changes": [
@@ -16437,12 +16437,18 @@
         "filePath": "3-Journal/2025-08-28.md",
         "wordCountStart": 99,
         "charCountStart": 611,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 0,
+            "c": 9
+          }
+        ],
         "id": 1122
       },
       {
         "date": "2025-08-28",
-        "filePath": "2-Main/0-SORT THIS/Limit.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Limit.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -16463,6 +16469,42 @@
           }
         ],
         "id": 1123
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "1-Rough/External Dropoff/School Schedule.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 12,
+            "c": 72
+          }
+        ],
+        "id": 1124
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
+        "wordCountStart": 109,
+        "charCountStart": 595,
+        "changes": [],
+        "id": 1125
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/0-SORT THIS/John Locke.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 6,
+            "c": 43
+          }
+        ],
+        "id": 1126
       }
     ]
   }

@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "eab2785d6bc6b67e",
+            "id": "7ad4829a6560de8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Rough/External Dropoff/School Schedule.md",
+                "file": "2-Main/0-SORT THIS/John Locke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School Schedule"
+              "title": "John Locke"
             }
           },
           {
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough/External Dropoff/School Schedule.md",
+                "file": "2-Main/0-SORT THIS/John Locke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for School Schedule"
+              "title": "Backlinks for John Locke"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Rough/External Dropoff/School Schedule.md",
+                "file": "2-Main/0-SORT THIS/John Locke.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of School Schedule"
+              "title": "Graph of John Locke"
             }
           },
           {
@@ -214,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Rough/External Dropoff/School Schedule.md",
+                "file": "2-Main/0-SORT THIS/John Locke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from School Schedule"
+              "title": "Outgoing links from John Locke"
             }
           },
           {
@@ -250,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Rough/External Dropoff/School Schedule.md"
+                "file": "2-Main/0-SORT THIS/John Locke.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for School Schedule"
+              "title": "File properties for John Locke"
             }
           },
           {
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough/External Dropoff/School Schedule.md",
+                "file": "2-Main/0-SORT THIS/John Locke.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of School Schedule"
+              "title": "Outline of John Locke"
             }
           }
         ],
@@ -333,16 +333,19 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "eab2785d6bc6b67e",
+  "active": "7ad4829a6560de8c",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Limit.md",
+    "2-Main/0-SORT THIS/John Locke.md",
+    "3-Journal/2025-08-28.md",
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing",
+    "1-Rough/External Dropoff/School Schedule.md",
+    "2-Main/3-Resources/2-STEM/Math/Algebra/Limit.md",
     "1-Rough/External Dropoff/1.6 hapc.pdf",
     "1-Rough/External Dropoff/Kinematics practice 1.pdf",
-    "3-Journal/2025-08-28.md",
     "Home.md",
     "3-Journal/2025-08/2025-08-27.md",
-    "2-Main/0-SORT THIS/AP Lang Test.md",
-    "2-Main/3-Resources/1-General Knowledge/ACT.md",
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "3-Journal/2025-08/2025-08-26.md",
     "Templates/JEntry.md",
@@ -352,17 +355,16 @@
     "4-DND/Ors/2-Main/Orsian Users.md",
     "4-DND/Ors/Variables.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
-    "2-Main/0-SORT THIS/French-Indian War.md",
+    "2-Main/3-Resources/3-Humanities/History/US/French-Indian War.md",
     "2-Main/3-Resources/3-Humanities/History/US/New World.md",
-    "2-Main/0-SORT THIS/Mass Bay Colony.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Mass Bay Colony.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomial Inequalities.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomial Inequalities Example.md",
-    "2-Main/0-SORT THIS/Finding Roots Example.md",
+    "2-Main/3-Resources/2-STEM/Math/Algebra/Finding Roots Example.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Moon.md",
     "2-Main/3-Resources/2-STEM/Sciences/Astronomy/Phases of the Moon Example.md",
-    "2-Main/0-SORT THIS/Finding Roots.md",
+    "2-Main/3-Resources/2-STEM/Math/Algebra/Finding Roots.md",
     "6-Images/Desmos Finding Roots Example.png",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Roots Theorem.md",
     "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
     "4-DND/Ors/Characters.base",
     "4-DND/DM Screen.canvas",
@@ -371,7 +373,6 @@
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/3-Electromagnetism",
     "6-Images/MoonPhases.png",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",
