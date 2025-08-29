@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Journal/2025-08-28.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-28"
+              "title": "King Lear"
             }
           },
           {
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-08-28.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-28"
+              "title": "Backlinks for King Lear"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-08-28.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-08-28"
+              "title": "Graph of King Lear"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-08-28.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-28"
+              "title": "Outgoing links from King Lear"
             }
           },
           {
@@ -235,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Journal/2025-08-28.md"
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-08-28"
+              "title": "File properties for King Lear"
             }
           },
           {
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-08-28.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-28"
+              "title": "Outline of King Lear"
             }
           }
         ],
@@ -320,14 +320,21 @@
   },
   "active": "7008172f64d985f9",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Jean Jacques Rousseau.md",
-    "2-Main/0-SORT THIS/Adam Smith.md",
-    "2-Main/0-SORT THIS/Charles Montesquieu.md",
-    "2-Main/0-SORT THIS/Voltaire.md",
-    "2-Main/0-SORT THIS/John Locke.md",
-    "1-Rough/External Dropoff/School Schedule.md",
-    "2-Main/0-SORT THIS/Social Contracts.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Julius Caesar (Play).md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Hamlet.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Don Quixote.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Blood Meridian.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Anthem.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
     "3-Journal/2025-08-28.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Jean Jacques Rousseau.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Adam Smith.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Charles Montesquieu.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Voltaire.md",
+    "2-Main/3-Resources/3-Humanities/History/US/John Locke.md",
+    "1-Rough/External Dropoff/School Schedule.md",
+    "2-Main/3-Resources/3-Humanities/History/US/Social Contracts.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Limit.md",
@@ -342,13 +349,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md",
     "3-Journal/2025-08/2025-08-11.md",
     "4-DND/Ors/2-Main/Nibkil.md",
-    "4-DND/Ors/2-Main/Orsian Users.md",
-    "4-DND/Ors/Variables.md",
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
-    "2-Main/3-Resources/3-Humanities/History/US/French-Indian War.md",
-    "2-Main/3-Resources/3-Humanities/History/US/New World.md",
-    "2-Main/3-Resources/3-Humanities/History/US/Mass Bay Colony.md",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomial Inequalities.md",
     "6-Images/Desmos Finding Roots Example.png",
     "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
     "4-DND/Ors/Characters.base",

@@ -1,6 +1,5 @@
 ---
 banner: "https://rollingrome.com/wp-content/uploads/2023/07/GettyImages-587489068-2-130285e.jpg"
-banner_y: 0.732
 ---
 # Julius Caesar (Play)
 #BookReport #Ela/Classic/Old 

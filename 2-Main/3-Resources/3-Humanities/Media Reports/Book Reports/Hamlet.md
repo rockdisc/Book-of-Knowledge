@@ -2,6 +2,7 @@
 banner: "https://media.shakespeare.org.uk/images/Sarah_Bernhardt_as_Hamlet_Ade.6c0fd55a.fill-1200x600-c75.jpg"
 banner_y: 1
 ---
+
 # Hamlet 
 #BookReport #Ela/Classic/Old  
 

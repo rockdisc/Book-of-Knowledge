@@ -1,6 +1,5 @@
 ---
 banner: "https://suntup.press/wp-content/uploads/2021/03/BloodMeridian_Hero_Mobile.jpg"
-banner_y: 1
 ---
 
 # Blood Meridian

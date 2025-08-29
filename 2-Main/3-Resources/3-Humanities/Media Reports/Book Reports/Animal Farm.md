@@ -1,6 +1,6 @@
 ---
 banner: "https://media.wired.com/photos/5fd940d7a2d1c6c2bdea0c00/16:9/w_1728,h_972,c_limit/games_animal-farm.jpg"
-banner_y: 0.16
+---
 ---
 
 # Animal Farm
