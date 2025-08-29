@@ -1,4 +1,4 @@
-#Worldbuilding/Factions #Ors 
+#Worldbuilding/Factions #DND/Ors 
 
 After a [[Users|user]] is [[Devourment|devoured]] and the [[Spirits|spirit]] begins to control the user. This is referred to as Jotuns.
 

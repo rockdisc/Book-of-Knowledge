@@ -2,7 +2,7 @@
 Owner: "[[Esqine Augean]]"
 ---
 
-#Worldbuilding/Item #Ors/Artifact  
+#Worldbuilding/Item #DND/Ors/Artifact  
 
 Stores the ability of any other artifact for infinite uses, it ignores their flaw. 
 

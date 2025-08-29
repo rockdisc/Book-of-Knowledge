@@ -1,4 +1,4 @@
-#Worldbuilding/Myth #Worldbuilding/Factions #Ors #Misadventurers 
+#Worldbuilding/Myth #Worldbuilding/Factions #DND/Ors #DND/Misadventurers 
 
 Gain their powers from believers
 

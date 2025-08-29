@@ -1,4 +1,4 @@
-#Ors/Spirits 
+#DND/Ors/Spirits 
 
 
 The object [[Users]] use to activate their [[Spirits]]

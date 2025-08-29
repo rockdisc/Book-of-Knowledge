@@ -1,4 +1,4 @@
-#Worldbuilding/Location #Ors 
+#Worldbuilding/Location #DND/Ors 
 
 The home of the [[Elvagars]] creates from floating logs and conjured stones.
 

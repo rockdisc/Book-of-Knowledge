@@ -3,7 +3,7 @@ banner: "https://visitchillicotheohio.com/wp-content/uploads/2025/02/IMG_0105.pn
 banner_y: 0.516
 ---
 # The Tempest 
-#Ela/Classic/Old #BookReport 
+#Ela/Classic/Old #Report/Book 
 
 ## Summary 
 

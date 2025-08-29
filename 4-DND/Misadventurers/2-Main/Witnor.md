@@ -1,4 +1,4 @@
-#Worldbuilding/Location #Misadventurers 
+#Worldbuilding/Location #DND/Misadventurers 
 
 Holds [[Guild]] 
 Is capital of [[Cans]]

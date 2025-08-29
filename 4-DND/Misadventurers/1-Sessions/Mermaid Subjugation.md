@@ -1,4 +1,4 @@
-#Session/Misadventurers
+#DND/Session/Misadventurers
 
 Right after coming back from the last quest, and collecting their reward the guild master Tobias tells them that Bici is being invaded by the Chuul again. The last time this happened was 20 years ago.
 

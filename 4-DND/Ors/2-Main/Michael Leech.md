@@ -1,7 +1,7 @@
 ---
 Faction: Orsian
 ---
-#Ors/Orsian/player 
+#DND/Ors/Orsian/player 
 
 ### Plot Hooks
 Knows and has a "history" with [[Freja]]

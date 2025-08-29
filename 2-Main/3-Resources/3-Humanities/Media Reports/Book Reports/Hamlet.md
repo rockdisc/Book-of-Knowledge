@@ -4,7 +4,7 @@ banner_y: 1
 ---
 
 # Hamlet 
-#BookReport #Ela/Classic/Old  
+#Report/Book #Ela/Classic/Old  
 
 ## Summary 
 

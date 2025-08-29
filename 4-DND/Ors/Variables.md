@@ -1,4 +1,4 @@
-#Worldbuilding/Factions #Ors 
+#Worldbuilding/Factions #DND/Ors 
 Created by the Head of the [[Arouran Military Structure]], [[Thrainn Dval]] 
 These people constantly effect his future predictions causing multiple changes over and over again.
 

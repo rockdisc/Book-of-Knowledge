@@ -1,4 +1,4 @@
-#Worldbuilding/Myth #Worldbuilding/Factions #Ors 
+#Worldbuilding/Myth #Worldbuilding/Factions #DND/Ors 
 
 From the [[Ors Creation Myth]]
 As it states, its the right arm of [[Ginnungagap]]

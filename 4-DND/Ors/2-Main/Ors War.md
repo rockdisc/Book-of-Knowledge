@@ -1,4 +1,4 @@
-#Worldbuilding/Event #Ors 
+#Worldbuilding/Event #DND/Ors 
 
 The conflict is being fought between the Arourans and the Orsians over a dispute regarding how to treat sprites. The North believes sprites should be treated as partners and even encourages polygamy and marriage with them, in accordance with their religious beliefs. The South, on the other hand, has adopted a new religion from further south and practices a different form of magic, often referred to as Southy Magic. They view sprites more as tools or contractual sources of power.
 

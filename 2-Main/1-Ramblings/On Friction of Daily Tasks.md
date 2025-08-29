@@ -1,4 +1,4 @@
-#Mini-Essay #Psychology 
+#Writing/Mini-Essay #Psychology 
 
 > [!quote] 
 > Design your life to minimize reliance on willpower.

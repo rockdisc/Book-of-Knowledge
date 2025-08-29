@@ -4,7 +4,7 @@ banner: "https://media.wired.com/photos/5fd940d7a2d1c6c2bdea0c00/16:9/w_1728,h_9
 ---
 
 # Animal Farm
-#BookReport #Ela/Classic/Modern 
+#Report/Book #Ela/Classic/Modern 
 
 ## Summary 
 

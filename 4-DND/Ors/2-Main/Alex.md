@@ -1,7 +1,7 @@
 ---
 Faction: Arouran
 ---
-#Worldbuilding/Character #Ors/Arouran/player 
+#Worldbuilding/Character #DND/Ors/Arouran/player 
 
 ## Summary
 Human/Fighter 

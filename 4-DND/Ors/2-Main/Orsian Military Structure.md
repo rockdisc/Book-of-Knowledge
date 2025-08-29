@@ -1,4 +1,4 @@
-#Worldbuilding/Factions #Ors/Orsian 
+#Worldbuilding/Factions #DND/Ors/Orsian 
 
 Tools of [[Abaddon]], the 12-Armed God, which are used not just for the military structure but also for the government, as most of the arms are dedicated to the military. These are:
 

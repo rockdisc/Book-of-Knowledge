@@ -6,7 +6,7 @@ banner: "https://s26162.pcdn.co/wp-content/uploads/2023/08/Othello_and_Desdemona
 banner_y: 0.216
 ---
 # The Tragedy of Othello 
-#Ela/Classic/Old #BookReport 
+#Ela/Classic/Old #Report/Book 
 
 ## Overview
 

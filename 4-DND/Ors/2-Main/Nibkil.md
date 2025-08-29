@@ -5,7 +5,7 @@ Type: "[[Sylph]]"
 ThemeSong:
 ---
 
-#Worldbuilding/Character #Ors/NPC 
+#Worldbuilding/Character #DND/Ors/NPC 
 
 ## Summary
 Lived in a small town where he got a spirit. He is now a part of the government after being defeated by one of the parties. 

@@ -1,6 +1,6 @@
 2025-07-04
 ## Tags:
-#Figure , #Mythology , #Philosophy/Esotericism 
+#History/Figure , #Mythology , #Philosophy/Esotericism 
 
 
 # Hermes Trismegistus

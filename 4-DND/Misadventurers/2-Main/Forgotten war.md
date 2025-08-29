@@ -1,4 +1,4 @@
-#Worldbuilding/Event #Ors 
+#Worldbuilding/Event #DND/Ors 
 
 a war between the [[Unforgiving Death]] and the [[Gods]]
 

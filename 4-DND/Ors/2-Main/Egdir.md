@@ -1,4 +1,4 @@
-#Ors/Spirits #Worldbuilding/Myth
+#DND/Ors/Spirits #Worldbuilding/Myth
 
 One of the [[Gods]]
 Said to be the God of sheeps/goats

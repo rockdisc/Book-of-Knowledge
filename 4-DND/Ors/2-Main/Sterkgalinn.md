@@ -1,4 +1,4 @@
-#Worldbuilding/Factions #Ors 
+#Worldbuilding/Factions #DND/Ors 
 
 The strongest of the [[Jotuns]]. Created after Eotens of the minor arcana eat the spiritual symbol of a previous Sterkgalinn and overcomes their total [[Devourment]].
 Their [[Spirit Sigil]] is how they manifest their power.

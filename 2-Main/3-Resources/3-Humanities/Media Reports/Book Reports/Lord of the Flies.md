@@ -1,4 +1,4 @@
-#BookReport #Ela/Classic/Modern 
+#Report/Book #Ela/Classic/Modern 
 
 ## Megalomania and the Thirst for Power
 The disease that leads to wars throughout time and the deaths of millions is one that all humans are born with, megalomania. This thirst for power is in many different texts, including texts from Hindu mythology, Ravan was a king who was corrupt with power, killing everyone who disagreed with him, while Ram was a king who used his power sparingly and only when it was necessary; even though they were born under the same conditions, Ravan eventually lost to Ram because he had that overpowering hunger (Ramayana). Tales of a corrupted thirst have been told throughout history, yet people do not learn the lesson they teach. Power through thirst will corrupt, while power through vigilance will prevail.

@@ -1,4 +1,4 @@
-#Worldbuilding/Location #Misadventurers 
+#Worldbuilding/Location #DND/Misadventurers 
 
 Races: Aasimar, Genasi, Changeling, Eladrin, Fairy, Firbolg
 

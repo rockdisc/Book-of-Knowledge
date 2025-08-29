@@ -1,4 +1,4 @@
-#Ors/Spirits 
+#DND/Ors/Spirits 
 
 After prolonged use of [[Spirits]]. [[Users]] begin start the process of [[Embroidment]]. If they were to continue, as in use their spirit several times a day. There is a chance for devourment when a spirit completely takes over their user. 
 

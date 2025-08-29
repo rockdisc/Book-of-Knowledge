@@ -1,4 +1,4 @@
-#Worldbuilding/Location #Worldbuilding/Creature #Misadventurers 
+#Worldbuilding/Location #Worldbuilding/Creature #DND/Misadventurers 
 
 created by [[Unforgiving Death]]
 

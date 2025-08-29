@@ -4,7 +4,7 @@ banner: "https://images.squarespace-cdn.com/content/v1/5aad39045ffd2005d9ba86ec/
 ---
 
 # All Quiet on the Western Front 
-#BookReport #Ela/Classic/Modern 
+#Report/Book  #Ela/Classic/Modern 
 
 
 ## Summary

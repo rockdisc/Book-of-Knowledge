@@ -1,4 +1,4 @@
-#Worldbuilding/Myth #Ors 
+#Worldbuilding/Myth #DND/Ors 
 
 One of the [[Myths of Ors]]
 _Arourans believe in Volva’s Prophecy; Orsians believe in Sibyl’s Prophecy_

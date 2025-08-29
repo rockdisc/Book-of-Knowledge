@@ -1,4 +1,4 @@
-#Worldbuilding/Location #Misadventurers 
+#Worldbuilding/Location #DND/Misadventurers 
 
 A nation in [[Terna]] where several cities lay
 

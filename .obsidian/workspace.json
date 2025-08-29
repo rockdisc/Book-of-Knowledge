@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/MedRep.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MedRep"
+              "title": "All Quiet on the Western Front"
+            }
+          },
+          {
+            "id": "0a815caf04bba13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A 6.27.25"
             }
           },
           {
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math",
+                "query": "tag:#Geography",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/MedRep.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MedRep"
+              "title": "Backlinks for All Quiet on the Western Front"
             }
           },
           {
@@ -177,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/MedRep.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MedRep"
+              "title": "Graph of All Quiet on the Western Front"
             }
           },
           {
@@ -214,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/MedRep.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MedRep"
+              "title": "Outgoing links from All Quiet on the Western Front"
             }
           },
           {
@@ -250,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/MedRep.md"
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for MedRep"
+              "title": "File properties for All Quiet on the Western Front"
             }
           },
           {
@@ -297,17 +311,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/MedRep.md",
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/All Quiet on the Western Front.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MedRep"
+              "title": "Outline of All Quiet on the Western Front"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -333,10 +347,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ee00dd4020b2fb78",
+  "active": "1eb78fabd1a2c640",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Worldbuilding.md",
     "2-Main/0-SORT THIS/MedRep.md",
+    "4-DND/Ors/1-Sessions/Arouran/A 6.27.25.md",
+    "2-Main/0-SORT THIS/Worldbuilding.md",
     "2-Main/0-SORT THIS/Untitled.base",
     "4-DND/Ors/Characters.base",
     "Home.md",
@@ -365,7 +380,6 @@
     "1-Rough/External Dropoff/1.6 hapc.pdf",
     "1-Rough/External Dropoff/Kinematics practice 1.pdf",
     "3-Journal/2025-08/2025-08-27.md",
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "6-Images/Desmos Finding Roots Example.png",
     "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
     "4-DND/DM Screen.canvas",

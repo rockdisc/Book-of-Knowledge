@@ -5,7 +5,7 @@ Type: "[[Trow]]"
 ThemeSong:
 ---
 
-#Worldbuilding/Character #Ors/NPC 
+#Worldbuilding/Character #DND/Ors/NPC 
 
 ## Summary
 

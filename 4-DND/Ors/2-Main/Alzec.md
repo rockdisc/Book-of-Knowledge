@@ -1,7 +1,7 @@
 ---
 Faction: Orsian
 ---
-#Ors/NPC
+#DND/Ors/NPC
 
 Is the man who works directly under [[Kelin]] in [[Torg]] and is in charge of stealing the bonded objects of nobles and storing them. Works with [[Gimri]] who is in charge of actually selling the shade and cleaning the money.
 ## Power

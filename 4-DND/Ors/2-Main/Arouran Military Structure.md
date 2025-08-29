@@ -1,4 +1,4 @@
-#Worldbuilding/Factions #Ors 
+#Worldbuilding/Factions #DND/Ors 
 
 
 Considered the body parts of the great god, Dragon of the North, and King of the Sylphs, Boreal. There are 8 legions that go in order of importance here:

@@ -3,7 +3,7 @@ Name: Jaeger Measter
 Type: "[[Nixie]]"
 Faction: Orsian
 ---
-#Ors/Orsian/player 
+#DND/Ors/Orsian/player 
 
 ### Plot Hooks
 

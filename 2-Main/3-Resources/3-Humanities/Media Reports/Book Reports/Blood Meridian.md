@@ -3,7 +3,7 @@ banner: "https://suntup.press/wp-content/uploads/2021/03/BloodMeridian_Hero_Mobi
 ---
 
 # Blood Meridian
-#BookReport #Ela/Classic/Modern 
+#Report/Book #Ela/Classic/Modern 
 
 ## Summary 
 

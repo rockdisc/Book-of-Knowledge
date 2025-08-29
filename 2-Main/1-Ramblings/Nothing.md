@@ -1,4 +1,4 @@
-#Mini-Essay 
+#Writing/Mini-Essay 
 
 > [!Quote]  
 > Perhaps when we find ourselves wanting everything, it is because we are dangerously near to wanting nothing.

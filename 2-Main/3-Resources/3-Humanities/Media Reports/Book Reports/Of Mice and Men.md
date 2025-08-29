@@ -6,7 +6,7 @@ banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.8539
 banner_y: 0.38
 ---
 # Of Mice and Men 
-#Ela/Classic/Modern #BookReport
+#Ela/Classic/Modern #Report/Book
 
 ## Overview
 Taking place in the great depression, of mice and men is about George, a small and smart man, and his large and mentally challenged friend Lennie, who he is protective of. Lennie likes to touch soft things though he cannot control his strength leading to him most often crushing them. In the book they are trying to get enough money and resources to make their own farm, though are unable to as they are in the [[Great Depression]]. On the farm they are currently working in, there is a man named Curley and he has a wife. 

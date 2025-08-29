@@ -1,4 +1,4 @@
-#Session/Misadventurers 
+#DND/Session/Misadventurers 
 
 The town of Tern is not trading goods, it is as through it disappeared. There is a guild quest for C rank adventurers to figure out what is happening.
 

@@ -1,7 +1,7 @@
 ---
 Faction: "[[Sterkgalinn]]"
 ---
-#Worldbuilding/Creature #Ors/NPC 
+#Worldbuilding/Creature #DND/Ors/NPC 
 
 ###### Faction: [[Sterkgalinn]], [[Disaster]]
 

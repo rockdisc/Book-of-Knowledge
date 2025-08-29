@@ -1,4 +1,4 @@
-#Worldbuilding/Culture/Religion  #VideoReport 
+#Worldbuilding/Culture/Religion  #Report/Video 
 https://youtu.be/pjrrUZeJMSo 
 
 Religions are not stagnant, they change and morph throughout time. If I want to make the religions of [[Boreal]] and [[Religious Organizations]] of Poet's Land seem well made, I should follow these steps. 

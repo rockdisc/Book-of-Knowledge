@@ -1,4 +1,4 @@
-#Ors/Spirits
+#DND/Ors/Spirits
 
 Thumb of the [[right arm of Ginnungagap]] 
 The 12-Armed, stubborn, unchanging, Progenitor of the [[Trow]].

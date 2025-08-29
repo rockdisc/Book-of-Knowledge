@@ -4,7 +4,7 @@ banner_y: 0.324
 ---
 
 # The Great Gatsby
-#BookReport #Ela/Classic
+#Report/Book #Ela/Classic
 
 ## Summary 
 

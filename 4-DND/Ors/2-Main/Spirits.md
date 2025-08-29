@@ -1,4 +1,4 @@
-#Ors/Spirits 
+#DND/Ors/Spirits 
 
 There are 3 types of sprites:
 

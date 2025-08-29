@@ -3,7 +3,7 @@ banner: "https://static1.srcdn.com/wordpress/wp-content/uploads/macbeth-movie-re
 banner_y: 0.208
 ---
 # Macbeth 
-#BookReport #Ela/Classic/Old  
+#Report/Book #Ela/Classic/Old  
 
 ## Summary 
 

@@ -1,7 +1,7 @@
 ---
 Owner: "[[Derick]]"
 ---
-#Worldbuilding/Item #Ors/Artifact 
+#Worldbuilding/Item #DND/Ors/Artifact 
 
 This key will open any regular lock.
 

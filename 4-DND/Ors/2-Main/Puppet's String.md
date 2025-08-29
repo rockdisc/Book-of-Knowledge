@@ -1,7 +1,7 @@
 ---
 Owner: NA
 ---
-#Worldbuilding/Item  #Ors/Artifact 
+#Worldbuilding/Item  #DND/Ors/Artifact 
 
 Creates a copy of the user, it looks identical to them but cannot use any of their abilities, it does allow for 3 times per use the user to channel their spirit through it 
 

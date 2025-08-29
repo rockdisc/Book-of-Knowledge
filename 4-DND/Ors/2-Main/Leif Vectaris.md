@@ -5,7 +5,7 @@ Type: "[[Sylph]]"
 ThemeSong:
 ---
 
-#Worldbuilding/Character #Ors/NPC 
+#Worldbuilding/Character #DND/Ors/NPC 
 
 ## Summary
 High Elf/Spiriutalist 
