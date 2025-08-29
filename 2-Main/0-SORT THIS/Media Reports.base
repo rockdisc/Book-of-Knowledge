@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: Table
+    name: Cards
     filters:
       and:
         - file.hasTag("Report")
@@ -11,3 +11,5 @@ views:
       - MediaType
       - Author
       - Rating
+      - Status
+    image: note.banner
