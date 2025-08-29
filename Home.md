@@ -30,6 +30,7 @@ actions:
 > [!warning] Homework
 >  - [ ] Do the 1.3 Language reading
 >  - [ ] Do the Physics Online Homework
+>  - [ ] Do Math Week 3
 
 
 > [!warning]  Run On
