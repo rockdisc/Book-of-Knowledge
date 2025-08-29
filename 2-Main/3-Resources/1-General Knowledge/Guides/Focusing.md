@@ -1,3 +1,8 @@
+---
+Status: Finished
+MediaType: Video
+Rating: 6.4
+---
 #Psychology #Report/Video 
 
 https://youtu.be/tKkd6Zsz9gA 

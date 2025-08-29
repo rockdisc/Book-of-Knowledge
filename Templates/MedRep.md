@@ -2,6 +2,7 @@
 MediaType:
 Author:
 banner: ""
+Status: 
 Rating:
 ---
 # {{Title}}

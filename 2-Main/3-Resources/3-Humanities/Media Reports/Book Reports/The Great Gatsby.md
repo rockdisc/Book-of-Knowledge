@@ -1,6 +1,8 @@
 ---
-banner: "https://www.indiewire.com/wp-content/uploads/2016/08/20140216-131646.jpg"
+banner: https://www.indiewire.com/wp-content/uploads/2016/08/20140216-131646.jpg
 banner_y: 0.324
+Status: Summarized
+MediaType: Book
 ---
 
 # The Great Gatsby

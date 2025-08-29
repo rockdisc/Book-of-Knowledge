@@ -1,3 +1,8 @@
+---
+Status: Finished
+MediaType: Book
+Rating: 6.3
+---
 #Writing/Mini-Essay #Report/Book #Ela/Classic/Modern 
 
 [[Curiosity]] is both a blessing and a curse. Equality, or [[Prometheus]], the main character of Anthem by Ayn Rand, exemplifies this saying. The character’s innate curiosity gets him in a lot of trouble in his world, where curiosity is almost completely forbidden. He has the drive to learn things and go outside the boundaries of society. Which makes him an interesting character. In the future, his innate curiosity could take him in several different directions. He could lead an [[objectivist]] society or let the power get to his head and become a dictator. Prometheus, unlike many people in our world, has the direct choice to affect the development of his society.

@@ -1,6 +1,9 @@
 ---
-banner: "https://visitchillicotheohio.com/wp-content/uploads/2025/02/IMG_0105.png"
+banner: https://visitchillicotheohio.com/wp-content/uploads/2025/02/IMG_0105.png
 banner_y: 0.516
+Status: Summarized
+MediaType: Play
+Author: "[[William Shakespeare]]"
 ---
 # The Tempest 
 #Ela/Classic/Old #Report/Book 

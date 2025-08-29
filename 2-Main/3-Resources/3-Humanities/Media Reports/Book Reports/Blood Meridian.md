@@ -1,5 +1,8 @@
 ---
-banner: "https://suntup.press/wp-content/uploads/2021/03/BloodMeridian_Hero_Mobile.jpg"
+banner: https://suntup.press/wp-content/uploads/2021/03/BloodMeridian_Hero_Mobile.jpg
+Status: Summarized
+MediaType: Book
+Rating: 8.9
 ---
 
 # Blood Meridian

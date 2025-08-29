@@ -1,5 +1,7 @@
 ---
-banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg"
+banner: https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg
+Status: Summarized
+MediaType: Book
 ---
 ---
 banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg"

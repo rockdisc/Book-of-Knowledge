@@ -1,6 +1,9 @@
 ---
-banner: "https://static1.srcdn.com/wordpress/wp-content/uploads/macbeth-movie-reviews-2015-fassbender.jpg"
+banner: https://static1.srcdn.com/wordpress/wp-content/uploads/macbeth-movie-reviews-2015-fassbender.jpg
 banner_y: 0.208
+Status: Summarized
+MediaType: Play
+Author: "[[William Shakespeare]]"
 ---
 # Macbeth 
 #Report/Book #Ela/Classic/Old  

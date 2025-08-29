@@ -1,22 +1,11 @@
 ---
-MediaType:
-Author:
-banner: banner: "https://media.wired.com/photos/5fd940d7a2d1c6c2bdea0c00/16:9/w_1728,h_972,c_limit/games_animal-farm.jpg"
-
-Rating:
+MediaType: Book
+Author: George Orwell
+banner: "https://media.wired.com/photos/5fd940d7a2d1c6c2bdea0c00/16:9/w_1728,h_972,c_limit/games_animal-farm.jpg"
+Status: Summarized
+Rating: 9.5
+banner_y: 0.156
 ---
-# Animal Farm
-#Report 
-
-## Summary 
-
-
-## Interesting Points 
-
----
----
----
-
 # Animal Farm
 #Report/Book #Ela/Classic/Modern 
 

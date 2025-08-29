@@ -1,6 +1,9 @@
 ---
-banner: "https://images.bauerhosting.com/legacy/empire-tmdb/films/11971/images/lREt2ifyEjxdxmsqkWnmoFaIcZF.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80"
+banner: https://images.bauerhosting.com/legacy/empire-tmdb/films/11971/images/lREt2ifyEjxdxmsqkWnmoFaIcZF.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80
 banner_y: 0
+Status: Summarized
+MediaType: Play
+Author: "[[William Shakespeare]]"
 ---
 # Much Ado About Nothing 
 #Report/Book #Ela/Classic/Modern 

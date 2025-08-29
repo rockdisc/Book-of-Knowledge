@@ -1,5 +1,8 @@
 ---
-banner: "https://rollingrome.com/wp-content/uploads/2023/07/GettyImages-587489068-2-130285e.jpg"
+banner: https://rollingrome.com/wp-content/uploads/2023/07/GettyImages-587489068-2-130285e.jpg
+Status: Summarized
+MediaType: Play
+Author: "[[William Shakespeare]]"
 ---
 # Julius Caesar (Play)
 #Report/Book #Ela/Classic/Old 

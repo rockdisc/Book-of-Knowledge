@@ -1,3 +1,7 @@
+---
+Status: Finished
+MediaType: Book
+---
 #Report/Book #Ela/Classic/Modern 
 
 ## Megalomania and the Thirst for Power
