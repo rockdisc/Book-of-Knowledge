@@ -1,6 +1,7 @@
 ---
 Status: Finished
 MediaType: Video
+Rating: 8.7
 ---
 #Worldbuilding/Culture/Religion  #Report/Video 
 https://youtu.be/pjrrUZeJMSo 

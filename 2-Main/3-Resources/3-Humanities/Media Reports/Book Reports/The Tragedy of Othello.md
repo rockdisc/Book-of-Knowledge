@@ -3,6 +3,7 @@ banner: https://s26162.pcdn.co/wp-content/uploads/2023/08/Othello_and_Desdemona_
 Status: Finished
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 8.9
 ---
 ---
 banner: "https://s26162.pcdn.co/wp-content/uploads/2023/08/Othello_and_Desdemona_by_Daniel_Maclis.jpeg"

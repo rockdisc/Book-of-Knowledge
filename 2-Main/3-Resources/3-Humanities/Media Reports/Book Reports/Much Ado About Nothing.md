@@ -4,6 +4,7 @@ banner_y: 0
 Status: Summarized
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 6.1
 ---
 # Much Ado About Nothing 
 #Report/Book #Ela/Classic/Modern 

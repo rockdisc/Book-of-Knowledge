@@ -3,6 +3,7 @@ banner: https://rollingrome.com/wp-content/uploads/2023/07/GettyImages-587489068
 Status: Summarized
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 8.9
 ---
 # Julius Caesar (Play)
 #Report/Book #Ela/Classic/Old 

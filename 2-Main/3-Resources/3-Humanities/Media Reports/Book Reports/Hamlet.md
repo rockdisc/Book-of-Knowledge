@@ -4,6 +4,7 @@ banner_y: 1
 Status: Summarized
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 9.6
 ---
 
 # Hamlet 

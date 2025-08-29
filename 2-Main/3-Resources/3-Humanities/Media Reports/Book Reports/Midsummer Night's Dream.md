@@ -3,6 +3,7 @@ banner: https://upload.wikimedia.org/wikipedia/commons/d/d7/Edwin_Landseer_-_Sce
 Status: Summarized
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 6.7
 ---
 ---
 banner: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Edwin_Landseer_-_Scene_from_A_Midsummer_Night%27s_Dream._Titania_and_Bottom_-_Google_Art_Project.jpg"

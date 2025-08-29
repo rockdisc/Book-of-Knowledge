@@ -2,6 +2,7 @@
 banner: https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg
 Status: Summarized
 MediaType: Book
+Rating: 9.5
 ---
 ---
 banner: "https://prod-images.tcm.com/Master-Profile-Images/ofmiceandmen1939.85392.jpg"

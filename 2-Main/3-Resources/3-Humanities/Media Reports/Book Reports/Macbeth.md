@@ -4,6 +4,7 @@ banner_y: 0.208
 Status: Summarized
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 9.2
 ---
 # Macbeth 
 #Report/Book #Ela/Classic/Old  

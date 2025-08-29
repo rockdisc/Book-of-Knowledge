@@ -1,6 +1,7 @@
 ---
 Status: Finished
 MediaType: Book
+Rating: 7.8
 ---
 #Report/Book #Ela/Classic/Modern 
 

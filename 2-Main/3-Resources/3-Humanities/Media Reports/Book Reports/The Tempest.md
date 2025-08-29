@@ -4,6 +4,7 @@ banner_y: 0.516
 Status: Summarized
 MediaType: Play
 Author: "[[William Shakespeare]]"
+Rating: 9.7
 ---
 # The Tempest 
 #Ela/Classic/Old #Report/Book 

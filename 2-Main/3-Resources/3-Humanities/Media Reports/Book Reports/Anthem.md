@@ -1,7 +1,7 @@
 ---
 Status: Finished
 MediaType: Book
-Rating: 6.3
+Rating: 5.3
 ---
 #Writing/Mini-Essay #Report/Book #Ela/Classic/Modern 
 
