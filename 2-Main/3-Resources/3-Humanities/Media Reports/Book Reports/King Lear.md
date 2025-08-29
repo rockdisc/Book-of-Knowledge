@@ -2,10 +2,7 @@
 banner: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cordelia-in-the-Court-of-King-Lear-1873-Sir-John-Gilbert.jpg/500px-Cordelia-in-the-Court-of-King-Lear-1873-Sir-John-Gilbert.jpg"
 banner_y: 0.548
 ---
----
-banner: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cordelia-in-the-Court-of-King-Lear-1873-Sir-John-Gilbert.jpg/500px-Cordelia-in-the-Court-of-King-Lear-1873-Sir-John-Gilbert.jpg"
-banner_y: 0.188
----
+
 # King Lear
 #BookReport #Ela/Classic/Old 
 

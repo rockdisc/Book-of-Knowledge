@@ -16686,11 +16686,41 @@
         "changes": [
           {
             "timeKey": "19:35",
-            "w": 17,
-            "c": 196
+            "w": 0,
+            "c": -23
           }
         ],
         "id": 1139
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Macbeth.md",
+        "wordCountStart": 351,
+        "charCountStart": 1958,
+        "changes": [],
+        "id": 1140
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Lord of the Flies.md",
+        "wordCountStart": 599,
+        "charCountStart": 3346,
+        "changes": [],
+        "id": 1141
+      },
+      {
+        "date": "2025-08-28",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
+        "wordCountStart": 338,
+        "charCountStart": 1941,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 14,
+            "c": 155
+          }
+        ],
+        "id": 1142
       }
     ]
   }
