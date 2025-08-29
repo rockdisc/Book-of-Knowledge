@@ -11,4 +11,10 @@ means as $x$ approaches $\infty$, $f(x)$ approaches $\infty$.
 ## End behavior 
 
 The degree and coefficient of [[Polynomials]] affects the end behavior. 
-| Degree | Coeff
+
+| Degree | Coefficient | End Behavior                                                                                       |
+| ------ | ----------- | -------------------------------------------------------------------------------------------------- |
+| Odd    | Positive    | /, like $y=x$,<br>$\lim_{ x \to - \infty }f(x)=-\infty$ <br>$\lim_{ x \to \infty }f(x)= \infty$    |
+| Odd    | Negative    | \. like $y=-x$<br>$\lim_{ x \to - \infty }f(x)=\infty$ <br>$\lim_{ x \to \infty }f(x)= -\infty$    |
+| Even   | Positive    | U, like $y=x^2$<br>$\lim_{ x \to - \infty }f(x)=\infty$ <br>$\lim_{ x \to \infty }f(x)= \infty$    |
+| Even   | P           | n, like $y=-x^2$<br>$\lim_{ x \to - \infty }f(x)=-\infty$ <br>$\lim_{ x \to \infty }f(x)=- \infty$ |
