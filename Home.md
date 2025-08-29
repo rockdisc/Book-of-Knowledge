@@ -24,7 +24,7 @@ actions:
 
 > [!todo]  Today
 >  - [ ] Make the full debate into a video.
-
+	
 > [!warning] Homework
 >  - [ ] Do the 1.3 Language reading
 >  - [ ] Do the Physics Online Homework
