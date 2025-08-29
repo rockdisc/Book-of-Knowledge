@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Gods
+#Worldbuilding/PoetsLand/Gods
 # Bind
 
 Bind are ties between humans and [[Ikon]], who live in the [[Celestial World]]. This is a sort of insurance for gods. They can give some of the powers of their domains to other people(mainly their believers). This involves slight control, to make that person at a level of an [[Ikon]]. The god can decide what level of power to give that person but cannot exceed their own power. It is taken as a percentile, a god can give his pope 13% of his power. That pope can now control the waves and move water. 

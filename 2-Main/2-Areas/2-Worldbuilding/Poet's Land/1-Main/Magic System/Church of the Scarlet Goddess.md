@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Factions, #Worldbuilding/Magic/PoetsLand/Gods 
+#Worldbuilding/Factions, #Worldbuilding/PoetsLand/Gods 
 # Church of the Scarlet Goddess
 #### God of worship: [[Red Moon]]
 

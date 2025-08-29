@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Spirit 
+#Worldbuilding/PoetsLand/Spirit 
 # Numen
 
 People born on the [[Ley Line|Declination line]] have the [[Curse]] of being able to affect one self. It allows them to become elves. They are tied to the [[Spirit World]] by being in a higher location of the [[Tree of Life]] at the [[Numen Canopy]]. 

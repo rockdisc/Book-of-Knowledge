@@ -1,3 +1,6 @@
+properties:
+  note.Type:
+    displayName: SpiritType
 views:
   - type: table
     name: Table
@@ -12,3 +15,6 @@ views:
       - Type
       - Faction
       - ThemeSong
+    sort:
+      - property: Type
+        direction: DESC

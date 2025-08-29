@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Gods, #Worldbuilding/Magic, #Worldbuilding/Magic/PoetsLand/Spirit 
+#Worldbuilding/PoetsLand/Gods, #Worldbuilding/Magic, #Worldbuilding/PoetsLand/Spirit 
 # Epitome
 
 It is the thing that holds the power of an [[Ikon]], [[Ikon|God]], and [[Blights]] of the [[Blue Moon]], as well as [[Numen]], [[Numen|Elves]], and [[Blights]] of the [[Green Moon]].

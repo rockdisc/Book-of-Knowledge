@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Spirit 
+#Worldbuilding/PoetsLand/Spirit 
 # Ritual
 
 Used to contact [[Numen|Elves]] in the [[Spirit World]] to most often ask for information, [[Learned Magic#Alchemy|Alchemy]], or [[Gift]]s. 

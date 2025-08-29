@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Meta, #Worldbuilding/Location 
+#Worldbuilding/PoetsLand/Meta, #Worldbuilding/Location 
 # Red Moon
 
 Hegwis, the moon of fire.

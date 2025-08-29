@@ -1,5 +1,5 @@
  ### Tags:
-#Worldbuilding/Magic, #Worldbuilding/Magic/PoetsLand/Gods, #Worldbuilding/Magic/PoetsLand/Spirit 
+#Worldbuilding/Magic, #Worldbuilding/PoetsLand/Gods, #Worldbuilding/PoetsLand/Spirit 
 # Curse
 
 This is the magic people get when they are born on the [[Ley Line]]s. The specific power they get depend on the line, but there are things that are common among the powers. People can have either 1 or 2 powers, only if a person is born on the [[Haunt]] or the first and middle of the year on a specific location can anyone get 2 powers. These are called [[List of Miracle Children|miracle children]], though you do not want this as they are very prone to losing themselves. Whenever a person with a curse is in immense phycological stress, they disassociate with their mind, leading to the spirit taking over as their animalistic tendencies, this also leads to them killing everyone. See more in [[Blights#Human Blights|Blights]]. 

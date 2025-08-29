@@ -53,14 +53,13 @@
             "id": "2f37d815a2fd0c5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "2-Main/0-SORT THIS/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Home"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Owner\"]",
+                "query": "tag:#Math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +119,8 @@
               "title": "Zen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "be1519f7ded17593",
@@ -307,7 +307,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -333,10 +333,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "7e90aa2ec8f87342",
+  "active": "ee00dd4020b2fb78",
   "lastOpenFiles": [
-    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
+    "2-Main/0-SORT THIS/Worldbuilding.md",
     "2-Main/0-SORT THIS/MedRep.md",
+    "2-Main/0-SORT THIS/Untitled.base",
+    "4-DND/Ors/Characters.base",
+    "Home.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Midsummer Night's Dream.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Macbeth.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Lord of the Flies.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/King Lear.md",
@@ -360,19 +364,15 @@
     "2-Main/3-Resources/2-STEM/Math/Algebra/Limit.md",
     "1-Rough/External Dropoff/1.6 hapc.pdf",
     "1-Rough/External Dropoff/Kinematics practice 1.pdf",
-    "Home.md",
     "3-Journal/2025-08/2025-08-27.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
     "6-Images/Desmos Finding Roots Example.png",
     "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
-    "4-DND/Ors/Characters.base",
     "4-DND/DM Screen.canvas",
     "1-Rough/Current/Untitled",
     "4-DND/Ors/Artifact List.base",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/2-Thermodynamics",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General",
     "6-Images/MoonPhases.png",
     "6-Images/Humors.gif",
     "6-Images/PolynomialClassification.png",

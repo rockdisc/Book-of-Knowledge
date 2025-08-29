@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Spirit, #Worldbuilding/Location 
+#Worldbuilding/PoetsLand/Spirit, #Worldbuilding/Location 
 # Spirit World
 One of the three worlds, relates to the [[Green Moon]]. It is where the [[Numen|elves]] live. It crosses the [[Material World]] on the [[Ley Line|declination line]]. For every living thing thing in the material world, they have their spirit in the spirit world. Normally they are separated and only being connected by the deepest part of ones desires. 
 This world is created by the spirits of the dead beings. Once any living being dies its body goes into the ecosystem of the material world while their spirit feeds the the ecosystem of the spiritual world. The difference is that in the spirit world they live forever, as spirit is the essence of life. This means all of the world is created by interweaving branches of all types of different plants.

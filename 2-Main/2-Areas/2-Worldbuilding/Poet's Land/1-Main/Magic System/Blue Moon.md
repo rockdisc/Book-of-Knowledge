@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Gods, #Worldbuilding/Location
+#Worldbuilding/PoetsLand/Gods, #Worldbuilding/Location
 # Green Moon
 
 Also called Udr, the moon of water.

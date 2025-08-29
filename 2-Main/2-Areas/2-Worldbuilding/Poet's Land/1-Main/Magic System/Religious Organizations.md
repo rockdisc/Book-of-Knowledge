@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Factions, #Worldbuilding/Magic/PoetsLand/Gods 
+#Worldbuilding/Factions, #Worldbuilding/PoetsLand/Gods 
 # Religious Organizations
 
 Religions are organized to give believers to [[Ikon]]s who are trying to ascend to gods. As the people higher in the ranks are given [[Bind]]s, and the stronger the god gets the more people the god needs. It is natural that they have also created organized to protect its believers and gains power itself by using the [[Epitome]]s with the [[Blights]] they kill. 

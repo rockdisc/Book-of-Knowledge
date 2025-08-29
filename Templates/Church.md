@@ -1,4 +1,4 @@
-#Worldbuilding/Factions, #Worldbuilding/Magic/PoetsLand/Gods 
+#Worldbuilding/Factions, #Worldbuilding/PoetsLand/Gods 
 
 ## Summary 
 

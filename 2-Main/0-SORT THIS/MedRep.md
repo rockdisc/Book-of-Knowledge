@@ -1,3 +1,7 @@
 ---
-Type:
+MediaType:
+Author: 
+banner: "![[]]"
+Rating: #Article
 ---
+#Report 

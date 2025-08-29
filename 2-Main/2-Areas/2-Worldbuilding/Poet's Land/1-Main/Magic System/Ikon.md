@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Gods 
+#Worldbuilding/PoetsLand/Gods 
 # Ikon
 
 People born on the [[Ley Line|ecliptic line]] gain the ability to shape the surroundings around them. This [[Curse]] is that of godhood. They gain the abilities to control specific things and by consuming [[Epitome]]s, they can gain control of others. They are tied to the [[Celestial World]] by being in a higher state of the [[Plain of Consciousness]] called the [[Mountain of Ikons]]. They are the most common mages. 

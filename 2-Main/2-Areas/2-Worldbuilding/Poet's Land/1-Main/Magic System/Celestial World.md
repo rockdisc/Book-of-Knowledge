@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Gods, #Worldbuilding/Location 
+#Worldbuilding/PoetsLand/Gods, #Worldbuilding/Location 
 # Celestial World
 
 One of the three worlds, relates to the [[Blue Moon]]. It is where the [[Ikon]] live. It crosses the [[Material World|Material world]] on the [[Ley Line|ecliptic line]]. This is also called the Noosphere. Gods are being of thoughts, think of pattern screamers. They feed of the thoughts of living things. But they also feed on each other. The world is made of the thoughts of all beings. 

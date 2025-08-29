@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Spirit, #Worldbuilding/Location
+#Worldbuilding/PoetsLand/Spirit, #Worldbuilding/Location
 # Green Moon
 
 Also called Wahis, the Moon of Air. 

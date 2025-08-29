@@ -1,5 +1,5 @@
 ### Tags:
-#Worldbuilding/Magic/PoetsLand/Gods #Worldbuilding/Factions 
+#Worldbuilding/PoetsLand/Gods #Worldbuilding/Factions 
 # Small Religious Organization
 
 These are ones that are not the size of churches though could be the liked by them or work under them. These also include cults which worship smaller gods. 
