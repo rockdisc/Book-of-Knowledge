@@ -17,4 +17,4 @@ The degree and coefficient of [[Polynomials]] affects the end behavior.
 | Odd    | Positive    | /, like $y=x$,<br>$\lim_{ x \to - \infty }f(x)=-\infty$ <br>$\lim_{ x \to \infty }f(x)= \infty$    |
 | Odd    | Negative    | \. like $y=-x$<br>$\lim_{ x \to - \infty }f(x)=\infty$ <br>$\lim_{ x \to \infty }f(x)= -\infty$    |
 | Even   | Positive    | U, like $y=x^2$<br>$\lim_{ x \to - \infty }f(x)=\infty$ <br>$\lim_{ x \to \infty }f(x)= \infty$    |
-| Even   | P           | n, like $y=-x^2$<br>$\lim_{ x \to - \infty }f(x)=-\infty$ <br>$\lim_{ x \to \infty }f(x)=- \infty$ |
+| Even   | Negative    | n, like $y=-x^2$<br>$\lim_{ x \to - \infty }f(x)=-\infty$ <br>$\lim_{ x \to \infty }f(x)=- \infty$ |
