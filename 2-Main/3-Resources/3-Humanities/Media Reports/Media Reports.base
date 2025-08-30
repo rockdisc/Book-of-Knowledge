@@ -12,6 +12,9 @@ views:
       - Author
       - Rating
       - Status
+    sort:
+      - property: Rating
+        direction: DESC
     image: note.banner
   - type: table
     name: View
