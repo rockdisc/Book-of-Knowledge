@@ -35,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-08-29"
             }
           },
           {
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-29.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-08-29"
             }
           },
           {
@@ -186,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-08-29"
             }
           },
           {
@@ -222,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-08-29.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-08-29"
             }
           },
           {
@@ -269,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-08-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-08-29"
             }
           }
         ],
@@ -305,10 +304,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f5940e3d01bc907b",
+  "active": "c6e50adbddc82e66",
   "lastOpenFiles": [
-    "3-Journal/2025-08-29.md",
     "Home.md",
+    "3-Journal/2025-08-29.md",
     "3-Journal/2025-08/2025-08-28.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
