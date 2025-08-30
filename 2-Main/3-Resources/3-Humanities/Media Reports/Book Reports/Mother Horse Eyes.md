@@ -30,3 +30,7 @@ Ant farms are in areas with flesh interfaces, they mimic the paths of people goi
 
 People going into hills like pregnant bellies 
 
+People come out of flesh interfaces unborn, in wombs
+
+A nice illusion of a grandma's house
+
