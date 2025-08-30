@@ -23,3 +23,10 @@ Segmentation, where people are being cut, but they can still feel themselves. Ki
 People start to worship beings after being isolated and given LSD, this even leads them to make flesh interfaces. 
 
 Ant farms are in areas with flesh interfaces, they mimic the paths of people going about their daily life. The more the path is travelled, the thicker the ant farm.
+
+> [!quote] 
+> Come unto these yellow sands 
+> --- [[The Tempest]]
+
+People going into hills like pregnant bellies 
+
