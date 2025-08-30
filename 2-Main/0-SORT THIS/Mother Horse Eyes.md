@@ -21,3 +21,5 @@ Written on Reddit, it is a horror story which is spread throughout unconnected p
 Segmentation, where people are being cut, but they can still feel themselves. Kind of like in the [[Monument Mythos]].
 
 People start to worship beings after being isolated and given LSD, this even leads them to make flesh interfaces. 
+
+Ant farms are in areas with flesh interfaces, they mimic the paths of people going about their daily life. The more the path is travelled, the thicker the ant farm.
