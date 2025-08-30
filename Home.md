@@ -23,7 +23,8 @@ actions:
 ## To-do
 
 > [!todo]  Today
->  - [ ] Make the full debate into a video.
+>  - [ ] Make graph tags look go 
+>  - [ ] Get some dnd planning done 
 	
 > [!warning] Homework
 >  - [ ] Do the 1.3 Language reading
@@ -32,6 +33,7 @@ actions:
 
 
 > [!warning]  Run On
+>  - [ ] Make the full debate into a video.
 
 > [!info] Later 
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
