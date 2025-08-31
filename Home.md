@@ -23,7 +23,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
->  - [ ] Make graph tags look go 
+>  - [ ] Make graph tags look good
 >  - [ ] Get some dnd planning done 
 	
 > [!warning] Homework
