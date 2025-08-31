@@ -17011,6 +17011,66 @@
         "charCountStart": 501,
         "changes": [],
         "id": 1155
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Mother Horse Eyes.md",
+        "wordCountStart": 212,
+        "charCountStart": 1340,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 2,
+            "c": 14
+          }
+        ],
+        "id": 1156
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "Home.md",
+        "wordCountStart": 167,
+        "charCountStart": 1068,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 1157
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "3-Journal/2025-08/2025-08-29.md",
+        "wordCountStart": 381,
+        "charCountStart": 2014,
+        "changes": [],
+        "id": 1158
+      },
+      {
+        "date": "2025-08-30",
+        "filePath": "3-Journal/2025-08-30.md",
+        "wordCountStart": 246,
+        "charCountStart": 1513,
+        "changes": [
+          {
+            "timeKey": "20:35",
+            "w": -187,
+            "c": -1164
+          },
+          {
+            "timeKey": "22:10",
+            "w": 56,
+            "c": 264
+          },
+          {
+            "timeKey": "22:15",
+            "w": 153,
+            "c": 767
+          }
+        ],
+        "id": 1159
       }
     ]
   }
