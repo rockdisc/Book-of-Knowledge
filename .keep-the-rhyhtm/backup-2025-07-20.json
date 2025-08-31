@@ -16891,6 +16891,126 @@
           }
         ],
         "id": 1150
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "Home.md",
+        "wordCountStart": 143,
+        "charCountStart": 941,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 23,
+            "c": 125
+          },
+          {
+            "timeKey": "17:30",
+            "w": -5,
+            "c": -23
+          },
+          {
+            "timeKey": "17:35",
+            "w": -8,
+            "c": -47
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "21:50",
+            "w": 14,
+            "c": 71
+          }
+        ],
+        "id": 1151
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "3-Journal/2025-08/2025-08-29.md",
+        "wordCountStart": 154,
+        "charCountStart": 907,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "21:25",
+            "w": 17,
+            "c": 80
+          },
+          {
+            "timeKey": "21:40",
+            "w": 37,
+            "c": 196
+          },
+          {
+            "timeKey": "21:45",
+            "w": 139,
+            "c": 660
+          },
+          {
+            "timeKey": "21:50",
+            "w": 35,
+            "c": 171
+          }
+        ],
+        "id": 1153
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Mother Horse Eyes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 32,
+            "c": 219
+          },
+          {
+            "timeKey": "21:30",
+            "w": 86,
+            "c": 558
+          },
+          {
+            "timeKey": "21:35",
+            "w": 31,
+            "c": 188
+          },
+          {
+            "timeKey": "21:40",
+            "w": 30,
+            "c": 166
+          },
+          {
+            "timeKey": "21:50",
+            "w": 9,
+            "c": 66
+          },
+          {
+            "timeKey": "21:55",
+            "w": 21,
+            "c": 126
+          },
+          {
+            "timeKey": "22:00",
+            "w": 3,
+            "c": 17
+          }
+        ],
+        "id": 1154
+      },
+      {
+        "date": "2025-08-29",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
+        "wordCountStart": 44,
+        "charCountStart": 501,
+        "changes": [],
+        "id": 1155
       }
     ]
   }
