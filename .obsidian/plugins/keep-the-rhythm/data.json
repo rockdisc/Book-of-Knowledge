@@ -17095,6 +17095,28 @@
         "charCountStart": 1195,
         "changes": [],
         "id": 1163
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
+        "wordCountStart": 202,
+        "charCountStart": 1195,
+        "changes": [],
+        "id": 1166
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "Home.md",
+        "wordCountStart": 167,
+        "charCountStart": 1069,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -7,
+            "c": -37
+          }
+        ],
+        "id": 1167
       }
     ]
   }

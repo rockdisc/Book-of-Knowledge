@@ -24,7 +24,6 @@ actions:
 
 > [!todo]  Today
 >  - [ ] Make graph tags look good
->  - [ ] Get some dnd planning done 
 	
 > [!warning] Homework
 >  - [ ] Do the 1.3 Language reading
