@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-09-01"
+            }
+          },
+          {
+            "id": "1200e74e79b867a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing to Learn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Writing to Learn"
             }
           },
           {
@@ -134,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Writing to Learn"
             }
           },
           {
@@ -171,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Writing to Learn"
             }
           },
           {
@@ -207,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Writing to Learn"
             }
           },
           {
@@ -254,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Writing to Learn"
             }
           }
         ],
@@ -290,12 +305,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "17af839ebeb36e27",
+  "active": "1200e74e79b867a6",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Writing to Learn.md",
+    "3-Journal/2025-09-01.md",
+    "Home.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Mass.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Force.md",
-    "Home.md",
     "3-Journal/2025-08/2025-08-30.md",
     "3-Journal/2025-08/2025-08-29.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Mother Horse Eyes.md",
@@ -318,8 +335,6 @@
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Hamlet.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Don Quixote.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Blood Meridian.md",
-    "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Anthem.md",
-    "2-Main/3-Resources/3-Humanities/History/US/Jean Jacques Rousseau.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing",
     "5-School/11/4-HAPC/Unit 1/1.6 hapc.pdf",
     "5-School/11/5-AP Physics 1/Unit 1/Kinematics practice 1.pdf",

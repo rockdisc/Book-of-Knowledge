@@ -23,8 +23,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
->  - [ ] Make graph tags look good
-	
+		
 > [!warning] Homework
 >  - [ ] Do the 1.3 Language reading
 >  - [ ] Do the Physics Online Homework
