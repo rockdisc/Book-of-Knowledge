@@ -21,4 +21,4 @@ Public libraries are more useful than museums
 Board games are better than video games 
 Humans should colonize Mars before fixing Earth 
 School should start later in the day 
-Public transportation is beter
+Public transportation is better than private cars 
