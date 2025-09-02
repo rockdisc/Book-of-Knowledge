@@ -17226,9 +17226,33 @@
             "timeKey": "13:40",
             "w": -189,
             "c": -1184
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1176
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "2-Main/0-SORT THIS/Debate parent night speech.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 36,
+            "c": 204
+          },
+          {
+            "timeKey": "13:45",
+            "w": 46,
+            "c": 221
+          }
+        ],
+        "id": 1177
       }
     ]
   }
