@@ -23,7 +23,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] get the writing to learn book report done
 > - [ ] Do the 1.3 Language reading 
 
 > [!warning] Homework

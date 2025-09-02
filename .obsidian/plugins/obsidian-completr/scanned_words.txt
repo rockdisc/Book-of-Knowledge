@@ -4452,6 +4452,7 @@ Cole
 Chewydog
 Clare
 Countryman
+Claire
 Modern
 Mini
 My
@@ -13449,6 +13450,7 @@ wonky
 wombs
 winner
 winners
+wavy
 have
 hell
 his
@@ -39703,6 +39705,7 @@ glow
 gather
 guardians
 geologists
+gentleman
 use
 until
 used

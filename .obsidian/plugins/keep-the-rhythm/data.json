@@ -17135,7 +17135,7 @@
       },
       {
         "date": "2025-09-01",
-        "filePath": "2-Main/0-SORT THIS/Writing to Learn.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Writing to Learn.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [],
@@ -17202,6 +17202,11 @@
             "timeKey": "15:10",
             "w": -7,
             "c": -33
+          },
+          {
+            "timeKey": "15:20",
+            "w": -10,
+            "c": -50
           }
         ],
         "id": 1173
@@ -17307,7 +17312,7 @@
       },
       {
         "date": "2025-09-02",
-        "filePath": "2-Main/0-SORT THIS/Writing to Learn.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Writing to Learn.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17358,6 +17363,14 @@
           }
         ],
         "id": 1178
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 452,
+        "charCountStart": 2364,
+        "changes": [],
+        "id": 1179
       }
     ]
   }
