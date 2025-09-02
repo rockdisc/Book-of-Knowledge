@@ -25,7 +25,6 @@ actions:
 > [!todo]  Today
 > - [ ] get the writing to learn book report done
 > - [ ] Do the 1.3 Language reading 
-> - [ ] Do debate planning for parent night 
 
 > [!warning] Homework
 >  - [ ] Do the Physics Online Homework
@@ -33,12 +32,12 @@ actions:
 
 
 > [!warning]  Run On
->  - [ ] Make the full debate into a video.
 
 > [!info] Later 
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
 > - [ ] Add more Characters, at least the ones that they have encountered already 
 > - [ ] Organize the notes I just titled main
+> - [ ] Make the report pictures the poster or covers. 
 
 > [!hint]  Long Term  
 > - [ ] look at dual degree NOW
