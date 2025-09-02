@@ -12,4 +12,6 @@ Now that know know how all that works, its time for you to get to know your dens
 
 For teambuilding we have 2 activities set up, first you may see a few pieces of paper on your desks, take one of them and design a den logo you would like to have on your hoodies, this is not for spirit points but I think you all can tell it is pretty important. The other activity is for spirit points, we are going to have a debate tournament.
 
-It will be den vs den, we will have 5 minutes to research the topic, 5 minute first speech, then 3 minute cx, and finally 2 minute rebuttal speech. So team 1 speaks, team 2 cx, team 2 speak, team 1 cx
+It will be den vs den, we will have 5 minutes to research the topic, 5 minute first speech, then 3 minute cx, and finally 2 minute rebuttal speech. So team 1 speaks, team 2 cx, team 2 speak, team 1 cx, team 2 rebuttal, and finally team 1 rebuttal. In total, one round will take 25 minutes, we will have a losers bracket too, so in total this should take around an hour and 40 minutes. The winner will get a spirit point. Here are the debates:
+
+The first is Alaskan vs Labrador, then River vs Siberian, then we will have the loser's cup, and finally we will have the finals between the 2 winners. Each deabte 
