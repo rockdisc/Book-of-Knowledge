@@ -17119,6 +17119,11 @@
             "timeKey": "17:40",
             "w": -7,
             "c": -34
+          },
+          {
+            "timeKey": "21:25",
+            "w": 10,
+            "c": 49
           }
         ],
         "id": 1167
@@ -17136,6 +17141,14 @@
           }
         ],
         "id": 1168
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/0-SORT THIS/Writing to Learn.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 1169
       }
     ]
   }

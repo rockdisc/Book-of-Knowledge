@@ -23,7 +23,8 @@ actions:
 ## To-do
 
 > [!todo]  Today
-		
+> - [ ] get the writing to learn book report done
+	
 > [!warning] Homework
 >  - [ ] Do the 1.3 Language reading
 >  - [ ] Do the Physics Online Homework
