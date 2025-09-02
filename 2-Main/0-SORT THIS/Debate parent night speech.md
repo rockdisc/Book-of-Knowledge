@@ -12,4 +12,4 @@ Now that know know how all that works, its time for you to get to know your dens
 
 For teambuilding we have 2 activities set up, first you may see a few pieces of paper on your desks, take one of them and design a den logo you would like to have on your hoodies, this is not for spirit points but I think you all can tell it is pretty important. The other activity is for spirit points, we are going to have a debate tournament.
 
-It will be den vs den, we will have 5 minutes to research the topic, and 5 minutes per speech. 
+It will be den vs den, we will have 5 minutes to research the topic, 5 minute first speech, then 3 minute cx, and finally 2 minute rebuttal speech. So team 1 speaks, team 2 cx, team 2 speak, team 1 cx
