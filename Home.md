@@ -24,9 +24,10 @@ actions:
 
 > [!todo]  Today
 > - [ ] get the writing to learn book report done
-	
+> - [ ] Do the 1.3 Language reading 
+> - [ ] Do debate planning for parent night 
+
 > [!warning] Homework
->  - [ ] Do the 1.3 Language reading
 >  - [ ] Do the Physics Online Homework
 >  - [ ] Do Math Week 3
 

@@ -17124,28 +17124,14 @@
             "timeKey": "21:25",
             "w": 10,
             "c": 49
-          }
-        ],
-        "id": 1167
-      },
-      {
-        "date": "2025-09-01",
-        "filePath": "3-Journal/2025-09-01.md",
-        "wordCountStart": 246,
-        "charCountStart": 1513,
-        "changes": [
-          {
-            "timeKey": "17:40",
-            "w": -187,
-            "c": -1163
           },
           {
             "timeKey": "21:40",
-            "w": 13,
-            "c": 52
+            "w": 8,
+            "c": 44
           }
         ],
-        "id": 1168
+        "id": 1167
       },
       {
         "date": "2025-09-01",
@@ -17154,6 +17140,34 @@
         "charCountStart": 0,
         "changes": [],
         "id": 1169
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 435,
+        "charCountStart": 2273,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 1170
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1171
       }
     ]
   }
