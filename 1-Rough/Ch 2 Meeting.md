@@ -8,3 +8,4 @@ Thump! I woke up to my head hitting against something hard. Still dazed and conf
 
 "Doesn't matter," she remarked. "What's important now is if you know how those people died."
 
+"Clare," a voice from my left scolded softly. I turned to see an older gentleman wearing the same uniform as the lady sitting beside me. He has wavy grey hair slicked back,  and the same brown eyes

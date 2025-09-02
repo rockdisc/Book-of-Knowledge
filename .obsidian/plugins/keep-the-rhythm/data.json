@@ -17154,8 +17154,13 @@
           },
           {
             "timeKey": "21:50",
-            "w": -9,
-            "c": -51
+            "w": 13,
+            "c": 66
+          },
+          {
+            "timeKey": "21:55",
+            "w": 15,
+            "c": 80
           }
         ],
         "id": 1170
@@ -17173,6 +17178,14 @@
           }
         ],
         "id": 1171
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+        "wordCountStart": 168,
+        "charCountStart": 3710,
+        "changes": [],
+        "id": 1172
       }
     ]
   }
