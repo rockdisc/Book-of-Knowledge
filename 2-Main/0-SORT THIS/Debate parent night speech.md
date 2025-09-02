@@ -6,4 +6,6 @@ So the den system, there are 4 dens: Labrador, Alaskan, River, and Siberian. Eac
 
 Then there is the competition, this has the same scoring as the school spirit competition, the best team gets 4 points, the worst 1, whoever has the highest points will be the winner. There are 3 categories where y'all can win points: Spirit, Fundraising, and Debate. 
 
-The spirit competition goes from now till 
+The spirit competition goes from now till the start of October. During this month there will be a few challenges to show your spirit with your den, whoever does the best in these challenges will get the 4 points for the spirit category. They will also get a prize. We will only be revealing the prize for spirit and overall today, as I have said before. Some of you will get to pie a few of the leadership in the face, that is the price for the overall. The prize for the spirit category on the other hand are free hoodies with your den logo on them in time for you to wear during our home tournament. 
+
+Now that know know how a
