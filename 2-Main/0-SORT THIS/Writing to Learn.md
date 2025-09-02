@@ -16,6 +16,8 @@ There are 2 [[Types of Writing]], type a is to write about existing ideas, while
 Noise is useless information that pollutes the main idea, Jargon should be used lightly, **use smaller words**. Visuals should be given not just a person's senses, but also the experience of humanity in general. Active verbs make a place seem more alive.
 Art and writing should teach how to look. No matter what is the medium, and give the info needed to understand the art. Art is seen through memories, so it must base itself on memories and hallucinations.
 When introducing a new term, make sure to make the reader comfortable with it. 
+
+To write about math
 ## Interesting Points 
 
 > [!quote] 
@@ -28,4 +30,6 @@ Even a small thing like turtles will take several people dedicating their entire
 Old zoology experiments were hilarious, throwing lizards to see if they would come back to land. 
 
 > [!quote] 
-> What are any of the dis
+> What are any of the disciplines but a way in which people try yo make sense of the world or the universe.
+> -- Joan Countryman, 151
+
