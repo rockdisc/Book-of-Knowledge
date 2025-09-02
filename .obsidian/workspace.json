@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ch 2 Meeting"
+              "title": "Backlinks for Chapter 1"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ch 2 Meeting"
+              "title": "Graph of Chapter 1"
             }
           },
           {
@@ -233,12 +233,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ch 2 Meeting"
+              "title": "Outgoing links from Chapter 1"
             }
           },
           {
@@ -269,10 +269,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md"
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Ch 2 Meeting"
+              "title": "File properties for Chapter 1"
             }
           },
           {
@@ -316,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Rough/Ch 2 Meeting.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ch 2 Meeting"
+              "title": "Outline of Chapter 1"
             }
           }
         ],
@@ -353,13 +353,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "17af839ebeb36e27",
+  "active": "fd496f7e58068489",
   "lastOpenFiles": [
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+    "Home.md",
     "1-Rough/Ch 2 Meeting.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
     "3-Journal/2025-09-01.md",
-    "Home.md",
     "2-Main/0-SORT THIS/Writing to Learn.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Mass.md",
