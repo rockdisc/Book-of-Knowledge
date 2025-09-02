@@ -14,4 +14,8 @@ For teambuilding we have 2 activities set up, first you may see a few pieces of 
 
 It will be den vs den, we will have 5 minutes to research the topic, 5 minute first speech, then 3 minute cx, and finally 2 minute rebuttal speech. So team 1 speaks, team 2 cx, team 2 speak, team 1 cx, team 2 rebuttal, and finally team 1 rebuttal. In total, one round will take 25 minutes, we will have a losers bracket too, so in total this should take around an hour and 40 minutes. The winner will get a spirit point. Here are the debates:
 
-The first is Alaskan vs Labrador, then River vs Siberian, then we will have the loser's cup, and finally we will have the finals between the 2 winners. Each deabte 
+The first is Alaskan vs Labrador, then River vs Siberian, then we will have the loser's cup, and finally we will have the finals between the 2 winners. Each debate will have different topics, the people not debating will be the judges, also working on their logo. Flip a coin to pick if they want to go aff or neg on the topic. 
+
+Zoos do more good than harm 
+Public libraries are more useful than museums 
+Board games are better than video ga
