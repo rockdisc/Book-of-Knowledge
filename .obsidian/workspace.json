@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Writing to Learn"
             }
           },
           {
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Writing to Learn"
             }
           },
           {
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Writing to Learn"
             }
           },
           {
@@ -264,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Writing to Learn"
             }
           },
           {
@@ -311,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Writing to Learn"
             }
           }
         ],
@@ -347,10 +347,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "abeeb513e63c4127",
+  "active": "1200e74e79b867a6",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Debate parent night speech.md",
     "Home.md",
+    "2-Main/0-SORT THIS/Debate parent night speech.md",
     "2-Main/0-SORT THIS/Writing to Learn.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
     "3-Journal/2025-09-02.md",

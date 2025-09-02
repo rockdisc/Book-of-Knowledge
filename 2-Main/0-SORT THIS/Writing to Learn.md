@@ -17,7 +17,7 @@ Noise is useless information that pollutes the main idea, Jargon should be used 
 Art and writing should teach how to look. No matter what is the medium, and give the info needed to understand the art. Art is seen through memories, so it must base itself on memories and hallucinations.
 When introducing a new term, make sure to make the reader comfortable with it. 
 
-To write about math
+To write about math you need to do 3 things: describe the problem, discuss the approach, and explain the findings. Writing about math helps us think about it more deeply. 
 ## Interesting Points 
 
 > [!quote] 
@@ -33,3 +33,6 @@ Old zoology experiments were hilarious, throwing lizards to see if they would co
 > What are any of the disciplines but a way in which people try yo make sense of the world or the universe.
 > -- Joan Countryman, 151
 
+Questions can cross subjects, these tie the subjects together and facilitate more learning. 
+
+Math is a language like English, writing about math is like summarizing it. 
