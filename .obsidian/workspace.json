@@ -49,8 +49,7 @@
               "title": "Writing to Learn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-09-01"
             }
           },
           {
@@ -163,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-09-01"
             }
           },
           {
@@ -200,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-09-01"
             }
           },
           {
@@ -236,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-09-01.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-09-01"
             }
           },
           {
@@ -283,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-09-01"
             }
           }
         ],
@@ -319,11 +318,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d0674a4640b0f21a",
+  "active": "17af839ebeb36e27",
   "lastOpenFiles": [
+    "Home.md",
     "3-Journal/2025-09-01.md",
     "2-Main/0-SORT THIS/Writing to Learn.md",
-    "Home.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Mass.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Force.md",
