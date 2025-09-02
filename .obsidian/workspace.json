@@ -35,8 +35,7 @@
               "title": "Writing to Learn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
+                "file": "3-Journal/2025-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writing to Learn"
+              "title": "Backlinks for 2025-09-01"
             }
           },
           {
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
+                "file": "3-Journal/2025-09-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Writing to Learn"
+              "title": "Graph of 2025-09-01"
             }
           },
           {
@@ -186,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
+                "file": "3-Journal/2025-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Writing to Learn"
+              "title": "Outgoing links from 2025-09-01"
             }
           },
           {
@@ -222,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Writing to Learn.md"
+                "file": "3-Journal/2025-09-01.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Writing to Learn"
+              "title": "File properties for 2025-09-01"
             }
           },
           {
@@ -269,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Writing to Learn.md",
+                "file": "3-Journal/2025-09-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Writing to Learn"
+              "title": "Outline of 2025-09-01"
             }
           }
         ],
@@ -305,7 +304,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "1200e74e79b867a6",
+  "active": "17af839ebeb36e27",
   "lastOpenFiles": [
     "2-Main/0-SORT THIS/Writing to Learn.md",
     "3-Journal/2025-09-01.md",
