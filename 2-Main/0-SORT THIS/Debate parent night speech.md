@@ -22,3 +22,5 @@ Board games are better than video games
 Humans should colonize Mars before fixing Earth 
 School should start later in the day 
 Public transportation is better than private cars 
+Should Debate have community service hours
+East or West coast 
