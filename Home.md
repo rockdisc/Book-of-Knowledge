@@ -23,7 +23,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Do the 1.3 Language reading 
+> - [ ] Do NHS email and ask Williams, Contreras, and Michaels 
 
 > [!warning] Homework
 >  - [ ] Do the Physics Online Homework
