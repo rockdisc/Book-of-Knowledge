@@ -11,3 +11,4 @@ These are the rights that are offered to any and every person within the United 
 |        | Freedom of speech and religion |
 |        | Right to bear arms             |
 |        | Soldier staying in your house  |
+|        | Protect gr                     |
