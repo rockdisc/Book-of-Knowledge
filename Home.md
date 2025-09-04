@@ -1,5 +1,8 @@
 ---
 banner: "![[1373839.png]]"
+---
+---
+banner: "![[1373839.png]]"
 banner_y: 0.484
 ---
 
@@ -28,6 +31,8 @@ actions:
 > [!warning] Homework
 >  - [ ] Do the Physics Online Homework
 >  - [ ] Do Math Week 3
+>  - [ ] Math hw 
+>  - [ ] Astronomy Names 
 
 
 > [!warning]  Run On
