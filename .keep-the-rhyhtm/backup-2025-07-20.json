@@ -17095,6 +17095,292 @@
         "charCountStart": 1195,
         "changes": [],
         "id": 1163
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
+        "wordCountStart": 202,
+        "charCountStart": 1195,
+        "changes": [],
+        "id": 1166
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "Home.md",
+        "wordCountStart": 167,
+        "charCountStart": 1069,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -7,
+            "c": -37
+          },
+          {
+            "timeKey": "17:40",
+            "w": -7,
+            "c": -34
+          },
+          {
+            "timeKey": "21:25",
+            "w": 10,
+            "c": 49
+          },
+          {
+            "timeKey": "21:40",
+            "w": 8,
+            "c": 44
+          }
+        ],
+        "id": 1167
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Writing to Learn.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 1169
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 435,
+        "charCountStart": 2273,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": -13,
+            "c": -67
+          },
+          {
+            "timeKey": "21:50",
+            "w": 13,
+            "c": 66
+          },
+          {
+            "timeKey": "21:55",
+            "w": 15,
+            "c": 80
+          },
+          {
+            "timeKey": "22:05",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 1170
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [
+          {
+            "timeKey": "21:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1171
+      },
+      {
+        "date": "2025-09-01",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+        "wordCountStart": 168,
+        "charCountStart": 3710,
+        "changes": [],
+        "id": 1172
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "Home.md",
+        "wordCountStart": 171,
+        "charCountStart": 1091,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": -7,
+            "c": -33
+          },
+          {
+            "timeKey": "15:20",
+            "w": -10,
+            "c": -50
+          }
+        ],
+        "id": 1173
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 1174
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "3-Journal/2025-09-01.md",
+        "wordCountStart": 149,
+        "charCountStart": 769,
+        "changes": [],
+        "id": 1175
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "3-Journal/2025-09-02.md",
+        "wordCountStart": 246,
+        "charCountStart": 1513,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": -189,
+            "c": -1184
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1176
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "2-Main/0-SORT THIS/Debate parent night speech.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:40",
+            "w": 36,
+            "c": 204
+          },
+          {
+            "timeKey": "13:45",
+            "w": 46,
+            "c": 221
+          },
+          {
+            "timeKey": "13:50",
+            "w": 69,
+            "c": 388
+          },
+          {
+            "timeKey": "13:55",
+            "w": 54,
+            "c": 314
+          },
+          {
+            "timeKey": "14:00",
+            "w": 32,
+            "c": 170
+          },
+          {
+            "timeKey": "14:05",
+            "w": 137,
+            "c": 676
+          },
+          {
+            "timeKey": "14:10",
+            "w": 86,
+            "c": 445
+          },
+          {
+            "timeKey": "14:15",
+            "w": 6,
+            "c": 23
+          },
+          {
+            "timeKey": "14:20",
+            "w": 81,
+            "c": 431
+          },
+          {
+            "timeKey": "14:25",
+            "w": 42,
+            "c": 230
+          },
+          {
+            "timeKey": "14:30",
+            "w": 14,
+            "c": 90
+          },
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:15",
+            "w": 16,
+            "c": 89
+          }
+        ],
+        "id": 1177
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Writing to Learn.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 15,
+            "c": 143
+          },
+          {
+            "timeKey": "14:45",
+            "w": 62,
+            "c": 345
+          },
+          {
+            "timeKey": "14:50",
+            "w": 86,
+            "c": 491
+          },
+          {
+            "timeKey": "14:55",
+            "w": 41,
+            "c": 243
+          },
+          {
+            "timeKey": "15:00",
+            "w": 73,
+            "c": 416
+          },
+          {
+            "timeKey": "15:05",
+            "w": 63,
+            "c": 362
+          },
+          {
+            "timeKey": "15:10",
+            "w": 4,
+            "c": 21
+          },
+          {
+            "timeKey": "15:15",
+            "w": 12,
+            "c": 70
+          },
+          {
+            "timeKey": "15:20",
+            "w": 40,
+            "c": 252
+          }
+        ],
+        "id": 1178
+      },
+      {
+        "date": "2025-09-02",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 452,
+        "charCountStart": 2364,
+        "changes": [],
+        "id": 1179
       }
     ]
   }

@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "d0674a4640b0f21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Journal/2025-09-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-02"
-            }
-          },
-          {
             "id": "17af839ebeb36e27",
             "type": "leaf",
             "state": {
@@ -63,8 +49,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             }
           },
           {
-            "id": "45ada631606fe382",
+            "id": "67c69804ae6ad485",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -158,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-09-02.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-02"
+              "title": "Backlinks for Chapter 1"
             }
           },
           {
@@ -177,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-09-02.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-09-02"
+              "title": "Graph of Chapter 1"
             }
           },
           {
@@ -214,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-09-02.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-02"
+              "title": "Outgoing links from Chapter 1"
             }
           },
           {
@@ -250,10 +235,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Journal/2025-09-02.md"
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-09-02"
+              "title": "File properties for Chapter 1"
             }
           },
           {
@@ -297,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-09-02.md",
+                "file": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-02"
+              "title": "Outline of Chapter 1"
             }
           }
         ],
@@ -333,10 +318,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "d0674a4640b0f21a",
+  "active": "fd496f7e58068489",
   "lastOpenFiles": [
-    "Home.md",
     "3-Journal/2025-09-02.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Debate parent night speech.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Writing to Learn.md",
