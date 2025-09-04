@@ -17464,9 +17464,42 @@
             "timeKey": "18:00",
             "w": 1,
             "c": 19
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1186
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 17,
+            "c": 113
+          }
+        ],
+        "id": 1187
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "2-Main/0-SORT THIS/Asymptote.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 14,
+            "c": 91
+          }
+        ],
+        "id": 1188
       }
     ]
   }
