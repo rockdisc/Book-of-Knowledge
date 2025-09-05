@@ -17546,21 +17546,16 @@
       {
         "date": "2025-09-05",
         "filePath": "3-Journal/2025-09-05.md",
-        "wordCountStart": 246,
-        "charCountStart": 1513,
+        "wordCountStart": 89,
+        "charCountStart": 577,
         "changes": [
           {
-            "timeKey": "17:40",
-            "w": -176,
-            "c": -1045
-          },
-          {
             "timeKey": "17:45",
-            "w": 19,
-            "c": 109
+            "w": 9,
+            "c": 41
           }
         ],
-        "id": 1191
+        "id": 1192
       }
     ]
   }
