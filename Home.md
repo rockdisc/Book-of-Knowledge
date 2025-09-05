@@ -1,11 +1,6 @@
 ---
 banner: "![[1373839.png]]"
 ---
----
-banner: "![[1373839.png]]"
-banner_y: 0.484
----
-
 
 ```meta-bind-button
 label: Daily Note
@@ -26,7 +21,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Do NHS email and ask Williams, Contreras, and Michaels
+> - [ ] Do NHS email 
 > - [ ] Add Astronomy notes to Obsidian
 > - [ ] Start making that session plan
 
