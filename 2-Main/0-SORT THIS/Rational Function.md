@@ -17,3 +17,9 @@ End behavior is decided by the leading [[Polynomials]] digit. These below are th
 Slant asymptotes are pretty simple, find the equation for it by first [[Finding Roots]] of the denominator, then use [[Long Polynomial Division]] or [[Synthetic Division]] to get the final equation, forget about the remainder. 
 
 Inequalities are about the same, [[Factor]] out both the equations to get the roots(Numerator) and discontinuities(Denominator), and make a sign chart to find what the equation is asking for. 
+
+Vertical [[Asymptote]]s are found through looking at the canceled out terms in the numerator and denominator: EX.
+$$
+f(x) = \frac{(x-2)(x+4)}{(x-2)(x+13)}
+$$
+the VA is $(x-2)$. 
