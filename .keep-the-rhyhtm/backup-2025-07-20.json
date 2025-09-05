@@ -17221,7 +17221,7 @@
       },
       {
         "date": "2025-09-02",
-        "filePath": "3-Journal/2025-09-01.md",
+        "filePath": "3-Journal/2025-09/2025-09-01.md",
         "wordCountStart": 149,
         "charCountStart": 769,
         "changes": [],
@@ -17229,7 +17229,7 @@
       },
       {
         "date": "2025-09-02",
-        "filePath": "3-Journal/2025-09-02.md",
+        "filePath": "3-Journal/2025-09/2025-09-02.md",
         "wordCountStart": 246,
         "charCountStart": 1513,
         "changes": [
@@ -17381,6 +17381,145 @@
         "charCountStart": 2364,
         "changes": [],
         "id": 1179
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "3-Journal/2025-09/2025-09-02.md",
+        "wordCountStart": 57,
+        "charCountStart": 329,
+        "changes": [],
+        "id": 1180
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 1181
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "Home.md",
+        "wordCountStart": 158,
+        "charCountStart": 1088,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 11,
+            "c": 26
+          }
+        ],
+        "id": 1182
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "2-Main/0-SORT THIS/US Constitution.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 38,
+            "c": 222
+          },
+          {
+            "timeKey": "17:25",
+            "w": 13,
+            "c": 211
+          },
+          {
+            "timeKey": "17:30",
+            "w": 2,
+            "c": 0
+          },
+          {
+            "timeKey": "17:55",
+            "w": 15,
+            "c": 260
+          },
+          {
+            "timeKey": "18:00",
+            "w": 18,
+            "c": 336
+          }
+        ],
+        "id": 1184
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+        "wordCountStart": 1740,
+        "charCountStart": 9394,
+        "changes": [],
+        "id": 1185
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "3-Journal/2025-09-04.md",
+        "wordCountStart": 85,
+        "charCountStart": 562,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 1,
+            "c": 19
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:45",
+            "w": 1,
+            "c": 34
+          }
+        ],
+        "id": 1186
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 17,
+            "c": 113
+          },
+          {
+            "timeKey": "18:10",
+            "w": 34,
+            "c": 295
+          },
+          {
+            "timeKey": "18:15",
+            "w": 34,
+            "c": 413
+          },
+          {
+            "timeKey": "18:20",
+            "w": 61,
+            "c": 396
+          }
+        ],
+        "id": 1187
+      },
+      {
+        "date": "2025-09-04",
+        "filePath": "2-Main/0-SORT THIS/Asymptote.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 14,
+            "c": 91
+          }
+        ],
+        "id": 1188
       }
     ]
   }

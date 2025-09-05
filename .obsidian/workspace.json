@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Journal/2025-09-04.md",
+                "file": "3-Journal/2025-09/2025-09-04.md",
                 "mode": "source",
                 "source": false
               },
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "67c69804ae6ad485",
+            "id": "f0dc29409c915de5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-09-04.md",
+                "file": "3-Journal/2025-09/2025-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-09-04.md",
+                "file": "3-Journal/2025-09/2025-09-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-09-04.md",
+                "file": "3-Journal/2025-09/2025-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -207,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Journal/2025-09-04.md"
+                "file": "3-Journal/2025-09/2025-09-04.md"
               },
               "icon": "lucide-info",
               "title": "File properties for 2025-09-04"
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-09-04.md",
+                "file": "3-Journal/2025-09/2025-09-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -290,11 +290,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "abeeb513e63c4127",
+  "active": "702dfa8f1d515b11",
   "lastOpenFiles": [
     "2-Main/0-SORT THIS/Rational Function.md",
     "2-Main/0-SORT THIS/Asymptote.md",
-    "3-Journal/2025-09-04.md",
+    "3-Journal/2025-09/2025-09-04.md",
     "2-Main/0-SORT THIS/US Constitution.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "Home.md",
