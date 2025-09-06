@@ -28,7 +28,6 @@ actions:
 > [!warning] Homework
 >  - [ ] Do the Physics Online Homework
 >  - [ ] Watch ELA HW
->  - [ ] Do Math HW
 
 > [!warning]  Run On
 
