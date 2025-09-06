@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c93536765404ffdf",
+        "id": "3820352645609e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "537d1d2df46aaa2d",
+            "id": "10db3b728c56cdea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -290,12 +290,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "537d1d2df46aaa2d",
+  "active": "10db3b728c56cdea",
   "lastOpenFiles": [
+    "Home.md",
     "3-Journal/2025-09-05.md",
     "2-Main/0-SORT THIS/Rational Function.md",
     "2-Main/0-SORT THIS/Asymptote.md",
-    "Home.md",
     "3-Journal/2025-09/2025-09-04.md",
     "2-Main/0-SORT THIS/US Constitution.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",

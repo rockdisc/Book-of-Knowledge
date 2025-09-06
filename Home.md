@@ -21,7 +21,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Do NHS email 
 > - [ ] Add Astronomy notes to Obsidian
 > - [ ] Start making that session plan
 > - [ ] Learn how to research 
