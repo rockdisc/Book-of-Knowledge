@@ -17456,7 +17456,7 @@
       },
       {
         "date": "2025-09-04",
-        "filePath": "3-Journal/2025-09-04.md",
+        "filePath": "3-Journal/2025-09/2025-09-04.md",
         "wordCountStart": 85,
         "charCountStart": 562,
         "changes": [
@@ -17520,6 +17520,79 @@
           }
         ],
         "id": 1188
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "3-Journal/2025-09/2025-09-04.md",
+        "wordCountStart": 87,
+        "charCountStart": 615,
+        "changes": [],
+        "id": 1189
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "Home.md",
+        "wordCountStart": 171,
+        "charCountStart": 1164,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": -8,
+            "c": -112
+          },
+          {
+            "timeKey": "17:45",
+            "w": 5,
+            "c": 20
+          }
+        ],
+        "id": 1190
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "3-Journal/2025-09-05.md",
+        "wordCountStart": 89,
+        "charCountStart": 577,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 33,
+            "c": 208
+          },
+          {
+            "timeKey": "17:50",
+            "w": 62,
+            "c": 326
+          }
+        ],
+        "id": 1192
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "2-Main/0-SORT THIS/Asymptote.md",
+        "wordCountStart": 14,
+        "charCountStart": 91,
+        "changes": [],
+        "id": 1193
+      },
+      {
+        "date": "2025-09-05",
+        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "wordCountStart": 146,
+        "charCountStart": 1217,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 18,
+            "c": 123
+          },
+          {
+            "timeKey": "17:50",
+            "w": 12,
+            "c": 56
+          }
+        ],
+        "id": 1194
       }
     ]
   }
