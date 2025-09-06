@@ -17629,9 +17629,28 @@
             "timeKey": "13:25",
             "w": -5,
             "c": -22
+          },
+          {
+            "timeKey": "13:30",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1195
+      },
+      {
+        "date": "2025-09-06",
+        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "wordCountStart": 176,
+        "charCountStart": 1396,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 4,
+            "c": 12
+          }
+        ],
+        "id": 1196
       }
     ]
   }
