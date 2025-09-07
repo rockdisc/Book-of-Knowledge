@@ -52,7 +52,8 @@
               "title": "O 8.12.25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DM Screen"
+              "title": "Backlinks for O 9.7.25"
             }
           },
           {
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DM Screen"
+              "title": "Graph of O 9.7.25"
             }
           },
           {
@@ -202,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DM Screen"
+              "title": "Outgoing links from O 9.7.25"
             }
           },
           {
@@ -238,10 +239,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/DM Screen.canvas"
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for DM Screen"
+              "title": "File properties for O 9.7.25"
             }
           },
           {
@@ -285,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/DM Screen.canvas",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DM Screen"
+              "title": "Outline of O 9.7.25"
             }
           }
         ],
@@ -321,10 +322,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "10db3b728c56cdea",
+  "active": "563a3c4e6c750b39",
   "lastOpenFiles": [
-    "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
     "4-DND/DM Screen.canvas",
+    "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "2-Main/0-SORT THIS/Erna.md",
     "4-DND/Ors/2-Main/Silent Veil.md",
