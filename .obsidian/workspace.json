@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Geography",
+                "query": "tag:#DND/Ors/NPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -324,8 +324,11 @@
   },
   "active": "563a3c4e6c750b39",
   "lastOpenFiles": [
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "4-DND/Ors/2-Main/Silent Veil.md",
     "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
+    "2-Main/0-SORT THIS/True Connection.md",
+    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "4-DND/Ors/2-Main/Nibkil.md",
     "4-DND/DM Screen.canvas",
     "Home.md",
     "2-Main/0-SORT THIS/Rational Function.md",
@@ -350,8 +353,6 @@
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "3-Journal/2025-08/2025-08-28.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
-    "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
-    "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
     "4-DND/Ors/Characters.base",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing",
     "5-School/11/4-HAPC/Unit 1/1.6 hapc.pdf",
