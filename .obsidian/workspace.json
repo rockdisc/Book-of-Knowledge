@@ -11,17 +11,49 @@
             "id": "10db3b728c56cdea",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "4-DND/DM Screen.canvas",
+                "viewState": {
+                  "x": 1060,
+                  "y": 150,
+                  "zoom": -0.8368916600996649
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "DM Screen"
+            }
+          },
+          {
+            "id": "563a3c4e6c750b39",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "O 9.7.25"
+            }
+          },
+          {
+            "id": "41746dbc1a39ff66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O 8.12.25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for O 9.7.25"
             }
           },
           {
@@ -134,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of O 9.7.25"
             }
           },
           {
@@ -171,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from O 9.7.25"
             }
           },
           {
@@ -207,10 +239,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for O 9.7.25"
             }
           },
           {
@@ -254,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of O 9.7.25"
             }
           }
         ],
@@ -290,15 +322,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "10db3b728c56cdea",
+  "active": "563a3c4e6c750b39",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Rational Function.md",
+    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
+    "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
+    "4-DND/DM Screen.canvas",
     "Home.md",
+    "2-Main/0-SORT THIS/Rational Function.md",
     "3-Journal/2025-09-05.md",
     "2-Main/0-SORT THIS/Asymptote.md",
     "3-Journal/2025-09/2025-09-04.md",
     "2-Main/0-SORT THIS/US Constitution.md",
-    "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "3-Journal/2025-09",
     "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
     "3-Journal/2025-09/2025-09-02.md",
@@ -318,15 +352,12 @@
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Animal Farm.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Making Better Religions.md",
     "2-Main/3-Resources/1-General Knowledge/Guides/Focusing.md",
-    "2-Main/0-SORT THIS/William Shakespeare.md",
-    "Templates/MedRep.md",
     "4-DND/Ors/Characters.base",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing",
     "5-School/11/4-HAPC/Unit 1/1.6 hapc.pdf",
     "5-School/11/5-AP Physics 1/Unit 1/Kinematics practice 1.pdf",
     "6-Images/Desmos Finding Roots Example.png",
     "5-School/11/4-HAPC/Unit 1/1.5 hapc.pdf",
-    "4-DND/DM Screen.canvas",
     "1-Rough/Current/Untitled",
     "4-DND/Ors/Artifact List.base",
     "2-Main/3-Resources/2-STEM/Sciences/Untitled",
