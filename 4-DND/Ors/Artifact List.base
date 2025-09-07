@@ -3,9 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("Ors/Artifact")
-        - not:
-            - file.inFolder("Templates")
+        - file.hasTag("DND/Ors/Artifact")
     order:
       - file.name
       - Owner
