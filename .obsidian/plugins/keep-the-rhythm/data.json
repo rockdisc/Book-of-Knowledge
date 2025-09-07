@@ -17693,8 +17693,13 @@
           },
           {
             "timeKey": "11:45",
-            "w": 160,
-            "c": 822
+            "w": 172,
+            "c": 888
+          },
+          {
+            "timeKey": "11:50",
+            "w": 22,
+            "c": 102
           }
         ],
         "id": 1198
@@ -17742,6 +17747,20 @@
         "charCountStart": 574,
         "changes": [],
         "id": 1202
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Erna.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": 26,
+            "c": 139
+          }
+        ],
+        "id": 1203
       }
     ]
   }
