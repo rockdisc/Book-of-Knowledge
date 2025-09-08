@@ -67,7 +67,8 @@
       "2025-08-11",
       "2025-08-21",
       "2025-08-25",
-      "2025-08-26"
+      "2025-08-26",
+      "2025-09-07"
     ],
     "dailyActivity": [
       {
@@ -17841,27 +17842,170 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "3-Journal/2025-09/2025-09-07.md",
-        "wordCountStart": 246,
-        "charCountStart": 1513,
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2376,
         "changes": [
           {
-            "timeKey": "21:10",
-            "w": -190,
-            "c": -1184
+            "timeKey": "21:30",
+            "w": -4,
+            "c": -21
           },
           {
-            "timeKey": "21:20",
-            "w": 5,
-            "c": 16
-          },
-          {
-            "timeKey": "21:25",
-            "w": 60,
-            "c": 286
+            "timeKey": "21:35",
+            "w": 14,
+            "c": 90
           }
         ],
-        "id": 1207
+        "id": 1208
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+        "wordCountStart": 168,
+        "charCountStart": 3710,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 2,
+            "c": 1
+          },
+          {
+            "timeKey": "21:35",
+            "w": 1,
+            "c": 0
+          },
+          {
+            "timeKey": "22:05",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 1209
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
+        "wordCountStart": 227,
+        "charCountStart": 1418,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 1,
+            "c": -9
+          },
+          {
+            "timeKey": "21:55",
+            "w": 2,
+            "c": 4
+          }
+        ],
+        "id": 1210
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Iar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 14,
+            "c": 116
+          }
+        ],
+        "id": 1211
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 36,
+            "c": 221
+          },
+          {
+            "timeKey": "21:40",
+            "w": 39,
+            "c": 205
+          },
+          {
+            "timeKey": "21:45",
+            "w": 41,
+            "c": 672
+          },
+          {
+            "timeKey": "21:50",
+            "w": 69,
+            "c": 3311
+          },
+          {
+            "timeKey": "21:55",
+            "w": 24,
+            "c": 77
+          },
+          {
+            "timeKey": "22:00",
+            "w": 63,
+            "c": 621
+          }
+        ],
+        "id": 1212
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Scarlet Goddess.md",
+        "wordCountStart": 429,
+        "charCountStart": 2531,
+        "changes": [],
+        "id": 1213
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Religious Organizations.md",
+        "wordCountStart": 659,
+        "charCountStart": 6368,
+        "changes": [],
+        "id": 1214
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+        "wordCountStart": 595,
+        "charCountStart": 3187,
+        "changes": [],
+        "id": 1215
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Red Moon.md",
+        "wordCountStart": 41,
+        "charCountStart": 288,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -16,
+            "c": -126
+          }
+        ],
+        "id": 1216
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 41,
+            "c": 253
+          }
+        ],
+        "id": 1217
       }
     ]
   }
