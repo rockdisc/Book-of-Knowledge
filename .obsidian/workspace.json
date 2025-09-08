@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scarlet Goddess"
+              "title": "Backlinks for Small Magical Organization"
             }
           },
           {
@@ -233,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,7 +261,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scarlet Goddess"
+              "title": "Graph of Small Magical Organization"
             }
           },
           {
@@ -270,12 +270,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scarlet Goddess"
+              "title": "Outgoing links from Small Magical Organization"
             }
           },
           {
@@ -306,10 +306,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Scarlet Goddess.md"
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Scarlet Goddess"
+              "title": "File properties for Small Magical Organization"
             }
           },
           {
@@ -353,13 +353,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scarlet Goddess"
+              "title": "Outline of Small Magical Organization"
             }
           }
         ],
@@ -389,12 +389,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "94fc623975302e56",
+  "active": "13ec8c46d4e43424",
   "lastOpenFiles": [
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Scarlet Goddess.md",
-    "2-Main/0-SORT THIS/Scarlet Goddess.md",
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Red Moon.md",
     "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+    "2-Main/0-SORT THIS/Scarlet Goddess.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Scarlet Goddess.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Red Moon.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
     "1-Rough/Gyles.md",
