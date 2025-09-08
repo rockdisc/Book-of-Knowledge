@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+                "file": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kabbalah(PoetsLand)"
+              "title": "Backlinks for Kabbalah"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+                "file": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Kabbalah(PoetsLand)"
+              "title": "Graph of Kabbalah"
             }
           },
           {
@@ -242,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+                "file": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kabbalah(PoetsLand)"
+              "title": "Outgoing links from Kabbalah"
             }
           },
           {
@@ -278,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md"
+                "file": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Kabbalah(PoetsLand)"
+              "title": "File properties for Kabbalah"
             }
           },
           {
@@ -325,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+                "file": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kabbalah(PoetsLand)"
+              "title": "Outline of Kabbalah"
             }
           }
         ],
@@ -361,10 +361,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0fd70930a1a76c61",
+  "active": "3aeb5395b65ef5dc",
   "lastOpenFiles": [
-    "1-Rough/Gyles.md",
     "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+    "1-Rough/Gyles.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Scarlet Goddess.md",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",

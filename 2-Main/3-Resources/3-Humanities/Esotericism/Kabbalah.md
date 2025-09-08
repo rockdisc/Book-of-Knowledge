@@ -1,7 +1,7 @@
  #Philosophy/Esotericism #Mythology 
 
 An object in Jewish mysticism, and also means Jewish mysticism as a whole but can also mean the Kabbalistic tree of life.
-![[Kabbalah.png]]
+![[Kabbalah.png|500]]
 ## Sefirot
 Each sefirot(sphere) has their own meaning along with each path.
 
