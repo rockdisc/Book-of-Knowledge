@@ -1495,6 +1495,7 @@ Bill
 Binah
 Beauty
 Bird
+Balance
 Ela
 Essay
 East
@@ -6021,6 +6022,7 @@ Mercy
 Majesty
 Malkuth
 Malhuth
+Metaphors
 Summary
 So
 Someone
@@ -7722,6 +7724,7 @@ Sefirot
 Shown
 Should
 Sentient
+Syntax
 Interesting
 In
 If
@@ -9355,6 +9358,7 @@ IedA
 IStc
 Inequalities
 IPA
+Irony
 Points
 Powers
 Protagonist
@@ -10872,6 +10876,7 @@ Person
 Pathos
 Patterns
 Prisoner
+Protect
 Worldbuilding
 WWII
 Wake
@@ -14919,6 +14924,7 @@ heartbeat
 hinders
 hegemons
 hegemony
+hearth
 never
 nothing
 not
@@ -17850,6 +17856,8 @@ introducing
 infused
 international
 indigneous
+informal
+irony
 to
 the
 there
@@ -23116,6 +23124,9 @@ submit
 spritual
 sephirah
 studies
+searches
+syntactic
+similes
 vast
 very
 vibrant
@@ -25932,6 +25943,7 @@ discontinuities
 defeated
 duration
 disembodied
+diction
 and
 anything
 am
@@ -29117,6 +29129,8 @@ moonless
 motherly
 meetings
 miltary
+mechanics
+messages
 for
 find
 face
@@ -30706,6 +30720,9 @@ founding
 fracture
 fest
 feeding
+fines
+federal
+focuses
 can
 covered
 clad
@@ -32599,6 +32616,10 @@ contemplation
 connects
 construct
 coast
+cruel
+conventions
+covey
+clauses
 entire
 endless
 everything
@@ -34159,6 +34180,7 @@ embodiment
 extant
 emotional
 equinox
+excessive
 life
 leather
 long
@@ -36876,6 +36898,7 @@ oTLp
 organizing
 observation
 option
+overreach
 Then
 The
 This
@@ -38398,6 +38421,7 @@ TvP
 Tyson
 Tiferet
 Theories
+Trials
 goat
 going
 get
@@ -41195,6 +41219,8 @@ unite
 unto
 unborn
 unlucky
+unreasonable
+unusual
 robe
 red
 realize
@@ -57192,6 +57218,10 @@ Denominator
 Divine
 Definitions
 Dilemmna
+Diction
+Denotation
+Described
+Dramatic
 Keter
 Knowing
 Kyling
@@ -61552,6 +61582,7 @@ Jargon
 Joan
 Jewish
 Judgement
+Jury
 quarter
 questions
 quickly
@@ -64320,6 +64351,8 @@ Fundraising
 Flip
 Follows
 Foundation
+Freedom
+Figurative
 Veins
 Vim
 Venus

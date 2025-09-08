@@ -17415,7 +17415,7 @@
       },
       {
         "date": "2025-09-04",
-        "filePath": "2-Main/0-SORT THIS/US Constitution.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/US Constitution.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17481,7 +17481,7 @@
       },
       {
         "date": "2025-09-04",
-        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17603,7 +17603,7 @@
       },
       {
         "date": "2025-09-05",
-        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
         "wordCountStart": 146,
         "charCountStart": 1217,
         "changes": [
@@ -17656,7 +17656,7 @@
       },
       {
         "date": "2025-09-06",
-        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
         "wordCountStart": 176,
         "charCountStart": 1396,
         "changes": [
@@ -17774,7 +17774,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/True Connection.md",
+        "filePath": "4-DND/Ors/2-Main/True Connection.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17904,7 +17904,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Iar.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Iar.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17918,7 +17918,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17995,7 +17995,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Scarlet Goddess.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18057,6 +18057,11 @@
             "timeKey": "17:40",
             "w": 1,
             "c": 1
+          },
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 1222
@@ -18077,7 +18082,7 @@
       },
       {
         "date": "2025-09-08",
-        "filePath": "2-Main/0-SORT THIS/Writing Style.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Writing Style.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18177,6 +18182,52 @@
         "charCountStart": 185,
         "changes": [],
         "id": 1231
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Iar.md",
+        "wordCountStart": 14,
+        "charCountStart": 116,
+        "changes": [],
+        "id": 1232
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
+        "wordCountStart": 180,
+        "charCountStart": 1408,
+        "changes": [],
+        "id": 1233
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Scarlet Goddess.md",
+        "wordCountStart": 41,
+        "charCountStart": 253,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 7,
+            "c": 76
+          }
+        ],
+        "id": 1234
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "4-DND/Ors/2-Main/True Connection.md",
+        "wordCountStart": 47,
+        "charCountStart": 293,
+        "changes": [],
+        "id": 1235
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/US Constitution.md",
+        "wordCountStart": 86,
+        "charCountStart": 1029,
+        "changes": [],
+        "id": 1236
       }
     ]
   }

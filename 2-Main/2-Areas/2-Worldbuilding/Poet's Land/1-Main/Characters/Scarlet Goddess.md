@@ -1,4 +1,4 @@
-
+#Worldbuilding/Character #Worldbuilding/PoetsLand/Gods #Worldbuilding/Magic 
 The eternal observer. Always located in a lunar eclipse. One of the [[Great Goddesses]]
 
 One of the [[Original Ikon]]s
