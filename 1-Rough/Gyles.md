@@ -3,7 +3,7 @@
 # Gyles
 
 The main character of the story: as the special skill [[Protagonist]].
-He is a [[Transmigrators]] that got sent to the body of a believer in 
+He is a [[Transmigrators]] that got sent to the body of a believer in [[Iar]]. He questions everything he sees, to a point where he must understand everything. 
 
 ##### Readers Avert Die Chokhmah Enlighten Hunt Again
 

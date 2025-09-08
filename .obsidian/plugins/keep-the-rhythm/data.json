@@ -17873,6 +17873,11 @@
             "timeKey": "21:30",
             "w": -4,
             "c": -21
+          },
+          {
+            "timeKey": "21:35",
+            "w": 14,
+            "c": 90
           }
         ],
         "id": 1208
@@ -17912,11 +17917,46 @@
         "changes": [
           {
             "timeKey": "21:35",
-            "w": 0,
-            "c": 1
+            "w": 14,
+            "c": 116
           }
         ],
         "id": 1211
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 36,
+            "c": 221
+          },
+          {
+            "timeKey": "21:40",
+            "w": 7,
+            "c": 51
+          }
+        ],
+        "id": 1212
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Scarlet Goddess.md",
+        "wordCountStart": 429,
+        "charCountStart": 2531,
+        "changes": [],
+        "id": 1213
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Religious Organizations.md",
+        "wordCountStart": 659,
+        "charCountStart": 6368,
+        "changes": [],
+        "id": 1214
       }
     ]
   }
