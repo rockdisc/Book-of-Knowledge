@@ -1,7 +1,7 @@
 ### Tags:
 #Worldbuilding/Factions, #Worldbuilding/PoetsLand/Gods 
 # Church of the Scarlet Goddess
-#### God of worship: [[Red Moon]]
+#### God of worship: [[Scarlet Goddess]]
 
 One of the [[Great Goddesses]] and offer protection around the world. They are biggest in [[Feydilin]] and the Western parts of [[Witlan]], they have their second biggest headquarters in [[Presford]], this used to be their main headquarters, but as most of their believers are now in Feydilin, there is no reason for them to stay. This was pretty recent. 
 ## Beliefs

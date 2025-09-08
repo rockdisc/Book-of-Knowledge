@@ -2,11 +2,5 @@
 #Worldbuilding/PoetsLand/Meta, #Worldbuilding/Location 
 # Red Moon
 
-Hegwis, the moon of fire.
+It is the observing moon which links this world to [[Garden of Eden(Poet's Land)]]
 
-The eternal observer. Always located in a lunar eclipse. One of the [[Great Goddesses]]
-
-One of the [[Original Ikon]]s
-
-Goddess of:
-Sight, the Color Red, Intelligence, and Information

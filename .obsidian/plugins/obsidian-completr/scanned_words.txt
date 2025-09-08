@@ -7715,6 +7715,7 @@ Slant
 Semos
 Sophia
 Sefirot
+Shown
 Interesting
 In
 If
@@ -19405,6 +19406,7 @@ turtles
 tramps
 taverns
 transform
+translations
 be
 bright
 but
@@ -29088,6 +29090,7 @@ mysticism
 miracles
 moonless
 motherly
+meetings
 for
 find
 face

@@ -17943,8 +17943,8 @@
           },
           {
             "timeKey": "22:00",
-            "w": 17,
-            "c": 549
+            "w": 63,
+            "c": 621
           }
         ],
         "id": 1212
@@ -17964,6 +17964,42 @@
         "charCountStart": 6368,
         "changes": [],
         "id": 1214
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+        "wordCountStart": 595,
+        "charCountStart": 3187,
+        "changes": [],
+        "id": 1215
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Red Moon.md",
+        "wordCountStart": 41,
+        "charCountStart": 288,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -16,
+            "c": -126
+          }
+        ],
+        "id": 1216
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 32,
+            "c": 205
+          }
+        ],
+        "id": 1217
       }
     ]
   }
