@@ -2,7 +2,7 @@
 
 An object in Jewish mysticism, and also means Jewish mysticism as a whole but can also mean the Kabbalistic tree of life.
 ![[Kabbalah.png]]
-
+## Sefirot
 Each sefirot(sphere) has their own meaning along with each path.
 
 1. Keter, Crown: Divine will and urge to create, from the [[Ein Sof]] the infinite source where the Jewish god was born from or before he developed a sense of self. Something beyond human understanding. 
