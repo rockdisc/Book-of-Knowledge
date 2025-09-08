@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-09-07"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-09-07"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-09-07"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-09-07"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-09-07.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-09-07"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-09-07"
             }
           }
         ],
@@ -292,6 +292,8 @@
   },
   "active": "673266a02b74ced8",
   "lastOpenFiles": [
+    "Home.md",
+    "3-Journal/2025-09-07.md",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
     "4-DND/Ors/1-Sessions/Orsian/O 9.7.25.md",
@@ -300,7 +302,6 @@
     "4-DND/Ors/2-Main/Silent Veil.md",
     "2-Main/0-SORT THIS/True Connection.md",
     "4-DND/Ors/2-Main/Nibkil.md",
-    "Home.md",
     "2-Main/0-SORT THIS/Rational Function.md",
     "3-Journal/2025-09-05.md",
     "2-Main/0-SORT THIS/Asymptote.md",
