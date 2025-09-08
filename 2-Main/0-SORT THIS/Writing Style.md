@@ -12,4 +12,12 @@ Metaphors, similes, etc. These can be used to get a connection with the reader o
 
 # Syntax
 
-How the writer forms sente
+How the writer forms sentences with independent clauses, and their patterns. 
+
+# Tone 
+
+Choices made in the last ones lead to this. Described in adjectives, it is how the reader feels reading the passage. 
+
+# Irony 
+
+I am not explaining this, you know it. Dramatic irony is what we know that the characters do not and so on. 

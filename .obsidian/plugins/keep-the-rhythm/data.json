@@ -18088,11 +18088,47 @@
           },
           {
             "timeKey": "17:35",
-            "w": 25,
-            "c": 170
+            "w": 81,
+            "c": 496
           }
         ],
         "id": 1224
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Appeals.md",
+        "wordCountStart": 111,
+        "charCountStart": 600,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 10,
+            "c": 56
+          }
+        ],
+        "id": 1225
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
+        "wordCountStart": 109,
+        "charCountStart": 595,
+        "changes": [],
+        "id": 1226
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Thesis.md",
+        "wordCountStart": 13,
+        "charCountStart": 95,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 35,
+            "c": 214
+          }
+        ],
+        "id": 1227
       }
     ]
   }
