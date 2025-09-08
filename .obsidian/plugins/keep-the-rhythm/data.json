@@ -18022,6 +18022,25 @@
         "charCountStart": 1001,
         "changes": [],
         "id": 1219
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Scalar and Vector.md",
+        "wordCountStart": 93,
+        "charCountStart": 557,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 7,
+            "c": 40
+          },
+          {
+            "timeKey": "17:25",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 1221
       }
     ]
   }
