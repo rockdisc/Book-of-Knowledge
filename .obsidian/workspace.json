@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2025-09-08"
             }
           },
           {
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 2025-09-08"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2025-09-08"
             }
           },
           {
@@ -283,12 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 2025-09-08"
             }
           },
           {
@@ -319,10 +319,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3-Journal/2025-09-08.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for 2025-09-08"
             }
           },
           {
@@ -366,13 +366,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2025-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2025-09-08"
             }
           }
         ],
@@ -404,6 +404,8 @@
   },
   "active": "6fc25cf5715c3a26",
   "lastOpenFiles": [
+    "Home.md",
+    "3-Journal/2025-09-08.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
     "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
     "2-Main/0-SORT THIS/Scarlet Goddess.md",
@@ -414,7 +416,6 @@
     "1-Rough/Gyles.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Religious Organizations.md",
     "2-Main/0-SORT THIS/Iar.md",
-    "Home.md",
     "3-Journal/2025-09/2025-09-07.md",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/1-Sessions/Orsian/O 8.12.25.md",
@@ -432,7 +433,6 @@
     "3-Journal/2025-09",
     "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
     "3-Journal/2025-09/2025-09-02.md",
-    "2-Main/0-SORT THIS/Debate parent night speech.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "4-DND/Ors/Characters.base",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing",
