@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
+                "file": "2-Main/0-SORT THIS/Writing Style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-08"
+              "title": "Writing Style"
             }
           },
           {
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
+                "file": "2-Main/0-SORT THIS/Writing Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-08"
+              "title": "Backlinks for Writing Style"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
+                "file": "2-Main/0-SORT THIS/Writing Style.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-09-08"
+              "title": "Graph of Writing Style"
             }
           },
           {
@@ -283,12 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
+                "file": "2-Main/0-SORT THIS/Writing Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-08"
+              "title": "Outgoing links from Writing Style"
             }
           },
           {
@@ -319,10 +319,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3-Journal/2025-09-08.md"
+                "file": "2-Main/0-SORT THIS/Writing Style.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-09-08"
+              "title": "File properties for Writing Style"
             }
           },
           {
@@ -366,13 +366,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
+                "file": "2-Main/0-SORT THIS/Writing Style.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-08"
+              "title": "Outline of Writing Style"
             }
           }
         ],
@@ -404,8 +404,10 @@
   },
   "active": "6fc25cf5715c3a26",
   "lastOpenFiles": [
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Scalar and Vector.md",
+    "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
+    "2-Main/0-SORT THIS/Writing Style.md",
     "3-Journal/2025-09-08.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Scalar and Vector.md",
     "2-Main/0-SORT THIS/InternationalRelations.md",
     "Home.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
@@ -430,8 +432,6 @@
     "2-Main/0-SORT THIS/Rational Function.md",
     "3-Journal/2025-09/2025-09-05.md",
     "2-Main/0-SORT THIS/Asymptote.md",
-    "3-Journal/2025-09/2025-09-04.md",
-    "2-Main/0-SORT THIS/US Constitution.md",
     "3-Journal/2025-09",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "4-DND/Ors/Characters.base",
