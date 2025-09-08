@@ -22,7 +22,6 @@ actions:
 
 > [!todo]  Today
 > - [ ] Add Astronomy notes to Obsidian
-> - [ ] Start making that session plan
 > - [ ] Learn how to research 
 
 > [!warning] Homework
