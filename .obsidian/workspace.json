@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5901513f7360c14d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/68acfa7f-9024-8322-a500-30091613121e",
+                "title": "Kinematic equation explanation",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Kinematic equation explanation"
+            }
+          },
+          {
             "id": "1dcb326e4f270c8d",
             "type": "leaf",
             "state": {
@@ -133,7 +147,8 @@
               "title": "Kabbalah"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +242,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +251,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-08"
+              "title": "Backlinks"
             }
           },
           {
@@ -246,7 +260,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-09-08"
+              "title": "Graph view"
             }
           },
           {
@@ -283,12 +296,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-08"
+              "title": "Outgoing links"
             }
           },
           {
@@ -318,11 +330,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3-Journal/2025-09-08.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2025-09-08"
+              "title": "File properties"
             }
           },
           {
@@ -366,13 +376,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Journal/2025-09-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-08"
+              "title": "Outline"
             }
           }
         ],
@@ -402,8 +411,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6fc25cf5715c3a26",
+  "active": "5901513f7360c14d",
   "lastOpenFiles": [
+    "3-Journal/2025-09-08.md",
     "2-Main/3-Resources/3-Humanities/English/Writing Style.md",
     "2-Main/3-Resources/3-Humanities/History/US/US Constitution.md",
     "4-DND/Ors/2-Main/True Connection.md",
@@ -415,7 +425,6 @@
     "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
     "5-School/11/7-Adv Debate/Debate parent night speech.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/International Relations.md",
-    "3-Journal/2025-09-08.md",
     "2-Main/3-Resources/3-Humanities/English/Thesis.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
     "2-Main/3-Resources/3-Humanities/English/Rhetorical Appeals.md",
