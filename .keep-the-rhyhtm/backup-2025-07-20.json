@@ -17555,7 +17555,7 @@
       },
       {
         "date": "2025-09-05",
-        "filePath": "3-Journal/2025-09-05.md",
+        "filePath": "3-Journal/2025-09/2025-09-05.md",
         "wordCountStart": 89,
         "charCountStart": 577,
         "changes": [
@@ -17811,6 +17811,57 @@
           }
         ],
         "id": 1203
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "4-DND/Ors/Artifact List.base",
+        "wordCountStart": 16,
+        "charCountStart": 148,
+        "changes": [],
+        "id": 1205
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "Home.md",
+        "wordCountStart": 164,
+        "charCountStart": 1062,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": -7,
+            "c": -39
+          },
+          {
+            "timeKey": "21:10",
+            "w": -5,
+            "c": -22
+          }
+        ],
+        "id": 1206
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "3-Journal/2025-09/2025-09-07.md",
+        "wordCountStart": 246,
+        "charCountStart": 1513,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": -190,
+            "c": -1184
+          },
+          {
+            "timeKey": "21:20",
+            "w": 5,
+            "c": 16
+          },
+          {
+            "timeKey": "21:25",
+            "w": 60,
+            "c": 286
+          }
+        ],
+        "id": 1207
       }
     ]
   }
