@@ -17862,6 +17862,61 @@
           }
         ],
         "id": 1207
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 438,
+        "charCountStart": 2376,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": -4,
+            "c": -21
+          }
+        ],
+        "id": 1208
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+        "wordCountStart": 168,
+        "charCountStart": 3710,
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 2,
+            "c": 1
+          },
+          {
+            "timeKey": "21:35",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 1209
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
+        "wordCountStart": 227,
+        "charCountStart": 1418,
+        "changes": [],
+        "id": 1210
+      },
+      {
+        "date": "2025-09-07",
+        "filePath": "2-Main/0-SORT THIS/Iar.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 1211
       }
     ]
   }

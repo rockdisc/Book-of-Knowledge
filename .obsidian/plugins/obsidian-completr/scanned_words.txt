@@ -1492,6 +1492,8 @@ Bron
 Bruno
 Board
 Bill
+Binah
+Beauty
 Ela
 Essay
 East
@@ -2934,6 +2936,7 @@ EZd
 EUl
 Especially
 Erich
+Endurance
 Classic
 Consept
 Character
@@ -4457,6 +4460,7 @@ Claire
 Contreras
 Congressional
 Confederation
+Chokhmah
 Modern
 Mini
 My
@@ -6006,6 +6010,9 @@ MediaType
 Maria
 Minecraft
 Mayor
+Mercy
+Majesty
+Malkuth
 Summary
 So
 Someone
@@ -7702,6 +7709,8 @@ Segmentation
 Siberian
 Slant
 Semos
+Sophia
+Sefirot
 Interesting
 In
 If
@@ -23074,6 +23083,9 @@ sickness
 scoring
 slant
 succeeds
+sefirot
+submit
+spritual
 vast
 very
 vibrant
@@ -29065,6 +29077,8 @@ mentors
 mentees
 museums
 mood
+mysticism
+miracles
 for
 find
 face
@@ -32542,6 +32556,9 @@ convincing
 celebratory
 celebrations
 cure
+conscious
+contemplation
+connects
 entire
 endless
 everything
@@ -35579,6 +35596,8 @@ limited
 lizards
 lowkey
 lesser
+likened
+limitation
 on
 other
 of
@@ -38331,6 +38350,7 @@ Tef
 TEml
 TvP
 Tyson
+Tiferet
 goat
 going
 get
@@ -42873,6 +42893,7 @@ round
 rights
 retakes
 remain
+rally
 yellow
 yet
 you
@@ -47121,6 +47142,7 @@ poster
 portions
 pollutes
 prizes
+prayer
 kept
 know
 knew
@@ -49889,6 +49911,7 @@ Neil
 Noise
 NHS
 Numerator
+Netsah
 According
 Albert
 Avert
@@ -54362,6 +54385,7 @@ Gqt
 Giordano
 Guess
 Geologists
+Gevurah
 He
 Hunt
 Heaven
@@ -55775,6 +55799,7 @@ Homework
 Horse
 Hello
 Healing
+Hesed
 Die
 Diathermal
 Do
@@ -57106,6 +57131,7 @@ DeGrasse
 Dekora
 Dio
 Denominator
+Divine
 Keter
 Knowing
 Kyling
@@ -58525,6 +58551,8 @@ KvV
 KpYFH
 KpH
 Killing
+Kabbalistic
+Kingdom
 Land
 Lead
 Law
@@ -59919,6 +59947,7 @@ LHy
 Lang
 LSD
 Labrador
+Leadership
 Johan
 Jupiter
 Jotuns
@@ -61457,6 +61486,8 @@ JYZ
 JcL
 Jargon
 Joan
+Jewish
+Judgement
 quarter
 questions
 quickly
@@ -64224,6 +64255,7 @@ Finished
 Fundraising
 Flip
 Follows
+Foundation
 Veins
 Vim
 Venus
@@ -65544,6 +65576,7 @@ Vwi
 VdB
 Video
 Visuals
+Victory
 One
 Organ
 On
@@ -68248,6 +68281,7 @@ Yso
 Yekr
 Ywg
 Yard
+Yesod
 Using
 Until
 UNUSED
@@ -69704,6 +69738,7 @@ UteL
 UDGt
 UXmdiY
 Uje
+Understanding
 Quote
 Quicksilver
 Qualities
