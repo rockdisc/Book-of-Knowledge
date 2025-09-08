@@ -21,7 +21,7 @@ h and k are shifts, h is reversed.
 ### Special  
 
 $\tan x =  \frac{x\sin}{\cos x}$
-It has vertical [[asymptote]]s whenever $\cos$ reaches 0.
+It has vertical [[Asymptote]]s whenever $\cos$ reaches 0.
 ![[tan Graph.png|400]] 
 It has a period of $\pi$. $\cot$ is flipped. 
 
