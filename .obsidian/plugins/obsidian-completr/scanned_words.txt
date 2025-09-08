@@ -1494,6 +1494,7 @@ Board
 Bill
 Binah
 Beauty
+Bird
 Ela
 Essay
 East
@@ -4461,6 +4462,8 @@ Contreras
 Congressional
 Confederation
 Chokhmah
+Chokmah
+Crows
 Modern
 Mini
 My
@@ -6013,6 +6016,7 @@ Mayor
 Mercy
 Majesty
 Malkuth
+Malhuth
 Summary
 So
 Someone
@@ -10856,6 +10860,7 @@ Planned
 Public
 PreCalc
 Potions
+Person
 Worldbuilding
 WWII
 Wake
@@ -29081,6 +29086,8 @@ museums
 mood
 mysticism
 miracles
+moonless
+motherly
 for
 find
 face
@@ -34117,6 +34124,7 @@ experiments
 email
 exact
 evening
+embodiment
 life
 leather
 long
@@ -59951,6 +59959,7 @@ Lang
 LSD
 Labrador
 Leadership
+Legged
 Johan
 Jupiter
 Jotuns
