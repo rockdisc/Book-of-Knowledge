@@ -18261,7 +18261,13 @@
         "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Religious Organizations.md",
         "wordCountStart": 659,
         "charCountStart": 6368,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 1239
       },
       {
@@ -18304,8 +18310,13 @@
           },
           {
             "timeKey": "22:00",
-            "w": 35,
-            "c": 190
+            "w": 40,
+            "c": 212
+          },
+          {
+            "timeKey": "22:05",
+            "w": 20,
+            "c": 95
           }
         ],
         "id": 1242
@@ -18323,6 +18334,36 @@
           }
         ],
         "id": 1243
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
+        "wordCountStart": 272,
+        "charCountStart": 5107,
+        "changes": [],
+        "id": 1244
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
+        "wordCountStart": 230,
+        "charCountStart": 1413,
+        "changes": [],
+        "id": 1245
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 22,
+            "c": 198
+          }
+        ],
+        "id": 1246
       }
     ]
   }
