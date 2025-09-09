@@ -2941,6 +2941,7 @@ Erich
 Endurance
 Ethos
 Epistemology
+Eastern
 Classic
 Consept
 Character
@@ -25946,6 +25947,8 @@ duration
 disembodied
 diction
 daybreak
+dynasty
+devout
 and
 anything
 am
@@ -32622,6 +32625,7 @@ cruel
 conventions
 covey
 clauses
+cupping
 entire
 endless
 everything
@@ -39850,6 +39854,8 @@ gather
 guardians
 geologists
 gentleman
+goddesses
+genders
 use
 until
 used
@@ -42973,6 +42979,7 @@ rally
 reliability
 reduce
 realists
+representing
 yellow
 yet
 you
@@ -47225,6 +47232,7 @@ prayer
 poletic
 perceptions
 popularity
+populations
 kept
 know
 knew
@@ -57226,6 +57234,7 @@ Diction
 Denotation
 Described
 Dramatic
+Divas
 Keter
 Knowing
 Kyling
