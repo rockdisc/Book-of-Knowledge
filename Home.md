@@ -25,7 +25,6 @@ actions:
 > - [ ] Learn how to research 
 
 > [!warning] Homework
->  - [ ] Do the Physics Online Homework
 	
 > [!warning]  Run On
 
