@@ -17249,7 +17249,7 @@
       },
       {
         "date": "2025-09-02",
-        "filePath": "2-Main/0-SORT THIS/Debate parent night speech.md",
+        "filePath": "5-School/11/7-Adv Debate/Debate parent night speech.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17415,7 +17415,7 @@
       },
       {
         "date": "2025-09-04",
-        "filePath": "2-Main/0-SORT THIS/US Constitution.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/US Constitution.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17481,7 +17481,7 @@
       },
       {
         "date": "2025-09-04",
-        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17510,7 +17510,7 @@
       },
       {
         "date": "2025-09-04",
-        "filePath": "2-Main/0-SORT THIS/Asymptote.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17595,7 +17595,7 @@
       },
       {
         "date": "2025-09-05",
-        "filePath": "2-Main/0-SORT THIS/Asymptote.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
         "wordCountStart": 14,
         "charCountStart": 91,
         "changes": [],
@@ -17603,7 +17603,7 @@
       },
       {
         "date": "2025-09-05",
-        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
         "wordCountStart": 146,
         "charCountStart": 1217,
         "changes": [
@@ -17656,7 +17656,7 @@
       },
       {
         "date": "2025-09-06",
-        "filePath": "2-Main/0-SORT THIS/Rational Function.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
         "wordCountStart": 176,
         "charCountStart": 1396,
         "changes": [
@@ -17774,7 +17774,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/True Connection.md",
+        "filePath": "4-DND/Ors/2-Main/True Connection.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17796,7 +17796,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Erna.md",
+        "filePath": "4-DND/Ors/2-Main/Erna.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17904,7 +17904,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Iar.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Iar.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17918,7 +17918,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Kabbalah(PoetsLand).md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -17995,7 +17995,7 @@
       },
       {
         "date": "2025-09-07",
-        "filePath": "2-Main/0-SORT THIS/Scarlet Goddess.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Scarlet Goddess.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18006,6 +18006,413 @@
           }
         ],
         "id": 1217
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+        "wordCountStart": 172,
+        "charCountStart": 3711,
+        "changes": [],
+        "id": 1218
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "Home.md",
+        "wordCountStart": 152,
+        "charCountStart": 1001,
+        "changes": [],
+        "id": 1219
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Scalar and Vector.md",
+        "wordCountStart": 93,
+        "charCountStart": 557,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": 7,
+            "c": 40
+          },
+          {
+            "timeKey": "17:25",
+            "w": 5,
+            "c": 44
+          }
+        ],
+        "id": 1221
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "3-Journal/2025-09/2025-09-08.md",
+        "wordCountStart": 96,
+        "charCountStart": 605,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -1,
+            "c": 0
+          },
+          {
+            "timeKey": "17:40",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:20",
+            "w": 5,
+            "c": 88
+          },
+          {
+            "timeKey": "22:25",
+            "w": 13,
+            "c": 56
+          },
+          {
+            "timeKey": "22:30",
+            "w": 15,
+            "c": 68
+          },
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 1222
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Analysis.md",
+        "wordCountStart": 185,
+        "charCountStart": 1060,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 9,
+            "c": 53
+          }
+        ],
+        "id": 1223
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Writing Style.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "17:30",
+            "w": 76,
+            "c": 475
+          },
+          {
+            "timeKey": "17:35",
+            "w": 81,
+            "c": 496
+          }
+        ],
+        "id": 1224
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Rhetorical Appeals.md",
+        "wordCountStart": 111,
+        "charCountStart": 600,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 10,
+            "c": 56
+          }
+        ],
+        "id": 1225
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/AP Lang Test.md",
+        "wordCountStart": 109,
+        "charCountStart": 595,
+        "changes": [],
+        "id": 1226
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/English/Thesis.md",
+        "wordCountStart": 13,
+        "charCountStart": 95,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 73,
+            "c": 422
+          }
+        ],
+        "id": 1227
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/International Relations.md",
+        "wordCountStart": 311,
+        "charCountStart": 1860,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": -20
+          },
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 1228
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "5-School/11/7-Adv Debate/Debate parent night speech.md",
+        "wordCountStart": 646,
+        "charCountStart": 3458,
+        "changes": [],
+        "id": 1229
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
+        "wordCountStart": 14,
+        "charCountStart": 91,
+        "changes": [],
+        "id": 1230
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "4-DND/Ors/2-Main/Erna.md",
+        "wordCountStart": 33,
+        "charCountStart": 185,
+        "changes": [],
+        "id": 1231
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Iar.md",
+        "wordCountStart": 14,
+        "charCountStart": 116,
+        "changes": [],
+        "id": 1232
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
+        "wordCountStart": 180,
+        "charCountStart": 1408,
+        "changes": [],
+        "id": 1233
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Scarlet Goddess.md",
+        "wordCountStart": 41,
+        "charCountStart": 253,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 7,
+            "c": 76
+          },
+          {
+            "timeKey": "21:50",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 1234
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "4-DND/Ors/2-Main/True Connection.md",
+        "wordCountStart": 47,
+        "charCountStart": 293,
+        "changes": [],
+        "id": 1235
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/History/US/US Constitution.md",
+        "wordCountStart": 86,
+        "charCountStart": 1029,
+        "changes": [],
+        "id": 1236
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
+        "wordCountStart": 255,
+        "charCountStart": 1656,
+        "changes": [],
+        "id": 1237
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "1-Rough/Gyles.md",
+        "wordCountStart": 448,
+        "charCountStart": 2445,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1238
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Religious Organizations.md",
+        "wordCountStart": 659,
+        "charCountStart": 6368,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1239
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Scarlet Goddess.md",
+        "wordCountStart": 429,
+        "charCountStart": 2538,
+        "changes": [],
+        "id": 1240
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Red Moon.md",
+        "wordCountStart": 25,
+        "charCountStart": 162,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": 15,
+            "c": 75
+          },
+          {
+            "timeKey": "21:55",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 1241
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/0-SORT THIS/Byname.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": 47,
+            "c": 252
+          },
+          {
+            "timeKey": "22:00",
+            "w": 40,
+            "c": 212
+          },
+          {
+            "timeKey": "22:05",
+            "w": 20,
+            "c": 95
+          }
+        ],
+        "id": 1242
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ability(Poet's Land).md",
+        "wordCountStart": 74,
+        "charCountStart": 421,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": 6,
+            "c": 40
+          }
+        ],
+        "id": 1243
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
+        "wordCountStart": 272,
+        "charCountStart": 5107,
+        "changes": [],
+        "id": 1244
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
+        "wordCountStart": 230,
+        "charCountStart": 1413,
+        "changes": [],
+        "id": 1245
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 22,
+            "c": 198
+          },
+          {
+            "timeKey": "22:10",
+            "w": 10,
+            "c": 74
+          },
+          {
+            "timeKey": "22:15",
+            "w": 118,
+            "c": 658
+          },
+          {
+            "timeKey": "22:20",
+            "w": 73,
+            "c": 436
+          }
+        ],
+        "id": 1246
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
+        "wordCountStart": 69,
+        "charCountStart": 461,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 69,
+            "c": 394
+          }
+        ],
+        "id": 1247
       }
     ]
   }
