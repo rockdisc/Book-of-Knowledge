@@ -18361,9 +18361,28 @@
             "timeKey": "22:05",
             "w": 22,
             "c": 198
+          },
+          {
+            "timeKey": "22:10",
+            "w": 10,
+            "c": 70
           }
         ],
         "id": 1246
+      },
+      {
+        "date": "2025-09-08",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
+        "wordCountStart": 69,
+        "charCountStart": 461,
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": 55,
+            "c": 326
+          }
+        ],
+        "id": 1247
       }
     ]
   }
