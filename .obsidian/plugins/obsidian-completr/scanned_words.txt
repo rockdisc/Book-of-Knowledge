@@ -23127,6 +23127,7 @@ studies
 searches
 syntactic
 similes
+symbolism
 vast
 very
 vibrant
@@ -25944,6 +25945,7 @@ defeated
 duration
 disembodied
 diction
+daybreak
 and
 anything
 am
