@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "2025-09-09"
             }
-          },
-          {
-            "id": "1aaf4b6765151b63",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/c/68b106df-e5f4-8328-9e1c-c54732136b2c",
-                "title": "Adding thumbnails in Obsidian",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Adding thumbnails in Obsidian"
-            }
           }
         ]
       }
