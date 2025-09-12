@@ -23,6 +23,7 @@ actions:
 > [!todo]  Today
 > - [ ] Add Astronomy notes to Obsidian
 > - [ ] Learn how to research 
+> - [ ] look at dual degree NOW
 
 > [!warning] Homework
 	
@@ -35,7 +36,6 @@ actions:
 > - [ ] Make the report pictures the poster or covers. 
 
 > [!hint]  Long Term  
-> - [ ] look at dual degree NOW
 > - [ ] Try Linux 
  
 > [!summary] What I want to do
