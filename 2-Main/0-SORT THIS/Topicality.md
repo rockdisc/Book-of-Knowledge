@@ -18,4 +18,18 @@ This why the Neg's Interp is better, most common of the reasons are:
 - Precision: having a precise topic allows for better debate
 - Education: Having this interp allows for more education in the debate round 
 
-#
+## Voters 
+Why the judge should vote for the neg:
+- Fairness: Giving the neg this round means that in the future the aff will be discouraged to use the plan which will increase fairness in general. 
+- Education: Only topical debates increase clash, which will increase education 
+
+# Aff
+There are several ways the aff can counter:
+## We Meet 
+Saying that in the interp of the neg, the aff is still topical 
+
+## Counter Interp 
+Give a counter you thing is better than their interpretation which also includes the plan 
+
+## Standards 
+Argue standards in your own counter interp, they are the same but the aff must say that either the ones they have are better or the o
