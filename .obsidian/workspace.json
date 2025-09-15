@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "15a2a297e0b5a382",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6e37c66ece808e0b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/c/68c89b2e-2614-8326-a588-540744dc4e3f",
-                "title": "Topicality in policy debate",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Topicality in policy debate"
-            }
-          }
-        ]
-      },
-      {
         "id": "199c8154c7ba42c0",
         "type": "tabs",
         "children": [
@@ -42,20 +22,6 @@
             }
           },
           {
-            "id": "a747a29c26ae0682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Topicality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Topicality"
-            }
-          },
-          {
             "id": "e6aa2614871174fd",
             "type": "leaf",
             "state": {
@@ -69,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Topicality.md",
+                "file": "3-Journal/2025-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Topicality"
+              "title": "Backlinks for 2025-09-15"
             }
           },
           {
@@ -183,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Topicality.md",
+                "file": "3-Journal/2025-09-15.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Topicality"
+              "title": "Graph of 2025-09-15"
             }
           },
           {
@@ -220,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Topicality.md",
+                "file": "3-Journal/2025-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Topicality"
+              "title": "Outgoing links from 2025-09-15"
             }
           },
           {
@@ -256,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Topicality.md"
+                "file": "3-Journal/2025-09-15.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Topicality"
+              "title": "File properties for 2025-09-15"
             }
           },
           {
@@ -303,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Topicality.md",
+                "file": "3-Journal/2025-09-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topicality"
+              "title": "Outline of 2025-09-15"
             }
           }
         ],
@@ -317,8 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,12 +304,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a747a29c26ae0682",
+  "active": "c369e6214f209282",
   "lastOpenFiles": [
+    "Home.md",
+    "3-Journal/2025-09-15.md",
     "2-Main/0-SORT THIS/Topicality.md",
     "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
-    "3-Journal/2025-09-15.md",
-    "Home.md",
     "3-Journal/2025-09/2025-09-12.md",
     "3-Journal/2025-09/2025-09-11.md",
     "3-Journal/2025-09/2025-09-10.md",

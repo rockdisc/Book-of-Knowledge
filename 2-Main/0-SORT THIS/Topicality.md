@@ -32,4 +32,18 @@ Saying that in the interp of the neg, the aff is still topical
 Give a counter you thing is better than their interpretation which also includes the plan 
 
 ## Standards 
-Argue standards in your own counter interp, they are the same but the aff must say that either the ones they have are better or the o
+Argue standards in your own counter interp, they are the same but the aff must say that either the ones they have are better or the ones the neg has: 
+- Limits: It makes sure that there are not too many cases, allowing for prep for the neg to be possible. 
+- Ground: It gives both sides a fair argument 
+- Predictability: Plans should be able to be guessed from the resolution 
+- Bright-line: Clear boundaries mean there is no need for judge intervention 
+- Precision: having a precise topic allows for better debate
+- Education: Having this interp allows for more education in the debate round 
+
+## Voters 
+Same as Neg, but the aff will that they do not hurt the voters but that they are on their side: 
+- Fairness: Giving the neg this round means that in the future the aff will be discouraged to use the plan which will increase fairness in general. 
+- Education: Only topical debates increase clash, which will increase education 
+- Reasonability: Saying that the aff is reasonable enough to vote Aff even if Neg as a better Interp 
+
+Education turn is very common with saying having a very direct aff creates better education. 
