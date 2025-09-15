@@ -2942,6 +2942,7 @@ Endurance
 Ethos
 Epistemology
 Eastern
+Education
 Classic
 Consept
 Character
@@ -4470,6 +4471,8 @@ Chokmah
 Crows
 Combining
 Constructivism
+Clear
+Counter
 Modern
 Mini
 My
@@ -10881,6 +10884,9 @@ Pathos
 Patterns
 Prisoner
 Protect
+Predictability
+Plans
+Precision
 Worldbuilding
 WWII
 Wake
@@ -17863,6 +17869,8 @@ indigneous
 informal
 irony
 interpretation
+intervention
+interp
 to
 the
 there
@@ -19441,6 +19449,7 @@ translations
 thesis
 trusted
 transformations
+topical
 be
 bright
 but
@@ -23134,6 +23143,7 @@ searches
 syntactic
 similes
 symbolism
+standards
 vast
 very
 vibrant
@@ -24356,6 +24366,8 @@ verify
 virgin
 vampire
 violated
+vote
+voters
 desert
 due
 dark
@@ -25957,6 +25969,7 @@ dynasty
 devout
 divided
 databases
+discouraged
 and
 anything
 am
@@ -30738,6 +30751,7 @@ feeding
 fines
 federal
 focuses
+fairness
 can
 covered
 clad
@@ -32636,6 +32650,7 @@ conventions
 covey
 clauses
 cupping
+clash
 entire
 endless
 everything
@@ -42993,6 +43008,7 @@ reliability
 reduce
 realists
 representing
+resolution
 yellow
 yet
 you
@@ -47246,6 +47262,8 @@ poletic
 perceptions
 popularity
 populations
+prep
+precise
 kept
 know
 knew
@@ -51430,6 +51448,7 @@ Active
 Articles
 Asymptote
 Animals
+Argue
 Rough
 Readers
 Radkeha
@@ -53137,6 +53156,7 @@ Realism
 Real
 Rivers
 Recorded
+Reasonability
 Gyles
 Giants
 God
@@ -54495,6 +54515,8 @@ Giordano
 Guess
 Geologists
 Gevurah
+Ground
+Giving
 He
 Hunt
 Heaven
@@ -64381,6 +64403,7 @@ Follows
 Foundation
 Freedom
 Figurative
+Fairness
 Veins
 Vim
 Venus
@@ -65703,6 +65726,7 @@ Video
 Visuals
 Victory
 Violation
+Voters
 One
 Organ
 On
