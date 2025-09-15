@@ -11,4 +11,11 @@ What the Aff violated in the ruling, like "they do not increase development by 1
 
 ## Standards 
 This why the Neg's Interp is better, most common of the reasons are:
-- Limits: It makes sure that there are not too many cases, allowing for prep for the neg to b
+- Limits: It makes sure that there are not too many cases, allowing for prep for the neg to be possible. 
+- Ground: It gives both sides a fair argument 
+- Predictability: Plans should be able to be guessed from the resolution 
+- Bright-line: Clear boundaries mean there is no need for judge intervention 
+- Precision: having a precise topic allows for better debate
+- Education: Having this interp allows for more education in the debate round 
+
+#
