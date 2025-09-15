@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "15a2a297e0b5a382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e37c66ece808e0b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/68c89b2e-2614-8326-a588-540744dc4e3f",
+                "title": "Topicality in policy debate",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Topicality in policy debate"
+            }
+          }
+        ]
+      },
+      {
         "id": "199c8154c7ba42c0",
         "type": "tabs",
         "children": [
@@ -33,20 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Topicality"
-            }
-          },
-          {
-            "id": "6e37c66ece808e0b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/c/68c89b2e-2614-8326-a588-540744dc4e3f",
-                "title": "Topicality in policy debate",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Topicality in policy debate"
             }
           },
           {
@@ -311,7 +317,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,8 +342,8 @@
   },
   "active": "a747a29c26ae0682",
   "lastOpenFiles": [
-    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "2-Main/0-SORT THIS/Topicality.md",
+    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
     "3-Journal/2025-09-15.md",
     "Home.md",
     "3-Journal/2025-09/2025-09-12.md",
