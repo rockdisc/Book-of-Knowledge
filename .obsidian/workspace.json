@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a747a29c26ae0682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Topicality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topicality"
+            }
+          },
+          {
             "id": "6e37c66ece808e0b",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Topicality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Topicality"
             }
           },
           {
@@ -163,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Topicality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Topicality"
             }
           },
           {
@@ -200,12 +214,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Topicality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Topicality"
             }
           },
           {
@@ -236,10 +250,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Topicality.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Topicality"
             }
           },
           {
@@ -283,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Topicality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Topicality"
             }
           }
         ],
@@ -319,8 +333,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e6aa2614871174fd",
+  "active": "a747a29c26ae0682",
   "lastOpenFiles": [
+    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
+    "2-Main/0-SORT THIS/Topicality.md",
     "3-Journal/2025-09-15.md",
     "Home.md",
     "3-Journal/2025-09/2025-09-12.md",
@@ -346,8 +362,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ability(Poet's Land).md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Red Moon.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters/Scarlet Goddess.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Kinematics.md",
-    "2-Main/3-Resources/3-Humanities/English/Writing Style.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/Artifact List.base",

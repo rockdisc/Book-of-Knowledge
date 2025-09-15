@@ -18627,17 +18627,31 @@
       },
       {
         "date": "2025-09-15",
-        "filePath": "3-Journal/2025-09-15.md",
-        "wordCountStart": 246,
-        "charCountStart": 1513,
+        "filePath": "2-Main/0-SORT THIS/Topicality.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
         "changes": [
           {
-            "timeKey": "16:20",
-            "w": -153,
-            "c": -957
+            "timeKey": "18:25",
+            "w": 40,
+            "c": 244
           }
         ],
-        "id": 1268
+        "id": 1269
+      },
+      {
+        "date": "2025-09-15",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
+        "wordCountStart": 71,
+        "charCountStart": 453,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": -1,
+            "c": -5
+          }
+        ],
+        "id": 1270
       }
     ]
   }
