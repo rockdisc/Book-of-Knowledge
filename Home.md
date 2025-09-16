@@ -26,6 +26,7 @@ actions:
 > - [ ] look at dual degree NOW
 
 > [!warning] Homework
+> - [ ] Work on the Physics AFL questions and such 
 	
 > [!warning]  Run On
 
@@ -40,7 +41,6 @@ actions:
  
 > [!summary] What I want to do
 > - Read The Inner Game of Tennis and The Art of Thinking
-> - Read Natchez 
 
 ## Work In Progress 
 ![[WIPTracker.base]]
