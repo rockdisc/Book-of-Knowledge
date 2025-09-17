@@ -14,7 +14,8 @@ New abilities:
 
 ## Sequence 8: Writer
 New Abilities:
-- **Working Memory**. They can think of a whiteboard or piece of paper in their head and it will act as such. They are able to write and put
+- **Working Memory**. They can think of a whiteboard or piece of paper in their head and it will act as such. They are able to write and put memory pictures or do whatever they want, and it will stay. 
+- 
 
 Strengthened Abilities: 
 - Their memory has drastically improved and they are now able to remember entire books in their head word for word 
