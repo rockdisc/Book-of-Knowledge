@@ -24,10 +24,13 @@ Strengthened Abilities:
 ## Sequence 7: Mimic 
 New Abilities:
 - **Mimicry**. The **Mimic** is able to perfectly copy the speech, handwriting, and even thought patterns of the person they got a piece of rhetoric from. Whether it be a speech or letter, as long at it has a decent amount of information, they can mimic them. 
-- **Mirror**
+- **Mirroring**. If the person being copied by the **mimic** is seen by them, or they start mimicking in front of them, the person will start to mirror their action. 
 
 Strengthened Abilities:
 - All previous abilities get enhanced, longer **Lingering Knowledge**, bigger **Working Memory**, etc. 
 
 
 ## Sequence 4: [[Tulpa]] 
+
+
+## Sq
