@@ -18724,7 +18724,7 @@
       },
       {
         "date": "2025-09-16",
-        "filePath": "2-Main/0-SORT THIS/Orator Pathway.md",
+        "filePath": "2-Main/0-SORT THIS/Teacher Pathway.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18760,11 +18760,30 @@
           },
           {
             "timeKey": "22:30",
-            "w": 0,
-            "c": -3
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "22:35",
+            "w": 69,
+            "c": 413
           }
         ],
         "id": 1277
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "2-Main/0-SORT THIS/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1278
       }
     ]
   }

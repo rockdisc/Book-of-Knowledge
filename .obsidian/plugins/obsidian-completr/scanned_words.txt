@@ -6027,6 +6027,8 @@ Majesty
 Malkuth
 Malhuth
 Metaphors
+Materialization
+Mimic
 Summary
 So
 Someone
@@ -7731,6 +7733,8 @@ Sentient
 Syntax
 SNHS
 Standards
+Symbolism
+Shapelessness
 Interesting
 In
 If
@@ -9366,6 +9370,7 @@ Inequalities
 IPA
 Irony
 Interp
+Infohazard
 Points
 Powers
 Protagonist
@@ -10887,6 +10892,7 @@ Protect
 Predictability
 Plans
 Precision
+Presenting
 Worldbuilding
 WWII
 Wake
@@ -12142,6 +12148,7 @@ Williams
 Watchful
 Words
 Wester
+Writer
 would
 wasteland
 walking
@@ -30752,6 +30759,7 @@ fines
 federal
 focuses
 fairness
+fanmade
 can
 covered
 clad
@@ -38456,6 +38464,7 @@ Tiferet
 Theories
 Trials
 Topicality
+Teacher
 goat
 going
 get
@@ -47264,6 +47273,7 @@ popularity
 populations
 prep
 precise
+pathway
 kept
 know
 knew
@@ -67086,6 +67096,7 @@ Orisan
 Online
 October
 Ontology
+Orating
 Yesterday
 Yellow
 Yggdrasil
