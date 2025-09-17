@@ -15,7 +15,7 @@ New abilities:
 ## Sequence 8: Writer
 New Abilities:
 - **Working Memory**. They can think of a whiteboard or piece of paper in their head and it will act as such. They are able to write and put memory pictures or do whatever they want, and it will stay. 
-- 
+- **Lingering Knowledge**. Even after the things the **writer** has written as been erased or torn up and burned, the knowledge will linger, when a person picks up the paper or the ashes of it, they will know something was written there. The better preserved, the more the message can be understood 
 
 Strengthened Abilities: 
 - Their memory has drastically improved and they are now able to remember entire books in their head word for word 
