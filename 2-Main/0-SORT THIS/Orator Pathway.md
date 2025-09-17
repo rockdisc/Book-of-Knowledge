@@ -6,7 +6,8 @@ Shapelessness, Knowledge Transfer, Creation/Materialization, Cognitovirus, Infoh
 
 ## Sequence 9: Teacher
 
-## Sequence 8: Demagogue 
+
+## Sequence 8: Writer
 
 ## Sequence 7: Mimic 
 
