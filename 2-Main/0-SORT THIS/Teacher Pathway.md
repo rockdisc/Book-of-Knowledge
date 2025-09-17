@@ -33,4 +33,5 @@ Strengthened Abilities:
 ## Sequence 4: [[Tulpa]] 
 
 
-## Sq
+## Sequence 2: [[Roko's Basilisk]]
+
