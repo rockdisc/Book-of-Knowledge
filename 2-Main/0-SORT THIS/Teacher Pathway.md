@@ -22,6 +22,12 @@ Strengthened Abilities:
 - **Orating** can be used in written form and it more convincing 
 - Writing will give major benefits to **Learning** allowing it to be much faster, even if they write in their **Working Memory**. 
 ## Sequence 7: Mimic 
+New Abilities:
+- **Mimicry**. The **Mimic** is able to perfectly copy the speech, handwriting, and even thought patterns of the person they got a piece of rhetoric from. Whether it be a speech or letter, as long at it has a decent amount of information, they can mimic them. 
+- **Mirror**
+
+Strengthened Abilities:
+- All previous abilities get enhanced, longer **Lingering Knowledge**, bigger **Working Memory**, etc. 
 
 
 ## Sequence 4: [[Tulpa]] 
