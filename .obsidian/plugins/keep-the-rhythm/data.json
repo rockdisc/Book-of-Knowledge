@@ -18705,7 +18705,7 @@
       },
       {
         "date": "2025-09-16",
-        "filePath": "3-Journal/2025-09-16.md",
+        "filePath": "3-Journal/2025-09/2025-09-16.md",
         "wordCountStart": 87,
         "charCountStart": 551,
         "changes": [
@@ -18765,8 +18765,13 @@
           },
           {
             "timeKey": "22:35",
-            "w": 69,
-            "c": 413
+            "w": 78,
+            "c": 471
+          },
+          {
+            "timeKey": "22:40",
+            "w": 72,
+            "c": 457
           }
         ],
         "id": 1277
@@ -18784,6 +18789,14 @@
           }
         ],
         "id": 1278
+      },
+      {
+        "date": "2025-09-16",
+        "filePath": "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
+        "wordCountStart": 223,
+        "charCountStart": 1366,
+        "changes": [],
+        "id": 1279
       }
     ]
   }

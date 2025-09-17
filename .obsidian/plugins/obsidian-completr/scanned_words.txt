@@ -17878,6 +17878,7 @@ irony
 interpretation
 intervention
 interp
+inherently
 to
 the
 there
@@ -23151,6 +23152,7 @@ syntactic
 similes
 symbolism
 standards
+somewhat
 vast
 very
 vibrant
@@ -27553,6 +27555,7 @@ anarchitic
 arachical
 attend
 arguments
+accessing
 mirages
 miles
 man
@@ -35706,6 +35709,7 @@ likened
 limitation
 liberals
 lecture
+listener
 on
 other
 of
@@ -38465,6 +38469,8 @@ Theories
 Trials
 Topicality
 Teacher
+Truths
+Teaching
 goat
 going
 get
@@ -55942,6 +55948,7 @@ Hello
 Healing
 Hesed
 Hegemons
+Hidden
 Die
 Diathermal
 Do
