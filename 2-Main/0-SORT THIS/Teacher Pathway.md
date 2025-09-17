@@ -29,6 +29,12 @@ New Abilities:
 Strengthened Abilities:
 - All previous abilities get enhanced, longer **Lingering Knowledge**, bigger **Working Memory**, etc. 
 
+## Sequence 6: Inscriber 
+New Abilities:
+
+- **Living Text**. Text will change to languages that can be understood by a **Inscriber** and arrange themselves to be as clear as possible.
+	- They can change them to do the opposite but the messag
+
 
 ## Sequence 4: [[Tulpa]] 
 
