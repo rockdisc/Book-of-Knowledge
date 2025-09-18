@@ -13,4 +13,5 @@ When given the degree and zeros of a polynomial, along with its y-intercept, you
 
 Transformations are horizontal first, then vertical, going in order of [[PEMDAS]]. Everything inside of the paratheses of x is flipped. It is Dilation, Reflection, and Transformation. 
 
-Let $h(x)=-2f(x+3)$, what is $h(3)$ is solved by first putting
+Let $h(x)=-2f(x+3)$, what is $h(3)$ is solved by first making $(3+3)$, then looking in the table for 6, getting that value to make $-2 \cdot 5$ if 6 corresponded to 5. 
+
