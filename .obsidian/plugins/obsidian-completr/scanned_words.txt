@@ -6030,6 +6030,8 @@ Metaphors
 Materialization
 Mimic
 Memory
+Mimicry
+Mirroring
 Summary
 So
 Someone
@@ -9373,6 +9375,7 @@ IPA
 Irony
 Interp
 Infohazard
+Inscriber
 Points
 Powers
 Protagonist
@@ -13516,6 +13519,7 @@ winner
 winners
 wavy
 welcome
+whiteboard
 have
 hell
 his
@@ -27562,6 +27566,7 @@ attend
 arguments
 accessing
 accumulation
+arrange
 mirages
 miles
 man
@@ -29175,6 +29180,7 @@ meetings
 miltary
 mechanics
 messages
+mimicking
 for
 find
 face
@@ -32668,6 +32674,7 @@ covey
 clauses
 cupping
 clash
+copied
 entire
 endless
 everything
@@ -35717,6 +35724,7 @@ limitation
 liberals
 lecture
 listener
+linger
 on
 other
 of
@@ -43032,6 +43040,7 @@ reduce
 realists
 representing
 resolution
+rhetoric
 yellow
 yet
 you
@@ -47288,6 +47297,8 @@ populations
 prep
 precise
 pathway
+picks
+preserved
 kept
 know
 knew
@@ -60118,6 +60129,7 @@ Logos
 Liberalism
 Liberal
 Limits
+Lingering
 Johan
 Jupiter
 Jotuns

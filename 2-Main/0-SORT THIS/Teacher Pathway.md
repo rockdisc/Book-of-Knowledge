@@ -33,8 +33,10 @@ Strengthened Abilities:
 New Abilities:
 
 - **Living Text**. Text will change to languages that can be understood by a **Inscriber** and arrange themselves to be as clear as possible.
-	- They can change them to do the opposite but the messag
+	- They can change them to do the opposite but the information itself has to stay the same 
 
+Strengthened Abilities:
+- **Orating** will now make the people listening not want to look away 
 
 ## Sequence 4: [[Tulpa]] 
 
