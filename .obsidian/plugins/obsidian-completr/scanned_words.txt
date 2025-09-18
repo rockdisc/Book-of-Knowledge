@@ -3082,6 +3082,7 @@ EzPc
 EtL
 EuK
 Eyb
+EVERYTHING
 Classic
 Consept
 Character
@@ -8067,6 +8068,8 @@ SLIb
 SlS
 SUi
 SkhS
+SURE
+SMALLER
 Interesting
 In
 If
@@ -9753,6 +9756,7 @@ IKg
 IZI
 InI
 Iqwtn
+INSIDE
 Points
 Powers
 Protagonist
@@ -11317,6 +11321,7 @@ PFy
 PEu
 PNA
 PjZ
+PARENTHESES
 Worldbuilding
 WWII
 Wake
@@ -26990,6 +26995,7 @@ dXW
 dqs
 dgu
 determine
+dilation
 and
 anything
 am
@@ -30307,6 +30313,7 @@ mIP
 mecj
 mbx
 mRx
+memorize
 for
 find
 face
@@ -33886,6 +33893,7 @@ cwf
 cyK
 clU
 calculator
+corresponded
 entire
 endless
 everything
@@ -39916,6 +39924,9 @@ Tjr
 Thn
 TSn
 TXM
+Transformation
+THING
+THAT
 goat
 going
 get
@@ -49061,6 +49072,8 @@ pqO
 pKS
 pruO
 plugging
+paratheses
+parentheses
 kept
 know
 knew
@@ -55235,6 +55248,7 @@ RGLw
 RFYv
 RKy
 RFqW
+Reflection
 Gyles
 Giants
 God
@@ -59500,6 +59514,7 @@ DXew
 DPr
 DGqpP
 Decreasing
+Dilation
 Keter
 Knowing
 Kyling
@@ -66937,6 +66952,8 @@ FUV
 FOc
 FGCKZ
 FFFNp
+FLIP
+FLIPPED
 Veins
 Vim
 Venus
@@ -69752,6 +69769,7 @@ OJB
 Orz
 OLzT
 OZiP
+ONLY
 Yesterday
 Yellow
 Yggdrasil

@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hapc Unit 1 Review"
+              "title": "Backlinks"
             }
           },
           {
@@ -149,7 +148,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +175,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hapc Unit 1 Review"
+              "title": "Graph view"
             }
           },
           {
@@ -186,12 +184,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hapc Unit 1 Review"
+              "title": "Outgoing links"
             }
           },
           {
@@ -221,11 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Hapc Unit 1 Review"
+              "title": "File properties"
             }
           },
           {
@@ -269,13 +264,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hapc Unit 1 Review"
+              "title": "Outline"
             }
           }
         ],
@@ -305,10 +299,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "00c48a08b1e80210",
+  "active": "a8d855dae45ef459",
   "lastOpenFiles": [
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
     "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
+    "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Quadratic Formula.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",

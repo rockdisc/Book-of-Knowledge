@@ -17,4 +17,8 @@ Let $h(x)=-2f(x+3)$, what is $h(3)$ is solved by first making $(3+3)$, then look
 
 in [[Domain]] transformations, when given a graph, plot points on one of those tables and then change the x and y above to get the values, when given just the Inequalities, put them inside. The [[Domain]] should be only inside the x parentheses, MAKE SURE TO FLIP EVERYTHING, the [[Range]] is only the y stuff. 
 
-if the
+if there is a reflection or dilation, separate it, ONLY THE THING THAT IS INSIDE THE SMALLER PARENTHESES IS FLIPPED. 
+
+just know [[Pascal's Triangle]] or memorize the rules, its not that deep. the n decreases on one term while increasing on another to get the value in the end 
+
+put the table in the calc. add the little arrow on top, regression that is negative is an overestimate. 
