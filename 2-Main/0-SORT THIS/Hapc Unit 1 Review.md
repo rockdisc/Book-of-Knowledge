@@ -10,3 +10,7 @@ Know how [[Finding Roots]] of [[Polynomials]], this includes using the calculato
 When given the degree and zeros of a polynomial, along with its y-intercept, you can find the slope by plugging 0 into all the x and the intercept for y, then solve. After you can get the standard form by solving for it. 
 
 ![[Rational Function]] 
+
+Transformations are horizontal first, then vertical, going in order of [[PEMDAS]]. Everything inside of the paratheses of x is flipped. It is Dilation, Reflection, and Transformation. 
+
+Let $h(x)=-2f(x+3)$, what is $h(3)$ is solved by first putting
