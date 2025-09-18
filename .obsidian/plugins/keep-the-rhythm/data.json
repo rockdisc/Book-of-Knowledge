@@ -18843,7 +18843,13 @@
         "filePath": "2-Main/0-SORT THIS/Teacher Pathway.md",
         "wordCountStart": 494,
         "charCountStart": 3129,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 1280
       },
       {
@@ -18886,11 +18892,30 @@
         "changes": [
           {
             "timeKey": "21:00",
-            "w": 3,
-            "c": 24
+            "w": 73,
+            "c": 418
+          },
+          {
+            "timeKey": "21:05",
+            "w": 17,
+            "c": 128
           }
         ],
         "id": 1285
+      },
+      {
+        "date": "2025-09-17",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Quadratic Formula.md",
+        "wordCountStart": 22,
+        "charCountStart": 134,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 1286
       }
     ]
   }
