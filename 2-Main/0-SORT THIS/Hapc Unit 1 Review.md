@@ -15,3 +15,6 @@ Transformations are horizontal first, then vertical, going in order of [[PEMDAS]
 
 Let $h(x)=-2f(x+3)$, what is $h(3)$ is solved by first making $(3+3)$, then looking in the table for 6, getting that value to make $-2 \cdot 5$ if 6 corresponded to 5. 
 
+in [[Domain]] transformations, when given a graph, plot points on one of those tables and then change the x and y above to get the values, when given just the Inequalities, put them inside. The [[Domain]] should be only inside the x parentheses, MAKE SURE TO FLIP EVERYTHING, the [[Range]] is only the y stuff. 
+
+if the
