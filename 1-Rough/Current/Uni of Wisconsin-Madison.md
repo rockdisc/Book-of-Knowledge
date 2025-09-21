@@ -3,14 +3,14 @@
 ## Location
 - Temp Colder 
 - Urban 
-- Distance
+- Distance 1 hr to 10 hrs 
 ## Campus
-- Clubs 
+- Clubs A lot, no specific numbers 
 - Looks pretty good 
 - Size Huge 
 ## Classes
-- Astrophysics 
-- Comp Sci 
-- Debate
+- Astrophysics exists 
+- Comp Sci decent 
+- Debate exists 
 # Price
-$ 
+$ 11k
