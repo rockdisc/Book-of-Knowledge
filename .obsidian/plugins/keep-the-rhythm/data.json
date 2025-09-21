@@ -15009,7 +15009,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "1-Rough/Current/Tufts Uni.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15023,7 +15023,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "1-Rough/Current/Uni of New Mexico.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15037,7 +15037,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18969,7 +18969,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "1-Rough/Current/Tufts Uni.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
         "wordCountStart": 15,
         "charCountStart": 143,
         "changes": [
@@ -18988,7 +18988,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "1-Rough/Current/Uni of New Mexico.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
         "wordCountStart": 15,
         "charCountStart": 143,
         "changes": [
@@ -19002,7 +19002,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
         "wordCountStart": 15,
         "charCountStart": 143,
         "changes": [
@@ -19013,6 +19013,30 @@
           }
         ],
         "id": 1292
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
+        "wordCountStart": 34,
+        "charCountStart": 236,
+        "changes": [],
+        "id": 1293
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
+        "wordCountStart": 35,
+        "charCountStart": 219,
+        "changes": [],
+        "id": 1294
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
+        "wordCountStart": 34,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 1295
       }
     ]
   }
