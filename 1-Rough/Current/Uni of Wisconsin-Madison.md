@@ -1,13 +1,13 @@
 #College
 
 ## Location
-- Temp 
+- Temp Colder 
 - Urban 
 - Distance
 ## Campus
 - Clubs 
-- Looks 
-- Size
+- Looks pretty good 
+- Size Huge 
 ## Classes
 - Astrophysics 
 - Comp Sci 

@@ -1,16 +1,16 @@
 #College
 
 ## Location
-- Temp 
+- Hot 
 - Urban 
-- Distance
+- 2 - 14 hrs
 ## Campus
-- Clubs 
-- Looks 
-- Size
+- Clubs a lot, no direct number 
+- Looks Ass, like modern slop 
+- Size Large 
 ## Classes
-- Astrophysics 
-- Comp Sci 
-- Debate
+- Astrophysics Strong 
+- Comp Sci Pretty good 
+- Debate Kinda decent 
 # Price
-$ 
+$ 33k
