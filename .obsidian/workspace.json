@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of New Mexico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Uni of New Mexico"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of New Mexico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Uni of New Mexico"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of New Mexico.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Uni of New Mexico"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of New Mexico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Uni of New Mexico"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "1-Rough/Current/Uni of New Mexico.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Uni of New Mexico"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "1-Rough/Current/Uni of New Mexico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Uni of New Mexico"
             }
           }
         ],
@@ -292,13 +292,14 @@
   },
   "active": "bdafea62f0d578fd",
   "lastOpenFiles": [
+    "1-Rough/Current/Tufts Uni.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Quadratic Formula.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
-    "Home.md",
     "5-School/11/4-HAPC/Unit 1/1.11 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.12 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.8 hapc.pdf",
@@ -325,7 +326,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
-    "1-Rough/Gyles.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters",
     "4-DND/DM Screen.canvas",
     "4-DND/Ors/Artifact List.base",

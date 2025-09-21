@@ -23,12 +23,12 @@ actions:
 > [!todo]  Today
 > - [ ] Add Astronomy notes to Obsidian
 > - [ ] Learn how to research 
-> - [ ] look at dual degree NOW
 
 > [!warning] Homework
 > - [ ] Work on the Physics AFL questions and such 
 	
 > [!warning]  Run On
+> Dual Degree in specifically [[Wichita University]]
 
 > [!info] Later 
 > - [ ] Get rid of BLANK User files, replace them with the character pages and properties. 
