@@ -25,7 +25,8 @@ actions:
 > - [ ] Learn how to research 
 
 > [!warning] Homework
-> - [ ] Work on the Physics AFL questions and such 
+> - [ ] Do physics test, very scary 
+> - [ ] Do Hapc Notes 
 	
 > [!warning]  Run On
 > Dual Degree in specifically [[Wichita University]]
