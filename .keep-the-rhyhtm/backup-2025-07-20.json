@@ -15009,7 +15009,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "1-Rough/Current/Tufts Uni.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15023,7 +15023,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "1-Rough/Current/Uni of New Mexico.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -15037,7 +15037,7 @@
       },
       {
         "date": "2025-08-24",
-        "filePath": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18969,7 +18969,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "1-Rough/Current/Tufts Uni.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
         "wordCountStart": 15,
         "charCountStart": 143,
         "changes": [
@@ -18988,7 +18988,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "1-Rough/Current/Uni of New Mexico.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
         "wordCountStart": 15,
         "charCountStart": 143,
         "changes": [
@@ -19002,7 +19002,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "1-Rough/Current/Uni of Wisconsin-Madison.md",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
         "wordCountStart": 15,
         "charCountStart": 143,
         "changes": [
@@ -19013,6 +19013,118 @@
           }
         ],
         "id": 1292
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
+        "wordCountStart": 34,
+        "charCountStart": 236,
+        "changes": [],
+        "id": 1293
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
+        "wordCountStart": 35,
+        "charCountStart": 219,
+        "changes": [],
+        "id": 1294
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
+        "wordCountStart": 34,
+        "charCountStart": 233,
+        "changes": [],
+        "id": 1295
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "1-Rough/Current/Princeton.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 1296
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "1-Rough/Current/UcLA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 1297
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "1-Rough/Current/Rutgers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 1298
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "Home.md",
+        "wordCountStart": 152,
+        "charCountStart": 1016,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 2,
+            "c": 9
+          },
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "20:20",
+            "w": -7,
+            "c": -37
+          }
+        ],
+        "id": 1299
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "1-Rough/Current/UC Santa Cruz.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 15,
+            "c": 143
+          }
+        ],
+        "id": 1300
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/0-SORT THIS/Teacher Pathway.md",
+        "wordCountStart": 494,
+        "charCountStart": 3129,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 5,
+            "c": 30
+          }
+        ],
+        "id": 1301
       }
     ]
   }
