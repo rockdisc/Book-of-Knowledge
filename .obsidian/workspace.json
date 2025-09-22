@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Teacher Pathway"
             }
+          },
+          {
+            "id": "7a4ba8ff0e0281be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,14 +81,14 @@
             }
           },
           {
-            "id": "595a535aaa5e3fda",
+            "id": "4f4e142ea975bcfc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "com.maxymillion.zen",
               "state": {},
               "pinned": true,
-              "icon": "eye-off",
+              "icon": "eye",
               "title": "Zen"
             }
           }
@@ -115,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Teacher Pathway"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -134,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Teacher Pathway"
+              "title": "Graph of Home"
             }
           },
           {
@@ -171,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Teacher Pathway"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -207,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Teacher Pathway"
+              "title": "File properties for Home"
             }
           },
           {
@@ -254,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Teacher Pathway"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -290,12 +305,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c7aef5ccedb12fc5",
+  "active": "7a4ba8ff0e0281be",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Teacher Pathway.md",
     "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Kinematics Equations.md",
     "Home.md",
-    "2-Main/0-SORT THIS/Teacher Pathway.md",
     "1-Rough/Current/UC Santa Cruz.md",
     "1-Rough/Current/UcLA.md",
     "1-Rough/Current/Haverford.md",
