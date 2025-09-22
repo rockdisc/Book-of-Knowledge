@@ -19125,6 +19125,22 @@
           }
         ],
         "id": 1301
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "2-Main/0-SORT THIS/Teacher Pathway.md",
+        "wordCountStart": 499,
+        "charCountStart": 3159,
+        "changes": [],
+        "id": 1305
+      },
+      {
+        "date": "2025-09-22",
+        "filePath": "Home.md",
+        "wordCountStart": 147,
+        "charCountStart": 987,
+        "changes": [],
+        "id": 1306
       }
     ]
   }
