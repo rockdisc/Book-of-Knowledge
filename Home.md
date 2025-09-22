@@ -25,7 +25,6 @@ actions:
 > - [ ] Learn how to research 
 
 > [!warning] Homework
-> - [ ] Do physics test, very scary 
 > - [ ] Do Hapc Notes 
 	
 > [!warning]  Run On

@@ -19089,6 +19089,11 @@
             "timeKey": "10:20",
             "w": 0,
             "c": -1
+          },
+          {
+            "timeKey": "20:20",
+            "w": -7,
+            "c": -37
           }
         ],
         "id": 1299
@@ -19106,6 +19111,20 @@
           }
         ],
         "id": 1300
+      },
+      {
+        "date": "2025-09-21",
+        "filePath": "2-Main/0-SORT THIS/Teacher Pathway.md",
+        "wordCountStart": 494,
+        "charCountStart": 3129,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 5,
+            "c": 30
+          }
+        ],
+        "id": 1301
       }
     ]
   }

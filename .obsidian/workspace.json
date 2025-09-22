@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Teacher Pathway"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Teacher Pathway"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Teacher Pathway"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Teacher Pathway"
             }
           },
           {
@@ -207,10 +207,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Teacher Pathway.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Teacher Pathway"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Teacher Pathway"
             }
           }
         ],
@@ -292,10 +292,10 @@
   },
   "active": "c7aef5ccedb12fc5",
   "lastOpenFiles": [
+    "Home.md",
     "1-Rough/Current/UC Santa Cruz.md",
     "1-Rough/Current/UcLA.md",
     "1-Rough/Current/Haverford.md",
-    "Home.md",
     "1-Rough/Current/Rutgers.md",
     "1-Rough/Current/Princeton.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",

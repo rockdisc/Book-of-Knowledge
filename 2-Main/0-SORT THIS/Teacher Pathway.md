@@ -43,3 +43,5 @@ Strengthened Abilities:
 
 ## Sequence 2: [[Roko's Basilisk]]
 
+
+## GOO: The Giver of Names  
