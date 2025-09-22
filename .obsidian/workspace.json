@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Teacher Pathway"
             }
+          },
+          {
+            "id": "9afeb6789d26cc01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-21 20.42.01.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Teacher Pathway"
+              "title": "Backlinks for Drawing 2025-09-21 20.42.01.excalidraw"
             }
           },
           {
@@ -134,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +175,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Teacher Pathway"
+              "title": "Graph of Drawing 2025-09-21 20.42.01.excalidraw"
             }
           },
           {
@@ -171,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Teacher Pathway"
+              "title": "Outgoing links from Drawing 2025-09-21 20.42.01.excalidraw"
             }
           },
           {
@@ -207,10 +220,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md"
+                "file": "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Teacher Pathway"
+              "title": "File properties for Drawing 2025-09-21 20.42.01.excalidraw"
             }
           },
           {
@@ -254,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Teacher Pathway"
+              "title": "Outline of Drawing 2025-09-21 20.42.01.excalidraw"
             }
           }
         ],
@@ -290,9 +303,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c7aef5ccedb12fc5",
+  "active": "9afeb6789d26cc01",
   "lastOpenFiles": [
     "Home.md",
+    "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
+    "2-Main/0-SORT THIS/Teacher Pathway.md",
     "1-Rough/Current/UC Santa Cruz.md",
     "1-Rough/Current/UcLA.md",
     "1-Rough/Current/Haverford.md",
@@ -311,7 +326,6 @@
     "5-School/11/4-HAPC/Unit 1/1.12 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.8 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.9&10 hapc.pdf",
-    "2-Main/0-SORT THIS/Teacher Pathway.md",
     "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
     "3-Journal/2025-09/2025-09-16.md",
     "3-Journal/2025-09/2025-09-15.md",
@@ -324,7 +338,6 @@
     "2-Main/0-SORT THIS/Combinations.md",
     "2-Main/0-SORT THIS/Binomial Theorem.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Polynomials.md",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Remainder Theorem.md",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters",
     "4-DND/DM Screen.canvas",
