@@ -8094,6 +8094,7 @@ Service
 Street
 Stagecoach
 Skilled
+Spire
 Interesting
 In
 If
@@ -15569,6 +15570,7 @@ hOn
 hSw
 haR
 hUN
+heaviest
 never
 nothing
 not
@@ -20275,6 +20277,8 @@ token
 tailored
 tea
 ticket
+tutoring
+teaches
 be
 bright
 but
@@ -21968,6 +21972,7 @@ bDo
 bOR
 bread
 boots
+billion
 so
 sand
 spend
@@ -24113,6 +24118,12 @@ steamship
 shopfront
 seat
 schoolmaster
+sects
+spire
+settlements
+spheres
+structures
+sustaining
 vast
 very
 vibrant
@@ -27051,6 +27062,8 @@ dilation
 denfers
 dues
 diamonds
+divisions
+desperation
 and
 anything
 am
@@ -30375,6 +30388,7 @@ meals
 machinery
 modest
 musket
+minister
 for
 find
 face
@@ -33966,6 +33980,9 @@ colonial
 clerk
 coastal
 craftsman
+coincidentally
+churning
+cleaners
 entire
 endless
 everything
@@ -38403,6 +38420,8 @@ oow
 odd
 overestimate
 ornate
+offices
+orgs
 Then
 The
 This
@@ -40008,6 +40027,8 @@ Tables
 Thirty
 Typical
 Townhouse
+Theocracy
+Tropic
 goat
 going
 get
@@ -47466,6 +47487,8 @@ jUFB
 jTB
 jCJ
 jewelry
+jobs
+jest
 past
 people
 pink
@@ -49162,6 +49185,12 @@ parentheses
 purchase
 purchases
 postage
+pantheon
+popes
+pilgrimages
+pillar
+prime
+peripheral
 kept
 know
 knew
@@ -58238,6 +58267,7 @@ HdS
 Huge
 Half
 Hire
+Hectipa
 Die
 Diathermal
 Do

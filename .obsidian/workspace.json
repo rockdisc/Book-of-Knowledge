@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teacher Pathway"
+              "title": "Sci-fi Worldbuilding"
             }
           }
         ]
@@ -115,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Sci-fi Worldbuilding"
             }
           },
           {
@@ -133,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Sci-fi Worldbuilding"
             }
           },
           {
@@ -169,11 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sci-fi Worldbuilding"
             }
           },
           {
@@ -203,9 +206,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Sci-fi Worldbuilding"
             }
           },
           {
@@ -249,12 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Main/2-Areas/2-Worldbuilding/Locations/Sci-fi Worldbuilding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sci-fi Worldbuilding"
             }
           }
         ],
@@ -284,8 +290,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a8d855dae45ef459",
+  "active": "c7aef5ccedb12fc5",
   "lastOpenFiles": [
+    "2-Main/2-Areas/2-Worldbuilding/Locations/Hector State.md",
+    "2-Main/2-Areas/2-Worldbuilding/Locations/Aquafinia.md",
+    "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Land of Weather.md",
+    "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Labyrinth.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Epitome.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Curse.md",
@@ -308,7 +318,6 @@
     "2-Main/3-Resources/1-General Knowledge/Colleges/Tufts Uni.md",
     "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
-    "2-Main/3-Resources/2-STEM/Math/Algebra/Quadratic Formula.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
@@ -316,9 +325,6 @@
     "5-School/11/4-HAPC/Unit 1/1.12 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.8 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.9&10 hapc.pdf",
-    "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
-    "3-Journal/2025-09/2025-09-16.md",
-    "3-Journal/2025-09/2025-09-15.md",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters",
     "4-DND/DM Screen.canvas",
