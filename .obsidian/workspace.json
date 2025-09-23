@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 449.5
   },
   "right": {
     "id": "9571311539b15aec",
@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Teacher Pathway"
+              "title": "Backlinks"
             }
           },
           {
@@ -134,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Teacher Pathway"
+              "title": "Graph view"
             }
           },
           {
@@ -171,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Teacher Pathway"
+              "title": "Outgoing links"
             }
           },
           {
@@ -206,11 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Teacher Pathway"
+              "title": "File properties"
             }
           },
           {
@@ -254,13 +249,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Teacher Pathway.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Teacher Pathway"
+              "title": "Outline"
             }
           }
         ],
@@ -290,11 +284,17 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c7aef5ccedb12fc5",
+  "active": "a8d855dae45ef459",
   "lastOpenFiles": [
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Epitome.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Curse.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
+    "2-Main/0-SORT THIS/Teacher Pathway.md",
     "3-Journal/2025-09-23.md",
     "Home.md",
-    "2-Main/0-SORT THIS/Teacher Pathway.md",
     "3-Journal/2025-09-22.md",
     "2-Main/0-SORT THIS/Drawing 2025-09-21 20.42.01.excalidraw.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/1-Kinematics/Deriving Kinematics Equations.md",
@@ -319,12 +319,6 @@
     "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
     "3-Journal/2025-09/2025-09-16.md",
     "3-Journal/2025-09/2025-09-15.md",
-    "2-Main/0-SORT THIS/Topicality.md",
-    "2-Main/3-Resources/3-Humanities/Debate/Format/Affirmative.md",
-    "3-Journal/2025-09/2025-09-12.md",
-    "3-Journal/2025-09/2025-09-11.md",
-    "3-Journal/2025-09/2025-09-10.md",
-    "3-Journal/2025-09/2025-09-09.md",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Characters",
     "4-DND/DM Screen.canvas",

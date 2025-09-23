@@ -1559,6 +1559,10 @@ Bdl
 BIcP
 BFrNK
 Boston
+Bronze
+Bottle
+Basic
+Bath
 Ela
 Essay
 East
@@ -3084,6 +3088,8 @@ EtL
 EuK
 Eyb
 EVERYTHING
+Eight
+Estate
 Classic
 Consept
 Character
@@ -4657,6 +4663,11 @@ CgPyo
 CcwP
 CoNs
 CQJ
+Chits
+Chit
+Cheese
+Carpenter
+Complete
 Modern
 Mini
 My
@@ -6289,6 +6300,11 @@ MmQP
 MvPA
 Mcu
 MsIho
+Merchant
+Mid
+Mug
+Middle
+Musket
 Summary
 So
 Someone
@@ -8072,6 +8088,12 @@ SkhS
 SURE
 SMALLER
 Studying
+Sample
+Sixteen
+Service
+Street
+Stagecoach
+Skilled
 Interesting
 In
 If
@@ -9758,6 +9780,7 @@ IZI
 InI
 Iqwtn
 INSIDE
+Inns
 Points
 Powers
 Protagonist
@@ -11323,6 +11346,10 @@ PEu
 PNA
 PjZ
 PARENTHESES
+Prices
+Pints
+Preserved
+Passenger
 Worldbuilding
 WWII
 Wake
@@ -12636,6 +12663,9 @@ WuWq
 Wha
 WRC
 Wga
+Wages
+Workshop
+Winter
 would
 wasteland
 walking
@@ -14062,6 +14092,7 @@ wRj
 wsh
 wbY
 wfxZ
+wine
 have
 hell
 his
@@ -16947,6 +16978,8 @@ nvF
 nILG
 ndHI
 nica
+nails
+necklace
 imagined
 is
 in
@@ -20236,6 +20269,12 @@ tonfP
 tQZ
 teT
 tjJZ
+technologies
+tolls
+token
+tailored
+tea
+ticket
 be
 bright
 but
@@ -21927,6 +21966,8 @@ bzW
 bUV
 bDo
 bOR
+bread
+boots
 so
 sand
 spend
@@ -24061,6 +24102,17 @@ sJR
 saj
 sKk
 slop
+savings
+skilled
+steamships
+sales
+shipments
+suit
+smith
+steamship
+shopfront
+seat
+schoolmaster
 vast
 very
 vibrant
@@ -26996,6 +27048,9 @@ dqs
 dgu
 determine
 dilation
+denfers
+dues
+diamonds
 and
 anything
 am
@@ -28633,6 +28688,7 @@ aZLr
 apA
 amsz
 arrow
+accurate
 mirages
 miles
 man
@@ -30315,6 +30371,10 @@ mecj
 mbx
 mRx
 memorize
+meals
+machinery
+modest
+musket
 for
 find
 face
@@ -31942,6 +32002,9 @@ fky
 fyG
 fgl
 fNq
+fers
+firearms
+fare
 can
 covered
 clad
@@ -33894,6 +33957,15 @@ cyK
 clU
 calculator
 corresponded
+colonization
+chit
+chits
+ceremonial
+contracts
+colonial
+clerk
+coastal
+craftsman
 entire
 endless
 everything
@@ -35508,6 +35580,7 @@ eao
 erH
 ewv
 eZG
+engineer
 life
 leather
 long
@@ -37035,6 +37108,8 @@ ltr
 lWd
 lih
 lPf
+luxury
+laborer
 on
 other
 of
@@ -38327,6 +38402,7 @@ oQQm
 oow
 odd
 overestimate
+ornate
 Then
 The
 This
@@ -39928,6 +40004,10 @@ TXM
 Transformation
 THING
 THAT
+Tables
+Thirty
+Typical
+Townhouse
 goat
 going
 get
@@ -42819,6 +42899,7 @@ ueD
 uyMe
 uwGqx
 uKr
+urban
 robe
 red
 realize
@@ -44643,6 +44724,7 @@ rYCg
 rZT
 rzq
 regression
+revolts
 yellow
 yet
 you
@@ -47383,6 +47465,7 @@ jGb
 jUFB
 jTB
 jCJ
+jewelry
 past
 people
 pink
@@ -49076,6 +49159,9 @@ pruO
 plugging
 paratheses
 parentheses
+purchase
+purchases
+postage
 kept
 know
 knew
@@ -52008,6 +52094,7 @@ NDe
 NFrp
 NzQg
 Names
+Newspaper
 According
 Albert
 Avert
@@ -53474,6 +53561,9 @@ APy
 AUbH
 AFC
 Ass
+Artisan
+Alehouse
+Ammunition
 Rough
 Readers
 Radkeha
@@ -55253,6 +55343,9 @@ RFYv
 RKy
 RFqW
 Reflection
+Rare
+Revolver
+Rent
 Gyles
 Giants
 God
@@ -58143,6 +58236,8 @@ HIm
 HZB
 HdS
 Huge
+Half
+Hire
 Die
 Diathermal
 Do
@@ -59521,6 +59616,7 @@ DPr
 DGqpP
 Decreasing
 Dilation
+Drink
 Keter
 Knowing
 Kyling
@@ -62437,6 +62533,10 @@ Lch
 LLD
 LrD
 LVv
+Local
+Loaf
+Lodging
+Luxury
 Johan
 Jupiter
 Jotuns
@@ -64033,6 +64133,8 @@ JPQ
 JSD
 JtF
 JaI
+Jewelry
+Junior
 quarter
 questions
 quickly
@@ -65375,6 +65477,7 @@ qswF
 qGa
 qZJInJ
 qmuY
+quality
 Future
 First
 For
@@ -66961,6 +67064,9 @@ FGCKZ
 FFFNp
 FLIP
 FLIPPED
+Food
+Fine
+Factory
 Veins
 Vim
 Venus
@@ -68348,6 +68454,8 @@ Vda
 VSKs
 VXG
 VkuO
+Value
+Victorian
 One
 Organ
 On
@@ -69777,6 +69885,7 @@ Orz
 OLzT
 OZiP
 ONLY
+Opera
 Yesterday
 Yellow
 Yggdrasil
@@ -72709,6 +72818,9 @@ Uwv
 UDT
 UpDxw
 UmR
+USD
+Umbrella
+Unskilled
 Quote
 Quicksilver
 Qualities
