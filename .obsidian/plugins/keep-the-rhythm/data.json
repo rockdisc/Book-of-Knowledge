@@ -19168,7 +19168,7 @@
       },
       {
         "date": "2025-09-23",
-        "filePath": "3-Journal/2025-09-23.md",
+        "filePath": "3-Journal/2025-09/2025-09-23.md",
         "wordCountStart": 246,
         "charCountStart": 1513,
         "changes": [
@@ -19195,6 +19195,14 @@
         "charCountStart": 987,
         "changes": [],
         "id": 1326
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "3-Journal/2025-09/2025-09-01.md",
+        "wordCountStart": 149,
+        "charCountStart": 769,
+        "changes": [],
+        "id": 1327
       }
     ]
   }
