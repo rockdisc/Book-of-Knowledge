@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Small Magical Organization"
+              "title": "Ikon"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Numen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Small Magical Organization"
+              "title": "Backlinks for Numen"
             }
           },
           {
@@ -148,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Small Magical Organization"
+              "title": "Graph of Numen"
             }
           },
           {
@@ -185,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Small Magical Organization"
+              "title": "Outgoing links from Numen"
             }
           },
           {
@@ -221,10 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md"
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Small Magical Organization"
+              "title": "File properties for Numen"
             }
           },
           {
@@ -268,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Small Magical Organization"
+              "title": "Outline of Numen"
             }
           }
         ],
@@ -304,12 +305,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "6ade7c08b5fa14c1",
+  "active": "188b5e4725ed6ff8",
   "lastOpenFiles": [
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
-    "2-Main/0-SORT THIS/Dragon.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
+    "2-Main/0-SORT THIS/Dragon.md",
     "Home.md",
     "3-Journal/2025-09/2025-09-01.md",
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
@@ -331,7 +333,6 @@
     "1-Rough/Current/UcLA.md",
     "1-Rough/Current/Haverford.md",
     "1-Rough/Current/Rutgers.md",
-    "1-Rough/Current/Princeton.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",

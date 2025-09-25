@@ -20,7 +20,7 @@ For a numen to become an elf, they have to lose their mind, which there is no fi
 1. Choosing a goal that is unachievable but civilized that they can form themselves around trying to reach it. 
 2. When they become elves, spreading their spirit/individuality out to weaken their animalistic tendencies.
 
-One can become an elf whenever they have the goal, but one will most often do so after gaining full control over a concept. Like a symbol for [[Ikon]]s, concepts are things that affect the body, like aging or memory. Symbols can be stolen or passed down by people's beliefs, but concepts must directly be taking and formed by killing the previous holders, or gathering the parts to combine them. Numen who possess a concept but did not become an Elf are called [[Giant]]s. 
+One can become an elf whenever they have the goal, but one will most often do so after gaining full control over a concept. Like a symbol for [[Ikon]]s, concepts are things that affect the body, like aging or memory. Symbols can be stolen or passed down by people's beliefs, but concepts must directly be taking and formed by killing the previous holders, or gathering the parts to combine them. Numen who possess a concept but did not become an Elf are called Giants. 
 
 When they are ready to become an elf, they have to make a deal with a god to kill their mind, this normally cannot be done as the [[Plain of Consciousness]] has a lot of security measures, as does the [[Tree of Life]] for Ikons. 
 
@@ -41,3 +41,4 @@ When 2 elves copulate, it can result in a crossbreed, which is born an elf with 
 Most elves respect each other and do not want to attack, as nothing can die in the spirit world, it could lead to an eternal enemy, they only attack if there is a reasonable way to make them go down to the material world and kill them there. 
 
 ### Giant 
+They have the power of concepts, though they may want to keep progressing and expanding their concept and stay in this stage as 
