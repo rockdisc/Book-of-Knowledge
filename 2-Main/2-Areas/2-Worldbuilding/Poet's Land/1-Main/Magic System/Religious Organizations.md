@@ -16,7 +16,7 @@ Ancient
 Commander
 Deacon
 Archdeacon (From this point addressed as venerable)
-_From this point it is mainly bind users as it is hard for an ikon to get this strong without turning into [[Dragon]]s_
+_From this point it is mainly bind users as it is hard for an ikon to get this strong without turning into [[Ikon]]s_
 Bishop 1%
 Archbishop 2.5%
 Cardinal 5%

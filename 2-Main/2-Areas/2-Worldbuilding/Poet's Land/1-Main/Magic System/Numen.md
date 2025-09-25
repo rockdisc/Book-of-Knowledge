@@ -40,3 +40,4 @@ When 2 elves copulate, it can result in a crossbreed, which is born an elf with 
 
 Most elves respect each other and do not want to attack, as nothing can die in the spirit world, it could lead to an eternal enemy, they only attack if there is a reasonable way to make them go down to the material world and kill them there. 
 
+### Giant 

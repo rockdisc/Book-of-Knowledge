@@ -20,7 +20,7 @@ They pray by cupping their hands in front of their chest as though they are tryi
 
 ## Thousand-High Guard 
 
-Each of them are specifically picked as the strongest and most devout believers by the [[Venerable Dynast]] himself. They gain the power of [[Dragon]]s. An individual can be used to clear out a city. 
+Each of them are specifically picked as the strongest and most devout believers by the [[Venerable Dynast]] himself. They gain the power of [[Ikon]]s. An individual can be used to clear out a city. 
 
 ## Hidden Truths 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ikon"
+              "title": "Small Magical Organization"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ikon"
+              "title": "Backlinks for Small Magical Organization"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ikon"
+              "title": "Graph of Small Magical Organization"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ikon"
+              "title": "Outgoing links from Small Magical Organization"
             }
           },
           {
@@ -221,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md"
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Ikon"
+              "title": "File properties for Small Magical Organization"
             }
           },
           {
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Small Magical Organization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ikon"
+              "title": "Outline of Small Magical Organization"
             }
           }
         ],
@@ -306,8 +306,10 @@
   },
   "active": "6ade7c08b5fa14c1",
   "lastOpenFiles": [
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Kabbalah(PoetsLand).md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+    "2-Main/0-SORT THIS/Dragon.md",
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
     "Home.md",
     "3-Journal/2025-09/2025-09-01.md",
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
@@ -330,8 +332,6 @@
     "1-Rough/Current/Haverford.md",
     "1-Rough/Current/Rutgers.md",
     "1-Rough/Current/Princeton.md",
-    "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of Wisconsin-Madison.md",
-    "2-Main/3-Resources/1-General Knowledge/Colleges/Uni of New Mexico.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",

@@ -24,7 +24,7 @@ To gain godhood:
 3. Make a deal with an elf to kill one's spirit 
 4. Ascend to the [[Blue Moon]] and use your anchors as a makeshift spirit/sense of identity.
 
-One can become a god whenever, but it is only after you have a symbol, often dictated by [[Byname]]s, is when it is best to ascend. It is because they have an easier way of gaining believers if they control a whole symbol and are much stronger. An Ikon who controls one or more symbols are called [[Dragon]]s. 
+One can become a god whenever, but it is only after you have a symbol, often dictated by [[Byname]]s, is when it is best to ascend. It is because they have an easier way of gaining believers if they control a whole symbol and are much stronger. An Ikon who controls one or more symbols are called Dragons. 
 
 If they loose their believers, they fade and turn into a land feature in the [[Celestial World]]
 Miracle children can only be one or the other. 
@@ -37,4 +37,4 @@ Demiurges form when either their body is killed. The gods become crazed and will
 
 ### Dragon 
 
-They have complete control over a symbol, but they still have their sense of self. Most are stuck at this stage if they are not able to get enough believers to become a god. Depending on their symbols, they could st
+They have complete control over a symbol, but they still have their sense of self. Most are stuck at this stage if they are not able to get enough believers to become a god. Depending on their symbols, they could stay at this stage for centuries, waiting to find the perfect opportunity to gain believers. 
