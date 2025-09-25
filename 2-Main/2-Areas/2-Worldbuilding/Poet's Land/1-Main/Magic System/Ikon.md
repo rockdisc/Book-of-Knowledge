@@ -34,3 +34,7 @@ Miracle children can only be one or the other.
 The body of a god is left on the [[Material World]] after their ascension, this is because a part of their epitome(the part tied to their body) is left in the world. It is not usable and does not interact with the world, it will only work if the god descends back to the world. 
 
 Demiurges form when either their body is killed. The gods become crazed and will be able to influence the [[Material World]], causing changes in accordance with their domain. They only last for a short amount of time, as the become very vulnerable in the Celestial world. As it is not a true god, it is able to show a lot more powers in the real world, this is a threat to gods who it can take believers from. 
+
+### Dragon 
+
+They have complete control over a symbol, but they still have their sense of self. Most are stuck at this stage if they are not able to get enough believers to become a god. Depending on their symbols, they could st

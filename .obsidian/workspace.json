@@ -35,8 +35,7 @@
               "title": "Numen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Numen"
+              "title": "Backlinks for Ikon"
             }
           },
           {
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Numen"
+              "title": "Graph of Ikon"
             }
           },
           {
@@ -186,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Numen"
+              "title": "Outgoing links from Ikon"
             }
           },
           {
@@ -222,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md"
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Numen"
+              "title": "File properties for Ikon"
             }
           },
           {
@@ -269,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+                "file": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Numen"
+              "title": "Outline of Ikon"
             }
           }
         ],
@@ -305,8 +304,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "188b5e4725ed6ff8",
+  "active": "6ade7c08b5fa14c1",
   "lastOpenFiles": [
+    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
     "Home.md",
     "3-Journal/2025-09/2025-09-01.md",
@@ -316,7 +316,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Locations/Aquafinia.md",
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Land of Weather.md",
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Labyrinth.md",
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Epitome.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Curse.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
