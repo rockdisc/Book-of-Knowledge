@@ -12,7 +12,7 @@
 
 
 
-### Missions in the society (Joining the London Fight Club)
+### Missions in the society (Joining the [[London Fan Club]])
 
 
 
@@ -22,7 +22,7 @@
 
 ### Fall of the society
 
-
+[[Alban Steiner]] is a [[Numen#Giant|Giant]] who is trying to take the part of a concept from the one giving gifts to normal people to 
 
 ## Volume 2 Journey to the East
 
