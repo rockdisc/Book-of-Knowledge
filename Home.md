@@ -25,7 +25,6 @@ actions:
 > - [ ] Learn how to research 
 
 > [!warning] Homework
-> - [ ] Do Hapc Notes 
 	
 > [!warning]  Run On
 > Dual Degree in specifically [[Wichita University]]
