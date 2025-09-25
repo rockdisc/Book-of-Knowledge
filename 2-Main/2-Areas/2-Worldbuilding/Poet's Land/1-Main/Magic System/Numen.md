@@ -41,4 +41,4 @@ When 2 elves copulate, it can result in a crossbreed, which is born an elf with 
 Most elves respect each other and do not want to attack, as nothing can die in the spirit world, it could lead to an eternal enemy, they only attack if there is a reasonable way to make them go down to the material world and kill them there. 
 
 ### Giant 
-They have the power of concepts, though they may want to keep progressing and expanding their concept and stay in this stage as 
+They have the power of concepts, though they may want to keep progressing and expanding their concept and stay in this stage as it is much harder to do as an Elf. They may also not have found or shaped themselves to an instinctual goal yet. As getting concepts is inherently a task which will most often have people fighting others of a same or stronger strength, they create incredibly intricate plots that have decades of planning to get a concept. 
