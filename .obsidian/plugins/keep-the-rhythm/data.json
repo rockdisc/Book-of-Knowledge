@@ -19209,6 +19209,39 @@
         "charCountStart": 769,
         "changes": [],
         "id": 1327
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
+        "wordCountStart": 595,
+        "charCountStart": 3187,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 52,
+            "c": 291
+          }
+        ],
+        "id": 1328
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
+        "wordCountStart": 578,
+        "charCountStart": 3217,
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": 18,
+            "c": 87
+          },
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 1329
       }
     ]
   }

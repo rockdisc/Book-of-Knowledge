@@ -20,6 +20,8 @@ For a numen to become an elf, they have to lose their mind, which there is no fi
 1. Choosing a goal that is unachievable but civilized that they can form themselves around trying to reach it. 
 2. When they become elves, spreading their spirit/individuality out to weaken their animalistic tendencies.
 
+One can become an elf whenever they have the goal, but one will most often do so after gaining full control over a concept. Like a symbol for [[Ikon]]s, 
+
 When they are ready to become an elf, they have to make a deal with a god to kill their mind, this normally cannot be done as the [[Plain of Consciousness]] has a lot of security measures, as does the [[Tree of Life]] for Ikons. 
 
 All plants in the world are that of elves that spread out their individuality to allow themselves to maintain themselves while also making them immortal, as one has to kill all of the plants before killing an elf. 

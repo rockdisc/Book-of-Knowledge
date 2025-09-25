@@ -23,7 +23,8 @@ To gain godhood:
 2. Get in a good mental state, make sure you know who you are. 
 3. Make a deal with an elf to kill one's spirit 
 4. Ascend to the [[Blue Moon]] and use your anchors as a makeshift spirit/sense of identity.
-5. You are now a god
+
+One can become a god whenever, but it is only after you have a symbol, often dictated by [[Byname]]s, is when it is best to ascend. It is because they have an easier way of gaining believers if they control a whole symbol and are much stronger. An Ikon who controls one or more symbols are called [[Dragon]]s. 
 
 If they loose their believers, they fade and turn into a land feature in the [[Celestial World]]
 Miracle children can only be one or the other. 
