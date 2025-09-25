@@ -19144,7 +19144,7 @@
       },
       {
         "date": "2025-09-23",
-        "filePath": "3-Journal/2025-09-22.md",
+        "filePath": "3-Journal/2025-09/2025-09-22.md",
         "wordCountStart": 76,
         "charCountStart": 480,
         "changes": [],
@@ -19179,6 +19179,22 @@
           }
         ],
         "id": 1312
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Cavum/Ancient Cavum.md",
+        "wordCountStart": 323,
+        "charCountStart": 1801,
+        "changes": [],
+        "id": 1325
+      },
+      {
+        "date": "2025-09-24",
+        "filePath": "Home.md",
+        "wordCountStart": 147,
+        "charCountStart": 987,
+        "changes": [],
+        "id": 1326
       }
     ]
   }
