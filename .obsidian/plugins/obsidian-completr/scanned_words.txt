@@ -49196,6 +49196,7 @@ pilgrimages
 pillar
 prime
 peripheral
+permanence
 kept
 know
 knew

@@ -22,7 +22,7 @@
 
 ### Fall of the society
 
-[[Alban Steiner]] is a [[Numen#Giant|Giant]] who is trying to take the part of a concept from the one giving gifts to normal people to 
+[[Alban Steiner]] is a [[Numen#Giant|Giant]] who is trying to take the part of a concept from the one giving gifts to normal people to get closer to his goal of permanence 
 
 ## Volume 2 Journey to the East
 
