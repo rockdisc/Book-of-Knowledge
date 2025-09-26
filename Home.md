@@ -21,8 +21,8 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Add Astronomy notes to Obsidian
 > - [ ] Learn how to research 
+> - [ ] Get your shit together 
 
 > [!warning] Homework
 	
