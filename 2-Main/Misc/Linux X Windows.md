@@ -6,8 +6,8 @@
 | Terminal         | Powershell         | Sudo                                | Sudo                   |
 | Web browser      | Vivaldi            | Vivaldi                             | Vivaldi                |
 | Windows Manager  | Windows            | I3                                  | hyprland               |
-| Mouse control    | Logitech Ghub      | e g Piper                           |                        |
-| Keyboard         | On keyboard        | On keyboard                         |                        |
+| Mouse control    | Logitech Ghub      | e g Piper                           | eg Piper               |
+| Keyboard         | On keyboard        | On keyboard                         | On Keyboard            |
 | Drawing Tablet   | XP Pen             | XP Pen                              |                        |
 | File Transfer    | Localsend          | Localsend                           |                        |
 | Note Taking      | Obsidian           | Obsidian                            |                        |
