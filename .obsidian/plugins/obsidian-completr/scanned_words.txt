@@ -15574,6 +15574,7 @@ hSw
 haR
 hUN
 heaviest
+hyprland
 never
 nothing
 not
@@ -37132,6 +37133,7 @@ lih
 lPf
 luxury
 laborer
+localsend
 on
 other
 of
@@ -38427,6 +38429,7 @@ overestimate
 ornate
 offices
 orgs
+obsidan
 Then
 The
 This
@@ -52130,6 +52133,7 @@ NFrp
 NzQg
 Names
 Newspaper
+NVim
 According
 Albert
 Avert
@@ -53599,6 +53603,7 @@ Ass
 Artisan
 Alehouse
 Ammunition
+Arch
 Rough
 Readers
 Radkeha
@@ -62575,6 +62580,7 @@ Local
 Loaf
 Lodging
 Luxury
+Lint
 Johan
 Jupiter
 Jotuns
@@ -69924,6 +69930,7 @@ OLzT
 OZiP
 ONLY
 Opera
+Omarchy
 Yesterday
 Yellow
 Yggdrasil
@@ -72859,6 +72866,7 @@ UmR
 USD
 Umbrella
 Unskilled
+Ubuntu
 Quote
 Quicksilver
 Qualities
@@ -79692,6 +79700,7 @@ xbf
 xid
 xLDL
 xKRF
+xwayland
 Äa
 ÄR
 ÄM
