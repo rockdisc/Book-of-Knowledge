@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6bc7974b5e03561",
+            "id": "55fbdaa1c1a2a838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+                "file": "1-Rough/Frontend Development with HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combinations"
+              "title": "Frontend Development with HTML"
+            }
+          },
+          {
+            "id": "59761206b0938387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           },
           {
@@ -34,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Linux X Windows"
             }
-          },
-          {
-            "id": "587fe543ed497224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Debate Ballot Template"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Debate Ballot Template"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Debate Ballot Template"
+              "title": "Graph of Home"
             }
           },
           {
@@ -200,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Debate Ballot Template"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -236,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Debate Ballot Template"
+              "title": "File properties for Home"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Debate Ballot Template"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -319,11 +319,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "59761206b0938387",
   "lastOpenFiles": [
+    "1-Rough/Frontend Development with HTML.md",
     "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+    "2-Main/3-Resources/3-Humanities/Debate/Format/Debate Ballot Template.md",
     "5-School/11/4-HAPC/Unit 1/Hapc Unit 1 Review.md",
-    "2-Main/0-SORT THIS/Debate Ballot Template.md",
     "2-Main/Misc/Linux X Windows.md",
     "Home.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
@@ -346,7 +347,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Land of Weather.md",
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Labyrinth.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Epitome.md",
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
