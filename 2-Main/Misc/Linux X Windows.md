@@ -21,6 +21,6 @@
 | Spotlight Search | Flow Launcher      | Ulauncher                           | Built in                            |
 | Key Rebinding    | AutoHotKey         | In settings                         | In settings                         |
 | AI chat          | Ollama             | Ollama                              | Ollama(Make it yourself again)      |
-| Music            | Spicetify          | Spicetify                           |                                     |
-| Game Launcher    | OneGameLaucher     | Terminal                            |                                     |
-| Email            | Thunderbird        | Thunderbird                         |                                     |
+| Music            | Spicetify          | Spicetify                           | Spicetify                           |
+| Game Launcher    | OneGameLaucher     | Terminal                            | Steam                               |
+| Email            | Thunderbird        | Thunderbird                         | Thunderbird                         |
