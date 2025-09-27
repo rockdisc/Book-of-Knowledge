@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Linux X Windows"
             }
+          },
+          {
+            "id": "587fe543ed497224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Debate Ballot Template"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux X Windows"
+              "title": "Backlinks for Debate Ballot Template"
             }
           },
           {
@@ -149,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linux X Windows"
+              "title": "Graph of Debate Ballot Template"
             }
           },
           {
@@ -186,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linux X Windows"
+              "title": "Outgoing links from Debate Ballot Template"
             }
           },
           {
@@ -222,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md"
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Linux X Windows"
+              "title": "File properties for Debate Ballot Template"
             }
           },
           {
@@ -269,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/Misc/Linux X Windows.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux X Windows"
+              "title": "Outline of Debate Ballot Template"
             }
           }
         ],
@@ -305,8 +319,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "fba4d659502e7e51",
+  "active": "587fe543ed497224",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Debate Ballot Template.md",
+    "2-Main/Misc/Linux X Windows.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Numen.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Gift.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ikon.md",
@@ -314,7 +330,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Curse.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Ley Line.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Blights.md",
-    "2-Main/Misc/Linux X Windows.md",
     "Home.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Poet's Land Plot Overview.md",
     "2-Main/0-SORT THIS/Garden of Eden(Poet's Land).md",
@@ -332,7 +347,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
     "2-Main/0-SORT THIS/Teacher Pathway.md",
-    "3-Journal/2025-09/2025-09-23.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",

@@ -19389,6 +19389,28 @@
           }
         ],
         "id": 1337
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "2-Main/Misc/Linux X Windows.md",
+        "wordCountStart": 144,
+        "charCountStart": 2854,
+        "changes": [],
+        "id": 1347
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "2-Main/0-SORT THIS/Debate Ballot Template.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:50",
+            "w": 78,
+            "c": 384
+          }
+        ],
+        "id": 1348
       }
     ]
   }
