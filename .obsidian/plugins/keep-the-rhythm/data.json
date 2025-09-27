@@ -18373,7 +18373,7 @@
       },
       {
         "date": "2025-09-08",
-        "filePath": "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Venerable Dynast.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18492,7 +18492,7 @@
       },
       {
         "date": "2025-09-09",
-        "filePath": "2-Main/0-SORT THIS/Binomial Theorem.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Binomial Theorem.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18527,7 +18527,7 @@
       },
       {
         "date": "2025-09-09",
-        "filePath": "2-Main/0-SORT THIS/Combinations.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18832,7 +18832,7 @@
       },
       {
         "date": "2025-09-16",
-        "filePath": "2-Main/0-SORT THIS/Church of the Venerable Dynast.md",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Church of the Venerable Dynast.md",
         "wordCountStart": 223,
         "charCountStart": 1366,
         "changes": [],
@@ -19443,6 +19443,14 @@
         "charCountStart": 1848,
         "changes": [],
         "id": 1350
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+        "wordCountStart": 45,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 1351
       }
     ]
   }
