@@ -1,3 +1,7 @@
+#Speech/Debate 
+
+# RFD
+
 1ac:  2ac:
 1nc:  2nc: 
 
@@ -10,5 +14,39 @@ COACHES: even if you do not want the teams to know their record, you can show th
 
 RFD:
 
+# Aff
 
-1ac
+1ac:
+
+xx 1ac:
+
+xx 1nc:
+
+2ac:
+
+xx 2ac:
+
+xx 2nc:
+
+1ar:
+
+2ar:
+
+# Neg
+
+xx 1ac:
+
+1nc:
+
+xx 1nc:
+
+xx 2ac:
+
+2nc:
+
+xx 2nc:
+
+1nr:
+
+2nr:
+
