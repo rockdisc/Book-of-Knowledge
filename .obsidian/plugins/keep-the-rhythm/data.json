@@ -18473,7 +18473,7 @@
       },
       {
         "date": "2025-09-09",
-        "filePath": "2-Main/0-SORT THIS/Pascal's Triangle.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Pascal's Triangle.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18627,7 +18627,7 @@
       },
       {
         "date": "2025-09-15",
-        "filePath": "2-Main/0-SORT THIS/Topicality.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Topicality.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18675,7 +18675,7 @@
       },
       {
         "date": "2025-09-16",
-        "filePath": "2-Main/0-SORT THIS/Topicality.md",
+        "filePath": "2-Main/3-Resources/3-Humanities/Debate/Format/Topicality.md",
         "wordCountStart": 468,
         "charCountStart": 2770,
         "changes": [],
@@ -18818,7 +18818,7 @@
       },
       {
         "date": "2025-09-16",
-        "filePath": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
+        "filePath": "5-School/11/4-HAPC/Unit 1/Hapc Unit 1 Review.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18886,7 +18886,7 @@
       },
       {
         "date": "2025-09-17",
-        "filePath": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
+        "filePath": "5-School/11/4-HAPC/Unit 1/Hapc Unit 1 Review.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -18947,7 +18947,7 @@
       },
       {
         "date": "2025-09-20",
-        "filePath": "2-Main/0-SORT THIS/Hapc Unit 1 Review.md",
+        "filePath": "5-School/11/4-HAPC/Unit 1/Hapc Unit 1 Review.md",
         "wordCountStart": 323,
         "charCountStart": 1848,
         "changes": [],
@@ -19427,6 +19427,22 @@
           }
         ],
         "id": 1348
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "Home.md",
+        "wordCountStart": 141,
+        "charCountStart": 956,
+        "changes": [],
+        "id": 1349
+      },
+      {
+        "date": "2025-09-27",
+        "filePath": "5-School/11/4-HAPC/Unit 1/Hapc Unit 1 Review.md",
+        "wordCountStart": 323,
+        "charCountStart": 1848,
+        "changes": [],
+        "id": 1350
       }
     ]
   }
