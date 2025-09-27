@@ -49,7 +49,8 @@
               "title": "Debate Ballot Template"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Combinations"
+              "title": "Backlinks for Debate Ballot Template"
             }
           },
           {
@@ -162,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Combinations"
+              "title": "Graph of Debate Ballot Template"
             }
           },
           {
@@ -199,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Combinations"
+              "title": "Outgoing links from Debate Ballot Template"
             }
           },
           {
@@ -235,10 +236,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md"
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Combinations"
+              "title": "File properties for Debate Ballot Template"
             }
           },
           {
@@ -282,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
+                "file": "2-Main/0-SORT THIS/Debate Ballot Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Combinations"
+              "title": "Outline of Debate Ballot Template"
             }
           }
         ],
@@ -318,8 +319,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "587fe543ed497224",
   "lastOpenFiles": [
+    "2-Main/3-Resources/2-STEM/Math/Trig/Combinations.md",
     "5-School/11/4-HAPC/Unit 1/Hapc Unit 1 Review.md",
     "2-Main/0-SORT THIS/Debate Ballot Template.md",
     "2-Main/Misc/Linux X Windows.md",
@@ -345,7 +347,6 @@
     "2-Main/2-Areas/2-Worldbuilding/Locations/Worlds/Labyrinth.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Magic System/Epitome.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
-    "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
